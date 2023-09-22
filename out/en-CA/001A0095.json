@@ -1,0 +1,160 @@
+{
+  "id": "001A0095",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Alexia 50",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "heavy fuel",
+    "low speed",
+    "manual",
+    "marine",
+    "medium speed",
+    "stationary",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/97271a3b-e7c7-4ba3-9680-a68129e6e784.pdf",
+      "type": "GTDS",
+      "name": "Alexia 50 EN TDG V1.2 30-Jun-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/a8a8d045-0f91-49ba-8a79-42d96b18165f.pdf",
+      "type": "LTDS",
+      "name": "Alexia 50 Canada FR TDG V1.2 21-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290256.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 50 Canada EN 140006579500 EHS V3.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290255.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 50 Canada FR 140006579500 EHS V3.2 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0095_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500000095",
+      "margin": "0.655494389988788",
+      "packShot": ""
+    },
+    {
+      "code": "001A0095_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022487",
+      "margin": "0.68827084104863",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 50 has a BN of 70 and is a SAE50 cylinder oil.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "225"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "18.5"
+    },
+    {
+      "property": "Viscosity Index (min)",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "95"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.932"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "205"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C maximum",
+      "value": "-6"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "70"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% wt",
+      "value": "8.7"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVuQAK&field=Attachment__Name__shttps://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVuQAK&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 17300,
+      "title": "Shell Alexia 50"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiWuQAK&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 12420,
+      "title": "Shell Alexia 50"
+    }
+  ],
+  "commerce": null
+}

@@ -1,0 +1,114 @@
+{
+  "id": "001D7755",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Tellus S2 MA 46",
+  "description": "Industrial Detergent Hydraulic Fluid\\n",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "detergent based",
+    "emulsifiable",
+    "fixed",
+    "gearbox",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "mobile",
+    "mobile equipment",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "transmissions",
+    "turbine",
+    "variable",
+    "wet conditions",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0c4303ba-ca46-40f7-94c6-b6baf6c1c2cf.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MA 46 EN TDG V3.5 27-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02359134.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 Canada FR 140006579500 EHS V1.6 15-JUL-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/437aa297-246a-4024-b2ad-9c0cc0cd9179.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MA 46 Canada EN TDG V3.5 27-Aug-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/9be02597-2a59-4d8a-ab8a-e114c48cc7bb.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MA 46 Canada FR TDG V3.5 27-Aug-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02359133.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 Canada EN 140006579500 EHS V1.6 15-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7755_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006006",
+      "margin": "0.622914790307647",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 MA fluids are high performance detergent based hydraulic fluids for use where emusifiable fluids are preferred.  Using proven ashless anti-wear technology they provide reliable performance in applications where contamination by aqueous fluids, such as cutting fluids, or where cleanliness or control of solid contaminants is important.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/Family-Shot-HERO-5.png",
+  "valueRecord": [],
+  "commerce": null
+}

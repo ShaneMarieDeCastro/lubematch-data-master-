@@ -1,0 +1,65 @@
+{
+  "id": "001D8527",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Gadus S3 Wirerope",
+  "description": "Premium Wire Cable Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "000",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_Wirerope_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 Wirerope English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637200.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Wirerope India EN 140006501563 EHS V3.0 04-FEB-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8527_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550028258",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8527_002VH7_A1W8",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550049985",
+      "margin": "2.3881361134847",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 Wirerope grease is a tacky, high quality, lithium soap-based grease incorporating multifunctional, extreme pressure additives, finely dispersed graphite and molybdenum disulphide. Shell Gadus S3 Wirerope grease exhibits outstanding load-carrying capacity in bearings operating up to the maximum rated speed for grease lubrication in the temperature range -15°C to 70°C. The temperature range can be increased 90°C for bearings operating at 75% of the maximum rated speed.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

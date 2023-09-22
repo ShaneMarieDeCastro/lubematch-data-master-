@@ -1,0 +1,124 @@
+{
+  "id": "001F4017",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Advance 4T AX7 10W-40 (SM/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "four stroke",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d62a5d5c-6958-458c-8d95-6e7ce2209e13.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T AX7 10W-40 (SM/MA2) EN TDG V1.6 17-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02546294.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 10W-40 (SM/MA2) Turkey TR 140003791542 EHS V1.5 03-APR-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02546293.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 10W-40 (SM/MA2) Turkey EN 140003791542 EHS V1.5 03-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4017_002W22_EURO",
+      "name": "Şişe 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550053815",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T AX7 4 stroke motorcycle engine oil meets the requirements of most motorcycle manufacturers.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "89"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.3"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "167"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "858"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    },
+    {
+      "property": "SAE Viscosity grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "10W-40"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

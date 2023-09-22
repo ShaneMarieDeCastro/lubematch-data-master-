@@ -1,0 +1,102 @@
+{
+  "id": "001F6599",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Platinum High Mileage SAE 10W-30 Full Synthetic Motor Oil",
+  "description": "High Mileage Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/91a18c72-0ed6-4abc-a510-95f3bbec8c66.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum High Mileage 10W-30 Full Synthetic Motor Oil (SP/GF-6A) EN TDG V1.8 23-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562373.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum High Mileage 10W-30 Full Synthetic Motor Oil (SP/GF-6A) United States EN 140002686046 EHS V1.2 28-MAY-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/bc046362-ea6c-4ac3-89f3-048f1668cf20.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum High Mileage 10W-30 (SN) United States EN TDG V1.8 23-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F6599_002V78_A0II",
+      "name": "Bottle 1 Quart Rect PZL Plat (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550043951",
+      "margin": "3.1928420429887",
+      "packShot": ""
+    },
+    {
+      "code": "001F6599_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550045274",
+      "margin": "1.34231558167151",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^* ^Enrollment ^required. ^Keep ^your ^receipts. ^Other ^conditions ^apply. ^See ^pennzoil.com/warranty ^for ^full ^details",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

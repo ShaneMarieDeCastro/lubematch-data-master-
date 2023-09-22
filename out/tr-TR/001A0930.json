@@ -1,0 +1,144 @@
+{
+  "id": "001A0930",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Omala Oil F 320",
+  "description": "Very High Performance Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bearings",
+    "circulating and splash lubricated systems",
+    "circulation",
+    "circulation system",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "high performance",
+    "hydraulic system",
+    "industrial",
+    "industrial gears",
+    "journal",
+    "lead free",
+    "manual",
+    "micropitting",
+    "morgoil",
+    "non shiftable",
+    "off highway",
+    "outstanding thermal stability",
+    "oxidation stability",
+    "plain",
+    "pump gear",
+    "pump vane",
+    "reduction gears",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "slew",
+    "steel gear transmissions",
+    "swing drive",
+    "synchronised",
+    "transmissions",
+    "trunnion",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6c6684da-a1ab-4034-b1bf-06fc8f7474ed.pdf",
+      "type": "GTDS",
+      "name": "Omala F 320 EN TDG V3.3 09-Feb-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/c96e3e52-8265-4083-89b9-b9ad4caa640a.pdf",
+      "type": "LTDS",
+      "name": "Omala F 320 Turkey TR TDG V3.3 10-May-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02522164.PDF",
+      "type": "LMSDS",
+      "name": "Omala F 320 Turkey EN 140003791542 EHS V2.5 07-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02522170.PDF",
+      "type": "LMSDS",
+      "name": "Omala F 320 Turkey TR 140003791542 EHS V2.5 07-FEB-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "25"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.903"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "IP 34",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "202"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

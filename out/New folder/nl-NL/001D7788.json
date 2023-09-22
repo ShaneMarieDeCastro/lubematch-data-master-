@@ -1,0 +1,108 @@
+{
+  "id": "001D7788",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Corena S4 P 68",
+  "description": "Advanced Synthetic Reciprocating  (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "air compressor",
+    "bearing",
+    "breathing air compressor",
+    "diesel",
+    "engine",
+    "extended life",
+    "extended valve maintenance",
+    "high pressure",
+    "high temperature",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "long life",
+    "marine",
+    "medium speed",
+    "piston",
+    "reciprocating",
+    "severe conditions",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ff8bfbbe-c61e-4006-8527-386a2fb20eb3.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 P 68 EN TDG V1.3 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571279.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 68 Netherlands NL 140002783873 EHS V3.4 04-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/d89a5f32-aa15-4f12-8c1c-15a792e8455d.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 P 68 Netherlands NL TDG V1.3 19-Sep-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571280.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 68 Netherlands EN 140002783873 EHS V3.4 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7788_002VNF_A1P5",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550027229",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 2003 L-DAB",
+      "organisation": "ISO",
+      "spec": "6743-3 2003 L-DAB"
+    },
+    {
+      "name": "BS EN 12021",
+      "organisation": "BS",
+      "spec": "EN 12021"
+    },
+    {
+      "name": "DIN 51506 VDL",
+      "organisation": "DIN",
+      "spec": "51506 VDL"
+    },
+    {
+      "name": "ISO/DP 6521 L-DAB",
+      "organisation": "ISO",
+      "spec": "/DP 6521 L-DAB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 P is een hoogwaardige synthetische olie samengesteld uit synthetische esters en unieke hoogwaardige additieven. Het is ontwikkeld voor excellente smering van perslucht zuigcompressoren waarbij afvoertemperaturen tot meer dan 220°C mogen reiken. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

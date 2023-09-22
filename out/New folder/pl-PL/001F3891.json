@@ -1,0 +1,55 @@
+{
+  "id": "001F3891",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Alexia S3",
+  "description": "High performance engine oil for cylinder lubrication of 2-stroke low speed dual fuel engines operating on fuels with < 0.1% Sulphur",
+  "family": "Alexia",
+  "parentCategory": "Środki smarne dla branży morskiej",
+  "category": "Oleje silnikowe - smary cylindrowe i systemowe",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy fuel",
+    "low speed",
+    "marine",
+    "medium speed"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1a03a09b-5b0c-481b-9101-8e7c3042bf2a.pdf",
+      "type": "GTDS",
+      "name": "Alexia S3 EN TDG V2.8 12-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02228594.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S3 Poland PL 140003791557 EHS V1.7 01-FEB-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02228593.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S3 Poland EN 140003791557 EHS V1.7 01-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia S3 has a BN of 25 and is an SAE50 cylinder oil. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

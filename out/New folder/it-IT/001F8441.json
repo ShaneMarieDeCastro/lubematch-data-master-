@@ -1,0 +1,197 @@
+{
+  "id": "001F8441",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Tellus S2 MX 100",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Fluidi idraulici",
+  "category": "Fluidi idraulici",
+  "applicationKeys": [
+    "antiwear",
+    "axle",
+    "bearing",
+    "better system efficiency",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "extended life",
+    "extreme performance",
+    "factory applications",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "high tost",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "manufacturing",
+    "marine",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "roller spherical",
+    "rollers",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "variable",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/19df5d2e-25af-4dc3-8146-c9bd59f3aef6.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MX 100 (2016) EN TDG V4.1 05-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447389.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 100 (2016) Italy IT 140007645406 EHS V2.1 21-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447387.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 100 (2016) Italy EN 140007645406 EHS V2.1 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/e2e3d082-6a27-46b0-bc12-52e94ce4c301.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MX 100 (2016) Italy IT TDG V4.1 30-Sep-2021",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "I fluidi Shell Tellus S2 MX sono fluidi idraulici ad altre prestazioni, formulati con basi del gruppo II, che forniscono prestazione e protezione straordinarie nella maggior parte delle operazioni manifatturiere ed in molte apparecchiature mobili. Resistono al degrado termico e alle sollecitazioni meccaniche e aiutano a prevenire la formazione di depositi dannosi che possono ridurre l'efficienza del sistema idraulico.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@0°C",
+      "units": "cSt",
+      "value": "1800"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11.7"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.870"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "L0.5"
+    },
+    {
+      "property": "Water Separation",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "minutes",
+      "value": "20"
+    },
+    {
+      "property": "TOST life",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours minimum",
+      "value": "5000"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

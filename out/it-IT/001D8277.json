@@ -1,0 +1,166 @@
+{
+  "id": "001D8277",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S2 A 85W-140",
+  "description": "High quality, GL-5 axle oil",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Trasmissione manuale e oli ingranaggi",
+  "applicationKeys": [
+    "ancillary gear set",
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "continuously variable",
+    "diesel",
+    "differential",
+    "differentials",
+    "engine",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "hypoid gear axles",
+    "industrial",
+    "light fuel",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "marine",
+    "medium speed",
+    "motorcycle",
+    "natural gas",
+    "off highway",
+    "offroad",
+    "on highway",
+    "passenger car",
+    "power split",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "screw pump",
+    "semi manual",
+    "separate motorcycle gear",
+    "slew",
+    "stationary",
+    "stationary  ancillary gear sets",
+    "stationary gear set",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "wheel"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "85W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/600d00dd-e0f7-491c-af48-690b5f716597.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 A 85W-140 EN TDG V1.2 04-Apr-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578888.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 85W-140 Italy IT 140007645406 EHS V3.10 23-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578887.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 85W-140 Italy EN 140007645406 EHS V3.10 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/8f843df6-a32c-49b0-92d1-6fae37af3c23.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 A 85W-140 Italy IT TDG V1.2 09-May-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 A 85W-140 è formulato per la lubrificazione di un'ampia gamma di assali soggetti a condizioni di carico elevato.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "85W-140"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "358"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "25.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "94"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "908"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-15"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s2_a_85w-140.png",
+  "valueRecord": [],
+  "commerce": null
+}

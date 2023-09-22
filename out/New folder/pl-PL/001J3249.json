@@ -1,0 +1,78 @@
+{
+  "id": "001J3249",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R7 Plus AM 5W-20",
+  "description": "Fully Synthetic Low HTHSV Heavy Duty Diesel Engine Oil (MAN)",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d969da2-a5c3-422c-a553-fca0899f5842.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 Plus AM 5W-20 EN TDG V1.6 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545162.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Poland PL 140003791557 EHS V1.3 28-MAR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/79220757-efa0-49f2-8da7-ca2434a6cc3b.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 Plus AM 5W-20 Poland PL TDG V1.6 22-Sep-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545161.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Poland EN 140003791557 EHS V1.3 28-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J3249_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550062543",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3977",
+      "organisation": "MAN",
+      "spec": "M 3977"
+    },
+    {
+      "name": "Scania LDF-5",
+      "organisation": "Scania",
+      "spec": "LDF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

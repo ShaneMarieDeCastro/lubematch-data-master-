@@ -1,0 +1,76 @@
+{
+  "id": "001E8492",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "AeroShell Grease 58",
+  "description": "Synthetic grease for aircraft wheel bearings",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7cf14a97-2786-41a1-8f61-4116dfbf7f1e.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 58 EN TDG V1.6 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544986.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 58 Ireland EN 140009711290 EHS V2.4 27-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E8492_002VSL_A1P5",
+      "name": "Keg 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "Kg",
+      "pack": "Keg",
+      "materialCode": "550046590",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E8492_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550044107",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AMS3058",
+      "organisation": "AMS",
+      "spec": "3058"
+    },
+    {
+      "name": "Airbus AIMS 09-06-003",
+      "organisation": "Airbus",
+      "spec": "AIMS 09-06-003"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is -54°C to +175°C",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

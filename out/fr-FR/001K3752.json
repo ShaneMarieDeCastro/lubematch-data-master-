@@ -1,0 +1,88 @@
+{
+  "id": "001K3752",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra Professional AJ-L LE 0W-20",
+  "description": "Passenger Car Engine Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/33d31e17-95c2-4861-9841-40ba933d42c4.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L LE 0W-20 (JLR.03.5006) EN TDG V1.0 31-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555699.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L LE 0W-20 (JLR.03.5006) France FR 140003182031 EHS V1.1 18-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555700.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L LE 0W-20 (JLR.03.5006) France EN 140003182031 EHS V1.1 18-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/cffc120f-f1fe-4ca4-aa30-820dc36766e1.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L LE 0W-20 (JLR.03.5006) France FR TDG V1.0 27-Jul-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001K3752_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550070250",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001K3752_002YAN_A931",
+      "name": "Bouteille 1 L Wishbone Plastic Copper Gold (12) ",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550070251",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR.03.5006",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5006"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Conçue pour répondre aux exigences particulières des moteurs essence \"haute performance\" du groupe Jaguar-Land Rover et ceux où une huile ACEA C5 est recommandée. Aide à la réduction des frictions internes du moteur et donc engendre une économie de carburant.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

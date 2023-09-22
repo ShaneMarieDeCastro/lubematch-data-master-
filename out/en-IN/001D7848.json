@@ -1,0 +1,87 @@
+{
+  "id": "001D7848",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Omala S3 GP 1500",
+  "description": "Special Application Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bucyrus",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "final drive",
+    "gears",
+    "heavily shock loaded operations",
+    "high load",
+    "industrial",
+    "non shiftable",
+    "off highway",
+    "older gear systems",
+    "reduction gears",
+    "roller spherical",
+    "shock load",
+    "slew",
+    "splash lubricated bearings",
+    "swing drive",
+    "transmissions",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1500",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S3_GP_1500_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 GP 1500 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637559.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 1500 India EN 140006501563 EHS V1.1 24-APR-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7848_002VSH_A1SH",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024814",
+      "margin": "2.21865739859722",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Arcelor Mittal FT163",
+      "organisation": "Arcelor Mittal",
+      "spec": "FT163"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 GP oils are specialist ‘problem solving’ lubricants developed to lubricate industrial gearboxes subject to extremely high and heavily shock loaded operations such as those found in steel, cement, mining and quarrying industries. They are formulated for use where ultra-high levels of extreme-pressure performance are required.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s3_gp_yellow.png",
+  "valueRecord": [],
+  "commerce": null
+}

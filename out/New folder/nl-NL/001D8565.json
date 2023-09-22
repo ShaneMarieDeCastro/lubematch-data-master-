@@ -1,0 +1,77 @@
+{
+  "id": "001D8565",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S1 V160 2",
+  "description": "Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie zonder 'EP' additieven",
+  "applicationKeys": [
+    "lithium"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/e540d797-ff09-4ae1-9bcf-2d90ad6431b0.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V160 2 EN TDG V2.2 21-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479544.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160 2 Netherlands NL 140002783873 EHS V1.1 26-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/3cf11f2e-9fd9-4e1e-b7e8-9dc63a4998e0.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V160 2 Netherlands NL TDG V2.2 03-Feb-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479572.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160 2 Netherlands EN 140002783873 EHS V1.1 26-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8565_002XD7_A246",
+      "name": "Emmer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028214",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8565_002VH7_A246",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028213",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

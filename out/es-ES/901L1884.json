@@ -1,0 +1,57 @@
+{
+  "id": "901L1884",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Engrenage Oil 3470",
+  "description": "High Temperature Gear Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "Fluidos de transmisión",
+  "category": "Aceites para transmisión manual y engranajes.",
+  "applicationKeys": [
+    "gearbox",
+    "industrial"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/b935b1c9-be5c-4862-956a-2e17750371db.pdf",
+      "type": "GTDS",
+      "name": "Engrenage 3470 EN TDG V1.0 22-Jan-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581645.PDF",
+      "type": "LMSDS",
+      "name": "Engrenage 3470 Spain EN 140003966322 EHS V1.2 25-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/cacd4e54-776e-44b2-8d7f-004a0f52b665.pdf",
+      "type": "LTDS",
+      "name": "Engrenage 3470 Spain ES TDG V1.0 07-May-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581646.PDF",
+      "type": "LMSDS",
+      "name": "Engrenage 3470 Spain ES 140003966322 EHS V1.2 25-MAY-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Aceite de engranajes para uso en reductoras de bogies en sistemas de tracción ferroviarios, los cuales incorporan elementos de hierro y están expuestos a temperaturas de operación elevadas.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

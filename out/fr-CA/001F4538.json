@@ -1,0 +1,68 @@
+{
+  "id": "001F4538",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T5 NG 15W-40",
+  "description": "LNG/CNG Heavy Duty Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ec58296d-10c7-40bd-aec6-c6e7be25f6ea.pdf",
+      "type": "GTDS",
+      "name": "Rotella T5 NG 15W-40 EN TDG V1.1 25-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/f0a253ef-1867-4a5f-9e36-79656796238f.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 NG 15W-40 Canada EN TDG V1.1 11-Jan-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290796.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 NG 15W-40 Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/3e58bee2-6bb0-4d61-bc67-c007ee6bfd39.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 NG 15W-40 Canada FR TDG V1.1 11-Jan-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290797.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 NG 15W-40 Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20085",
+      "organisation": "Cummins",
+      "spec": "CES 20085"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pour tout complément d'information, veuillez communiquer avec le gestionnaire titulaire du produit ou le gestionnaire adjoint du produit comme indiqué dans le GPC",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

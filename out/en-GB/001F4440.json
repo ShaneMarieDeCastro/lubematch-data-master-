@@ -1,0 +1,137 @@
+{
+  "id": "001F4440",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra ECT C3 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9a2d8fc1-fc85-43e6-b57f-d8c763a780ba.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) EN TDG V2.1 22-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02622067.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) United Kingdom EN 140002340634 EHS V1.6 21-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/673827c1-6709-4b6e-a961-c720b522d085.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) United Kingdom EN TDG V2.1 22-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4440_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550042824",
+      "margin": "2.15000409394174",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002XI2_A246",
+      "name": "Bottle 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045934",
+      "margin": "1.42384211898765",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002W21_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550049781",
+      "margin": "3.70840017586856",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002WX1_EURO",
+      "name": "Bottle 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550067698",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 11106",
+      "organisation": "Chrysler",
+      "spec": "MS 11106"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C3 features its most advanced emissions-compatible technology that helps to keep diesel particulate filters clean to help maintain engine performance. It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_ECT-C3_1L_600043999.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-helix-ultra-ect-c3-5w-30-5ltr-521774551"
+}

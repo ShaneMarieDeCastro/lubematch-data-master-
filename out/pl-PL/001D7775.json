@@ -1,0 +1,131 @@
+{
+  "id": "001D7775",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Tonna S3 M 220",
+  "description": "Premium Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Oleje do prowadnic ślizgowych",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "factory applications",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "manufacturing",
+    "plain",
+    "pump gear",
+    "pump valve",
+    "servo",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4adf0832-0503-4d64-b981-03a2b337c17b.pdf",
+      "type": "GTDS",
+      "name": "Tonna S3 M 220 EN TDG V2.6 14-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02547357.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 220 Poland EN 140003791557 EHS V2.1 06-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02547356.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 220 Poland PL 140003791557 EHS V3.1 06-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/3ab28f40-5e83-4c44-9a23-53c2991ea4d7.pdf",
+      "type": "LTDS",
+      "name": "Tonna S3 M 220 Poland PL TDG V2.6 30-Oct-2020",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7775_002VNK_A246",
+      "name": "Wiadro 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550027208",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "ISO 11158 HG Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HG Fluid"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "ISO 6743-4 L-HG",
+      "organisation": "ISO",
+      "spec": "6743-4 L-HG"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-50",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-50"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "ISO 6743-6 CKC",
+      "organisation": "ISO",
+      "spec": "6743-6 CKC"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S3 M oleje to wysokiej jakości olej do prowadnic obrabiarek, stołów i mechanizmów podawczych. Jego ulepszona przyczepność oraz właściwości zmniejszające drgania cierne znacznie poprawiaja pracę układów. Jest specjalnie polecany gdy stosowane są precyzyjne maszyny niskoobrotowe oraz gdy stosowane są systemy smarowania kombinowanego.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,168 @@
+{
+  "id": "001G1527",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Argina S3 30",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": "",
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy fuel",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "off highway",
+    "reduction gears",
+    "stationary",
+    "stern tube seal",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/de347900-3969-409a-846e-a7f37048298c.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S3 30 EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/c92455c1-f9c0-4e8e-8ad9-0af35dc8dd65.pdf",
+      "type": "LTDS",
+      "name": "Shell Argina S3 30 Canada EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/96e93efe-9879-4753-9e48-81bfeae0b27b.pdf",
+      "type": "LTDS",
+      "name": "Shell Argina S3 30 Canada FR TDG V1.9 25-Jun-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290054.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S3 30 Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290053.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S3 30 Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1527_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550047121",
+      "margin": "0.636952819538755",
+      "packShot": ""
+    },
+    {
+      "code": "001G1527_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010163",
+      "margin": "0.284498431982613",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S3 30 is a multifunctional crankcase lubricant for highly rated medium-speed diesel engines operating on residual fuel. Shell Argina S3 30 has a BN of 30 and is designed for conditions of moderate oil stress.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "105"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.85"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "101"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "905"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Base Number",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "30"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% m/m",
+      "value": "3.8"
+    },
+    {
+      "property": "Load Carrying Capacity (FZG Gear Machine) ",
+      "method": "ISO 14635-1 A/8.3/90",
+      "uom": "",
+      "units": "Failure load stage",
+      "value": "11"
+    },
+    {
+      "property": "SAE grade (viscosity class)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,108 @@
+{
+  "id": "001H5439",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra ECT C5 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/22c0a577-be42-4d6b-9c93-e1283e052ecb.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) EN TDG V1.2 14-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631668.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Germany EN 140001492039 EHS V1.6 17-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631667.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Germany DE 140001492039 EHS V1.6 17-AUG-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/827d02f0-3682-4da8-bfb9-b953b8cd7cc9.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Germany DE TDG V1.2 14-Oct-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5439_002YAP_A0YO",
+      "name": "Flasche 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550056347",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5439_002YAN_A0YO",
+      "name": "Flasche 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550056345",
+      "margin": "4.01322992826492",
+      "packShot": ""
+    },
+    {
+      "code": "001H5439_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550069924",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.71",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.71"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "BMW Longlife-17 FE+",
+      "organisation": "BMW",
+      "spec": "Longlife-17 FE+"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C5 arbeitet mit der innovativen „Emission Compatible Technology” von Shell zum Schutz von Abgasnachbehandlungssystemen, um Dieselpartikelfilter sauber zu halten und damit die volle Motorleistung aufrechtzuerhalten. Es reduziert die Reibung im Motor und trägt dadurch zur Kraftstoffeinsparung bei.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550056347_Shell_Helix_Ult_ECT_C5_0W-20_5L_de.png",
+  "valueRecord": [],
+  "commerce": null
+}

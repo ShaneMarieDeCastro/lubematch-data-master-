@@ -1,0 +1,122 @@
+{
+  "id": "001D7518",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ed0aadab-f7f3-4250-8fc4-5a4237c4c3a9.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 10W-30 Motor Oil (SP/GF-6A) EN TDG V1.5 07-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/22aeeece-9f2e-4986-9204-19f070d7f66e.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 10W-30 Motor Oil (SP/GF-6A) United States EN TDG V1.5 07-Oct-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562702.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 10W-30 Motor Oil (SP/GF-6A) United States EN 140002686046 EHS V1.9 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7518_002X5E_A1WK",
+      "name": "Not Specified 1 qt Not Specified Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Not specified",
+      "materialCode": "550022682",
+      "margin": "1.84915387529972",
+      "packShot": ""
+    },
+    {
+      "code": "001D7518_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005372",
+      "margin": "0.489666455861257",
+      "packShot": ""
+    },
+    {
+      "code": "001D7518_002V7A_A0II",
+      "name": "Bottle 1 Quart Rect PZL Y (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550035052",
+      "margin": "1.03178228023551",
+      "packShot": ""
+    },
+    {
+      "code": "001D7518_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550045214",
+      "margin": "0.935799888674581",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® Motor Oil with Active Cleansing Technology. Helps prevent dirt and contaminants from turning into performance robbing deposits. Because at Pennzoil® we know, a cleaner engine is better protected and responsive. It meets or exceeds the engine protection required by ILSAC GF-6A, and is specially formulated to provide proven wear protection.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

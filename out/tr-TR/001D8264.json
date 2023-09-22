@@ -1,0 +1,158 @@
+{
+  "id": "001D8264",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Spirax S3 G 80W",
+  "description": "High Performance Transmission and Gear Oil for MAN, ZF and other OEMs",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "semi automatic",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/27b9934e-5a55-43cf-9d44-7f2e239c7c0e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 G 80W EN TDG V3.5 19-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02446722.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W Turkey TR 140003791542 EHS V1.12 19-SEP-2022",
+      "language": "TR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/e1e184cb-4272-4a7f-82a1-57c279b2946e.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 G 80W Turkey TR TDG V3.5 21-May-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02446720.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W Turkey EN 140003791542 EHS V1.12 19-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8264_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550027937",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    },
+    {
+      "name": "ZF TE-ML 02B",
+      "organisation": "ZF",
+      "spec": "TE-ML 02B"
+    },
+    {
+      "name": "MAN 341 Type E2",
+      "organisation": "MAN",
+      "spec": "341 Type E2"
+    },
+    {
+      "name": "MB-Approval 235.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.5"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MAN 341 Type Z2",
+      "organisation": "MAN",
+      "spec": "341 Type Z2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 G 80W, şanzımanların gelecekteki gereksinimlerini karşılamak için, performans bazında yeni faydalar sağlamak için tasarlanmıştır. Özel seçilmiş mineral baz yağ ve yeni nesil katık teknolojisi ile geliştirilen formülasyonu sayesinde aktarma organlarının verimli yağlanmasını sağlar ve yağ değişim aralıklarını uzatır. MAN ve diğer üreticilerin düz manuel vites ve şanzıman yağıdır. Artık Mercedes Benz uygulamaları için uygun değildir.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80W"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "78"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "9.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "99"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "885"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-33"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s3_g_80w.png",
+  "valueRecord": [],
+  "commerce": null
+}

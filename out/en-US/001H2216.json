@@ -1,0 +1,100 @@
+{
+  "id": "001H2216",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Helix HX7 10W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cace9aa7-2cb3-42d2-ac36-92eb9e42ab79.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) EN TDG V1.2 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576409.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) United States EN 140002686046 EHS V1.3 18-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "VW Standard 501.01",
+      "organisation": "VW",
+      "spec": "Standard 501.01"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 helps to keep engines clean and running efficiently by helping to prevent the formation of sludge and engine deposits. It is suitable for a wide variety of modern vehicles driven in demanding traffic conditions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

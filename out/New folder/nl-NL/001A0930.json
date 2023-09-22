@@ -1,0 +1,144 @@
+{
+  "id": "001A0930",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Omala Oil F 320",
+  "description": "Very High Performance Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": "Industriële tandwielkastoliën",
+  "category": "Industriële tandwielkastoliën",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bearings",
+    "circulating and splash lubricated systems",
+    "circulation",
+    "circulation system",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "high performance",
+    "hydraulic system",
+    "industrial",
+    "industrial gears",
+    "journal",
+    "lead free",
+    "manual",
+    "micropitting",
+    "morgoil",
+    "non shiftable",
+    "off highway",
+    "outstanding thermal stability",
+    "oxidation stability",
+    "plain",
+    "pump gear",
+    "pump vane",
+    "reduction gears",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "slew",
+    "steel gear transmissions",
+    "swing drive",
+    "synchronised",
+    "transmissions",
+    "trunnion",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6c6684da-a1ab-4034-b1bf-06fc8f7474ed.pdf",
+      "type": "GTDS",
+      "name": "Omala F 320 EN TDG V3.3 09-Feb-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/3cc09833-6687-4d5a-924b-4b937912f4c4.pdf",
+      "type": "LTDS",
+      "name": "Omala F 320 Netherlands NL TDG V3.3 10-Feb-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549931.PDF",
+      "type": "LMSDS",
+      "name": "Omala F 320 Netherlands NL 140002783873 EHS V3.4 11-APR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549930.PDF",
+      "type": "LMSDS",
+      "name": "Omala F 320 Netherlands EN 140002783873 EHS V3.4 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "25"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.903"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "IP 34",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "202"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

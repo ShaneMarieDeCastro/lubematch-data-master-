@@ -1,0 +1,89 @@
+{
+  "id": "001E7178",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Mysella S2 Z 40",
+  "description": "Zero Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "",
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "diesel",
+    "engine",
+    "gas",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "landfill",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S2_Z_40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 Z 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/f52ce4d6-2df8-449e-a9e8-20120e66a274.pdf",
+      "type": "LTDS",
+      "name": "Mysella S2 Z 40 United States EN TDG V2.2 27-Jan-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562465.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 40 United States EN 140002686046 EHS V1.6 27-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7178_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007790",
+      "margin": "0.407542377521536",
+      "packShot": ""
+    },
+    {
+      "code": "001E7178_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550036571",
+      "margin": "1.32731794713786",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 Z is a heavy-duty lubricant for high performance natural gas engines which require an “ash-less” product. Using ash-less technology Shell Mysella minimises engine wear, deposits in combustion chambers and exhaust ports and viscosity increase in service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,110 @@
+{
+  "id": "001D7770",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Tonna S2 M 32",
+  "description": "Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "",
+  "category": "Huiles pour glissières",
+  "applicationKeys": [
+    "factory applications",
+    "hydraulic system",
+    "manufacturing",
+    "mobile",
+    "pump piston",
+    "pump valve",
+    "servo"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cce2c2cb-aa62-4635-916d-06dc03ca0baa.pdf",
+      "type": "GTDS",
+      "name": "Tonna S2 M 32 EN TDG V1.3 04-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/95e71aa5-0e88-4766-b32d-b16172b43380.pdf",
+      "type": "LTDS",
+      "name": "Tonna S2 M 32 Canada EN TDG V1.3 04-Dec-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289667.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 32 Canada EN 140006579500 EHS V1.8 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/3b26c3d1-5d48-422c-a1a1-718f93fc1f8e.pdf",
+      "type": "LTDS",
+      "name": "Tonna S2 M 32 Canada FR TDG V1.3 04-Dec-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289293.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 32 Canada FR 140006579500 EHS V1.8 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7770_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550026833",
+      "margin": "1.16459907422512",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-53",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-53"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "GB 11118.1 L-HG",
+      "organisation": "GB",
+      "spec": "11118.1 L-HG"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles Shell Tonna S2 M sont spécialement conçues pour la lubrification des glissières de machines-outils, des tables et des mécanismes d'alimentation. Leur adhésivité améliorée et leurs caractéristiques de stick-slip se combinent pour offrir une performance de friction supérieure sur les glissières. Ils sont spécialement recommandés dans les cas où une forte exposition aux liquides de coupe solubles existe.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

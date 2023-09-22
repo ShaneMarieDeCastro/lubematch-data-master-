@@ -1,0 +1,138 @@
+{
+  "id": "001D8560",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Tactic EMV Gadus S5 T100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Tactic",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van synthetische olie zonder 'EP additieven",
+  "applicationKeys": [
+    "advanced",
+    "automatic lubricator",
+    "extreme temperatures",
+    "high temperature",
+    "industrial",
+    "industrial bearings",
+    "light load",
+    "long life",
+    "multipurpose",
+    "polyurea",
+    "water resistance",
+    "water washout resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Tactic_EMV_Gadus_S5_T100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Tactic EMV Gadus S5 T100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594510.PDF",
+      "type": "LMSDS",
+      "name": "Tactic EMV Gadus S5 T100 2 Netherlands EN 140002783873 EHS V4.3 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/951af5bb-e133-410f-9a79-911f77f0e181.pdf",
+      "type": "LTDS",
+      "name": "Tactic EMV Gadus S5 T100 2 Netherlands NL TDG V1.1 16-Apr-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594509.PDF",
+      "type": "LMSDS",
+      "name": "Tactic EMV Gadus S5 T100 2 Netherlands NL 140002783873 EHS V4.3 14-JUN-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 T100 vetten zijn hoogwaardige technologische smeervetten ontworpen om optimale prestaties te leveren bij de smering van industriële lagers. Samengesteld uit synthetische basisolie met een speciaal diureum-indikker die een langere levensduur, lage slijtage en 'shear'-stabiliteit bij hoge temperaturen biedt. ",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Polyurea"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Synthetic"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14"
+    },
+    {
+      "property": "Cone Penetration Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "FAG FE-9 Test L50 hrs",
+      "method": "NULL",
+      "uom": "@180°C",
+      "units": "hrs",
+      "value": ">100"
+    },
+    {
+      "property": "Pumpability Long Distance",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

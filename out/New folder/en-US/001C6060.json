@@ -1,0 +1,61 @@
+{
+  "id": "001C6060",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "ATF 134",
+  "description": "Factory fill ATF for DC 7-speed automatic transmission",
+  "family": "Daimler FFO",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "automatic",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "pump gear",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_ATF_134_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "ATF 134 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_States_Shell_ATF_134_(en-US)_TDS.pdf",
+      "type": "LTDS",
+      "name": "ATF 134 United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562488.PDF",
+      "type": "LMSDS",
+      "name": "ATF 134 United States EN 140002686046 EHS V2.5 01-JUL-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.14",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.14"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ATF 134 is a premium technology automatic transmission fluid for Mercedes-Benz 5- and 7-speed automatic transmissions and NAG2VSport transmissions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Family-Shot-HERO-5.png",
+  "valueRecord": [],
+  "commerce": null
+}

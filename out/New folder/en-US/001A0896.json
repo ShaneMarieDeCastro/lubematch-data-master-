@@ -1,0 +1,89 @@
+{
+  "id": "001A0896",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Caprinus XR 20W-40",
+  "description": "Railroad diesel engine oil",
+  "family": "Caprinus",
+  "parentCategory": "",
+  "category": "Engine Oils - Rail",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "locomotive",
+    "off highway",
+    "railroad",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d90bd1c1-a86d-4eca-a9b6-b1b871ae945c.pdf",
+      "type": "GTDS",
+      "name": "Caprinus XR 20W-40 EN TDG V1.1 31-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/8fa7e75f-f17e-4386-b830-6c0fc9a25d80.pdf",
+      "type": "LTDS",
+      "name": "Caprinus XR 20W-40 United States EN TDG V1.1 31-Mar-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563997.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 20W-40 United States EN 140002686046 EHS V5.5 07-APR-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0896_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500003001",
+      "margin": "1.25247782296622",
+      "packShot": ""
+    },
+    {
+      "code": "001A0896_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022408",
+      "margin": "1.19860137682919",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "LMOA Generation 5",
+      "organisation": "LMOA",
+      "spec": "Generation 5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The performance of Shell Caprinus XR has been demonstrated in highly rated North American railroad operation subject to the most severe operating conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

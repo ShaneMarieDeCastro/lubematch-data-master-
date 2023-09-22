@@ -1,0 +1,73 @@
+{
+  "id": "001F1486",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Spirax S4 CX 50 (Fine)",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission Oils Other",
+  "applicationKeys": [
+    "construction",
+    "multiple oem"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/97365c59-22a8-493b-95e4-073afaecf8a6.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 50 (Fine) EN TDG V2.1 28-Jun-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/3699768c-659c-4c05-8994-bb0606b4fd08.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 50 (Fine) Philippines EN TDG V2.1 28-Jun-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01944435.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 50 (Fine) Philippines EN 140001435525 EHS V1.1 09-JAN-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1486_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550042020",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    },
+    {
+      "name": "Allison C-4",
+      "organisation": "Allison",
+      "spec": "C-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 50 is designed to provide operators with trouble free operation and maximum reliability for the lifetime of the equipment. Spirax S4 CX 50 meets the demanding requirements of modern transmission, final drive, and oil immersed brakes fitted to heavy-duty off-highway equipment.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

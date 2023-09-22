@@ -1,0 +1,76 @@
+{
+  "id": "001G2456",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Transformer Oil S2 ZX-I",
+  "description": "Inhibited Electrical Insulating Oil",
+  "family": "Transformer Oil",
+  "parentCategory": null,
+  "category": "Electrical Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1960a1ba-325e-4a87-b385-769f4c19704c.pdf",
+      "type": "GTDS",
+      "name": "Transformer Oil S2 ZX-I EN TDG V1.2 27-Sep-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637150.PDF",
+      "type": "LMSDS",
+      "name": "Transformer Oil S2 ZX-I India EN 140006501563 EHS V1.0 16-JUN-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G2456_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550046344",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G2456_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010147",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    },
+    {
+      "name": "GB 2536-2011",
+      "organisation": "GB",
+      "spec": "2536-2011"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Transformer Oil S2 ZX-I is a mainstream inhibited, electrical insulating oil from Shell.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

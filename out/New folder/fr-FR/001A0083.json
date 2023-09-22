@@ -1,0 +1,123 @@
+{
+  "id": "001A0083",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "AeroShell Turbine Oil 500",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Huiles moteur - Aviation/Turbine",
+  "applicationKeys": [
+    "aero derivative",
+    "aviation turbines",
+    "combined cycle",
+    "gas",
+    "gas turbines",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "pump vane",
+    "steam",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a68cbd77-450e-41b5-953a-76c4508acd54.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 500 EN TDG V1.2 27-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550873.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 500 France FR 140003182031 EHS V5.1 11-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550872.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 500 France EN 140003182031 EHS V5.1 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/54ee62b3-f3f9-47c7-9019-ec97a6a85839.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 500 France FR TDG V1.1 26-Mar-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0083_002VJ2_A1P5",
+      "name": "Baril 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550042637",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DCSEA 299/A",
+      "organisation": "DCSEA",
+      "spec": "299/A"
+    },
+    {
+      "name": "Joint Service Designation OX-27",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-27"
+    },
+    {
+      "name": "MIL-PRF-23699G Grade STD",
+      "organisation": "MIL",
+      "spec": "PRF-23699G Grade STD"
+    },
+    {
+      "name": "General Electric D-50 TF 1",
+      "organisation": "General Electric",
+      "spec": "D-50 TF 1"
+    },
+    {
+      "name": "SAE AS5780B",
+      "organisation": "SAE",
+      "spec": "AS5780B"
+    },
+    {
+      "name": "Allison EMS- 53",
+      "organisation": "Allison",
+      "spec": "EMS- 53"
+    },
+    {
+      "name": "DEF STAN 91-101",
+      "organisation": "DEF STAN",
+      "spec": "91-101"
+    },
+    {
+      "name": "NATO O-156",
+      "organisation": "NATO",
+      "spec": "O-156"
+    },
+    {
+      "name": "Pratt and Whitney 521C Type II",
+      "organisation": "Pratt and Whitney",
+      "spec": "521C Type II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 500 est une huile ester synthétique à encombrement de 5 mm²/s incorporant une combinaison d’additifs soigneusement sélectionnée et équilibrée afin d'améliorer la stabilité thermique, la stabilité à l'oxydation et la passivation des métaux.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

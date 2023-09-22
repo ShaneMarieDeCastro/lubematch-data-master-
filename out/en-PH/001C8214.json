@@ -1,0 +1,66 @@
+{
+  "id": "001C8214",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix HX3 G 20W-50",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/cea9effd-273b-4881-ac11-37e4aa8c4c68.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 G 20W-50 (SG/CD) EN TDG V2.1 05-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02022777.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 G 20W-50 (SG/CD) Philippines English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C8214_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500004889",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SG",
+      "organisation": "API",
+      "spec": "SG"
+    },
+    {
+      "name": "API CD",
+      "organisation": "API",
+      "spec": "CD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 G has been formulated with cleansing technology to stop dirt and sludge building up and therefore help protect and prolong the life of the engine.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

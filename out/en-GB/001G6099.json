@@ -1,0 +1,67 @@
+{
+  "id": "001G6099",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Spirax S6 ATF D971",
+  "description": "Automatic transmission fluid for Mercedes-Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e18a9d59-95f6-4f7e-b29e-aa598d9fbbcd.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF D971 EN TDG V1.2 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611037.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF D971 United Kingdom EN 140002340634 EHS V1.3 05-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/f266ee17-d8f7-409f-97cf-f255bbf7f280.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF D971 United Kingdom EN TDG V1.2 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G6099_002W21_A823",
+      "name": "Bottle 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550058247",
+      "margin": "9.16339124567855",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.17",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.17"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF D971 is a premium technology automatic transmission fluid for the latest generation of Mercedes-Benz 9-speed automatic transmissions (9G-Tronic).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

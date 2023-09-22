@@ -1,0 +1,168 @@
+{
+  "id": "001D9444",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Tactic EMV Gadus S5 V100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Tactic",
+  "parentCategory": null,
+  "category": "Graisses EP à base synthétiques",
+  "applicationKeys": [
+    "advanced",
+    "automatic lubricator",
+    "electric motors",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "long life",
+    "low temperature",
+    "moderate speed",
+    "multipurpose",
+    "outdoor fan",
+    "plain bearings",
+    "roller bearings",
+    "severe conditions",
+    "severe low temperature"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Tactic_EMV_Gadus_S5_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Tactic EMV Gadus S5 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02395750.PDF",
+      "type": "LMSDS",
+      "name": "Tactic EMV Gadus S5 V100 2 Canada EN 140006579500 EHS V1.7 21-DEC-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02395749.PDF",
+      "type": "LMSDS",
+      "name": "Tactic EMV Gadus S5 V100 2 Canada FR 140006579500 EHS V1.8 21-DEC-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/b126ff67-c06e-42cc-89bc-83f8b5c445fd.pdf",
+      "type": "LTDS",
+      "name": "Tactic EMV Gadus S5 V100 2 Canada FR TDG V1.1 20-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/6c4d640d-e5a0-4d42-9db7-3d6b7c394e34.pdf",
+      "type": "LTDS",
+      "name": "Tactic EMV Gadus S5 V100 2 Canada EN TDG V1.1 01-Oct-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D9444_002WTV_A296",
+      "name": "",
+      "size": "0.12",
+      "uom": "L",
+      "pack": "Bidon",
+      "materialCode": "550027676",
+      "margin": "127.460417451047",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V100 est une graisse complexe au lithium à base d'huiles de base synthétiques, contenant des antioxydants, des additifs anti-EP, anti-usure et anti-rouille. Le produit contient un modificateur de friction spécial qui convient aux roulements à grande vitesse, aux roulements à rouleaux coniques et aux roulements cylindriques, type NJ, NUP plus applications avec une bague d'angle.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Penetration, worked 60 strokes",
+      "method": "ASTM D217",
+      "uom": "",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Rust Preventing Properties : SKF Emcor, distilled water",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Rust Preventing Properties : SKF Emcor WWO, distilled water",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Lubricating Ability SKF R2F A",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Lubricating Ability SKF R2F B",
+      "method": "NULL",
+      "uom": "@150°C",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Mechanical Stability, Shell Roll (50 hrs)",
+      "method": "NULL",
+      "uom": "@80°C",
+      "units": "NULL",
+      "value": "≤+50"
+    },
+    {
+      "property": "Temperature Range (temporarily)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-50/+150 (200)"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

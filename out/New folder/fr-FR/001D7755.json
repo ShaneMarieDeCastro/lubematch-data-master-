@@ -1,0 +1,108 @@
+{
+  "id": "001D7755",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Tellus S2 MA 46",
+  "description": "Industrial Detergent Hydraulic Fluid\n",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "detergent based",
+    "emulsifiable",
+    "fixed",
+    "gearbox",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "mobile",
+    "mobile equipment",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "transmissions",
+    "turbine",
+    "variable",
+    "wet conditions",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0c4303ba-ca46-40f7-94c6-b6baf6c1c2cf.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MA 46 EN TDG V3.5 27-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/37a7d2de-45b5-40c8-826b-74ce5cd8bdbe.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MA 46 France FR TDG V3.5 03-May-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569374.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 France FR 140003182031 EHS V2.3 01-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569375.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 France EN 140003182031 EHS V2.3 30-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7755_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027130",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 MA est une huile hydraulique détergente de très haute qualité, utilisée en présence de fluides émulsifiables. La technologie anti-usure sans cendre offre des performances fiables dans des applications contaminées par des produits aqueux comme les fluides de coupe et, où la propreté est essentielle.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

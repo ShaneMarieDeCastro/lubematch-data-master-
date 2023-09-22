@@ -1,0 +1,61 @@
+{
+  "id": "001J0920",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Coolant Longlife Concentrate",
+  "description": "Premium antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Refrigerante/Antigelo - Concentrato",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7dd54ea1-86dd-47d0-a5f0-600e084fa909.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Concentrate (Europe) EN TDG V1.4 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02461548.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Concentrate (Europe) Italy EN 140007645406 EHS V1.5 14-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02461550.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Concentrate (Europe) Italy IT 140007645406 EHS V1.5 14-OCT-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0920_002YBD_A863",
+      "name": "Bottiglia 1 L Local Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550061767",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

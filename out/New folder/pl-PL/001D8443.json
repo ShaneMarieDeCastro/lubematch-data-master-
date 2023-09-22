@@ -1,0 +1,62 @@
+{
+  "id": "001D8443",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell GadusRail S3 EUDB",
+  "description": "Premium Extreme Pressure Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne z dodatkami EP",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3b5afd7e-1d0a-4fde-98e2-72512d42f8dd.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 EUDB EN TDG V4.2 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02397674.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB Poland EN 140003791557 EHS V1.10 04-JAN-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02465864.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB Poland PL 140003791557 EHS V2.0 26-OCT-2022",
+      "language": "PL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/44e02a53-937b-4a31-98d5-5dcd6bd133db.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S3 EUDB Poland PL TDG V4.2 11-Oct-2018",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 a",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 a"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Wysokiej jakości smar o właściwościach przeciwzużyciowych przeznaczony do użycia w maźnicach wózków kolejowych z zagęszczaczem litowym i długimi interwałami wymiany.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

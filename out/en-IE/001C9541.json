@@ -1,0 +1,196 @@
+{
+  "id": "001C9541",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix HX6 10W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b2ff9447-90e7-4a36-9bc2-d6422af1d956.pdf",
+      "type": "GTDS",
+      "name": "Helix HX6 10W-40 (SN A3/B3) EN TDG V4.5 23-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562059.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX6 10W-40 (SN A3/B3) Ireland EN 140007731156 EHS V1.7 27-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C9541_002VSI_A246",
+      "name": "Keg 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550039795",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9541_002W1X_A289",
+      "name": "Bottle 1 L Wishbone Plastic Shell Yellow (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550041234",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9541_002VNR_A246",
+      "name": "Pail 20 L Plastic T/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550039796",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9541_002WPE_EURO",
+      "name": "Bottle 5 L Wishbone Plastic Shell Yellow (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046309",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9541_002WPE_A289",
+      "name": "Bottle 5 L Wishbone Plastic Shell Yellow (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550041236",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9541_002W1X_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Shell Yellow (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046592",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9541_002W2G_EURO",
+      "name": "Bottle 4 L Wishbone Plastic Shell Yellow (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046308",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "VW Standard 501.01",
+      "organisation": "VW",
+      "spec": "Standard 501.01"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX6 is an advanced formulation that enhances engine performance by helping to protect against engine sludge build-up and wear. It is suitable for a wide variety of vehicles for everyday driving conditions. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

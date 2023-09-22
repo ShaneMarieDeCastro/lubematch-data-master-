@@ -1,0 +1,57 @@
+{
+  "id": "001B1353",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Alexia LS",
+  "description": "Very High Performance Cylinder Oil for use with Low Sulphur Fuels",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Huiles moteur - Cylindres et lubrifiants système",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "stationary",
+    "two stroke"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Alexia_LS.pdf",
+      "type": "GTDS",
+      "name": "Alexia LS English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01808609.PDF",
+      "type": "LMSDS",
+      "name": "Alexia LS France FR 140003182031 EHS V2.0 03-DEC-2012",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01808610.PDF",
+      "type": "LMSDS",
+      "name": "Alexia LS France EN 140003182031 EHS V2.0 03-DEC-2012",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

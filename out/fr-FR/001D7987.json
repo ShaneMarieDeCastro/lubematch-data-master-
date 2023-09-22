@@ -1,0 +1,91 @@
+{
+  "id": "001D7987",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Vacuum Pump Oil S2 R 100",
+  "description": "Special Application Rotary Vacuum Pump Oil",
+  "family": "Vacuum Pump",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "entrapment",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "momentum transfer",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ca260eb0-1495-4f98-a4dc-44b303ec21e6.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S2 R 100 EN TDG V2.4 07-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/4ab9486a-5075-4f04-a3fe-2d277ace1d5d.pdf",
+      "type": "LTDS",
+      "name": "Vacuum Pump Oil S2 R 100 France FR TDG V2.4 03-May-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586772.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 France FR 140003182031 EHS V1.8 02-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586771.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 France EN 140003182031 EHS V1.8 02-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7987_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027223",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7987_002VNA_A246",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550026397",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DVC",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DVC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S2 R est formulée à partir d'huiles minérales soigneusement sélectionnées pour leurs hautes performances et hautement raffinées. Cela permet d'obtenir une faible pression de vapeur requise pour une lubrification efficace des pompes à vides rotatives.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,146 @@
+{
+  "id": "001F4000",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Advance 4T Ultra 15W-50 (SN/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - Motocicletta",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "motorbikes",
+    "motorcycles",
+    "off highway",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/550418d0-5994-4c0d-98f3-1bcd73bbfa0d.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T Ultra 15W-50 (SN/MA2) EN TDG V2.5 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534274.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Ultra 15W-50 (SN/MA2) Italy EN 140007645406 EHS V2.3 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/eb04d049-b0ca-4a16-8867-e257c3c77639.pdf",
+      "type": "LTDS",
+      "name": "Advance 4T Ultra 15W-50 (SN/MA2) Italy IT TDG V2.5 21-Nov-2018",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534273.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Ultra 15W-50 (SN/MA2) Italy IT 140007645406 EHS V2.3 02-MAR-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4000_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550044440",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4000_002W21_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550053587",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T Ultra è stato sperimentato in gara e approvato dai principali costruttori di moto. Il prodotto supera i requisiti di tutti i costruttori di moto.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "149"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "20.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "160"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "867"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "235"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_15W-50_4T_4L_600059287.png",
+  "valueRecord": [],
+  "commerce": null
+}

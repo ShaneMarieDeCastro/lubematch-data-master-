@@ -1,0 +1,97 @@
+{
+  "id": "001D7861",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Omala S4 Wheel 220",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "enclosed gear",
+    "energy efficiency",
+    "final drive",
+    "ge",
+    "gearbox",
+    "heavy duty",
+    "hitachi",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "mining",
+    "off highway",
+    "offroad",
+    "pao",
+    "reduction gears",
+    "splash lubricated bearings",
+    "transmissions",
+    "wheel hubs"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1b1d23f1-efad-4c15-b0c3-2a4564193f94.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 Wheel 220 EN TDG V2.3 12-Aug-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/9b5e2f9f-bd45-431e-998a-fd5413f6e898.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 Wheel 220 Canada EN TDG V2.3 11-Jan-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289532.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 Wheel 220 Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289531.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 Wheel 220 Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/81fcc645-86e6-43e2-8493-dedf616ff77f.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 Wheel 220 Canada FR TDG V2.3 16-Jul-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "David Brown S1.53.106H",
+      "organisation": "David Brown",
+      "spec": "S1.53.106H"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 Wheel is an advanced synthetic heavy duty industrial gear oil offering outstanding lubrication performance under severe operating conditions, including improved energy efficiency and long service life. It is recommended specifically for use in General Electric Off-Highway Motorized Wheels fitted to haul trucks used in mining applications.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

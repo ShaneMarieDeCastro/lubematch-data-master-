@@ -1,0 +1,94 @@
+{
+  "id": "001G4838",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra Professional AT-L 5W-30",
+  "description": "Passenger Car Engine Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "cars",
+    "fiat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/80ca024a-3619-474b-bb21-1acf18721c75.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) EN TDG V1.4 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503906.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) France EN 140003182031 EHS V1.2 10-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/3d0406f5-6df9-4dfd-9595-0949f7eb758b.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) France FR TDG V1.4 22-Nov-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503905.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) France FR 140003182031 EHS V1.2 10-DEC-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G4838_002W21_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550047905",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G4838_002XS4_A246",
+      "name": "Barils 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550047903",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "Iveco 18-1811 Sp-SC1 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "18-1811 Sp-SC1 - Meets the requirements"
+    },
+    {
+      "name": "Fiat 9.55535-S1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S1 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Conçue pour répondre aux exigences de certains moteurs à haute performance, y compris ceux de Fiat et ceux où une huile ACEA C2 est recommandée. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AT-L_1L_600039970.png",
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-helix-ultra-professional-at-l-5w30-1l"
+}

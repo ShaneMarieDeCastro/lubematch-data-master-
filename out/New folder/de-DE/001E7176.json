@@ -1,0 +1,64 @@
+{
+  "id": "001E7176",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Mysella S2 Z 15W-40",
+  "description": "Zero Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Industriemotorenöle",
+  "category": "Motoröle - stationärer Gasmotor",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "hydraulic system",
+    "natural gas",
+    "pump gear",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S2_Z_15W-40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 Z 15W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605014.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 15W-40 Germany EN 140001492039 EHS V2.3 28-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605015.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 15W-40 Germany DE 140001492039 EHS V2.3 28-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 Z is a heavy-duty lubricant for high performance natural gas engines which require an “ash-less” product. Using ash-less technology Shell Mysella S2 Z minimises engine wear, deposits in combustion chambers and exhaust ports and viscosity increase in service.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Inn5QAC&field=Attachment__Name__s",
+      "family": "Mysella",
+      "savings": 25000,
+      "title": "Shell Mysella S2 Z 15W-40"
+    }
+  ],
+  "commerce": null
+}

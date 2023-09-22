@@ -1,0 +1,200 @@
+{
+  "id": "001F8461",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Omala S4 GXV 150",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriegetriebeöle",
+  "category": "Industriegetriebeöle",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed gear",
+    "ep",
+    "extra long life",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "paints and sealants",
+    "plain",
+    "power take off pto",
+    "roller spherical",
+    "rollers",
+    "seal compatibility",
+    "siemens ag",
+    "splash lubricated bearings",
+    "system efficiency",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dcf41086-97e4-453a-8cc0-e30b5d31ec17.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GXV 150 EN TDG V1.8 19-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/064c30df-daeb-4451-bf6e-228db517e312.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GXV 150 Germany DE TDG V1.8 20-Apr-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02585633.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 150 Germany DE 140001492039 EHS V1.4 31-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02585634.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 150 Germany EN 140001492039 EHS V1.4 31-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8461_002VJW_A1P5",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550047047",
+      "margin": "1.22659644426618",
+      "packShot": ""
+    },
+    {
+      "code": "001F8461_002VNF_A1P5",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550047048",
+      "margin": "1.89404805707901",
+      "packShot": ""
+    },
+    {
+      "code": "001F8461_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550047049",
+      "margin": "2.06145749630127",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GXV ist ein fortschrittliches Hochleistungs-Industriegetriebeöl auf Synthesebasis, freigegeben von der Siemens AG. Es bietet eine hervorragende Schmierleistung auch bei schwierigen Betriebsbedingungen, eine reduzierte Reibung, eine lange Lebensdauer, eine hohe Beständigkeit gegen Micropitting für einen optimalen Getriebeschutz und eine hervorragende Dichtungskompatibilität.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "22"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "169"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C  mind.",
+      "value": "240"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C  ",
+      "value": "–45"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "862"
+    },
+    {
+      "property": "Vierkugelapparat",
+      "method": "ASTM D2783",
+      "uom": "",
+      "units": "kg mind.",
+      "value": "250"
+    },
+    {
+      "property": "FZG-Test",
+      "method": "A/8,3/90",
+      "uom": "",
+      "units": "Schadenskraftstufe mind.",
+      "value": "14"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

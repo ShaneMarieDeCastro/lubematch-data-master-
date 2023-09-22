@@ -1,0 +1,77 @@
+{
+  "id": "001J2623",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S6 ATF A668",
+  "description": "Premium Extended Drain Heavy Duty Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Fluidi per trasmissioni automatiche",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c01fec74-219f-40b5-aeb4-9ade21d37c35.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF A668 EN TDG V1.3 09-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/cccfd47f-4902-4154-bc8d-a072b3bc72d1.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF A668 Italy IT TDG V1.2 03-Mar-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02618690.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 Italy IT 140007645406 EHS V2.2 14-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02618688.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 Italy EN 140007645406 EHS V2.2 14-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J2623_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550062791",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002VNF_A246",
+      "name": "Secchio 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550062790",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

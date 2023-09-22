@@ -1,0 +1,76 @@
+{
+  "id": "001G0145",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Oil W 100 Plus",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Piston",
+  "applicationKeys": [
+    "ashless"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d37cf232-fb2c-4b91-b897-fd8c34446cf7.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) EN TDG V1.5 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580130.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0145_002VJ2_A1P5",
+      "name": "Drum 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550045891",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0145_002XOH_AEP1",
+      "name": "Bottle 1 qt Americas Tool Plastic Shell Red Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550050837",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Continental SIL 99-2",
+      "organisation": "Continental",
+      "spec": "SIL 99-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Oil W100 Plus is a single grade oil that combines the single grade, ashless dispersant performance found in AeroShell Oil W100 and the anti-wear/anti-corrosion additives of AeroShell Oil W 15W-50 Multigrade. It is the oil for pilots who prefer a single grade but who also want the extra protection and performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

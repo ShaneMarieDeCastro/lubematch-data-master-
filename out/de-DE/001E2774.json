@@ -1,0 +1,63 @@
+{
+  "id": "001E2774",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Risella X 420",
+  "description": "High Quality Technical White Oil",
+  "family": "Risella",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Technische Weißöle",
+  "applicationKeys": [
+    "cutting heads",
+    "heat transfer",
+    "metal working"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d04a4ad8-a967-41be-9e0a-59f80e3aa16a.pdf",
+      "type": "GTDS",
+      "name": "Risella X 420 EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570777.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 420 Germany DE 140001492039 EHS V2.1 04-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570776.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 420 Germany EN 140001492039 EHS V2.1 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2774_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550031580",
+      "margin": "0.650064954672948",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Risella X 420 is a hydocarbon fluid based on Shell Gas-to-Liquid Technology. It´s highly saturated with a high degree of iso paraffinic structures and is almost odourless and very stable in colour.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

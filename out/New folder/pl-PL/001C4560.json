@@ -1,0 +1,77 @@
+{
+  "id": "001C4560",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R1 Multi 20W-50",
+  "description": "Reliable Lubrication - Multigrade Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "high altitude",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0dbab565-7c0e-412a-802c-3f92761c512a.pdf",
+      "type": "GTDS",
+      "name": "Rimula R1 Multi 20W-50 (CD/SE) EN TDG V2.2 10-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535163.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R1 Multi 20W-50 (CD/SE) Poland PL 140003791557 EHS V2.8 03-MAR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535161.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R1 Multi 20W-50 (CD/SE) Poland EN 140003791557 EHS V2.8 03-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140002686014_420A.pdf",
+      "type": "LTDS",
+      "name": "Rimula R1 Multi 20W-50 (CD/SE) Poland Polish",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CD",
+      "organisation": "API",
+      "spec": "CD"
+    },
+    {
+      "name": "API SE",
+      "organisation": "API",
+      "spec": "SE"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R1 Multi oils fight engine wear and maintain the right thickness for continuous protection and consistent performance. It results in lower fuel consumption* and suitable for non-turbocharged engines. *Compared to standard SAE 40 oils. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

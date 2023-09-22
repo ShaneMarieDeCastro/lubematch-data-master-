@@ -1,0 +1,80 @@
+{
+  "id": "001F8471",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Morlina S2 BL 10",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d8dfb2ae-d09a-4541-93b5-b1ae626a4e4a.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 10 (2016) EN TDG V1.3 29-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b33c2ce0-64a0-43eb-880f-81b655263aa6.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 10 (2016) Canada EN TDG V1.3 29-Mar-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02403641.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Canada FR 140006579500 EHS V1.3 01-FEB-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02403640.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Canada EN 140006579500 EHS V1.3 01-FEB-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/d4e84cbb-f0dd-410a-8c3f-b738744df0c9.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 10 (2016) Canada FR TDG V1.3 29-Mar-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8471_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550053970",
+      "margin": "1.22348649018844",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 10 uses special low viscosity Shell Gas-to-Liquid (GTL) technology blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

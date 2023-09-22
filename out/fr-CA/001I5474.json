@@ -1,0 +1,73 @@
+{
+  "id": "001I5474",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell EcoSafe S3 DU 100",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b9143f66-bc63-4198-a1e1-d9e49b2b07f4.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S3 DU 100 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/65abf108-516e-4643-81c1-f79b590518ed.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 100 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/ccb21960-b1e6-4602-8cbf-d2886ec59439.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 100 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02620901.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 100 Canada FR 140006579500 EHS V1.5 20-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02620900.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 100 Canada EN 140006579500 EHS V1.5 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5474_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057082",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe S3 DU 100 est un fluide hydraulique synthétique ignifuge, à base d'huiles de base polyalkylène glycol (PAG) à très haut VI, associé à un ensemble d'additifs sans cendre éprouvé. Shell EcoSafe S3 DU 100 a été conçu pour minimiser la dégradation des fluides et ainsi prolonger les intervalles de changement de fluide même dans les conditions de fonctionnement les plus sévères. Shell EcoSafe S3 DU 100 offre les propriétés de performance exigées par les systèmes hydrauliques haute performance d'aujourd'hui.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,172 @@
+{
+  "id": "001F8446",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Corena S3 RX 46",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Kompressor und Vakuumpumpe",
+  "category": "Kompressor und Vakuumpumpe",
+  "applicationKeys": [
+    "air compressor",
+    "gtl",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0e292504-d3f8-4815-9a9d-e9ed1a31ffa4.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 RX 46 (2017) EN TDG V1.2 28-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592764.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Germany DE 140001492039 EHS V1.8 13-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/65dbdff0-424a-4dcd-8a27-560f1329aa4c.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 RX 46 (2017) Germany DE TDG V1.2 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592765.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Germany EN 140001492039 EHS V1.8 13-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8446_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550050021",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8446_002VNK_A246",
+      "name": "Eimer 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550050020",
+      "margin": "1.0710000038147",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RX ist ein Luftkompressorenöl auf Basis von Synthesetechnologie in Premium-Qualität. Es basiert auf der Shell eigenen fortschrittlichen Gas-to-Liquids (GtL) Grundöltechnologie in Kombination mit einem modernen Hochleistungs-Additivsystem. Shell Corena S3 RX wurde entwickelt um in Kompressoren ausgezeichneten Schutz sowie hohe Leistung zu bieten und Ölwechselintervalle von 6.000 Stunden, in bestimmten Fällen bis zu 8.000 Stunden zu erreichen.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viskositätsklasse (ISO VG)",
+      "method": "DIN 51519",
+      "uom": "",
+      "units": "",
+      "value": "46"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "46"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "7,4"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "836"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Luftabscheidevermögen",
+      "method": "ASTM D3427",
+      "uom": "50°C",
+      "units": "Minuten",
+      "value": "1,5"
+    },
+    {
+      "property": "NOACK Verdampfungsverlust",
+      "method": "CEC-L-40-93B",
+      "uom": "@250°C",
+      "units": "%m/m",
+      "value": "3,1"
+    },
+    {
+      "property": "FZG Test",
+      "method": "CEC-L-07-A-95",
+      "uom": "",
+      "units": "LS Fail",
+      "value": "10"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-45"
+    },
+    {
+      "property": "Demulgiervermögen",
+      "method": "ASTM D1401",
+      "uom": "54°C",
+      "units": "Minuten",
+      "value": "15"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "139"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

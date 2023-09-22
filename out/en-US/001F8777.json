@@ -1,0 +1,56 @@
+{
+  "id": "001F8777",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Rotella DEF",
+  "description": "Diesel exhaust fluid for use in SCR systems",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Other Diesel Exhaust Fluid (2)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/b6f4e8f5-0eb3-444e-bcf7-1e7eb8fefda7.pdf",
+      "type": "GTDS",
+      "name": "Rotella DEF EN TDG V1.1 18-Oct-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562979.PDF",
+      "type": "LMSDS",
+      "name": "Rotella DEF United States EN 140002686046 EHS V1.1 10-OCT-2016",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/e9fbaf75-e5b0-457c-942d-aa3e94139909.pdf",
+      "type": "LTDS",
+      "name": "Rotella DEF United States EN TDG V1.1 16-Jan-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 22241",
+      "organisation": "ISO",
+      "spec": "22241"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ DEF is a high purity diesel exhaust fluid meeting the stringent requirements of ISO 22241 (AUS 32) as well as all OEM requirements for diesel exhaust fluid used in diesel trucks, passenger cars, pickups, SUVs, tractors, and construction equipment with selective catalytic reduction (SCR) emission systems for NOx reduction. Shell Rotella^®^ DEF is API registered to verify for customers the performance and quality of the product.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

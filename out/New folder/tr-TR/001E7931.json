@@ -1,0 +1,138 @@
+{
+  "id": "001E7931",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX3 20W-50",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX3_20W-50_(SL_CF)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 20W-50 (SL/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02337950.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 20W-50 (SL/CF) Turkey EN 140003791542 EHS V1.9 03-JUN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/87531401-59bd-4bae-aa2b-d4e07d37beef.pdf",
+      "type": "LTDS",
+      "name": "Helix HX3 20W-50 (SL/CF) Turkey Turkish",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02337951.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 20W-50 (SL/CF) Turkey TR 140003791542 EHS V1.9 03-JUN-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7931_002W2H_EURO",
+      "name": "Şişe 4 L Wishbone Plastic Red (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550046278",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_002W1Y_EURO",
+      "name": "Şişe 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550046597",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3,  eski model, yüksek kilometreli araçlarda güvenilir koruma sağlar. Çamur oluşumunu önler ve aşınmaya karşı koruma sağlar. API SL/CF performans sınıfı motor yağı talep eden araçlarda kullanıma uygundur.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "156.30"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "17.87"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "126"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "891.0"
+    },
+    {
+      "property": "Flash Point ",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "256"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    },
+    {
+      "property": "MRV",
+      "method": "ASTM D4684",
+      "uom": "@-20°C",
+      "units": "cP",
+      "value": "50000"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_HX3_20W_50.png",
+  "valueRecord": [],
+  "commerce": null
+}

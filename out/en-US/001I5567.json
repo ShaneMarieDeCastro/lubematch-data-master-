@@ -1,0 +1,56 @@
+{
+  "id": "001I5567",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Air Compressor Oil S2 R 38",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "rotary vane",
+    "screw"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "37",
+  "viscosityType": "ISO",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/66211b24-ee74-430e-ba3f-351ca7be6c7a.pdf",
+      "type": "GTDS",
+      "name": "Shell Air Compressor Oil S2 R 38 EN TDG V1.2 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563917.PDF",
+      "type": "LMSDS",
+      "name": "Shell Air Compressor Oil S2 R 38 United States EN 140002686046 EHS V1.1 12-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5567_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057424",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Air Compressor Oil S2 R 38 is a lubricant manufactured from a special high pressure hydrotreated base oil and a combination of zinc free additives that make it ideal for rotary screw air compressor applications.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

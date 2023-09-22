@@ -1,0 +1,90 @@
+{
+  "id": "001F3891",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Alexia S3",
+  "description": "High performance engine oil for cylinder lubrication of 2-stroke low speed dual fuel engines operating on fuels with < 0.1% Sulphur",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy fuel",
+    "low speed",
+    "marine",
+    "medium speed"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1a03a09b-5b0c-481b-9101-8e7c3042bf2a.pdf",
+      "type": "GTDS",
+      "name": "Alexia S3 EN TDG V2.8 12-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579449.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S3 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3891_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550042460",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3891_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550046460",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3891_002VJV_A227",
+      "name": "IBC 1000 L Plastic W (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550042529",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3891_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009464",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia S3 has a BN of 25 and is an SAE50 cylinder oil. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

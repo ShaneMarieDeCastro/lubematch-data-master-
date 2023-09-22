@@ -1,0 +1,65 @@
+{
+  "id": "001H6440",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Turbo S4 X 32 (Fine)",
+  "description": "Industrial Steam, Gas and Combined Cycle Turbine Lubricant",
+  "family": "Turbo",
+  "parentCategory": null,
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/33b5f5a7-0f1b-4590-ab49-b4b3f8fdaa8f.pdf",
+      "type": "GTDS",
+      "name": "Turbo S4 X 32 (Fine) EN TDG V1.1 30-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579634.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 X 32 (Fine) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H6440_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011560",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H6440_002VJV_A227",
+      "name": "IBC 1000 L Plastic W (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550053035",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Turbo S4 X 32 is based on Gas-to-Liquid (GTL) technology and has been developed to meet the demands of the latest high efficiency turbine systems. Designed to offer outstanding, long term performance under the most severe operating conditions Shell Turbo S4 X 32 will minimise deposit and sludge formation even under cyclic peak loading conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

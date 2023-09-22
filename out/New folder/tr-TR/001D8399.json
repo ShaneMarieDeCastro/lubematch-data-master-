@@ -1,0 +1,96 @@
+{
+  "id": "001D8399",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Refrigeration Oil S4 FR-V 46",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "",
+  "category": "Refrigerator Oils",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "industrial",
+    "long life",
+    "open compressor",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor",
+    "turbine",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/03da63b4-6645-4846-83fb-10554d7500fd.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 EN TDG V2.4 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02462650.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Turkey TR 140003791542 EHS V1.10 19-OCT-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02462649.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Turkey EN 140003791542 EHS V1.10 19-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/c0c8734a-9fdb-4a98-9397-8e1b370ee2f3.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Turkey TR TDG V2.4 27-Sep-2019",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8399_002VNF_A1P5",
+      "name": "Kova 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550025701",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    },
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V, aklali benzen esaslı sentetik soğutma kompresör yağlarıdır. Bir çok soğutma kompresörünün gereksinimlerini karşılayan genel amaçlı bir üründür. HFC'ler haricinde yaygın biçimde kullanılan diğer soğutma gazlarının çoğu  ile uyumludur. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

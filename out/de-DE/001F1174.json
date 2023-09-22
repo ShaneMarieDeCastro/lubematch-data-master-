@@ -1,0 +1,219 @@
+{
+  "id": "001F1174",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Omala S2 GX 150",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriegetriebeöle",
+  "category": "Industriegetriebeöle",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "compatibility with seals and paints",
+    "enclosed gear",
+    "ep",
+    "extreme performance",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "high load",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "marine",
+    "marine reversing gears",
+    "micropitting",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "servo",
+    "siemens ag",
+    "slew",
+    "stern tube seal",
+    "swing drive",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d5582561-4144-4346-9cb0-290ba17dbbbb.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 150 EN TDG V2.0 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/b72f9d49-b277-4f05-8660-d106c945204a.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 150 Germany DE TDG V2.0 29-Jul-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587698.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 150 Germany DE 140001492039 EHS V2.2 05-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587697.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 150 Germany EN 140001492039 EHS V2.2 05-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1174_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500011062",
+      "margin": "0.159691418816513",
+      "packShot": ""
+    },
+    {
+      "code": "001F1174_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550041576",
+      "margin": "0.202958125770092",
+      "packShot": ""
+    },
+    {
+      "code": "001F1174_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550041631",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1174_002VNA_A246",
+      "name": "Eimer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550041577",
+      "margin": "0.855352004949256",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-77",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-77"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "AGMA EP 9005-EO2",
+      "organisation": "AGMA",
+      "spec": "EP 9005-EO2"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 GX 150 ist ein hochwertiges Industriegetriebeöl mit Extreme-Pressure-Eigenschaften. Entwickelt für den Einsatz in hoch belasteten und stark beanspruchten Industriegetrieben. Es bietet ein hohes Lasttragevermögen, hohe Graufleckentragfähigkeit, sehr gute Verträglichkeit mit Dichtungen und Farben, kombiniert mit reibungsmindernden Eigenschaften, für eine hervorragende Leistung in Industriegetrieben.  ",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "14,8"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "98"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">240"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–24"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "897"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

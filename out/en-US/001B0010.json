@@ -1,0 +1,135 @@
+{
+  "id": "001B0010",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "GlycoShell Concentrate",
+  "description": "Coolant",
+  "family": "GlycoShell",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f4ba2843-bd03-4276-8ba4-16b914c09b35.pdf",
+      "type": "GTDS",
+      "name": "GlycoShell Concentrate EN TDG V1.0 23-Oct-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563297.PDF",
+      "type": "LMSDS",
+      "name": "GlycoShell Concentrate United States EN 140002686046 EHS V4.0 07-AUG-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "BMW N600 69.0",
+      "organisation": "BMW",
+      "spec": "N600 69.0"
+    },
+    {
+      "name": "BWB TK-BA2-3-6850-008",
+      "organisation": "BWB",
+      "spec": "TK-BA2-3-6850-008"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "Mercedes-Benz DBL 7700.02",
+      "organisation": "Mercedes-Benz",
+      "spec": "DBL 7700.02"
+    },
+    {
+      "name": "VAG TL 774-C",
+      "organisation": "VAG",
+      "spec": "TL 774-C"
+    },
+    {
+      "name": "Renault 41-01-001 Type D",
+      "organisation": "Renault",
+      "spec": "41-01-001 Type D"
+    },
+    {
+      "name": "General Motors B 040 0240",
+      "organisation": "General Motors",
+      "spec": "B 040 0240"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "Volvo 1286083",
+      "organisation": "Volvo",
+      "spec": "1286083"
+    },
+    {
+      "name": "Mercedes-Benz DBL 7700",
+      "organisation": "Mercedes-Benz",
+      "spec": "DBL 7700"
+    },
+    {
+      "name": "General Motors GM QL 130 100",
+      "organisation": "General Motors",
+      "spec": "GM QL 130 100"
+    },
+    {
+      "name": "Saab 690 1599",
+      "organisation": "Saab",
+      "spec": "690 1599"
+    },
+    {
+      "name": "Bundeswehr TL-6580-0038/1",
+      "organisation": "Bundeswehr",
+      "spec": "TL-6580-0038/1"
+    },
+    {
+      "name": "MAN 324",
+      "organisation": "MAN",
+      "spec": "324"
+    },
+    {
+      "name": "MB-Approval 325.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "325"
+    },
+    {
+      "name": "SAE J1034",
+      "organisation": "SAE",
+      "spec": "J1034"
+    },
+    {
+      "name": "MTU MTL 5048",
+      "organisation": "MTU",
+      "spec": "MTL 5048"
+    },
+    {
+      "name": "KHD H-LV 0161 0188",
+      "organisation": "KHD",
+      "spec": "H-LV 0161 0188"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "GlycoShell Concentrate is a concentrated phosphate and nitrite-free, low silicate, anti-freeze, to be mixed with water, for engine cooling systems.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

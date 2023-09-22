@@ -1,0 +1,90 @@
+{
+  "id": "001F8470",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Morlina S2 BL 5",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oleje obiegowe i łożyskowe",
+  "category": "Oleje łożyskowe i obiegowe",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d74f6e1a-750d-441e-bc60-8092ebdf1658.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 5 (2016) EN TDG V1.1 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02468616.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 5 (2016) Poland PL 140003791557 EHS V1.8 11-OCT-2022",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/a32acbe2-b4d0-4454-b252-ec21db177f96.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 5 (2016) Poland PL TDG V1.1 03-Sep-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02468615.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 5 (2016) Poland EN 140003791557 EHS V1.8 11-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8470_002VNA_A665",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550055972",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8470_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550055973",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-62",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-62"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL zawiera specjalne oleje o niskiej lepkości otrzymane w technologii Shell Gas-to-Liquid (GTL) oraz bezcynkowe dodatki uszlachetniające. Zapewnia zwiększoną wydajność w szybkoobrotowych wrzecionach obrabiarek.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

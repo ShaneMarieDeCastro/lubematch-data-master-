@@ -1,0 +1,67 @@
+{
+  "id": "001I2898",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Thermal Fluid E5 TM 410",
+  "description": "Shell Thermal Fluid E5 TM are designed to meet the challenges of E-mobility for batteries with immersed cooling, inverters and e-motors. They are also suitable as cooling fluid for chargers and cables.",
+  "family": "Generic Branded Product",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Isolieröle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1924f33d-182b-470d-b049-4b182812ba50.pdf",
+      "type": "GTDS",
+      "name": "Thermal Fluid E5 TM 410 EN TDG V1.2 22-Jan-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607592.PDF",
+      "type": "LMSDS",
+      "name": "Thermal Fluid E5 TM 410 Germany DE 140001492039 EHS V2.1 03-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607600.PDF",
+      "type": "LMSDS",
+      "name": "Thermal Fluid E5 TM 410 Germany EN 140001492039 EHS V2.1 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/d9b986e0-e096-474a-afe3-408619dc48d9.pdf",
+      "type": "LTDS",
+      "name": "Thermal Fluid E5 TM 410 Germany DE TDG V1.2 29-Sep-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I2898_002VNK_A246",
+      "name": "Eimer 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550069451",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Geeignet für den gesamten Temperaturbereich der Automobilanwendungen, bis einschließlich - 40 °C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

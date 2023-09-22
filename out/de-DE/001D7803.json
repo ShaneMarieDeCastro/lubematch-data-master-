@@ -1,0 +1,161 @@
+{
+  "id": "001D7803",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Morlina S1 B 320",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Lager & Umlauföle",
+  "category": "Lager & Umlauföle",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "plain",
+    "pump gear",
+    "rollneck bearings",
+    "rotary vane",
+    "vacuum pumps",
+    "water separation",
+    "wire rod mill"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S1_B_320_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S1 B 320 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571936.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 320 Germany DE 140001492039 EHS V3.0 04-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571934.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 320 Germany EN 140001492039 EHS V3.0 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/ec747b0e-8b89-45b0-b8f1-cec546c6f5e4.pdf",
+      "type": "LTDS",
+      "name": "Morlina S1 B 320 Germany DE TDG V3.1 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7803_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027240",
+      "margin": "0.147340516653358",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B Öle wurden für den Einsatz in Lagern und industriellen Umlaufsystemen entwickelt, und eignen sich besonders für Anwendungen, bei denen ein gutes Demulgiervermögen gefordert wird. ",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse (ISO VG)",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "320"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "24.6"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "891"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "95"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "255"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-6"
+    },
+    {
+      "property": "Korrosionstest, Entmineralisiertes Wasser",
+      "method": "ASTM D665A",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Demulgiervermögen, Minuten",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "",
+      "value": "30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,86 @@
+{
+  "id": "001H5781",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix Power V 0W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2244bf3e-46a1-4d06-b7b8-9598dcba77a9.pdf",
+      "type": "GTDS",
+      "name": "Helix Power V 0W-40 (SN Plus/SN) EN TDG V1.2 09-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02016477.PDF",
+      "type": "LMSDS",
+      "name": "Helix Power V 0W-40 (SN Plus/SN) Philippines English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5781_002W1Y_A709",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053332",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5781_002W2H_A709",
+      "name": "Bottle 4 L Wishbone Plastic Red (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053333",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Fully Synthetic Motor Oil expertly engineered for ultimate engine power and performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

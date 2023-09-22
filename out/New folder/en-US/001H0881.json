@@ -1,0 +1,96 @@
+{
+  "id": "001H0881",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella Gas Truck 0W-20",
+  "description": "Fully Synthetic Gas Truck Motor Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/524488ae-e09a-43fe-bd4f-784572fd66f3.pdf",
+      "type": "GTDS",
+      "name": "Rotella Gas Truck 0W-20 (SN-GF/5 dexos1) EN TDG V1.3 15-Dec-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562264.PDF",
+      "type": "LMSDS",
+      "name": "Rotella Gas Truck 0W-20 (SP-GF/6A dexos1) United States EN 140002686046 EHS V1.3 23-SEP-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/1b1af1af-4fa2-4719-b9c7-def62cb1234b.pdf",
+      "type": "LTDS",
+      "name": "Rotella Gas Truck 0W-20 (SN-GF/5 dexos1) United States EN TDG V1.3 15-Dec-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C947-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-B1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Introducing Shell Rotella Gas Truck full synthetic motor oil, from the makers of Shell Rotella heavy duty engine oil, a leader in diesel engine oil for more than 40 years. Shell Rotella knows truck engines and Shell Rotella Gas Truck full synthetic motor oil provides extreme wear and extreme temperature protection to protect your truck’s engine.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

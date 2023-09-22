@@ -1,0 +1,113 @@
+{
+  "id": "001D8285",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Spirax S3 AS 80W-140",
+  "description": "High performance, GL-5 axle oil for Scania and ZF",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "heavy duty",
+    "heavy truck",
+    "manual",
+    "manual transmission",
+    "off highway",
+    "offroad",
+    "passenger car",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S3_AS_80W-140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 AS 80W-140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_Kingdom_Shell_Spirax_S3_AS_80W-140_(en-GB)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 AS 80W-140 United Kingdom English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578613.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AS 80W-140 United Kingdom EN 140002340634 EHS V2.5 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 12E",
+      "organisation": "ZF",
+      "spec": "TE-ML 12E"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 16C",
+      "organisation": "ZF",
+      "spec": "TE-ML 16C"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "ZF TE-ML 05A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 AS 80W-140 is designed for use in a wide variety of automotive axle units subjected to heavy duty conditions. The use of high performance additive systems and selected base oils allows extended oil drain capability in some applications. In addition, Spirax S3 AS 80W-140 may be used in non-synchronised heavy duty gearboxes and certain synchronised heavy duty gearboxes where oils meeting API GL-5 or MT-1 are specified.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027976_Shell_Spirax_S3_AS_80W-140_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

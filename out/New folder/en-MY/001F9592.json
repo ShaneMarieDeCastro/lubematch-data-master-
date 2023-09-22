@@ -1,0 +1,124 @@
+{
+  "id": "001F9592",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix Ultra Professional ABB 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "mercedes benz",
+    "volkswagen"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5ea6749e-62fe-448e-a771-d5122c8cab7b.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional ABB 5W-40 (SN A3/B4 + OEMS) EN TDG V1.8 22-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01875449.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional ABB 5W-40 (SN A3/B4 + OEMS) Malaysia EN 140001435555 EHS V1.0 15-OCT-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01875450.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional ABB 5W-40 (SN A3/B4 + OEMS) Malaysia MS 140001435555 EHS V1.0 15-OCT-2019",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9592_002W2L_A685",
+      "name": "Bottle 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550054738",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "BMW Longlife-01",
+      "organisation": "BMW",
+      "spec": "Longlife-01"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of high-performance passenger car engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

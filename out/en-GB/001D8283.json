@@ -1,0 +1,201 @@
+{
+  "id": "001D8283",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Spirax S3 AM 80W-90",
+  "description": "High performance, GL-5 axle oil for MAN, ZF, MACK and Scania",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    "axle",
+    "buses",
+    "differential",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "heavily loaded axles",
+    "heavy duty axle",
+    "heavy truck",
+    "manual",
+    "manual transmission",
+    "manual unsynchronised",
+    "off highway",
+    "passenger car",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1748fb98-3879-4a11-b331-7b2dbd24623d.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 AM 80W-90 EN TDG V3.5 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/ac0cc094-6a8d-477a-84bd-5cee5abe48b3.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 AM 80W-90 United Kingdom EN TDG V3.5 22-Sep-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578602.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AM 80W-90 United Kingdom EN 140002340634 EHS V2.11 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8283_002VNA_A246",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027941",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8283_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027942",
+      "margin": "0.574362044325143",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 12M - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12M - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 341 Type E2",
+      "organisation": "MAN",
+      "spec": "341 Type E2"
+    },
+    {
+      "name": "ZF TE-ML 12M",
+      "organisation": "ZF",
+      "spec": "TE-ML 12M"
+    },
+    {
+      "name": "ZF TE-ML 17H",
+      "organisation": "ZF",
+      "spec": "TE-ML 17H"
+    },
+    {
+      "name": "ZF TE-ML 12L - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L - Suitable for use in applications which require"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ZF TE-ML 19B",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "ZF TE-ML 02B",
+      "organisation": "ZF",
+      "spec": "TE-ML 02B"
+    },
+    {
+      "name": "ZF TE-ML 16C",
+      "organisation": "ZF",
+      "spec": "TE-ML 16C"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "ZF TE-ML 05A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A - Suitable for use in applications which require"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "MAN 341 Type Z2",
+      "organisation": "MAN",
+      "spec": "341 Type Z2"
+    },
+    {
+      "name": "ZF TE-ML 12L",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 342 Type M2",
+      "organisation": "MAN",
+      "spec": "342 Type M2"
+    },
+    {
+      "name": "ZF TE-ML 19B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B - Suitable for use in applications which require"
+    },
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 AM 80W-90 is a true universal driveline oil designed for use in modern heavy duty axles and gearboxes offering the convenience of one transmission oil for the whole driveline. Specially optimised mineral base oils and new additive technology improve lubrication of the drive train and potentially extend oil drain intervals. For e.g. MAN, ZF, MACK and Scania.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "001B8316",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Catenex T 121",
+  "description": "High quality paraffinic process oil",
+  "family": "-",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Prozessöle - Parafinisch",
+  "applicationKeys": [
+    "paraffinic"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0b172c53-fba9-457c-bc05-0e09e1580945.pdf",
+      "type": "GTDS",
+      "name": "Catenex T 121 EN TDG V1.4 04-Oct-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556224.PDF",
+      "type": "LMSDS",
+      "name": "Catenex T 121 Germany DE 140001492039 EHS V5.1 19-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556225.PDF",
+      "type": "LMSDS",
+      "name": "Catenex T 121 Germany EN 140001492039 EHS V5.1 19-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B8316_002VSH_A18H",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550014136",
+      "margin": "0.540035637675023",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Catenex T are highly refined hydrotreated paraffinic process oils, which are virtually colourless and sulphur free. These oils are highly saturated, free of aromatics and polar compounds. Catenex T Oils are odourless and are recommended for use in process oil applications where colour stability, low volatility and low sulphur levels are required. These highly refined oils are ideal for use as process oils in rubber, elastomer, plastic, adhesive and numerous other manufacturing processes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

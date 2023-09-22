@@ -1,0 +1,175 @@
+{
+  "id": "001D7872",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Paper Machine Oil S3 M 220",
+  "description": "Paper Machine Circulating Oils",
+  "family": "Paper Machine",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "heat transfer",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "roller cylindrical",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "screw pump",
+    "servo",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a9b40b03-4c45-4c35-ba19-9018d248e67e.pdf",
+      "type": "GTDS",
+      "name": "Paper Machine Oil S3 M 220 EN TDG V2.3 16-Aug-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558327.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S3 M 220 Netherlands EN 140002783873 EHS V3.2 21-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558328.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S3 M 220 Netherlands NL 140002783873 EHS V3.2 21-APR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Voith VN 108",
+      "organisation": "Voith",
+      "spec": "VN 108"
+    },
+    {
+      "name": "DIN 51354-2",
+      "organisation": "DIN",
+      "spec": "51354-2"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Paper Machine Oils S3 M are high performance oils based on modern ashless additive technology.  They are designed to provide excellent all round protection for the diverse needs and conditions found in modern paper machines.  They meet the requirements of Metso, SKF and Voith systems.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "19.2"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "897"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Demulsibility Separation Time",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "mins",
+      "value": "10"
+    },
+    {
+      "property": "Rust Test, Synthetic Sea Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Oxidation Life (TOST)",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hrs",
+      "value": "4378"
+    },
+    {
+      "property": "Timken, OK Load",
+      "method": "ASTM D2782",
+      "uom": "",
+      "units": "lbs",
+      "value": "60"
+    },
+    {
+      "property": "Foam Test, Seq II ml",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam at 0/10 mins",
+      "value": "0/0"
+    },
+    {
+      "property": "FZG Load Stage",
+      "method": "ASTM D5182",
+      "uom": "",
+      "units": "",
+      "value": "12 Pass"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

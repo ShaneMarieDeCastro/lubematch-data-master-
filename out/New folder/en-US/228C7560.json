@@ -1,0 +1,147 @@
+{
+  "id": "228C7560",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "ShellZone DEX-COOL ELC AF/C 50/50",
+  "description": "Extended Life Antifreeze Pre-diluted",
+  "family": "Dexcool",
+  "parentCategory": "",
+  "category": "Coolants/Antifreeze - Diluted",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/30555aa8-e5e5-455e-ba03-8813946dc304.pdf",
+      "type": "GTDS",
+      "name": "ShellZone DEX-COOL ELC AF/C 50/50 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/8e00553b-987d-45d0-84cd-b7990232eee4.pdf",
+      "type": "LTDS",
+      "name": "ShellZone DEX-COOL ELC AF/C 50/50 United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563861.PDF",
+      "type": "LMSDS",
+      "name": "ShellZone DEX-COOL ELC AF/C 50/50 United States EN 140002686046 EHS V5.0 16-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "228C7560_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022528",
+      "margin": "0.515984303747921",
+      "packShot": ""
+    },
+    {
+      "code": "228C7560_002V2V_A0II",
+      "name": "Bottle 1 Gal Local (F-Style) Plastic White (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "9407006021",
+      "margin": "0.445279185535192",
+      "packShot": ""
+    },
+    {
+      "code": "228C7560_001176_A1SJ",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005292",
+      "margin": "0.35425178130263",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors GM 1899M",
+      "organisation": "General Motors",
+      "spec": "GM 1899M"
+    },
+    {
+      "name": "US Fed A-A-870-A",
+      "organisation": "US Fed",
+      "spec": "A-A-870-A"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "General Motors GM 6277M",
+      "organisation": "General Motors",
+      "spec": "GM 6277M"
+    },
+    {
+      "name": "General Motors GM 1825M",
+      "organisation": "General Motors",
+      "spec": "GM 1825M"
+    },
+    {
+      "name": "General Motors DEX-COOL",
+      "organisation": "General Motors",
+      "spec": "DEX-COOL"
+    },
+    {
+      "name": "Ford ESE-M97B44-D",
+      "organisation": "Ford",
+      "spec": "ESE-M97B44-D"
+    },
+    {
+      "name": "ASTM D4340",
+      "organisation": "ASTM",
+      "spec": "D4340"
+    },
+    {
+      "name": "ASTM D4656",
+      "organisation": "ASTM",
+      "spec": "D4656"
+    },
+    {
+      "name": "VAG G-12",
+      "organisation": "VAG",
+      "spec": "G-12"
+    },
+    {
+      "name": "Chrysler MS 9769 - Meets performance requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 9769 - Meets performance requirements"
+    },
+    {
+      "name": "General Motors GM 6038M",
+      "organisation": "General Motors",
+      "spec": "GM 6038M"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "ShellZone DEX-COOL^® Extended Life Antifreeze/Coolant is a single-phase, ethylene glycol based, extended life, universal automotive engine coolant based on a unique extended life carboxylate inhibitor system. ShellZone DEX-COOL® is suitable for a five year or 150,000 mile service life in automotive applications. In heavy-duty applications not requiring nitrite ShellZone DEX-COOL® is suitable for a service life of 600,000 miles or 12,,000 hours. ShellZone DEX-COOL® Extended Life AF/C 50/50 is ready to use and requires no further dilution.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

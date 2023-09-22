@@ -1,0 +1,252 @@
+{
+  "id": "001D5439",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T Triple Protection 15W-40",
+  "description": "Triple Protection Technology - Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bio gas",
+    "biodiesel",
+    "brakes",
+    "cars",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "fixed",
+    "four stroke",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "light fuel",
+    "lng",
+    "locomotive",
+    "low speed",
+    "lpg",
+    "manual sequential",
+    "marine",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "pump piston",
+    "reduction gears",
+    "screw pump",
+    "slew",
+    "stationary",
+    "swing drive",
+    "tandem drive",
+    "transmissions",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rotella_T_Triple_Protection_15W-40_(CJ-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Rotella T Triple Protection 15W-40 (CJ-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/b5be8294-aac2-4a4d-889b-eb975a9be750.pdf",
+      "type": "LTDS",
+      "name": "Rotella T Triple Protection 15W-40 (CJ-4) Canada FR TDG V2.2 16-Feb-2016",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/1b930aa2-cbf7-4fb4-96e4-5119c59bf00b.pdf",
+      "type": "LTDS",
+      "name": "Rotella T Triple Protection 15W-40 (CJ-4) Canada EN TDG V2.2 25-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291175.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T Triple Protection 15W-40 (CJ-4) Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291176.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T Triple Protection 15W-40 (CJ-4) Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "API SH",
+      "organisation": "API",
+      "spec": "SH"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "JASO MA",
+      "organisation": "JASO",
+      "spec": "MA"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Ford WSS-M2C171-E",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-E"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    },
+    {
+      "name": "Deutz DQC III-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-10 LA"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "Renault RLD-3",
+      "organisation": "Renault",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "* Comparativement aux huiles de la classe de service CI¬4 PLUS de l’API",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

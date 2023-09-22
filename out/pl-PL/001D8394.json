@@ -1,0 +1,84 @@
+{
+  "id": "001D8394",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Refrigeration Oil S4 FR-F 32",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Oleje do sprężarek chłodniczych",
+  "applicationKeys": [
+    "bearing",
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8d9d1c52-0232-47e4-b92d-911cc2f5c74c.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 32 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574580.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Poland PL 140003791557 EHS V1.5 15-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574581.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Poland EN 140003791557 EHS V1.5 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/5aa7f29d-b747-4fb7-8084-75e855a7bce4.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Poland PL TDG V1.2 30-Sep-2020",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8394_002VO8_A1P5",
+      "name": "Wiadro 20 L T/H Steel Shell Yellow (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550025695",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F to olej syntetyczny na bazie estrów poliolowe do sprężarek chłodniczych.\nPrzeznaczony do stosowania w układach chłodniczych, w których stosowane są ziębniki typu R134a i inne typu HFC.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

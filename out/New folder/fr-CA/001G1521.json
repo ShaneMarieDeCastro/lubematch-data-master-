@@ -1,0 +1,75 @@
+{
+  "id": "001G1521",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Argina S2 30",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": "",
+  "category": "Huiles moteur - Moteur à piston plongeur",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "light fuel",
+    "marine",
+    "medium speed"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ec8daae1-01db-4bba-b2fe-de300219a4fb.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S2 30 EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290069.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S2 30 Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290068.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S2 30 Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1521_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500011753",
+      "margin": "0.828150296073428",
+      "packShot": ""
+    },
+    {
+      "code": "001G1521_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550054718",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S2 30 is a multifunctional crankcase lubricant for highly rated medium-speed diesel engines operating on residual, blended or distillate fuels. Shell Argina S2 30 has a BN of 20 and is designed for conditions of low oil stress.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

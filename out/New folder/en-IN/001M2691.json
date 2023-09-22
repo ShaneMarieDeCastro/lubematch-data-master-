@@ -1,0 +1,75 @@
+{
+  "id": "001M2691",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Fleet NX 10W30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3e9172b2-1b04-4066-a6e4-748cd587d866.pdf",
+      "type": "GTDS",
+      "name": "Shell Fleet NX 10W30 (CK-4) (India) EN TDG V1.2 09-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575534.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fleet NX 10W30 (CK-4) (India) India EN 140006501563 EHS V1.0 16-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Fleet NX 10W 30 oils feature \"Low-SAPS\" additive technology while delivering energy savings. Protective power is enhanced through the use of synthetic base oil technology to deliver fuel economy performance with no compromise in durability.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

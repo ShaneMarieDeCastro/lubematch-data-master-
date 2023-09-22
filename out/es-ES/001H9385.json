@@ -1,0 +1,72 @@
+{
+  "id": "001H9385",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Mysella S7 N Ultra 40",
+  "description": "Premium Stationary Gas Engine Oil for Ultra Extended Oil Life",
+  "family": "Mysella",
+  "parentCategory": "Aceites de motor industriales",
+  "category": "Aceites del motor - Motor estacionario de gas",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "low ash",
+    "natural gas",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f5999273-152f-4493-b2ee-7b31e9e40067.pdf",
+      "type": "GTDS",
+      "name": "Mysella S7 N Ultra 40 EN TDG V1.4 14-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/911504d6-5c73-425c-9639-e0d4efeda635.pdf",
+      "type": "LTDS",
+      "name": "Mysella S7 N Ultra 40 Spain ES TDG V1.4 19-Apr-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607835.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S7 N Ultra 40 Spain EN 140003966322 EHS V1.4 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607833.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S7 N Ultra 40 Spain ES 140003966322 EHS V1.4 03-JUL-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H9385_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550055029",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S7N Ultra es un aceite de muy alto rendimiento diseñado para su uso en motores estacionarios de 4 tiempos, especialmente aquellos con pistones de acero. Gracias a su más avanzada y específica tecnología, garantiza una excelente limpieza del motor y unos intervalos de cambio \"ultra\" extendidos.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,152 @@
+{
+  "id": "001G3600",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rimula R4 MV 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "off highway",
+    "on highway",
+    "stationary"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/079f8b4c-94ad-4e8f-af00-b1651260ece5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 MV 15W-40 (CK-4) EN TDG V1.1 08-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573673.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 MV 15W-40 (CK-4) United States EN 140002686046 EHS V1.0 10-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Deutz DQC III-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-10 LA"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 MV oils use “Low-SAPS” additive technology to protect low emission engines under severe operating conditions like mining, construction and quarrying.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "115"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15.3"
+    },
+    {
+      "property": "Dynamic Viscosity",
+      "method": "ASTM D5293",
+      "uom": "@-20°C",
+      "units": "mPa s",
+      "value": "6400"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "139"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.876"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "236"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-35"
+    },
+    {
+      "property": "Total Base Number",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g ",
+      "value": "10"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,68 @@
+{
+  "id": "001D8373",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Diala S2 ZU-I ngt",
+  "description": "Uninhibited Electrical Insulating Oil",
+  "family": "Diala",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Elektrische oliën",
+  "applicationKeys": [
+    "dielectric fluid",
+    "electrical",
+    "hydraulic system",
+    "hydraulics",
+    "insulating",
+    "pump gear",
+    "uninhibited"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ce3b1604-318b-4106-9c72-21579ea626d2.pdf",
+      "type": "GTDS",
+      "name": "Diala S2 ZU-I non-gasoil tariff EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573868.PDF",
+      "type": "LMSDS",
+      "name": "Diala S2 ZU-I non-gasoil tariff Netherlands NL 140002783873 EHS V2.5 11-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140003932878_201106011941.pdf",
+      "type": "LTDS",
+      "name": "Diala S2 ZU-I non-gasoil tariff Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573888.PDF",
+      "type": "LMSDS",
+      "name": "Diala S2 ZU-I non-gasoil tariff Netherlands EN 140002783873 EHS V2.5 11-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S2 ZU-I non-gasoil tariff meets both the established and the new industry copper corrosion tests.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

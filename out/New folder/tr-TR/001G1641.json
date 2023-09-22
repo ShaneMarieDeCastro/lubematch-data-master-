@@ -1,0 +1,238 @@
+{
+  "id": "001G1641",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Rimula R4 L 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "light fuel",
+    "lng",
+    "locomotive",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dba2e1e2-ad75-4fec-810f-63cf2c9031aa.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) EN TDG V2.1 08-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/03073547-f045-4d39-a89f-c7e1d170c845.pdf",
+      "type": "LTDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) Turkey TR TDG V2.1 13-May-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02310923.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) Turkey EN 140003791542 EHS V1.9 06-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02310922.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) Turkey TR 140003791542 EHS V1.9 06-MAY-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1641_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550047252",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002VND_A246",
+      "name": "Kova 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550047251",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Iveco T2 E7 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T2 E7 - Meets the requirements"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "Deutz DQC III-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-10 LA"
+    },
+    {
+      "name": "Case New Holland MAT 3522 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3522 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Allison TES-439",
+      "organisation": "Allison",
+      "spec": "TES-439"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Case New Holland MAT 3521 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3521 - Suitable for use in applications which require"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 L, modern düşük emisyonlu motorları en zor koşullarda bile korumak için tasarlanmış \"Low-SAPS\" katkı teknolojisi ile formüle edilmiştir. Yüksek sıcaklıklar altında bozulmaya karşı direnç, aşınmaya karşı koruma ve depozit kontrolünde,  eski nesil yağlara göre çok daha iyi bir performans sergilemektedir.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R4-L-15_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

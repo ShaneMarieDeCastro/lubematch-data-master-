@@ -1,0 +1,101 @@
+{
+  "id": "001H2219",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix HX8 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/373781f8-da8b-4124-a65e-af514ceffec8.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 5W-30 (SL A3/B4 MB229.5) EN TDG V1.2 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554228.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-30 (SL A3/B4 MB229.5) Germany DE 140001492039 EHS V2.2 14-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554227.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-30 (SL A3/B4 MB229.5) Germany EN 140001492039 EHS V2.2 14-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 synthetic motor oil works hard to help keep modern engines clean and protected.  It helps to prevent the formation of harmful deposits that can lead to performance loss and helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

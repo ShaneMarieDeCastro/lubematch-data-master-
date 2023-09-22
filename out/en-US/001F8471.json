@@ -1,0 +1,78 @@
+{
+  "id": "001F8471",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Morlina S2 BL 10",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d8dfb2ae-d09a-4541-93b5-b1ae626a4e4a.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 10 (2016) EN TDG V1.3 29-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563227.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) United States EN 140002686046 EHS V1.3 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/0a5aedb0-441d-4c9c-973e-9598e1d47d0f.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 10 (2016) United States EN TDG V1.3 29-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8471_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550053970",
+      "margin": "1.83753384702643",
+      "packShot": ""
+    },
+    {
+      "code": "001F8471_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011691",
+      "margin": "0.485700400185174",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 10 uses special low viscosity Shell Gas-to-Liquid (GTL) technology blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "001F2646",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Morlina S4 B 320",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Aceites circulantes y para rodamientos",
+  "category": "Aceites circulantes y para rodamientos",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "long life",
+    "low temperature",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0c01d417-3b25-4c59-b344-5760f0afa648.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 320 (2014) EN TDG V4.8 11-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/c00af765-a695-40a5-9515-b56cc186f887.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 320 (2014) Spain ES TDG V4.8 14-Jul-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02452864.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 320 (2014) Spain EN 140003966322 EHS V1.4 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02451751.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 320 (2014) Spain ES 140003966322 EHS V1.4 21-SEP-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B son lubricantes sintéticos de alto rendimiento para cojinetes y sistemas de circulación, fabricados a partir de aceites base de alto rendimiento. Ofrecen un excepcional rendimiento de lubricación en duras condiciones de operación, mejorando la eficiencia energética y prolongando la vida útil de los equipos, incluso aquellos sometidos a condiciones de máxima exigencia.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_morlina_s4_b.png",
+  "valueRecord": [],
+  "commerce": null
+}

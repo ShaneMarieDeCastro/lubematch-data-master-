@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "synonyms": ["pennzoil", "pzl"]
+    },
+    {
+      "synonyms": ["коробок передач", "transmission"]
+    },
+    {
+      "synonyms": ["grease", "Смазки"]
+    },
+    {
+      "synonyms": ["helix", "Хеликс"]
+    }
+  ],
+  "xref": [
+    {
+      "synonyms": ["exxonmobil", "mobil"]
+    },
+    {
+      "synonyms": ["grease", "Смазки"]
+    },
+    {
+      "synonyms": ["pennzoil", "pzl"]
+    }
+  ],
+  "old2new": [
+    {
+      "synonyms": ["pennzoil", "pzl"]
+    },
+    {
+      "synonyms": ["grease", "Смазки"]
+    }
+  ],
+  "product-families":[]
+}

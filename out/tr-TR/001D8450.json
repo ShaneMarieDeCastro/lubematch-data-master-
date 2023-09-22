@@ -1,0 +1,156 @@
+{
+  "id": "001D8450",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Gadus S2 V220 1",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "bearing",
+    "centralised lubrication",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "high performance",
+    "hinges",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "marine",
+    "multipurpose",
+    "plain bearings",
+    "roller bearings",
+    "roller cylindrical",
+    "shock load",
+    "sliding surfaces",
+    "trucks",
+    "versatile",
+    "water resistance",
+    "water washout",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2e9eecb9-d9b9-4321-ac84-cd92f8bcf30b.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220 1 EN TDG V1.4 07-Feb-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/120d521f-843d-4ef7-9728-f2cfe0136944.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220 1 Turkey TR TDG V1.4 26-Mar-2018",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319024.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 1 Turkey TR 140003791542 EHS V2.3 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319844.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 1 Turkey EN 140003791542 EHS V2.3 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8450_002XD7_A246",
+      "name": "Kova 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kilogram",
+      "pack": "Kova",
+      "materialCode": "550028217",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8450_002VH7_A246",
+      "name": "Fıçı 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kilogram",
+      "pack": "Fıçı",
+      "materialCode": "550028215",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220 1, endüstri ve nakliye sektöründeki birçok uygulamada mevcut olan düz ve kaymalı yatakların yağlanması için tasarlanmış çok amaçlı bir gresdir.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "310-340"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg minimum",
+      "value": "315"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s2_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

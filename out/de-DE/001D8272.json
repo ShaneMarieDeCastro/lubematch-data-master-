@@ -1,0 +1,221 @@
+{
+  "id": "001D8272",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S6 GXME 75W-80",
+  "description": "Premium, SyntheticTechnology, Fuel Economy Manual Transmission and Gearbox Ol",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "fuel efficiency",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "integrated retarders",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "meadium load",
+    "medium loaded axle",
+    "mobile",
+    "off highway",
+    "on highway",
+    "passenger car",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "semi automatic",
+    "semi manual",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-80",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fea1211d-b902-4300-b3d3-3f9b071dd0f7.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 GXME 75W-80 EN TDG V2.7 17-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/1ff2b345-90ee-48bc-8e59-3049152fefbf.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 GXME 75W-80 Germany DE TDG V2.7 18-Mar-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577897.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GXME 75W-80 Germany EN 140001492039 EHS V1.8 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577896.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GXME 75W-80 Germany DE 140001492039 EHS V1.8 23-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8272_002VNF_A1P5",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027940",
+      "margin": "2.52215529369035",
+      "packShot": ""
+    },
+    {
+      "code": "001D8272_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027939",
+      "margin": "2.27511016806556",
+      "packShot": ""
+    },
+    {
+      "code": "001D8272_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550046926",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 16K",
+      "organisation": "ZF",
+      "spec": "TE-ML 16K"
+    },
+    {
+      "name": "MAN 341 Type Z4",
+      "organisation": "MAN",
+      "spec": "341 Type Z4"
+    },
+    {
+      "name": "Volvo 97307",
+      "organisation": "Volvo",
+      "spec": "97307"
+    },
+    {
+      "name": "ZF TE-ML 02L",
+      "organisation": "ZF",
+      "spec": "TE-ML 02L"
+    },
+    {
+      "name": "ZF TE-ML 01L",
+      "organisation": "ZF",
+      "spec": "TE-ML 01L"
+    },
+    {
+      "name": "MAN 341 Type E3",
+      "organisation": "MAN",
+      "spec": "341 Type E3"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 GXME 75W-80 ist ein einzigartiges, kraftstoffeinsparendes Longlife-Getriebeöl. Es wurde speziell für ultimative Leistung und herausragenden Schutz entwickelt, um die Anforderungen heutiger und auch zukünftiger Getriebe zu erfüllen. Es basiert auf Grundölen aus der Shell Synthesetechnologie in Kombination mit einer speziellen neuartigen Additivtechnologie zur besseren Schmierung und für eine längere Nutzungsdauer der Getriebeteile.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "75W-80"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "53,7"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "9,55"
+    },
+    {
+      "property": "Dynamische Viskosität",
+      "method": "ASTM D2983",
+      "uom": "@–40 °C",
+      "units": "mPa.s",
+      "value": "30000"
+    },
+    {
+      "property": "Scherstabilität (Viskosität nach Scherung)",
+      "method": "CEC L-45_A-99 ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "8,7"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "163"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "850"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–51"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027940_Shell_Spirax_S6_GXME_75W-80_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

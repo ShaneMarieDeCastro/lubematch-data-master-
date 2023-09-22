@@ -1,0 +1,134 @@
+{
+  "id": "001B0909",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rhodina Grease BBZ",
+  "description": "Special Purpose Blade Bearing Grease",
+  "family": "Rhodina",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne bez dodatków EP",
+  "applicationKeys": [
+    "blade bearing"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4c25bfe2-816b-4a37-8855-4a5c0f7d7ff0.pdf",
+      "type": "GTDS",
+      "name": "Rhodina BBZ EN TDG V1.1 22-Feb-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543577.PDF",
+      "type": "LMSDS",
+      "name": "Rhodina BBZ Poland EN 140003791557 EHS V2.14 23-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/d1f563f4-2349-40d1-8fcb-2d35e4b595a6.pdf",
+      "type": "LTDS",
+      "name": "Rhodina BBZ Poland PL TDG V1.1 15-Jun-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543576.PDF",
+      "type": "LMSDS",
+      "name": "Rhodina BBZ Poland PL 140003791557 EHS V2.14 23-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0909_002VT7_EURO",
+      "name": "Tuba 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550050004",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B0909_002XEC_A1P5",
+      "name": "Wiadro 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550034440",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Rhodina Smar BBZ jest przeznaczona do wymagających zastosowań zewnętrznych, szczególnie gdy wymagana jest wysoka odporność na korozję cierną i odkształcenia zmęczeniowe, nawet w bardzo niskich temperaturach.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1.5"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Calcium"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Part Synthetic"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "13"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "3"
+    },
+    {
+      "property": "Cone Penetration Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1 mm",
+      "value": "300"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "145"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,115 @@
+{
+  "id": "001D8293",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Spirax S1 ATF Type F",
+  "description": "Quality Type F Automatic Transmission and Hydraulic Fluid",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "agricultural",
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "axle",
+    "construction",
+    "differential",
+    "final drive",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "manual sequential",
+    "off highway",
+    "offroad",
+    "power steering",
+    "pump piston",
+    "pump vane",
+    "reduction gears",
+    "screw pump",
+    "tandem drive",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S1_ATF_Type_F_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S1 ATF Type F English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/5787b2db-73f5-4409-869a-d62e03492872.pdf",
+      "type": "LTDS",
+      "name": "Spirax S1 ATF Type F Canada FR TDG V2.1 13-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290420.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF Type F Canada FR 140006579500 EHS V1.7 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289314.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF Type F Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/44e629ec-7845-441a-b0ff-fde3e0f3f4ad.pdf",
+      "type": "LTDS",
+      "name": "Spirax S1 ATF Type F Canada EN TDG V2.1 11-Jan-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford (service fill) M2C33F - Meets the requirements",
+      "organisation": "Ford (service fill)",
+      "spec": "M2C33F - Meets the requirements"
+    },
+    {
+      "name": "Ford (service fill) M2C33G",
+      "organisation": "Ford (service fill)",
+      "spec": "M2C33G"
+    },
+    {
+      "name": "Ford SQM-2C 9007-AA",
+      "organisation": "Ford",
+      "spec": "SQM-2C 9007-AA"
+    },
+    {
+      "name": "Ford (service fill) M2C33F",
+      "organisation": "Ford (service fill)",
+      "spec": "M2C33F"
+    },
+    {
+      "name": "Ford (service fill) M2C33G - Meets the requirements",
+      "organisation": "Ford (service fill)",
+      "spec": "M2C33G - Meets the requirements"
+    },
+    {
+      "name": "Ford SQM-2C 9007-AA - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "SQM-2C 9007-AA - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S1 ATF Type F is a quality automatic transmission fluid, specially formulated to meet the lubrication requirements of specific automatic transmission units, power steering systems and hydraulic systems.  It is based on a blend of high viscosity index oils and proven additives, to provide protection in units requiring a non-friction modified type fluid.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Pzl Ultra Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

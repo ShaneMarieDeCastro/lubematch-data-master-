@@ -1,0 +1,70 @@
+{
+  "id": "001H2173",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rimula R3 L 15W-40",
+  "description": "Low Emissions - Multigrade Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/35d5c4de-ed40-4493-9a54-2fc6fbbf9d1e.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 L 15W-40 (CJ-4) EN TDG V1.4 29-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563224.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 L 15W-40 (CJ-4) United States EN 140002686046 EHS V1.3 28-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to provide suitable protection for low emission engines found in On and Off highway applications.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

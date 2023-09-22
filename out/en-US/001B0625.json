@@ -1,0 +1,152 @@
+{
+  "id": "001B0625",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Malleus Grease GL 3500",
+  "description": "Special Purpose Open Gear and Wire Rope Grease",
+  "family": "Malleus",
+  "parentCategory": null,
+  "category": "Open Gear Greases",
+  "applicationKeys": [
+    "gearbox",
+    "industrial",
+    "open gears",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c9581ee2-9573-4f48-b0d4-32b0667d89eb.pdf",
+      "type": "GTDS",
+      "name": "Malleus GL 3500 EN TDG V1.6 29-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/753fd4ed-ed24-4411-b14c-f51baa7e9be1.pdf",
+      "type": "LTDS",
+      "name": "Malleus GL 3500 United States EN TDG V1.6 29-Dec-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563612.PDF",
+      "type": "LMSDS",
+      "name": "Malleus GL 3500 United States EN 140002686046 EHS V2.6 24-JUN-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Malleus GL 3500 combines high performance with an environmentally safe chemistry that minimizes the cost of disposal and provide optimum performance, providing a tenacious lubricant film that resists ‘fling off’.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "00"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Aluminium Complex"
+    },
+    {
+      "property": "Texture (Visual)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Tacky"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "min. 4150"
+    },
+    {
+      "property": "Cone Penetration Worked",
+      "method": "ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "400 - 430"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "190"
+    },
+    {
+      "property": "Rust Test",
+      "method": "ASTM D1743",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Copper Strip Corrosion (3 hrs)",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "NULL",
+      "value": "1b"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "Kg",
+      "value": "800"
+    },
+    {
+      "property": "Four Ball Wear Scar",
+      "method": "ASTM D2266",
+      "uom": "",
+      "units": "mm",
+      "value": "Max 0.7"
+    },
+    {
+      "property": "Four Ball Load Wear Index (LWI)",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg",
+      "value": "120"
+    },
+    {
+      "property": "FZG A/2.76/50 Load Stage Pass",
+      "method": "DIN 51354",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "12"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,120 @@
+{
+  "id": "001A9785",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Turbo Oil T 100",
+  "description": "High Performance Steam Turbine Oil",
+  "family": "Turbo",
+  "parentCategory": "",
+  "category": "Huiles pour turbine",
+  "applicationKeys": [
+    "ashless",
+    "aviation turbines",
+    "ball",
+    "bearing",
+    "gas turbines",
+    "gearbox",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "hydroelectric turbine",
+    "industrial",
+    "journal",
+    "light duty gas turbine",
+    "manual sequential",
+    "plain",
+    "pump gear",
+    "rollers",
+    "rotary vane",
+    "steam",
+    "steam turbine",
+    "tost life 5000 hours",
+    "transmissions",
+    "turbine",
+    "turbocompressors",
+    "vacuum pumps",
+    "water",
+    "wire rod mill",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2b709978-d93f-4d9b-bcf9-f628929076a7.pdf",
+      "type": "GTDS",
+      "name": "Turbo T 100 EN TDG V4.0 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552592.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 France EN 140003182031 EHS V2.9 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552593.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 France FR 140003182031 EHS V2.9 12-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/00a14f0b-c574-40a5-bfa3-d0b5d262b8af.pdf",
+      "type": "LTDS",
+      "name": "Turbo T 100 France French",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9785_002VSH_A181",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550013829",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 8068:2006 L-THA",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-THA"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    },
+    {
+      "name": "Indian Standard IS 1012 2002",
+      "organisation": "Indian Standard",
+      "spec": "IS 1012 2002"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles Shell Turbo Oils T sont considérées depuis longtemps comme l'une des références dans le domaine des huiles de turbines industrielles. Shell Turbo Oils a été développée sur la base de cette réputation, pour offrir des performances encore améliorées afin de satisfaire aux exigences des turbines vapeur les plus modernes et des turbines industrielles à gaz en service normal qui ne requièrent pas de caractéristiques anti-usure pour leur réducteur. Shell Turbo Oils T est formulée à partir d'huiles de base hydrotraitées de haute qualité et d'une additivation sans zinc qui procurent une excellente résistance à l'oxydation, une bonne protection anti rouille et anti corrosion, un faible moussage et une excellente capacité de désémulsion. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

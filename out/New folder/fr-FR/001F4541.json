@@ -1,0 +1,175 @@
+{
+  "id": "001F4541",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Rimula R6 M 10W-40",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "aviation",
+    "biodiesel",
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "hydrostatic",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "multi fuel",
+    "off highway",
+    "on highway",
+    "piston engine",
+    "stationary",
+    "tractor drivetrain",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e53eac5e-369e-49f5-8cc0-b2fe21e0d7c5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) EN TDG V4.5 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02499773.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) France EN 140003182031 EHS V1.4 07-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02499751.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) France FR 140003182031 EHS V1.4 07-DEC-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/cf5c8844-f961-433a-9aad-de7285e12c4e.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) France FR TDG V4.6 23-Mar-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4541_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550044826",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4541_002VNF_A246",
+      "name": "Sceau 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550044843",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4541_002WX1_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550054435",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Deutz DQC IV-10",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Renault RLD-2",
+      "organisation": "Renault",
+      "spec": "RLD-2"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "MB-Approval 228.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.5"
+    },
+    {
+      "name": "MAN M 3377",
+      "organisation": "MAN",
+      "spec": "M 3377"
+    },
+    {
+      "name": "ACEA E4",
+      "organisation": "ACEA",
+      "spec": "E4"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Iveco T3 E4 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T3 E4 - Meets the requirements"
+    },
+    {
+      "name": "MTU Category 3",
+      "organisation": "MTU",
+      "spec": "Category 3"
+    },
+    {
+      "name": "JASO DH-1",
+      "organisation": "JASO",
+      "spec": "DH-1"
+    },
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 M se caractérise par une technologie d'additif multi actifs contenus dans une huile de base synthétique procurant un niveau de protection élevé et rallonge les périodicités de vidange tout en garantissant une excellent niveau de protection contre l'usure induit par les suies et les dépôts sur les pistons et le moteur. Shell Rimula R6 M permet également des économies de carburant et convient pour la majorité des moteurs Euro 4 et Euro 5 sans filtre à particule.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R6-M-10_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

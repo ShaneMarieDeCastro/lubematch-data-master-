@@ -1,0 +1,102 @@
+{
+  "id": "001A0914",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Grease 14",
+  "description": "Mineral grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c6cba754-1bbf-44b5-8058-25cad8d03773.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 14 EN TDG V1.2 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564132.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 United States EN 140002686046 EHS V12.0 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/cb0f91f1-fa6b-48ec-a881-bd058fc9b4e0.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 14 United States EN TDG V1.2 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0914_002VWZ_A606",
+      "name": "Cartridge 0.4 kg Standard Grease Preprinted (30)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550043639",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0914_002XN4_A1WJ",
+      "name": "Pail 17 kg Open head Plastic HDPE Shell Red (1)",
+      "size": "17",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550043625",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0914_002VH7_A1WJ",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550043624",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-G-25537C",
+      "organisation": "MIL",
+      "spec": "G-25537C"
+    },
+    {
+      "name": "NATO G-366",
+      "organisation": "NATO",
+      "spec": "G-366"
+    },
+    {
+      "name": "Joint Service Designation XG-284",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-284"
+    },
+    {
+      "name": "DEF STAN 91-51",
+      "organisation": "DEF STAN",
+      "spec": "91-51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +75°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,93 @@
+{
+  "id": "001I5508",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Omala S3 A 220",
+  "description": "Premium Industrial Gear Oil",
+  "family": "non-GKA GPO - other",
+  "parentCategory": null,
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/02135c6a-defa-43be-84f1-f69149b59581.pdf",
+      "type": "GTDS",
+      "name": "Shell Omala S3 A 220 EN TDG V1.1 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289730.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 A 220 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/e4b8d782-4398-4d58-8019-68b5b347dd04.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 A 220 Canada EN TDG V1.1 26-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/4aea623e-cfb1-4d07-bb30-80cbead14daa.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 A 220 Canada FR TDG V1.1 11-Dec-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289729.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 A 220 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5508_002VOM_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550058346",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5508_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057355",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5508_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057354",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 A ​​220 est un lubrifiant synthétique formulé pour offrir une excellente lubrification, stabilité et durée de vie prolongée pour les engrenages industriels fermés. Shell Omala S3 A ​​220 maintient d'excellentes performances pendant l'utilisation et aide à réduire les températures de fonctionnement, la friction et l'usure.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

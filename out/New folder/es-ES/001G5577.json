@@ -1,0 +1,89 @@
+{
+  "id": "001G5577",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Ultra Professional AF-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/831c9f0d-12a1-4877-b1cd-28d9283634fd.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/es/9f9e7d5e-c08c-42a0-9c60-445aa280cd6f.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Spain ES TDG V1.0 21-Aug-2018",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02516449.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Spain EN 140003966322 EHS V1.3 15-JAN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02516450.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Spain ES 140003966322 EHS V1.3 15-JAN-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5577_002YAP_EURO",
+      "name": "Botella 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550048343",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G5577_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550048188",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C950-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C950-A"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Diseñado para cumplir los requerimientos de motores de alto redimiento, incluyendo Ford y aquellos que requieran de ACEA C2",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550048343_Shell_Helix_Ult_Pro_AF-L_0W-30_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

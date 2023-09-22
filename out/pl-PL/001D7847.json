@@ -1,0 +1,111 @@
+{
+  "id": "001D7847",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Omala S3 GP 460",
+  "description": "Special Application Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oleje do przekładni przemysłowych",
+  "category": "Oleje do przekładni przemysłowych",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "gearbox",
+    "gears",
+    "heavily shock loaded operations",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "older gear systems",
+    "plain",
+    "shock load",
+    "splash lubricated bearings",
+    "wire rod mill",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S3_GP_460_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 GP 460 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596475.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 460 Poland EN 140003791557 EHS V1.2 15-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596474.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 460 Poland PL 140003791557 EHS V1.2 15-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/3ae33222-5dc5-476d-8b70-c5f160ced98f.pdf",
+      "type": "LTDS",
+      "name": "Omala S3 GP 460 Poland PL TDG V3.1 31-Mar-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7847_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027178",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "Textron Power Transmission S1.53.101E",
+      "organisation": "Textron Power Transmission",
+      "spec": "S1.53.101E"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Oleje Shell Omala S3 GP są specjalistycznymi środkami smarnymi opracowanymi do smarowania przekładni przemysłowych pracujących w warunkach wysokich i udarowych obciążeń, występującym m.in. w przemyśle stalowym, cementowym, wydobywczym i kamieniarskim. Są one specjalnie odpowiednie, gdy wymagane są bardzo wysokie poziomy ochrony przeciwzatarciowej.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

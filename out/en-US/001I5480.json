@@ -1,0 +1,71 @@
+{
+  "id": "001I5480",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Fire-Resistant HFA",
+  "description": "Water Based Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ead2ed05-3cdd-4c00-85b1-c60e13169096.pdf",
+      "type": "GTDS",
+      "name": "Shell Fire Resistant HFA EN TDG V1.4 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/5dc84d27-318e-437d-a9f9-de288cff3538.pdf",
+      "type": "LTDS",
+      "name": "Shell Fire Resistant HFA United States EN TDG V1.4 30-Sep-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563992.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fire Resistant HFA United States EN 140002686046 EHS V1.6 04-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5480_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012340",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5480_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550058345",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Fire Resistant HFA is a high-water hydraulic fluid that has a specially formulated thickener that naturally forms a colloid when placed into water. Shell Fire Resistant HFA has the environmental benefits of being a high water based hydraulic fluid and the improved hydraulic control obtained with higher viscosity than what can be obtained with other HFA fluids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

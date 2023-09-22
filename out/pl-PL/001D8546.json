@@ -1,0 +1,95 @@
+{
+  "id": "001D8546",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S3 T220 2",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne z dodatkami EP",
+  "applicationKeys": [
+    "bearing",
+    "electric motors",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "general engineering",
+    "high load",
+    "high temperature",
+    "hot strip mills",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "paper",
+    "paper mill bearings",
+    "plain bearings",
+    "polyurea",
+    "premium",
+    "roller bearings",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9fb7de9-5b4b-4fc2-be78-afeb3a96917c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T220 2 EN TDG V2.4 27-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594427.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 Poland PL 140003791557 EHS V6.5 14-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/09ecb209-afd4-42b7-8182-d29ee3cf8260.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T220 2 Poland PL TDG V2.4 29-Sep-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594371.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 Poland EN 140003791557 EHS V5.5 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8546_002VGF_EURO",
+      "name": "Tuba 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550050091",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8546_002VME_A246",
+      "name": "Wiadro 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028053",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

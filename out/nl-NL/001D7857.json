@@ -1,0 +1,169 @@
+{
+  "id": "001D7857",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Omala S4 WE 220",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriële tandwielkastoliën",
+  "category": "Industriële tandwielkastoliën",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diaphragm",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "fixed",
+    "fuel",
+    "gas turbines",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "non shiftable",
+    "off highway",
+    "pag",
+    "plain",
+    "powershift",
+    "pump",
+    "pump gear",
+    "pump piston",
+    "reduction gears",
+    "rollers",
+    "splash lubricated bearings",
+    "thrust",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "water pump",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0511d900-214e-48ab-a89b-047ad65ebb06.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 220 EN TDG V4.4 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573127.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 220 Netherlands EN 140002783873 EHS V1.14 09-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/dd3ef438-5af3-4bc0-9797-1aa265e3f1fa.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 220 Netherlands NL TDG V4.4 25-Aug-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573366.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 220 Netherlands NL 140002783873 EHS V1.14 09-MAY-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7857_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027185",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE is een geavanceerde synthetische tandwielkastolie voor zwaar belaste wormwieloverbrengingen geformuleerd met specifiek geselecteerde basisoliën op  polyalkyleenglycolbasis en additieven. Shell Omala S4 WE levert een uitstekende smering en bescherming onder zware omstandigheden, energiebesparing, zeer lange standtijden en een uitstekende bescherming tegen micro-pitting.\n",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "222"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "34.4"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "203"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "",
+      "units": "°C",
+      "value": "278"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "1074"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2  A/8.3/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [],
+  "commerce": null
+}

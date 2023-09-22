@@ -1,0 +1,133 @@
+{
+  "id": "001F4440",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix Ultra ECT C3 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9a2d8fc1-fc85-43e6-b57f-d8c763a780ba.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) EN TDG V2.1 22-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621947.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Italy EN 140007645406 EHS V1.6 21-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621946.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Italy IT 140007645406 EHS V1.6 21-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/f89ce66e-2758-45a8-8ba7-28b538c7c945.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Italy IT TDG V2.0 06-Oct-2021",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4440_002XS4_A246",
+      "name": "Fusti 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusti",
+      "materialCode": "550042824",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002WX1_EURO",
+      "name": "Bottiglia 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550067698",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002W21_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550049781",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "Chrysler MS 11106",
+      "organisation": "Chrysler",
+      "spec": "MS 11106"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C3 presenta la  tecnologia più avanzata ad emissioni compatibili che aiuta a mantenere  i filtri antiparticolato diesel puliti, mantendo le  prestazioni del motore. Aiuta a ridurre l'attrito dei componenti del motore per fornire un maggiore risparmio di carburante.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_ECT-C3_1L_600043999.png",
+  "valueRecord": [],
+  "commerce": null
+}

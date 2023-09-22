@@ -1,0 +1,107 @@
+{
+  "id": "001F4579",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Morlina S2 BA 460",
+  "description": "Special Application Bearing & Circulating Oil",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "bearing and circulating",
+    "enclosed gear",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "low load",
+    "morgan notwist systems",
+    "rod mill",
+    "roughing mill",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/09e64ee7-fdbb-47f5-8725-aa5dd129bb28.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BA 460 (2014) EN TDG V2.6 10-Aug-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592570.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BA 460 (2014) Turkey EN 140003791542 EHS V1.6 13-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592571.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BA 460 (2014) Turkey TR 140003791542 EHS V1.6 13-JUN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4579_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550053767",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "ISO 12925-1 CKB",
+      "organisation": "ISO",
+      "spec": "12925-1 CKB"
+    },
+    {
+      "name": "Morgan MMC40009",
+      "organisation": "Morgan",
+      "spec": "MMC40009"
+    },
+    {
+      "name": "Danieli Type 21-24 N 0.000.001 BVG No-Twist Stand Block Lubricant",
+      "organisation": "Danieli",
+      "spec": "Type 21-24 N 0.000.001 BVG No-Twist Stand Block Lubricant"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BA oils are high performance oils designed to provide excellent lubrication and protection for challenging industrial bearing and circulating applications such as those found in the steel mill environment, especially No-Twist^®^ Rod Mill Systems. Morlina S2 BA meets the requirements of OEMs such as Morgan and Danieli.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

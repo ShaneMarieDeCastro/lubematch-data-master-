@@ -1,0 +1,77 @@
+{
+  "id": "001H0236",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Mysella S6 N 40",
+  "description": "Premium, Long Life, Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Moteur à gaz stationnaire",
+  "applicationKeys": [
+    "automatic",
+    "bio gas",
+    "engine",
+    "gas",
+    "landfill",
+    "low ash",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6961a376-8b32-40b6-b922-63e8593cc5be.pdf",
+      "type": "GTDS",
+      "name": "Mysella S6 N 40 EN TDG V2.4 16-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487832.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 France FR 140003182031 EHS V1.4 21-SEP-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487834.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 France EN 140003182031 EHS V1.4 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/66d155c3-fe2c-4dee-953a-50c07db75b82.pdf",
+      "type": "LTDS",
+      "name": "Mysella S6 N 40 France FR TDG V2.4 28-Dec-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0236_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550050636",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S6 N est une huile de haute qualité destinée aux moteurs à gaz 4 temps à allumage commandé en particulier ceux équipés de pistons en acier. La propreté du moteur et les intervalles de vidange sont prolongés grâçe à une technologie de lubrification spécialement développé.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

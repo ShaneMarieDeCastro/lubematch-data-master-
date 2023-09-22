@@ -1,0 +1,212 @@
+{
+  "id": "001A9785",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Turbo Oil T 100",
+  "description": "High Performance Steam Turbine Oil",
+  "family": "Turbo",
+  "parentCategory": "Turbinenöle",
+  "category": "Turbinenöle",
+  "applicationKeys": [
+    "ashless",
+    "aviation turbines",
+    "ball",
+    "bearing",
+    "gas turbines",
+    "gearbox",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "hydroelectric turbine",
+    "industrial",
+    "journal",
+    "light duty gas turbine",
+    "manual sequential",
+    "plain",
+    "pump gear",
+    "rollers",
+    "rotary vane",
+    "steam",
+    "steam turbine",
+    "tost life 5000 hours",
+    "transmissions",
+    "turbine",
+    "turbocompressors",
+    "vacuum pumps",
+    "water",
+    "wire rod mill",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2b709978-d93f-4d9b-bcf9-f628929076a7.pdf",
+      "type": "GTDS",
+      "name": "Turbo T 100 EN TDG V4.0 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552374.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 Germany EN 140001492039 EHS V2.9 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552375.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 Germany DE 140001492039 EHS V2.9 12-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/fc5b6279-b072-4300-b9da-cb3f74adf26f.pdf",
+      "type": "LTDS",
+      "name": "Turbo T 100 Germany DE TDG V4.0 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9785_002VSH_A181",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550013829",
+      "margin": "1.55633972909208",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    },
+    {
+      "name": "Indian Standard IS 1012 2002",
+      "organisation": "Indian Standard",
+      "spec": "IS 1012 2002"
+    },
+    {
+      "name": "ISO 8068:2006 L-THA",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-THA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo T wurde entwickelt, um verbesserte Leistung in Hinblick auf die Anforderungen der Hersteller von modernen Dampf- und leicht belasteten Gasturbinen zu erzielen. Shell Turbo T wurde auf Basis von speziellen Grundölen formuliert und enthält zinkfreie Additive zur Verbesserung des Oxidationsschutzes, schützt so vor Korrosion, außerdem zeigt es nur eine geringe Neigung zur Schaumbildung und ein exzellentes Demulgiervermögen.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11,7"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Farbe",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "L 1.0"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@ 15°C",
+      "units": "kg/m³",
+      "value": "873"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C max.",
+      "value": "-24"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C min.",
+      "value": "250"
+    },
+    {
+      "property": "Neutralisationszahl (TAN)",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0,10"
+    },
+    {
+      "property": "Luftabscheidevermögen, Minuten",
+      "method": "ASTM D3427",
+      "uom": "@ 50°C",
+      "units": "Minuten",
+      "value": "8"
+    },
+    {
+      "property": "Demulgiervermögen",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "Minuten",
+      "value": "20"
+    },
+    {
+      "property": "Korrosionstest",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Oxidationsstabilität - TOST Lebensdauer",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "Stunden",
+      "value": "5.000"
+    },
+    {
+      "property": "Oxidationsstabilität - RPVOT - Minuten",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "Minuten",
+      "value": "500"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

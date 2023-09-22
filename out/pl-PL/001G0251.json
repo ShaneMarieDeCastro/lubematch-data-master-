@@ -1,0 +1,138 @@
+{
+  "id": "001G0251",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Helix HX8 ECT 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b3d823d3-7ef9-4ab7-a829-210f0869987e.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) EN TDG V3.2 31-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/856032be-0d16-4031-b50f-a35fa3c93be4.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) Poland PL TDG V3.2 01-Feb-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613002.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) Poland EN 140003791557 EHS V1.4 07-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613001.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) Poland PL 140003791557 EHS V1.4 07-JUL-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0251_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550046687",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0251_002X0G_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046689",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "Fiat 9.55535-S2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S2 - Meets the requirements"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 ECT bazuje na zaawansowanej technologii zapewniającej kompatybilność z filtrami cząstek stałych i wysoką wydajność silnika. Zmniejsza tarcie w silniku zapewniając oszczędność paliwa.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046689_Shell_Helix_HX8_ECT_5W-40_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

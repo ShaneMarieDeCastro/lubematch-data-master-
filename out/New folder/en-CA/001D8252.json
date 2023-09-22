@@ -1,0 +1,208 @@
+{
+  "id": "001D8252",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Spirax S4 CX 50",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission Oils Other",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "construction",
+    "diesel",
+    "differential",
+    "disc",
+    "engine",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "intermediate axle",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "offroad",
+    "offroad hydraulic",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "on highway",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "semi manual",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "wet brake",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S4_CX_50_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 50 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/a3cf9b93-2c54-4035-b0e4-4fc3bf0b1b05.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 50 Canada EN TDG V2.1 28-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289465.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 50 Canada EN 140006579500 EHS V1.9 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/1b157f3d-8a9d-43da-943e-46aea637f8dc.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 50 Canada FR TDG V2.1 18-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289464.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 50 Canada FR 140006579500 EHS V1.10 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8252_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027605",
+      "margin": "0.777917949461326",
+      "packShot": ""
+    },
+    {
+      "code": "001D8252_002XEK_A1WJ",
+      "name": "Pail 5 Gal Open head Plastic Rimula Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550026896",
+      "margin": "0.390390418877964",
+      "packShot": ""
+    },
+    {
+      "code": "001D8252_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026907",
+      "margin": "0.644033593561077",
+      "packShot": ""
+    },
+    {
+      "code": "001D8252_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005681",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 50 is designed to provide operators with trouble free operation and maximum reliability for the lifetime of the equipment. Spirax S4 CX 50 meets the demanding requirements of modern transmission, final drive, and oil immersed brakes fitted to heavy-duty off-highway equipment.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "50"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "217.4"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "19"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "910"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "205"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

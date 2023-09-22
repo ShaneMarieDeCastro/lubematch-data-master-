@@ -1,0 +1,94 @@
+{
+  "id": "001F8446",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Corena S3 RX 46",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressore e pompa a vuoto",
+  "category": "Compressore e pompa a vuoto",
+  "applicationKeys": [
+    "air compressor",
+    "gtl",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0e292504-d3f8-4815-9a9d-e9ed1a31ffa4.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 RX 46 (2017) EN TDG V1.2 28-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02531157.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Italy IT 140007645406 EHS V1.7 28-FEB-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/a63c30c6-c74f-4f65-ae47-e54f8895fb79.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 RX 46 (2017) Italy IT TDG V1.2 21-Nov-2018",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02531158.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Italy EN 140007645406 EHS V1.7 28-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8446_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550050021",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8446_002VNK_A246",
+      "name": "Secchio 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550050020",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RX è un olio sintetico per compressori ad aria di qualità premium, l'olio base è realizzato con l'avanzata tecnologia Gas-to-Liquids (GTL) di Shell, combinato ad un pacchetto di additivi ad avanzate prestazioni. Shell Corena S3 RX è formulato per fornire eccellente protezione e prestazioni per compressori che lavorano con intervalli di cambio olio di 6,000 ore e fino a 8,000 ore in determinate condizioni.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

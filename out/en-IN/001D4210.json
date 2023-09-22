@@ -1,0 +1,147 @@
+{
+  "id": "001D4210",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix Diesel HX6 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Diesel_HX6_15W-40_(CH-4_A3_B4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix Diesel HX6 15W-40 (CH-4, A3/B4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637004.PDF",
+      "type": "LMSDS",
+      "name": "Helix Diesel HX6 15W-40 (CH-4 A3/B4) India EN 140006501563 EHS V1.2 12-APR-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_Helix_Diesel_HX6_15W-40_(CH-4_A3_B4)_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix Diesel HX6 15W-40 (CH-4, A3/B4) India English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D4210_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550031165",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D4210_002XD9_A1W8",
+      "name": "Bottle 5.5 L Wishbone Plastic Shell Yellow (2)",
+      "size": "5.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031423",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D4210_002W2G_A343",
+      "name": "Bottle 4 L Wishbone Plastic Shell Yellow (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031214",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D4210_002WPE_A1W8",
+      "name": "Bottle 5 L Wishbone Plastic Shell Yellow (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550036781",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D4210_002W2G_A1W8",
+      "name": "Bottle 4 L Wishbone Plastic Shell Yellow (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031395",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D4210_002W1X_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic Shell Yellow (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031403",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Diesel HX6 has been formulated with special active cleansing technology. It works harder to protect than conventional motor oils by continuously preventing soot deposits from building up on engine surfaces. For better responsiveness, right up to the next oil change.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

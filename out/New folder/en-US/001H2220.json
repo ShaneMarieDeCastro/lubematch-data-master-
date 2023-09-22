@@ -1,0 +1,90 @@
+{
+  "id": "001H2220",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Helix HX8 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/99d04091-7b3d-4931-b6ae-c7ef52bf1040.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) EN TDG V1.4 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563214.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) United States EN 140002686046 EHS V1.1 04-DEC-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "Fiat 9.55535-M2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-M2 - Meets the requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 synthetic motor oil works hard to help keep modern engines clean and protected. It helps to prevent the formation of harmful deposits that can lead to performance loss. Its excellent deposit protection is suitable for all OEM-recommended drain intervals.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

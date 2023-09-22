@@ -1,0 +1,227 @@
+{
+  "id": "001D8388",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Heat Transfer Oil S2",
+  "description": "High Performance Heat transfer fluid",
+  "family": "Heat Transfer",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Thermische Oliën",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "electrical",
+    "electrical fluid",
+    "engine",
+    "fuel",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "pump gear",
+    "pump valve",
+    "roller tapered",
+    "rollers",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "urban",
+    "wire rod mill"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bde6673e-c872-4515-92b5-d5aaa1a70726.pdf",
+      "type": "GTDS",
+      "name": "Heat Transfer Oil S2 EN TDG V1.5 23-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02585001.PDF",
+      "type": "LMSDS",
+      "name": "Heat Transfer Oil S2 Netherlands EN 140002783873 EHS V1.10 30-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02585000.PDF",
+      "type": "LMSDS",
+      "name": "Heat Transfer Oil S2 Netherlands NL 140002783873 EHS V1.10 30-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/b06b25fb-8479-4ee6-b48c-7ad40f8ab39d.pdf",
+      "type": "LTDS",
+      "name": "Heat Transfer Oil S2 Netherlands NL TDG V1.5 24-Nov-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8388_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550025730",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8388_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550025731",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8388_002VNA_A246",
+      "name": "Emmer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550025732",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-12",
+      "organisation": "ISO",
+      "spec": "6743-12"
+    },
+    {
+      "name": "DIN 51522",
+      "organisation": "DIN",
+      "spec": "51522"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Heat Transfer Oil S2 is samengesteld op basis van zorgvuldig geselecteerde, hooggeraffineerde minerale oliën, gekozen voor hun superieure prestaties in gesloten warmteoverdrachtsystemen. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@20°C",
+      "units": "kg/m³",
+      "value": "857"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ISO 2719",
+      "uom": "",
+      "units": "°C",
+      "value": "208"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-12"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "29"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.1"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@200°C",
+      "units": "mm²/s",
+      "value": "1.4"
+    },
+    {
+      "property": "Initial Boiling Point",
+      "method": "ASTM D2887",
+      "uom": "",
+      "units": "°C",
+      "value": "330"
+    },
+    {
+      "property": "Autoignition temperature",
+      "method": "DIN 51794",
+      "uom": "",
+      "units": "°C",
+      "value": "332"
+    },
+    {
+      "property": "Neutralisation Value",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "<0.2"
+    },
+    {
+      "property": "Ash (Oxide)",
+      "method": "ISO 6245",
+      "uom": "",
+      "units": "% m/m",
+      "value": "<0.01"
+    },
+    {
+      "property": "Carbon Residue (Conradson)",
+      "method": "ISO 10370",
+      "uom": "",
+      "units": "% m/m",
+      "value": "<0.01"
+    },
+    {
+      "property": "Copper Corrosion (3 hrs/100°C)",
+      "method": "ISO 2160",
+      "uom": "",
+      "units": "",
+      "value": "Class 1"
+    },
+    {
+      "property": "Coefficient of Thermal Expansion",
+      "method": "",
+      "uom": "1/°C",
+      "units": "",
+      "value": "0.0008"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

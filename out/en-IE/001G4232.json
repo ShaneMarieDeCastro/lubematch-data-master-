@@ -1,0 +1,86 @@
+{
+  "id": "001G4232",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Tellus S4 VX 32",
+  "description": "Special Application Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "extra wide temperature range",
+    "extreme low temperature",
+    "high performance",
+    "hv",
+    "industrial",
+    "industrial hydraulics",
+    "low temperature",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "precision",
+    "versatile",
+    "wide temperature range",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3621522d-515b-4ecb-8d0d-18969e6e5d75.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) EN TDG V1.3 16-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463606.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) Ireland EN 140009869348 EHS V2.0 20-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G4232_002VNF_A645",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550048617",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G4232_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550048616",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VX is an advanced hydraulic fluid technology designed for use in applications subjected to extremely low ambient temperatures such as arctic or exposed areas.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

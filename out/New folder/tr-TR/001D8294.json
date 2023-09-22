@@ -1,0 +1,149 @@
+{
+  "id": "001D8294",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Spirax S1 ATF TASA",
+  "description": "Quality Type A Suffix A Automatic Transmission and Hydraulic Fluid",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "bearing",
+    "gearbox",
+    "gm type a suffix a",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "industrial torque convertor",
+    "manual sequential",
+    "marine",
+    "mobile",
+    "non shiftable",
+    "offroad",
+    "offshore",
+    "older passenger car",
+    "plain",
+    "power steering",
+    "powershift",
+    "powershift torque convertors",
+    "pump gear",
+    "screw pump",
+    "semi automatic",
+    "stern tube seal",
+    "torque converters",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S1_ATF_TASA_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S1 ATF TASA English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510696.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF TASA Turkey EN 140003791542 EHS V1.7 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Turkey_Shell_Spirax_S1_ATF_TASA_(tr)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Spirax S1 ATF TASA Turkey Turkish",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510697.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF TASA Turkey TR 140003791542 EHS V1.7 28-DEC-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8294_002W1Z_EURO",
+      "name": "Şişe 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550056386",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors Type A Suffix A - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Type A Suffix A - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Type 'A' Suffix 'A'",
+      "organisation": "General Motors",
+      "spec": "Type 'A' Suffix 'A'"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S1 ATF TASA, özellikle arazi uygulamalarında kullanılan ağır hizmet araçların transmisyon sistemlerinde, hidrolik direksiyonlarında ve hidrolik sistemlerinde kullanılan yüksek kaliteli bir transmisyon sıvısıdır.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "157"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "880"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "170"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s1_atf_tasa.png",
+  "valueRecord": [],
+  "commerce": null
+}

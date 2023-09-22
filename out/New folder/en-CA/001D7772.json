@@ -1,0 +1,115 @@
+{
+  "id": "001D7772",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Tonna S2 M 220",
+  "description": "Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "",
+  "category": "Slideway Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "factory applications",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manufacturing",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "rollers",
+    "servo",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Tonna_S2_M_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Tonna S2 M 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289294.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 220 Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289295.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 220 Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/244bd0e1-12da-4b39-9f4c-558565eefc3a.pdf",
+      "type": "LTDS",
+      "name": "Tonna S2 M 220 Canada FR TDG V1.2 20-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/0ff77c24-a11e-4697-8ae4-a385b8280fb1.pdf",
+      "type": "LTDS",
+      "name": "Tonna S2 M 220 Canada EN TDG V1.2 02-Oct-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7772_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550027582",
+      "margin": "0.672167095771072",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-50",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-50"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S2 M oils are specially designed for the lubrication of machine tool slides, tables and feed mechanisms. Their enhanced tackiness and stick-slip characteristics combine to offer superior frictional performance on slideways. They are specially recommended in cases where high exposure to soluble cutting fluids exist.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "001D7865",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Air Tool Oil S2 A 32",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": "Other industrial lubricants",
+  "category": "Other industrial lubricants",
+  "applicationKeys": [
+    "hydraulic system",
+    "hydraulics"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4b7b449a-4668-4aa1-aec8-0ddd4ac08e83.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 32 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586763.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 32 United Kingdom EN 140002340634 EHS V1.2 02-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7865_002VNA_A1P5",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027228",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    },
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool Oil S2 A has been developed to meet the special lubrication requirements of pneumatic tools, including percussion type pneumatic tools subjected to the most arduous conditions.  They are designed to maintain high oil film strength and effectively lubricate even the most demanding requirements of pneumatic drill impact mechanisms as well as providing excellent mist lubrication of general purpose air tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

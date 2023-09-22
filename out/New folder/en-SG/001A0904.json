@@ -1,0 +1,98 @@
+{
+  "id": "001A0904",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Turbine Oil 2",
+  "description": "Mineral lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    "manual",
+    "synchronised",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/87a5ebd6-c1c9-4aa5-bf0d-34556ef7c028.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 2 EN TDG V1.2 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580273.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 2 Singapore EN 140001435547 EHS V4.1 18-OCT-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0904_002VO9_A034",
+      "name": "Pail 20 L T/H Tinplate Shell Yellow (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550028826",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0904_002XJP_A630",
+      "name": "Pail 5 Gal Tight head Metal Shell Red (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550042619",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0904_002VJ2_A034",
+      "name": "Drum 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550001807",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO O-133",
+      "organisation": "NATO",
+      "spec": "O-133"
+    },
+    {
+      "name": "AIR 3516/A",
+      "organisation": "AIR",
+      "spec": "3516/A"
+    },
+    {
+      "name": "MIL-PRF-6081D",
+      "organisation": "MIL",
+      "spec": "PRF-6081D"
+    },
+    {
+      "name": "Joint Service Designation OX-10",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-10"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 2 is a 2 mm²/s mineral turbine oil blended from mineral base stocks to which a pour-point depressant and an anti-oxidant have been added.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

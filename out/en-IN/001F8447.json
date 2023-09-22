@@ -1,0 +1,61 @@
+{
+  "id": "001F8447",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Corena S3 RX 68",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "gtl",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/35299710-a507-43dc-985a-f681c4f0cb12.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 RX 68 (2017) EN TDG V1.1 08-Nov-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637167.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 68 (2017) India EN 140006501563 EHS V1.3 28-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RX is a premium quality synthesized air compressor oil, based on Shell’s advanced Gas-to-Liquids (GTL) base oil technology combined with an advanced performance additive system. It is designed to provide excellent protection and performance for compressors running with oil change intervals of 6,000 hours and up to 8,000 hours under certain conditions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,155 @@
+{
+  "id": "001B1508",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella ELC Pre-diluted 50/50",
+  "description": "Contains an unique extended life carboxylate inhibitor system and nitrite/molybdate as secondary inhibitors.  Contains no silicate, borate, nitrate or phosphate and requires no traditional SCA additions.",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Coolants/Antifreeze - Diluted",
+  "applicationKeys": [
+    "cooling",
+    "cooling system",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "manual sequential",
+    "off highway",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9f5f52c-e4a4-435b-86fd-770265d3875e.pdf",
+      "type": "GTDS",
+      "name": "Rotella ELC Pre-diluted 50/50 EN TDG V1.3 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/2bf69b7e-5eea-4464-8d53-ddd1661c9b32.pdf",
+      "type": "LTDS",
+      "name": "Rotella ELC Pre-diluted 50/50 United States EN TDG V1.3 28-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563738.PDF",
+      "type": "LMSDS",
+      "name": "Rotella ELC Pre-diluted 50/50 United States EN 140002686046 EHS V8.0 16-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1508_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022522",
+      "margin": "0.693532273402684",
+      "packShot": ""
+    },
+    {
+      "code": "001B1508_002V2N_A0II",
+      "name": "Bottle 1 Gal Rotella W (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "9404206021",
+      "margin": "0.555455591653875",
+      "packShot": ""
+    },
+    {
+      "code": "001B1508_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550048086",
+      "margin": "1.19686142334314",
+      "packShot": ""
+    },
+    {
+      "code": "001B1508_001176_A1SJ",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005285",
+      "margin": "0.764505302513363",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "Detroit Diesel Corporation 7SE298",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "7SE298"
+    },
+    {
+      "name": "TMC RP 329",
+      "organisation": "TMC RP",
+      "spec": "329"
+    },
+    {
+      "name": "Caterpillar EC-1",
+      "organisation": "Caterpillar",
+      "spec": "EC-1"
+    },
+    {
+      "name": "TMC RP 338",
+      "organisation": "TMC RP",
+      "spec": "338"
+    },
+    {
+      "name": "ASTM D4656",
+      "organisation": "ASTM",
+      "spec": "D4656"
+    },
+    {
+      "name": "ASTM D6210",
+      "organisation": "ASTM",
+      "spec": "D6210"
+    },
+    {
+      "name": "ASTM D5345",
+      "organisation": "ASTM",
+      "spec": "D5345"
+    },
+    {
+      "name": "Cummins CES 14439",
+      "organisation": "Cummins",
+      "spec": "CES 14439"
+    },
+    {
+      "name": "Navistar MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)",
+      "organisation": "Navistar",
+      "spec": "MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^® ELC Extended Life Coolant/Antifreeze is an ethylene glycol based coolant for heavy-duty diesel, gasoline and natural gas power engines. Shell Rotella ELC contains a unique extended life carboxylate inhibitor system and nitrite / molybdate as secondary inhibitors. This product requires no traditional ELC Extender and supplemental coolant additive (SCA) additions and contains no silicate, borate, nitrate or phosphate. Shell Rotella ELC meets all the requirements of ASTM D3306, D6210, CAT EC-1, TMC RP329 and RP 338.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

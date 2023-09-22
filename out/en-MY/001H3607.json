@@ -1,0 +1,74 @@
+{
+  "id": "001H3607",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Advance 4T Power 15W-50 (SN/MA2)",
+  "description": "4T motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "four stroke",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/94720241-f853-44d9-b592-90df3e01d8e7.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T Power 15W-50 (SN/MA2) EN TDG V1.2 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02085292.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Power 15W-50 (SN/MA2) Malaysia EN 140001435555 EHS V1.1 11-MAR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02085293.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Power 15W-50 (SN/MA2) Malaysia MS 140001435555 EHS V1.1 11-MAR-2020",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3607_002W1Z_A04U",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550055227",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Expertly engineered to maximize power of your motorcycle engine.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

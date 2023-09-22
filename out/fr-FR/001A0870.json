@@ -1,0 +1,81 @@
+{
+  "id": "001A0870",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Naturelle Fluid HF-E 15",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "biodegradable",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "mobile",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "servo",
+    "synthetic",
+    "turbine",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ad457c92-28ec-4e2c-bc39-0d2f2a6dd3d6.pdf",
+      "type": "GTDS",
+      "name": "Naturelle HF-E 15 EN TDG V5.0 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550894.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 15 France EN 140003182031 EHS V2.2 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/15f03baf-fe8c-4e27-acd5-eb03aad71bb8.pdf",
+      "type": "LTDS",
+      "name": "Naturelle HF-E 15 France FR TDG V5.0 24-Feb-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550895.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 15 France FR 140003182031 EHS V2.2 11-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "VDMA 24568",
+      "organisation": "VDMA",
+      "spec": "24568"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle HF-E est un fluide hydraulique innovant, utilisable dans les systèmes hydrauliques et de transmission de puissance.Il est facilement biodégradable et grâce à une écotoxicité faible, est adapté aux applications dans les zones écologiquement sensibles.  La formule 100% esters synthétiques et additifs sans cendres de Shell Naturelle HF-E, offre des performances supérieures et respectueuses de l'environnement.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

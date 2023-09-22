@@ -1,0 +1,68 @@
+{
+  "id": "001D9961",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Morlina S1 B 570",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "bearing",
+    "enclosed gear",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "oil lubricated bearings",
+    "rollneck bearings",
+    "water separation"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "570",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d5c0149d-b3de-4b7c-b15f-2409fa57fc1d.pdf",
+      "type": "GTDS",
+      "name": "Morlina S1 B 570 EN TDG V1.1 11-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592870.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 570 France FR 140003182031 EHS V1.6 13-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592869.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 570 France EN 140003182031 EHS V1.6 13-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B oils are high performance oils designed to provide excellent protection for most industrial bearing and circulating oil system applications, particularly those processes where water shedding (demulsification) is important for the life of the equipment. Meets the most basic requirements of the Morgan standard for common bearing oils.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

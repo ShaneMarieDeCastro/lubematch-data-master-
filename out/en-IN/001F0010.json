@@ -1,0 +1,212 @@
+{
+  "id": "001F0010",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Rimula R4 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0b971aea-dff7-4e92-8f0a-e9f771d74e78.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 15W-40 (CI-4 plus) - India EN TDG V1.3 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637340.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 15W-40 (CI-4 plus) - India India EN 140006501563 EHS V3.5 26-JAN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/6be3db5d-9159-45fc-be3f-bcc887ee30f9.pdf",
+      "type": "LTDS",
+      "name": "Rimula R4 15W-40 (CI-4 plus) - India India EN TDG V1.3 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0010_002WL0_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550039952",
+      "margin": "1.29879234185709",
+      "packShot": ""
+    },
+    {
+      "code": "001F0010_002XJG_A1W8",
+      "name": "Pail 10 L Open head Plastic Rimula Grey (1)",
+      "size": "10",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550040915",
+      "margin": "1.15998371513129",
+      "packShot": ""
+    },
+    {
+      "code": "001F0010_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008852",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F0010_002X0G_A1W8",
+      "name": "Bottle 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550039995",
+      "margin": "1.37105337092736",
+      "packShot": ""
+    },
+    {
+      "code": "001F0010_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550039988",
+      "margin": "0.352422610758292",
+      "packShot": ""
+    },
+    {
+      "code": "001F0010_002XCJ_A343",
+      "name": "Pail 15 L Open head Plastic Rimula Grey (1)",
+      "size": "15",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550040802",
+      "margin": "1.17374458282105",
+      "packShot": ""
+    },
+    {
+      "code": "001F0010_002XJF_A1W8",
+      "name": "Pail 7.5 L Open head Plastic Rimula Grey (1)",
+      "size": "7.5",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550040916",
+      "margin": "1.14808639753737",
+      "packShot": ""
+    },
+    {
+      "code": "001F0010_002XCJ_A1W8",
+      "name": "Pail 15 L Open head Plastic Rimula Grey (1)",
+      "size": "15",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550039987",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "MTU Category 2",
+      "organisation": "MTU",
+      "spec": "Category 2"
+    },
+    {
+      "name": "MAN M 3275-1",
+      "organisation": "MAN",
+      "spec": "M 3275-1"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "Cummins CES 20077",
+      "organisation": "Cummins",
+      "spec": "CES 20077"
+    },
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    },
+    {
+      "name": "Mack EO-M Plus",
+      "organisation": "Mack",
+      "spec": "EO-M Plus"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "MB-Approval 228.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 adapts and protects under full range of pressures and temperatures found in modern engines. It delivers excellent soot and viscosity control, outstanding protection against wear and exceptional versatility for multiple engine makes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

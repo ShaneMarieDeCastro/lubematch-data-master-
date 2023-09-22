@@ -1,0 +1,105 @@
+{
+  "id": "001D8546",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S3 T220 2",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base d’huile minérale",
+  "applicationKeys": [
+    "bearing",
+    "electric motors",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "general engineering",
+    "high load",
+    "high temperature",
+    "hot strip mills",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "paper",
+    "paper mill bearings",
+    "plain bearings",
+    "polyurea",
+    "premium",
+    "roller bearings",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9fb7de9-5b4b-4fc2-be78-afeb3a96917c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T220 2 EN TDG V2.4 27-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595118.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 France FR 140003182031 EHS V5.4 14-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/e2874a8c-6aa0-4ab5-b752-f83b96de21ad.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T220 2 France FR TDG V2.4 17-Nov-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594952.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 France EN 140003182031 EHS V5.4 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8546_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550028060",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8546_002VME_A246",
+      "name": "Sceau 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550028053",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8546_002VGF_EURO",
+      "name": "Cartouche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartouche ",
+      "materialCode": "550050091",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

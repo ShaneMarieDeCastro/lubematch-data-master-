@@ -1,0 +1,150 @@
+{
+  "id": "001D8549",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S3 T100 2",
+  "description": "Premium Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi non-EP a base di olio minerale",
+  "applicationKeys": [
+    "high temperature",
+    "industrial",
+    "industrial bearings",
+    "light load",
+    "long life",
+    "multipurpose",
+    "polyurea",
+    "premium",
+    "water resistance",
+    "water washout resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e14e10a2-2174-4b20-90dd-2452470c2869.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T100 2 EN TDG V1.5 17-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595209.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T100 2 Italy IT 140007645406 EHS V4.3 14-JUN-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595210.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T100 2 Italy EN 140007645406 EHS V4.3 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/1dcddaed-43ed-4cf2-95a0-ace270ceaea2.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T100 2 Italy IT TDG V1.5 07-Apr-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8549_002VGF_EURO",
+      "name": "Cartuccia 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartuccia",
+      "materialCode": "550053700",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8549_002VME_A246",
+      "name": "Secchio 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550028089",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 T100 è un grasso tecnologicamente avanzato, sviluppato per offrire prestazioni ottimali nella lubrificazione dei cuscinetti industriali. E' formulato con un olio minerale e uno speciale inspessente alla diurea per garantire lunga durata in servizio, bassa usura e stabilità al taglio alle alte temperature. Nelle applicazioni ad alta temperatura Shell Gadus S3 T100 supera tutti gli altri grassi al litio complesso e totalmente sintetici (PAO) presenti sul mercato.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Diurea"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral Oil"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pumpability Long Distance",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

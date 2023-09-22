@@ -1,0 +1,98 @@
+{
+  "id": "001I3498",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra SP 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b83d01a-daee-45ea-8a1f-2ca4b473a3c4.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) EN TDG V1.1 27-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607934.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) France FR 140003182031 EHS V1.3 03-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607940.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) France EN 140003182031 EHS V1.3 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/acc2b033-f6d5-4f27-b062-71e0344472d5.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) France FR TDG V1.1 04-Feb-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I3498_002XS4_A246",
+      "name": "Barils 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550061579",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I3498_002YAP_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Copper Gold (3) ",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550063071",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I3498_002YAN_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Copper Gold (12) ",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550063070",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra SP 0W-20 utilise une technologie de nettoyage actif protégeant contre les dépôts et l'usure les moteurs les plus performants et leurs permettant ainsi de fonctionner à un rendement maximum. Convient parfaitement pour les plus longs intervalles de vidange recommandées les constructeurs.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

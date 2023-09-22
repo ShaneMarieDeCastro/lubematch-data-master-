@@ -1,0 +1,180 @@
+{
+  "id": "001E7481",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX5_15W-40_(SN_A3_B3)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix HX5 15W-40 (SN A3/B3) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/bbee8383-9482-4bef-9bb7-715cc1c1c317.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 15W-40 (SN A3/B3) Germany DE TDG V2.0 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02600235.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN A3/B3) Germany DE 140001492039 EHS V1.9 21-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02600096.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN A3/B3) Germany EN 140001492039 EHS V1.9 21-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7481_002W1X_EURO",
+      "name": "Flasche 1 L Wishbone Plastic Shell Yellow (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550046277",
+      "margin": "1.28520834326761",
+      "packShot": ""
+    },
+    {
+      "code": "001E7481_002WPE_EURO",
+      "name": "Flasche 5 L Wishbone Plastic Shell Yellow (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550046286",
+      "margin": "1.32560861588612",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 wurde entwickelt, um die Motorleistung aufrecht zu erhalten. Es verhindert die Bildung von Schlamm und reduziert den Verschleiß. Es ist für eine Vielzahl von Fahrzeugen unter alltäglichen Fahrbedingungen geeignet.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "15W-40"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "105,4"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "13,9"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "IP 226",
+      "uom": "",
+      "units": "",
+      "value": "132"
+    },
+    {
+      "property": "Dynamische Viskosität (MRV)",
+      "method": "",
+      "uom": "@-25°C",
+      "units": "cP",
+      "value": "17000"
+    },
+    {
+      "property": "Dichte",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "0,885"
+    },
+    {
+      "property": "Flammpunkt",
+      "method": "IP 34",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "IP 15",
+      "uom": "",
+      "units": "°C",
+      "value": "-30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/1L_Helix_HX5_15W_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

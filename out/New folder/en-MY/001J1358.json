@@ -1,0 +1,66 @@
+{
+  "id": "001J1358",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix FuelSave 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c5be2b7c-1c77-4ec9-ac75-5577fdb3c9ab.pdf",
+      "type": "GTDS",
+      "name": "Helix FuelSave 5W-30 (SP A3/B4 ) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02205996.PDF",
+      "type": "LMSDS",
+      "name": "Helix FuelSave 5W-30 (SP A3/B4 ) Malaysia Malay (Bahasa Melayu)",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02205997.PDF",
+      "type": "LMSDS",
+      "name": "Helix FuelSave 5W-30 (SP A3/B4 ) Malaysia English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix FuelSave is fully synthetic motor oil expertly engineered to deliver enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

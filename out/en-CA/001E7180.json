@@ -1,0 +1,173 @@
+{
+  "id": "001E7180",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Mysella S3 S 40",
+  "description": "Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gas",
+    "gas turbines",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "landfill",
+    "lng",
+    "lpg",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "sewage",
+    "stationary",
+    "turbine",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7c0563d8-cddc-4c81-bbfd-c849e3bb34b1.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 S 40 EN TDG V2.6 17-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/517dc0c9-b06b-4930-b2eb-38254c6ebb1a.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 S 40 Canada EN TDG V2.6 17-Mar-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02363693.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 S 40 Canada EN 140006579500 EHS V1.6 13-AUG-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02363696.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 S 40 Canada FR 140006579500 EHS V1.6 13-AUG-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/a0fba174-74bd-4b9b-82ee-c999daa777bc.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 S 40 Canada FR TDG V2.6 05-May-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7180_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007770",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7180_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550036295",
+      "margin": "0.737912117916951",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3271-4",
+      "organisation": "MAN",
+      "spec": "M 3271-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 S satisfies the new generation of stationary gas engines designed to meet the emerging legislation limiting emissions of NOx, and those which employ the latest 'lean' or 'clean' burn technology.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "135"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.5"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "894"
+    },
+    {
+      "property": "Flash Point, closed cup",
+      "method": "ASTM D93A",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "8.5"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ISO 3987",
+      "uom": "",
+      "units": "%wt",
+      "value": "0.9"
+    },
+    {
+      "property": "Phosphorus",
+      "method": "ASTM D4047",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "001I5480",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Fire-Resistant HFA",
+  "description": "Water Based Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ead2ed05-3cdd-4c00-85b1-c60e13169096.pdf",
+      "type": "GTDS",
+      "name": "Shell Fire Resistant HFA EN TDG V1.4 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02361294.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fire Resistant HFA Canada FR 140006579500 EHS V1.5 04-AUG-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/2ac1a88c-1c32-47b8-a98a-afe6776641bf.pdf",
+      "type": "LTDS",
+      "name": "Shell Fire Resistant HFA Canada FR TDG V1.2 01-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/6b2226fd-5565-41a3-9024-4c0a45b02d40.pdf",
+      "type": "LTDS",
+      "name": "Shell Fire Resistant HFA Canada EN TDG V1.2 01-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02361295.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fire Resistant HFA Canada EN 140006579500 EHS V1.5 04-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5480_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550058345",
+      "margin": "0.338377779447115",
+      "packShot": ""
+    },
+    {
+      "code": "001I5480_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012340",
+      "margin": "0.014109804253594",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Fire Resistant HFA is a high-water hydraulic fluid that has a specially formulated thickener that naturally forms a colloid when placed into water. Shell Fire Resistant HFA has the environmental benefits of being a high water based hydraulic fluid and the improved hydraulic control obtained with higher viscosity than what can be obtained with other HFA fluids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "001F3938",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Diesel Plus 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Diesel Plus",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Diesel_Plus_15W-40_(CF_SG)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Diesel Plus 15W-40 (CF, SG) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/ce81132d-2a32-4bda-80c7-1ef11f1ff2cb.pdf",
+      "type": "LTDS",
+      "name": "Diesel Plus 15W-40 (CF SG) Italy IT TDG V1.0 02-Aug-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498723.PDF",
+      "type": "LMSDS",
+      "name": "Diesel Plus 15W-40 (CF SG) Italy IT 140007645406 EHS V1.2 06-DEC-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498722.PDF",
+      "type": "LMSDS",
+      "name": "Diesel Plus 15W-40 (CF SG) Italy EN 140007645406 EHS V1.2 06-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SG",
+      "organisation": "API",
+      "spec": "SG"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diesel Plus è stato formulato per aiutare a proteggere e prolungare la durata dei motori disel delle autovetture.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,94 @@
+{
+  "id": "001D8286",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S4 AT 75W-90",
+  "description": "High performance, synthetic blend, GL-5/4 oil for gearboxes and axles",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Oleje do ręcznych skrzyń biegów i przekładni",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "extended drain",
+    "final drive",
+    "gasoline",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "off highway",
+    "passenger car",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/91896f6a-161d-44b2-967c-a47477d4a5d3.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 AT 75W-90 EN TDG V1.3 17-Jan-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577566.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AT 75W-90 Poland EN 140003791557 EHS V1.4 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577564.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AT 75W-90 Poland PL 140003791557 EHS V1.4 23-MAY-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 AT 75W-90 is a part-synthetic superior quality automotive gear lubricant specially designed for use in gearboxes and axles.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,142 @@
+{
+  "id": "001F0669",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Rimula R4 Multi 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "hydraulic system",
+    "mobile",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/35e421d9-1da6-4f87-875a-02d8e27ae4c5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) EN TDG V1.3 07-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545360.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) Germany DE 140001492039 EHS V1.5 28-MAR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545350.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) Germany EN 140001492039 EHS V1.5 28-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "JASO DH-1",
+      "organisation": "JASO",
+      "spec": "DH-1"
+    },
+    {
+      "name": "Case New Holland MS 3520 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MS 3520 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    },
+    {
+      "name": "Cummins CES 20072",
+      "organisation": "Cummins",
+      "spec": "CES 20072"
+    },
+    {
+      "name": "Mack EO-M Plus",
+      "organisation": "Mack",
+      "spec": "EO-M Plus"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Cummins CES 20075",
+      "organisation": "Cummins",
+      "spec": "CES 20075"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "Mack EO-M",
+      "organisation": "Mack",
+      "spec": "EO-M"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 Multi oil protects against changing needs of driving conditions. This technology provides triple action protection: low wear for long engine life, low deposit formation to maintain engine performance and resist breakdown by heat.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

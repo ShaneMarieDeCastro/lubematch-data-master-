@@ -1,0 +1,169 @@
+{
+  "id": "001D7785",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Corena S4 R 32",
+  "description": "Advanced Synthetic Rotary  Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "",
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "abb turbochargers",
+    "air compressor",
+    "ball",
+    "bearing",
+    "gearbox",
+    "high temperature",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "plain",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane",
+    "thrust"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/efbbede4-e106-408f-840b-e2e6cdf76e48.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 R 32 EN TDG V2.5 11-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572893.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 32 France EN 140003182031 EHS V2.7 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/0e333030-bf66-468c-9701-63c8355f0cc6.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 R 32 France FR TDG V2.5 09-Jul-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572894.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 32 France FR 140003182031 EHS V2.7 04-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7785_002VNF_A246",
+      "name": "Sceau 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550043984",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 R est une huile synthétique pour compresseurs d'air conçue pour fournir un haut niveau de performance lors de la lubrification des compresseurs d'air rotatifs à palettes et à vis lubrifiées. Elle est formulée à partir d'additifs avancés uniques garantissant protection et performances aux compresseurs fonctionnant avec des intervalles de vidange de 10.000 heures et jusqu'à 12.000 heures sous certaines conditions. Shell Corena S4 R convient aussi pour la lubrification des systèmes qui exigent une huile synthétique de type \"R&O\" ou pour \"roulements et circulation\" (ISO VG 32-68).",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.9"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "130"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "830"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "218"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-48"
+    },
+    {
+      "property": "Air Release",
+      "method": "ASTM D3427",
+      "uom": "",
+      "units": "minutes",
+      "value": "2"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@54°C",
+      "units": "minutes",
+      "value": "10"
+    },
+    {
+      "property": "FZG Test",
+      "method": "CEC-L-07-A-95",
+      "uom": "",
+      "units": "failure load stage",
+      "value": "12"
+    },
+    {
+      "property": "RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes minimum",
+      "value": "2100"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_r.png",
+  "valueRecord": [],
+  "commerce": null
+}

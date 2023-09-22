@@ -1,0 +1,80 @@
+{
+  "id": "001A9306",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Rotella DD+ 40",
+  "description": "Two-stroke heavy duty diesel engine oil",
+  "family": "Rotella",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "off highway",
+    "stationary",
+    "two stroke"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008581228_201605200734.pdf",
+      "type": "GTDS",
+      "name": "Rotella DD+ 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/3ff36dc1-0b88-4457-804e-93017e4bfaf7.pdf",
+      "type": "LTDS",
+      "name": "Rotella DD+ 40 United Kingdom EN TDG V1.1 01-Jul-2014",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552740.PDF",
+      "type": "LMSDS",
+      "name": "Rotella DD+ 40 United Kingdom EN 140002340634 EHS V4.6 12-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Detroit Diesel Corporation 7SE270 8810",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "7SE270 8810"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella DD+ Oil 40 is a high performance, heavy duty engine oil designed specifically for all two-stroke diesel engines manufactured by Detroit Diesel Corporation.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

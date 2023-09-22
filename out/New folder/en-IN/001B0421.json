@@ -1,0 +1,79 @@
+{
+  "id": "001B0421",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Flushing Oil 32",
+  "description": "High Performance Flushing Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Other FPM Lubricants",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "combined cycle",
+    "diesel",
+    "engine",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "morgoil",
+    "pump piston",
+    "pump valve",
+    "servo",
+    "turbine",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/b75ca256-0f5b-479a-8571-67808f08eaff.pdf",
+      "type": "GTDS",
+      "name": "Flushing Oil 32 EN TDG V1.2 01-Nov-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01347983.PDF",
+      "type": "LMSDS",
+      "name": "Flushing Oil 32 India EN 140006501563 EHS V1.2 21-SEP-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0421_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500000255",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B0421_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550031247",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Flushing Oil 32 is a very low sulphur content non-detergent industrial Group II flushing oil that is suitable for the flushing removal of light hydrocarbon based industrial fluid systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

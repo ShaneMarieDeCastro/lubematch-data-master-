@@ -1,0 +1,65 @@
+{
+  "id": "001D8580",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Advance 4T AX7 15W-50 (SL/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - motocyklowe",
+  "applicationKeys": [
+    "engine",
+    "four stroke",
+    "gasoline",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/23239591-f221-4ab6-b7e4-25029fca5027.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T AX7 15W-50 (SL/MA2) EN TDG V1.2 22-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02536563.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 15W-50 (SL/MA2) Poland EN 140003791557 EHS V2.7 07-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02536564.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 15W-50 (SL/MA2) Poland PL 140003791557 EHS V3.7 07-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T AX7 offers excellent oil performance reliability that helps protect and clean the engine and helps prolong your engine life.  It provides advanced control through smoother gear changes and enhanced ride comfort by reduced noise and vibration.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

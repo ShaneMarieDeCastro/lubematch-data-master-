@@ -1,0 +1,114 @@
+{
+  "id": "001A0070",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "AeroShell Oil 100",
+  "description": "Mineral lubricating oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "Środki smarne dla lotnictwa",
+  "category": "Oleje silnikowe - lotnicze/tłokowe",
+  "applicationKeys": [
+    "aviation",
+    "bearing",
+    "brakes",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gas turbines",
+    "gasoline",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "piston engine",
+    "turbine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/989f79f1-94e1-4016-b256-616dae93caac.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil 100 EN TDG V1.4 27-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549141.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil 100 Poland PL 140003791557 EHS V2.9 07-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02548588.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil 100 Poland EN 140003791557 EHS V1.10 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0070_002XOH_AEP3",
+      "name": "Butelka 1 qt Americas Tool Plastic Shell Red Reformulated (6)",
+      "size": "1",
+      "uom": "qt.",
+      "pack": "Butelka",
+      "materialCode": "550051168",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0070_002VJ2_A1P5",
+      "name": "Beczka 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Beczka",
+      "materialCode": "550040905",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0070_002WH4_A1P5",
+      "name": "Wiadro 5 Gal O/H Plastic Shell Red (1)",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Wiadro",
+      "materialCode": "550041191",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AIR 3560/D",
+      "organisation": "AIR",
+      "spec": "3560/D"
+    },
+    {
+      "name": "NATO O-117",
+      "organisation": "NATO",
+      "spec": "O-117"
+    },
+    {
+      "name": "SAE J1966",
+      "organisation": "SAE",
+      "spec": "J1966"
+    },
+    {
+      "name": "Joint Service Designation OM-270",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-270"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell straight mineral oils are blended from selected high viscosity index base stocks. These oils do not contain additives except for a small quantity of pourpoint depressant (which is added when improved fluidity at very low temperature is required) and an anti-oxidant.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

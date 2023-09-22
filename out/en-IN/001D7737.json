@@ -1,0 +1,152 @@
+{
+  "id": "001D7737",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Morlina S2 BL 10",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "ashless",
+    "ball",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "gerotor pump",
+    "high speed",
+    "high speed spindles",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "mobile",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "roller needle",
+    "rollers",
+    "servo",
+    "spindle",
+    "spindle oil",
+    "variable",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/110c1f42-9237-4676-8f74-0c7cf6e7f5b9.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 10 EN TDG V1.4 25-May-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637565.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 India EN 140006501563 EHS V3.1 04-OCT-2016",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-IN/47144c41-050b-42be-a6d3-30cef9c2e742.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 10 India EN TDG V1.4 27-May-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7737_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550026369",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-62",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-62"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL oils are special low viscosity, solvent refined mineral oil blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "10"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "2.3"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "881"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "150"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "Rust, Salt Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Oxidation Control Test : TOST",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "Hrs",
+      "value": "2000+"
+    },
+    {
+      "property": "Oxidation Control Test : RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "Mins",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

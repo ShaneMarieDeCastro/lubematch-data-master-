@@ -1,0 +1,53 @@
+{
+  "id": "001B1064",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Synthetic 75W-90 (GL-4)",
+  "description": "Heavy duty gear oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "extended drain",
+    "extreme low temperature",
+    "light truck",
+    "long life",
+    "low temperature",
+    "manual transmission",
+    "passenger car",
+    "suv",
+    "transaxle",
+    "van"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Synthetic_75W-90_(GL-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Synthetic 75W-90 (GL-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563320.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Synthetic 75W-90 (GL-4) United States EN 140002686046 EHS V2.4 22-MAR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "PENNZOIL^® SYNTHETIC SAE 75W-90 GL-4 meets all the requirements of API Service Classification GL-4",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

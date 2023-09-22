@@ -1,0 +1,69 @@
+{
+  "id": "001D2071",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Hydraulic Oil HMS 46",
+  "description": "Zinc Free Hydraulic oil for steel industry applications",
+  "family": "Hydrau",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "hydraulic system",
+    "hydraulics",
+    "journal",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "servo",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140002739021_27C4.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic HMS 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564335.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic HMS 46 France FR 140003182031 EHS V1.5 28-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140003323742_200910160024.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic HMS 46 France French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564336.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic HMS 46 France EN 140003182031 EHS V1.5 28-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

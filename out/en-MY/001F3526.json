@@ -1,0 +1,96 @@
+{
+  "id": "001F3526",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Spirax S6 ATF X",
+  "description": "Premium lower viscosity multi-vehicle ATF",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "continuously variable",
+    "differential",
+    "final drive",
+    "manual sequential",
+    "off highway",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "tandem drive",
+    "torque converter",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6a8b811d-e9cc-4bfc-a064-62a5d87ed038.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF X EN TDG V2.2 10-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-MY/5314cb60-44ca-480c-ab94-9e99a798209a.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF X Malaysia EN TDG V2.2 10-Jun-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02421789.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF X Malaysia EN 140001435555 EHS V1.2 07-JUN-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02421790.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF X Malaysia MS 140001435555 EHS V1.2 07-JUN-2022",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3526_002W2L_A685",
+      "name": "Bottle 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052211",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford Mercon LV",
+      "organisation": "Ford",
+      "spec": "Mercon LV"
+    },
+    {
+      "name": "General Motors Dexron VI",
+      "organisation": "General Motors",
+      "spec": "Dexron VI"
+    },
+    {
+      "name": "JASO 1A",
+      "organisation": "JASO",
+      "spec": "1A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Premium performance, synthetic technology fluid designed to meet the needs of multiple vehicle types for service fill in automatic transmission service. Shell Spirax S6 ATF X meets the needs of many Japanese, Asian, European, and North American designed automatic transmissions that require low viscosity automatic transmission fluid such as GM DEXRON^®^ -VI, Ford MERCON LV and Toyota WS. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

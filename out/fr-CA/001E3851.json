@@ -1,0 +1,114 @@
+{
+  "id": "001E3851",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T6 0W-40",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "manual",
+    "manual sequential",
+    "off highway",
+    "on highway",
+    "powershift",
+    "synchronised",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rotella_T6_0W-40_(CJ-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Rotella T6 0W-40 (CJ-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289803.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 0W-40 (CJ-4) Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289802.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 0W-40 (CJ-4) Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/fec1c74d-839e-4587-ac42-0815006480f1.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 0W-40 (CJ-4) Canada FR TDG V1.1 09-Mar-2018",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/0e621fa8-d858-4e1c-a118-41e2a29b8a66.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 0W-40 (CJ-4) Canada EN TDG V1.1 29-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "Mack EO-N",
+      "organisation": "Mack",
+      "spec": "EO-N"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les principaux avantages comprennent; Compatibilité avec les systèmes antipollution et protection contre les températures de fonctionnement extrêmes.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

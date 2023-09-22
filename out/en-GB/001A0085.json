@@ -1,0 +1,545 @@
+{
+  "id": "001A0085",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "AeroShell Turbine Oil 560",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "Aviation lubricants",
+  "category": "Aviation lubricants",
+  "applicationKeys": [
+    "aero derivative",
+    "aviation turbines",
+    "diesel",
+    "engine",
+    "gas",
+    "gas turbines",
+    "high altitude",
+    "hydraulic system",
+    "off highway",
+    "offshore",
+    "pump piston",
+    "pump valve",
+    "servo",
+    "steam",
+    "transfer case",
+    "transmissions",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/35454b51-8819-4ac5-beb5-6db399b2a695.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 560 EN TDG V2.6 17-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586268.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 560 United Kingdom EN 140002340634 EHS V5.2 01-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/c1f7fdee-bd37-49f1-8f34-321e9fa465c9.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 560 United Kingdom EN TDG V2.6 17-May-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0085_002VFJ_AEU1",
+      "name": "Can 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Can",
+      "materialCode": "550050221",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0085_002VJ2_A1P5",
+      "name": "Drum 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550042643",
+      "margin": "2.73335414280009",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DCSEA 299/A",
+      "organisation": "DCSEA",
+      "spec": "299/A"
+    },
+    {
+      "name": "DEF STAN 91-101",
+      "organisation": "DEF STAN",
+      "spec": "91-101"
+    },
+    {
+      "name": "MIL-PRF-23699G Grade HTS",
+      "organisation": "MIL",
+      "spec": "PRF-23699G Grade HTS"
+    },
+    {
+      "name": "NATO O-154",
+      "organisation": "NATO",
+      "spec": "O-154"
+    },
+    {
+      "name": "Allison EMS- 53",
+      "organisation": "Allison",
+      "spec": "EMS- 53"
+    },
+    {
+      "name": "General Electric D-50 TF 1",
+      "organisation": "General Electric",
+      "spec": "D-50 TF 1"
+    },
+    {
+      "name": "Joint Service Designation OX-27",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-27"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-202",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-202"
+    },
+    {
+      "name": "Pratt and Whitney 521C Type II",
+      "organisation": "Pratt and Whitney",
+      "spec": "521C Type II"
+    },
+    {
+      "name": "SAE AS5780B",
+      "organisation": "SAE",
+      "spec": "AS5780B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 560 is a third generation, high performance, low coking 5 mm²/s synthetic hindered ester oil incorporating a carefully selected and finely balanced combination of additives to improve thermal and oxidation stability.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Synthetic ester"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "4.90 to 5.40"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "23.0 min"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "mm²/s",
+      "value": "13000 max"
+    },
+    {
+      "property": "Flashpoint Cleveland Open Cup",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "246 min"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-54 max"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "1 max"
+    },
+    {
+      "property": "Evaporation Loss 6.5 hrs",
+      "method": "",
+      "uom": "@204°C",
+      "units": "% m",
+      "value": "10.0 max"
+    },
+    {
+      "property": "Foaming",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Swelling of Standard Synthetic Rubber - SAE-AMS 3217/4, 72 hrs",
+      "method": "",
+      "uom": "@204°C",
+      "units": "swell %",
+      "value": "5 to 25"
+    },
+    {
+      "property": "Elastomer compatibility, % weight change after 24/120 hours: Fluorocarbon",
+      "method": "",
+      "uom": "@200°C",
+      "units": "",
+      "value": "10/15 max."
+    },
+    {
+      "property": "LCS Fluorocarbon",
+      "method": "",
+      "uom": "@200°C",
+      "units": "",
+      "value": "10/20 max."
+    },
+    {
+      "property": "Nitrile",
+      "method": "",
+      "uom": "@130°C",
+      "units": "",
+      "value": "Report"
+    },
+    {
+      "property": "Silicone",
+      "method": "",
+      "uom": "@175°C",
+      "units": "",
+      "value": "Report"
+    },
+    {
+      "property": "Perfluoroelastomer",
+      "method": "",
+      "uom": "@200°C",
+      "units": "",
+      "value": "N/A"
+    },
+    {
+      "property": "Thermal Stability / Corrosivity 96 hrs - Metal weight change",
+      "method": "",
+      "uom": "@274°C",
+      "units": "mg/cm²",
+      "value": "4 max"
+    },
+    {
+      "property": "Thermal Stability / Corrosivity 96 hrs - Viscosity change @37.8°C",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "5 max"
+    },
+    {
+      "property": "Thermal Stability / Corrosivity 96 hrs - Total acid number change",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "6 max"
+    },
+    {
+      "property": "Corrosion & Oxidation Stability 72 hrs",
+      "method": "",
+      "uom": "@175°C",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Corrosion & Oxidation Stability 72 hrs",
+      "method": "",
+      "uom": "@204°C",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Corrosion & Oxidation Stability 72 hrs",
+      "method": "",
+      "uom": "@218°C",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "HLPS dynamic coking @20hrs",
+      "method": "",
+      "uom": "@375°C",
+      "units": "Deposit mg",
+      "value": ""
+    },
+    {
+      "property": "Ryder gear test, relative rating Hercolube A",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "102"
+    },
+    {
+      "property": "Bearing test rig (100 hrs), Type 1 1/2 conditions - Overall deposit demerit rating",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "80 max"
+    },
+    {
+      "property": "Bearing test rig (100 hrs), Type 1 1/2 conditions - Viscosity change at 40°C",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "-5 to +30"
+    },
+    {
+      "property": "Bearing test rig (100 hrs), Type 1 1/2 conditions - Total Acid Number change",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "2.0 max"
+    },
+    {
+      "property": "Bearing test rig (200hrs), Type 1 1/2 conditions - filter deposits",
+      "method": "",
+      "uom": "",
+      "units": "g",
+      "value": "3 max"
+    },
+    {
+      "property": "Sonic shear stability - viscosity change",
+      "method": "",
+      "uom": "@40°C",
+      "units": "%",
+      "value": "4 max"
+    },
+    {
+      "property": "Trace metal content",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Synthetic ester"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.24"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "26.71"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "mm²/s",
+      "value": "9351"
+    },
+    {
+      "property": "Flashpoint Cleveland Open Cup",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "268"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-60"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.20"
+    },
+    {
+      "property": "Evaporation Loss 6.5 hrs",
+      "method": "",
+      "uom": "@204°C",
+      "units": "% m",
+      "value": "2.0"
+    },
+    {
+      "property": "Foaming",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    },
+    {
+      "property": "Swelling of Standard Synthetic Rubber - SAE-AMS 3217/4, 72 hrs",
+      "method": "",
+      "uom": "@204°C",
+      "units": "swell %",
+      "value": "12.9"
+    },
+    {
+      "property": "Elastomer compatibility, % weight change after 24/120 hours: Fluorocarbon",
+      "method": "",
+      "uom": "@200°C",
+      "units": "",
+      "value": "7.5/9.0"
+    },
+    {
+      "property": "LCS Fluorocarbon",
+      "method": "",
+      "uom": "@200°C",
+      "units": "",
+      "value": "6.5/8.5 max."
+    },
+    {
+      "property": "Nitrile",
+      "method": "",
+      "uom": "@130°C",
+      "units": "",
+      "value": "6.5/6.0"
+    },
+    {
+      "property": "Silicone",
+      "method": "",
+      "uom": "@175°C",
+      "units": "",
+      "value": "14.5/13.5"
+    },
+    {
+      "property": "Perfluoroelastomer",
+      "method": "",
+      "uom": "@200°C",
+      "units": "",
+      "value": "0.5/0.5"
+    },
+    {
+      "property": "Thermal Stability / Corrosivity 96 hrs - Metal weight change",
+      "method": "",
+      "uom": "@274°C",
+      "units": "mg/cm²",
+      "value": "0.23"
+    },
+    {
+      "property": "Thermal Stability / Corrosivity 96 hrs - Viscosity change @37.8°C",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "0.3"
+    },
+    {
+      "property": "Thermal Stability / Corrosivity 96 hrs - Total acid number change",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "1.5"
+    },
+    {
+      "property": "Corrosion & Oxidation Stability 72 hrs",
+      "method": "",
+      "uom": "@175°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosion & Oxidation Stability 72 hrs",
+      "method": "",
+      "uom": "@204°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosion & Oxidation Stability 72 hrs",
+      "method": "",
+      "uom": "@218°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "HLPS dynamic coking @20hrs",
+      "method": "",
+      "uom": "@375°C",
+      "units": "Deposit mg",
+      "value": ""
+    },
+    {
+      "property": "Ryder gear test, relative rating Hercolube A",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "112"
+    },
+    {
+      "property": "Bearing test rig (100 hrs), Type 1 1/2 conditions - Overall deposit demerit rating",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "21"
+    },
+    {
+      "property": "Bearing test rig (100 hrs), Type 1 1/2 conditions - Viscosity change at 40°C",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "24"
+    },
+    {
+      "property": "Bearing test rig (100 hrs), Type 1 1/2 conditions - Total Acid Number change",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.81"
+    },
+    {
+      "property": "Bearing test rig (200hrs), Type 1 1/2 conditions - filter deposits",
+      "method": "",
+      "uom": "",
+      "units": "g",
+      "value": "0.55"
+    },
+    {
+      "property": "Sonic shear stability - viscosity change",
+      "method": "",
+      "uom": "@40°C",
+      "units": "%",
+      "value": "0.3"
+    },
+    {
+      "property": "Trace metal content",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

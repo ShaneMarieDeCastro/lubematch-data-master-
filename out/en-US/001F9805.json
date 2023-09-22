@@ -1,0 +1,92 @@
+{
+  "id": "001F9805",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State High Mileage SAE 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9eb18b72-02f2-4aeb-8d0a-a4246aa09faa.pdf",
+      "type": "GTDS",
+      "name": "Quaker State High Mileage SAE 5W-30 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563070.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State High Mileage SAE 5W-30 Motor Oil United States EN 140002686046 EHS V1.3 23-SEP-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/652f9d26-b1ad-47f9-8d73-9c1755216b94.pdf",
+      "type": "LTDS",
+      "name": "Quaker State High Mileage SAE 5W-30 Motor Oil United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9805_002XLL_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic QS Green (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550044941",
+      "margin": "0.545146902297426",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Quaker State^® High Mileage is a synthetic blend motor oil that provides protection for vehicles over 75k miles. It is formulated with anti-wear additives that help protect against wear that high mileage engines experience in everyday driving. Quaker State^® High Mileage also helps stop leaks and reduces oil consumption in worn engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

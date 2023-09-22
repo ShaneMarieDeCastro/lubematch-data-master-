@@ -1,0 +1,87 @@
+{
+  "id": "001D8524",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell GadusRail S4 High Speed EUFR",
+  "description": "Advanced Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas no EP de base sintética",
+  "applicationKeys": [
+    "advanced",
+    "european axle box",
+    "extended drain",
+    "extended service",
+    "heavy load",
+    "high load",
+    "high speed",
+    "high speed railway",
+    "lithium based",
+    "long life",
+    "rail",
+    "railroad",
+    "railroad axle box",
+    "roller bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d2305ec7-2c36-4daa-bc9d-89239481c710.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S4 High Speed EUFR EN TDG V4.2 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612156.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUFR Spain ES 140003966322 EHS V3.1 06-JUL-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/13fe3c72-7ee7-4801-8bd0-9c7ee9dafc43.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S4 High Speed EUFR Spain ES TDG V4.2 03-Jun-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612155.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUFR Spain EN 140003966322 EHS V3.1 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8524_002VSL_A246",
+      "name": "Barril 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Barril",
+      "materialCode": "550028115",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 b",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 b"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

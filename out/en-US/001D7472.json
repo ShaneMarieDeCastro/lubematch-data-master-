@@ -1,0 +1,70 @@
+{
+  "id": "001D7472",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Ultra Euro L 5W-30 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140007054903_20120227110_5.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Ultra Euro L Full Synthetic Motor Oil 5W-30 (C2/C3 504/507, 229.51, LL-04) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562547.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Ultra Euro L Full Synthetic Motor Oil 5W-30 (C2/C3 504/507 229.51 LL-04) United States EN 140002686046 EHS V1.8 03-SEP-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Porsche C30",
+      "organisation": "Porsche",
+      "spec": "C30"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

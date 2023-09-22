@@ -1,0 +1,142 @@
+{
+  "id": "001G8171",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Tellus S1 M 32",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "factory applications",
+    "hm",
+    "industrial",
+    "industrial hydraulics",
+    "manufacturing",
+    "zinc antiwear"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fe74f470-8b55-4d88-bc4c-dbc6e059b7a8.pdf",
+      "type": "GTDS",
+      "name": "Tellus S1 M 32 EN TDG V1.5 16-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01657947.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S1 M 32 India English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8171_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010984",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8171_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550050840",
+      "margin": "0.481587182422942",
+      "packShot": ""
+    },
+    {
+      "code": "001G8171_002VNA_A1W8",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550050809",
+      "margin": "0.99942054959805",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Denison HF-2 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-2 - Meets performance requirements"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-68 - Meets performance requirements",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-68 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-0 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-0 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Denison HF-0",
+      "organisation": "Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694 - Meets performance requirements",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-1 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-1 - Meets performance requirements"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-68",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-68"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

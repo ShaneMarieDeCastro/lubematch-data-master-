@@ -1,0 +1,87 @@
+{
+  "id": "001A0084",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "AeroShell Turbine Oil 555",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    "aviation turbines",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/eab103ba-927d-4d68-97d4-f1008d707f50.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 555 EN TDG V1.3 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02311010.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 555 Turkey TR 140003791542 EHS V2.5 06-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02311002.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 555 Turkey EN 140003791542 EHS V2.5 06-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DOD-PRF-85734A",
+      "organisation": "DOD",
+      "spec": "PRF-85734A"
+    },
+    {
+      "name": "General Electric D-50 TF 1",
+      "organisation": "General Electric",
+      "spec": "D-50 TF 1"
+    },
+    {
+      "name": "Allison EMS- 53",
+      "organisation": "Allison",
+      "spec": "EMS- 53"
+    },
+    {
+      "name": "Pratt and Whitney 521C Type II",
+      "organisation": "Pratt and Whitney",
+      "spec": "521C Type II"
+    },
+    {
+      "name": "Joint Service Designation OX-26",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-26"
+    },
+    {
+      "name": "NATO O-160",
+      "organisation": "NATO",
+      "spec": "O-160"
+    },
+    {
+      "name": "DEF STAN 91-100",
+      "organisation": "DEF STAN",
+      "spec": "91-100"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 555 is an advanced 5 mm²/s synthetic hindered ester oil incorporating a finely balanced blend of additives to improve thermal and oxidation stability and to increase the load carrying ability of the base oil.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

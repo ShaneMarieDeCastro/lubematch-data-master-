@@ -1,0 +1,122 @@
+{
+  "id": "001A0064",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Grease 6",
+  "description": "General purpose mineral grease for aircraft.",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/92e0abe3-5dd8-4d2d-aa38-d93fa885f6db.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 6 EN TDG V1.6 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564128.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 6 United States EN 140002686046 EHS V13.0 03-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/34cb6d73-abf8-4be3-afd9-295be816364f.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 6 United States EN TDG V1.6 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0064_002XN4_A1WJ",
+      "name": "Pail 17 kg Open head Plastic HDPE Shell Red (1)",
+      "size": "17",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550043621",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0064_002VWZ_A607",
+      "name": "Cartridge 0.4 kg Standard Grease Preprinted (30)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550043642",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0064_002VH7_A1WJ",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550043618",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0064_002VFN_A1WJ",
+      "name": "Can 3 kg Local (6.6lb Aeroshell Grease) Tinplate Pre-printed (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Can",
+      "materialCode": "550043630",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DEF STAN 91-12",
+      "organisation": "DEF STAN",
+      "spec": "91-12"
+    },
+    {
+      "name": "MIL-G-7711A - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "G-7711A - Meets the requirements"
+    },
+    {
+      "name": "Joint Service Designation XG-271",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-271"
+    },
+    {
+      "name": "DCSEA 382/A",
+      "organisation": "DCSEA",
+      "spec": "382/A"
+    },
+    {
+      "name": "MIL-PRF-24139A",
+      "organisation": "MIL",
+      "spec": "PRF-24139A"
+    },
+    {
+      "name": "NATO G-382",
+      "organisation": "NATO",
+      "spec": "G-382"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Grease 6 is a general purpose grease composed of a mineral oil and clay thickener, possessing good all-round properties within a limited range. It is inhibited against oxidation and corrosion and has good water resistance and low noise capability.  The useful operating temperature range is –40°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

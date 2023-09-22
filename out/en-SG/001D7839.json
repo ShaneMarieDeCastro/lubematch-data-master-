@@ -1,0 +1,170 @@
+{
+  "id": "001D7839",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Omala S2 G 460",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "enclosed gear",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "fixed",
+    "fuel",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "helical",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "manual sequential",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "offshore",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "roller spherical",
+    "rollers",
+    "screw pump",
+    "servo",
+    "splash lubricated bearings",
+    "spur",
+    "steam",
+    "thrust",
+    "transfer case",
+    "transmissions",
+    "trunnion",
+    "turbine",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8c075ae0-4295-49c2-bcf1-c24563b3e5c3.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 G 460 EN TDG V4.3 23-Mar-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580377.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 460 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7839_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024996",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-35",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-35"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 G oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "30.8"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "97"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "904"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

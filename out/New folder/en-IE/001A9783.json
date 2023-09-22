@@ -1,0 +1,378 @@
+{
+  "id": "001A9783",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Turbo Oil T 46",
+  "description": "High Performance Steam Turbine Oil",
+  "family": "Turbo",
+  "parentCategory": "",
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    "aero derivative",
+    "ashless",
+    "aviation turbines",
+    "axle",
+    "ball",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "clutch",
+    "combined cycle",
+    "common shaft",
+    "cooling",
+    "cooling system",
+    "diesel",
+    "differential",
+    "electrical",
+    "electrical fluid",
+    "engine",
+    "final drive",
+    "fixed",
+    "fluid coupling",
+    "gas",
+    "gas turbines",
+    "gearbox",
+    "gerotor pump",
+    "heat transfer",
+    "heavy fuel",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "hydroelectric turbine",
+    "industrial",
+    "journal",
+    "light duty gas turbine",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "mobile",
+    "momentum transfer",
+    "natural gas",
+    "non shiftable",
+    "offshore",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "spindle",
+    "spindle oil",
+    "stationary",
+    "steam",
+    "steam turbine",
+    "tandem drive",
+    "thrust",
+    "tost life 10000 hours",
+    "transmissions",
+    "turbine",
+    "turbocharger",
+    "turbocompressors",
+    "turbomolecular",
+    "vacuum pumps",
+    "variable",
+    "water",
+    "wheel",
+    "wind turbines",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b78ca408-6861-40b7-bb75-bad9e5a39de8.pdf",
+      "type": "GTDS",
+      "name": "Turbo T 46 EN TDG V2.9 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552719.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 46 Ireland EN 140007731156 EHS V2.13 12-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9783_002VSH_A18H",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550013615",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Siemens TLV 9013 04",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 04"
+    },
+    {
+      "name": "Alstom NBA P50001A",
+      "organisation": "Alstom",
+      "spec": "NBA P50001A"
+    },
+    {
+      "name": "ISO 8068 L-TGA",
+      "organisation": "ISO",
+      "spec": "8068 L-TGA"
+    },
+    {
+      "name": "Siemens 800 037 98",
+      "organisation": "Siemens",
+      "spec": "800 037 98"
+    },
+    {
+      "name": "ISO 8068:2006 L-TSA",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TSA"
+    },
+    {
+      "name": "GB 11120-2011 L-TGA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TGA"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "ANSALDO TG02-0171-E00000/B",
+      "organisation": "ANSALDO",
+      "spec": "TG02-0171-E00000/B"
+    },
+    {
+      "name": "MAN Turbo SP 079984 D0000 E99",
+      "organisation": "MAN Turbo",
+      "spec": "SP 079984 D0000 E99"
+    },
+    {
+      "name": "MAN D and T SE TED 10000494596",
+      "organisation": "MAN",
+      "spec": "D and T SE TED 10000494596"
+    },
+    {
+      "name": "Skoda Tp 0010P/97",
+      "organisation": "Skoda",
+      "spec": "Tp 0010P/97"
+    },
+    {
+      "name": "JIS K 2213-2006 Class 2",
+      "organisation": "JIS",
+      "spec": "K 2213-2006 Class 2"
+    },
+    {
+      "name": "General Electric GEK 117064",
+      "organisation": "General Electric",
+      "spec": "GEK 117064"
+    },
+    {
+      "name": "Solar ES 9-224Y Class II",
+      "organisation": "Solar",
+      "spec": "ES 9-224Y Class II"
+    },
+    {
+      "name": "General Electric GEK 28143B",
+      "organisation": "General Electric",
+      "spec": "GEK 28143B"
+    },
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    },
+    {
+      "name": "Indian Standard IS 1012 2002",
+      "organisation": "Indian Standard",
+      "spec": "IS 1012 2002"
+    },
+    {
+      "name": "Alstom HTGD 90 117",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-55",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-55"
+    },
+    {
+      "name": "ISO 8068 L-TSA",
+      "organisation": "ISO",
+      "spec": "8068 L-TSA"
+    },
+    {
+      "name": "ISO 8068:2006 L-TGA",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGA"
+    },
+    {
+      "name": "Dresser Rand 003-406-001",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001"
+    },
+    {
+      "name": "Siemens TLV 9013 05",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 05"
+    },
+    {
+      "name": "DIN 51524-1 HL",
+      "organisation": "DIN",
+      "spec": "51524-1 HL"
+    },
+    {
+      "name": "Alstom HTGD 90 117 V0001 AA",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117 V0001 AA"
+    },
+    {
+      "name": "DIN 51515-2 L-TG",
+      "organisation": "DIN",
+      "spec": "51515-2 L-TG"
+    },
+    {
+      "name": "ASTM D4304-13 Type III",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type III"
+    },
+    {
+      "name": "GE Oil and Gas ITN52220.04",
+      "organisation": "GE Oil and Gas",
+      "spec": "ITN52220.04"
+    },
+    {
+      "name": "Alstom HTWT600050",
+      "organisation": "Alstom",
+      "spec": "HTWT600050"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo Oils T have long been regarded as the industry standard turbine oil. Building on this reputation, Shell Turbo Oils T have been developed to offer improved performance capable of meeting the demands of the most modern steam turbine systems and light duty gas turbines, which require no enhanced anti-wear performance for the gearbox. Shell Turbo Oils T are formulated from high quality hydrotreated base oils and a combination of zinc-free additives that provide excellent oxidative stability, protection against rust & corrosion, low foaming and excellent demulsibility.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "46.0"
+    },
+    {
+      "property": "Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "6.90"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "L 0.5"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "858"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C maximum",
+      "value": "-27"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "220"
+    },
+    {
+      "property": "Total Acid Number",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0.10"
+    },
+    {
+      "property": "Air Release, Minutes",
+      "method": "ASTM D3427",
+      "uom": "@50°C",
+      "units": "minutes",
+      "value": "4"
+    },
+    {
+      "property": "Water Demulsibility",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "minutes",
+      "value": "15"
+    },
+    {
+      "property": "Steam Demulsibility",
+      "method": "DIN 51589",
+      "uom": "",
+      "units": "seconds",
+      "value": "153"
+    },
+    {
+      "property": "Rust Control",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Oxidation Control Test - TOST Life",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours",
+      "value": "10,000+"
+    },
+    {
+      "property": "Oxidation Control Test - RPVOT - minutes",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes minimum",
+      "value": "950"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

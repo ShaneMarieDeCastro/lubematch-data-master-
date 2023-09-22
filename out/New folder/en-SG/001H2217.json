@@ -1,0 +1,122 @@
+{
+  "id": "001H2217",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Helix HX7 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/29fa2cc8-6bbe-405a-82cb-d5caeff4e39a.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 5W-40 (SN Plus A3/B4) EN TDG V1.2 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/6b27d874-304a-4b81-b10a-068ba7e6b8a9.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 5W-40 (SN Plus A3/B4) Singapore EN TDG V1.2 23-Aug-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579806.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 5W-40 (SN Plus A3/B4) Singapore EN 140001435547 EHS V1.1 28-JUL-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2217_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550051453",
+      "margin": "1.77186117266544",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "Fiat 9.55535-M2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-M2 - Meets the requirements"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 helps to keep engines clean and running efficiently by helping to prevent the formation of sludge and engine deposits. It is suitable for a wide variety of modern vehicles driven in demanding traffic conditions. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

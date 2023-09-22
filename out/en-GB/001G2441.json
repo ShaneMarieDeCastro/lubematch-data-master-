@@ -1,0 +1,103 @@
+{
+  "id": "001G2441",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra Professional AJ-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7d6f1e77-f955-4251-8231-f7f25f770f47.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007 Ford 950-A) EN TDG V1.4 30-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553826.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) United Kingdom EN 140002340634 EHS V1.4 14-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/3c099e94-0eea-49fc-8b46-bddd74d8e30e.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) United Kingdom EN TDG V1.4 30-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G2441_002YAN_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550047973",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G2441_002YAP_EURO",
+      "name": "Bottle 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550047974",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5007",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5007"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "Ford WSS-M2C950-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C950-A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines from  Jaguar-Land Rover and Ford and those requiring ACEA C2",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550047974_Shell_Helix_Ult_Pro_AJ-L_0W-30_5L_en.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-helix-ultra-professional-aj-l-0w-30-5ltr-521773601"
+}

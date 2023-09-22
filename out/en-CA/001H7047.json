@@ -1,0 +1,119 @@
+{
+  "id": "001H7047",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Rotella T4 NG Plus 15W-40",
+  "description": "LNG/CNG Heavy Duty Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/eb4b2ee3-2209-4013-a3ad-7bfe8c50ba0c.pdf",
+      "type": "GTDS",
+      "name": "Rotella T4 NG Plus 15W-40 (CK-4) EN TDG V1.3 10-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289692.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T4 NG Plus 15W-40 (CK-4) Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289693.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T4 NG Plus 15W-40 (CK-4) Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/edf1fe5a-0d4a-4720-a404-3bf54967df82.pdf",
+      "type": "LTDS",
+      "name": "Rotella T4 NG Plus 15W-40 (CK-4) Canada EN TDG V1.3 10-Jun-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/dfd841e5-73d6-4c1d-890b-2354e30dc72c.pdf",
+      "type": "LTDS",
+      "name": "Rotella T4 NG Plus 15W-40 (CK-4) Canada FR TDG V1.3 11-Jun-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H7047_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550054693",
+      "margin": "0.702671323330066",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Cummins CES 20092",
+      "organisation": "Cummins",
+      "spec": "CES 20092"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^® T4 NG Plus oil is specially formulated to provide hard working protection under the full range of pressures & temperatures in natural gas engines. Suitable for mobile vehicles operating with 100% LNG/CNG fuel, approved for use in Cummins LNG/CNG engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "001I5511",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell EcoSafe EAL 46",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cb9fb8c7-fb3a-4f42-80f8-1ded08ccf878.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe EAL 46 EN TDG V1.0 21-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b1ae2447-ba56-4f46-a948-a87e04e048ae.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe EAL 46 Canada FR TDG V1.0 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/e29a72f2-3f67-4210-9ef6-74c91030f3b7.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe EAL 46 Canada EN TDG V1.0 21-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290884.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe EAL 46 Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290883.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe EAL 46 Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5511_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057359",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe EAL 46 est un fluide hydraulique haute performance et acceptable pour l’environnement. Shell EcoSafe EAL 46 est produite à partir de stocks de base biodégradables et peut remplacer le liquide hydraulique traditionnel d’huile minérale dans les systèmes avec peu ou pas de modifications d’équipement et de temps d’arrêt minimal pour fournir des performances exceptionnelles dans un large éventail de conditions. Les fluides Shell EcoSafe EAL 46 peuvent être utilisés pour offrir des performances optimales dans un large éventail de climats extérieurs, à travers une grande fenêtre de fonctionnement de la température",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

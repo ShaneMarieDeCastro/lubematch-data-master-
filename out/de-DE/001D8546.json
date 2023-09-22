@@ -1,0 +1,169 @@
+{
+  "id": "001D8546",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S3 T220 2",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "bearing",
+    "electric motors",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "general engineering",
+    "high load",
+    "high temperature",
+    "hot strip mills",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "paper",
+    "paper mill bearings",
+    "plain bearings",
+    "polyurea",
+    "premium",
+    "roller bearings",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9fb7de9-5b4b-4fc2-be78-afeb3a96917c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T220 2 EN TDG V2.4 27-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594813.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 Germany EN 140001492039 EHS V5.4 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595126.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 Germany DE 140001492039 EHS V5.4 14-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/a08293a8-0bb6-421d-875c-30e1958a30c5.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T220 2 Germany DE TDG V2.4 28-Sep-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8546_002VGF_EURO",
+      "name": "Kartusche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550050091",
+      "margin": "7.92365900680459",
+      "packShot": ""
+    },
+    {
+      "code": "001D8546_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028060",
+      "margin": "0.919169185429502",
+      "packShot": ""
+    },
+    {
+      "code": "001D8546_002VME_A246",
+      "name": "Eimer 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028053",
+      "margin": "6.66733992360658",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Hellbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Diurea"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25 °C",
+      "units": "0,1mm",
+      "value": "280"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pumpbarkeit in langen Leitungen",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Ausreichend"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

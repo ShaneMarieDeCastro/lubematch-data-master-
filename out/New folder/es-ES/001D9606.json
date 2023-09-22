@@ -1,0 +1,73 @@
+{
+  "id": "001D9606",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell DCT-M1",
+  "description": "MB Double clutch fluid factory fill fluid",
+  "family": "Daimler FFO",
+  "parentCategory": "Fluidos de transmisión",
+  "category": "Fluidos para transmisión automática",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139848_201407240915.pdf",
+      "type": "GTDS",
+      "name": "Shell DCT-M1 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02490439.PDF",
+      "type": "LMSDS",
+      "name": "Shell DCT-M1 Spain EN 140003966322 EHS V1.2 30-NOV-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/b800d526-ab38-4b83-875b-1189fc7be4f2.pdf",
+      "type": "LTDS",
+      "name": "Shell DCT-M1 Spain ES TDG V1.1 22-Jan-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02490440.PDF",
+      "type": "LMSDS",
+      "name": "Shell DCT-M1 Spain ES 140003966322 EHS V1.2 30-NOV-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D9606_002VSH_A18H",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550025517",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.21",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.21"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell DCT-M1 combina aditivos con tecnología avanzada para cajas DCT con excelente estabilidad al cizallamiento y a la fricción.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

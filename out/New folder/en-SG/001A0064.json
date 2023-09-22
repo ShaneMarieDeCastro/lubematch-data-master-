@@ -1,0 +1,102 @@
+{
+  "id": "001A0064",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Grease 6",
+  "description": "General purpose mineral grease for aircraft.",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/92e0abe3-5dd8-4d2d-aa38-d93fa885f6db.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 6 EN TDG V1.6 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579888.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 6 Singapore EN 140001435547 EHS V1.10 03-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/e3a63924-c45f-40c1-886f-5e86bd41f4f6.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 6 Singapore EN TDG V1.6 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0064_002VFN_A1P5",
+      "name": "Can 3 kg Local (6.6lb Aeroshell Grease) Tinplate Pre-printed (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Can",
+      "materialCode": "550043659",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0064_002VOK_A0U5",
+      "name": "Pail 35 lb Plastic O/H Y (1)",
+      "size": "35",
+      "uom": "lb",
+      "pack": "Pail",
+      "materialCode": "550010389",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DCSEA 382/A",
+      "organisation": "DCSEA",
+      "spec": "382/A"
+    },
+    {
+      "name": "DEF STAN 91-12",
+      "organisation": "DEF STAN",
+      "spec": "91-12"
+    },
+    {
+      "name": "MIL-G-7711A - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "G-7711A - Meets the requirements"
+    },
+    {
+      "name": "NATO G-382",
+      "organisation": "NATO",
+      "spec": "G-382"
+    },
+    {
+      "name": "MIL-PRF-24139A",
+      "organisation": "MIL",
+      "spec": "PRF-24139A"
+    },
+    {
+      "name": "Joint Service Designation XG-271",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-271"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Grease 6 is a general purpose grease composed of a mineral oil and clay thickener, possessing good all-round properties within a limited range. It is inhibited against oxidation and corrosion and has good water resistance and low noise capability.  The useful operating temperature range is –40°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Aeroshell-Grease-6_3Kg.png",
+  "valueRecord": [],
+  "commerce": null
+}

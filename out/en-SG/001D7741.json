@@ -1,0 +1,145 @@
+{
+  "id": "001D7741",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Hydraulic S1 M 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "gerotor pump",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "slew",
+    "swing drive",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/98724352-9cb6-49c9-bd2c-9aa34eb0c09a.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 M 68 EN TDG V3.6 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02632922.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 68 Singapore EN 140001435547 EHS V1.3 22-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7741_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025148",
+      "margin": "0.122320042011397",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 M 32/46/68 is a quality anti-wear hydraulic fluid which provides cost effective and reliable protection and performance in most industrial and mobile applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "68"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "8.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "97"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.875"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

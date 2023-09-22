@@ -1,0 +1,75 @@
+{
+  "id": "001C4571",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R3 20W-20 (CF)",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "brakes",
+    "diesel",
+    "engine",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "mobile",
+    "off highway",
+    "pump gear",
+    "pump piston",
+    "slew",
+    "swing drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/eef94e89-fe10-4c56-a668-9fabedf81ed5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 20W-20 (CF) EN TDG V1.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557453.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 20W-20 (CF) Netherlands NL 140002783873 EHS V2.4 20-APR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557442.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 20W-20 (CF) Netherlands EN 140002783873 EHS V2.4 20-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/e6dee2d7-5eb1-4d0c-a27d-ca4cbedc2c95.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 20W-20 (CF) Netherlands NL TDG V1.2 29-Feb-2016",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "De bewezen chemische samenstelling van Shell Rimula R3 oliën past zich aan uw rijomstandigheden aan en zorgt voor extra bescherming voor uw motor of materieel. Door het sterk detergerend vermogen blijven de zuigers en andere motoronderdelen schoon met als resultaat een efficiëntere motorprestatie en een verlengd motorleven.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

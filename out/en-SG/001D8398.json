@@ -1,0 +1,94 @@
+{
+  "id": "001D8398",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Refrigeration Oil S4 FR-V 32",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": null,
+  "category": "Refrigerator Oils",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "hydraulic system",
+    "industrial",
+    "long life",
+    "open compressor",
+    "pump gear",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/aa181670-f8f3-4795-b520-8289b69d1441.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 32 EN TDG V2.5 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579544.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 32 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8398_002VNF_A1P5",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025698",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8398_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025699",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V is a synthetic refrigeration lubricant based on alkylated benzenes. It offers a universal solution to the lubrication requirements of most refrigeration compressors and is compatible with all commonly used refrigerants with the exception of HFCs.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

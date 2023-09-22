@@ -1,0 +1,85 @@
+{
+  "id": "001A0086",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "AeroShell Turbine Oil 750",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    "aviation turbines",
+    "gas turbines",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/888020ab-a6a2-4ad3-a077-c20c3dba56d7.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 750 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619716.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 750 Canada EN 140006579500 EHS V2.5 18-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b08d9489-dc83-4b90-9ca1-70ecb6ddb5c8.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 750 Canada EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619715.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 750 Canada FR 140006579500 EHS V2.5 18-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b04cc2ad-7b7b-4559-bb5a-b118a41069da.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 750 Canada FR TDG V1.3 04-Aug-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "AIR 3517/A",
+      "organisation": "AIR",
+      "spec": "3517/A"
+    },
+    {
+      "name": "Joint Service Designation OX-38",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-38"
+    },
+    {
+      "name": "NATO O-149",
+      "organisation": "NATO",
+      "spec": "O-149"
+    },
+    {
+      "name": "DEF STAN 91-98",
+      "organisation": "DEF STAN",
+      "spec": "91-98"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

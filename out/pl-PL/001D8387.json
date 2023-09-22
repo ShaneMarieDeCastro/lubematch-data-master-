@@ -1,0 +1,71 @@
+{
+  "id": "001D8387",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gas Compressor Oil S4 RN 68",
+  "description": "Advanced Synthetic Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Sprężarki i pompy próżniowe",
+  "category": "Sprężarki i pompy próżniowe",
+  "applicationKeys": [
+    "hydrocarbon gas",
+    "industrial",
+    "low pressure natural gas",
+    "natural gas",
+    "screw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S4_RN_68_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S4 RN 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/3ad02997-2b84-44a1-8426-d9484d57c002.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S4 RN 68 Poland PL TDG V4.2 31-May-2016",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574579.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 RN 68 Poland EN 140003791557 EHS V4.1 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574578.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 RN 68 Poland PL 140003791557 EHS V4.1 15-MAY-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8387_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027260",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 RN 68 jest olejem przeznaczonym do smarowania sprężarek śrubowych służacych do sprężania gazu ziemnego i innych gazów przy niskich ciśnieniach. Zawiera bazę poliglikolową, co zapewnia znaczne korzyści w stosunku do produktów na bazie olejów mineralnych.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

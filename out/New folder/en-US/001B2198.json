@@ -1,0 +1,85 @@
+{
+  "id": "001B2198",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Spirax S 75W-140",
+  "description": "Automotive gear oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy truck",
+    "industrial",
+    "low temperature",
+    "manual transmission",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140002279295_1415.pdf",
+      "type": "GTDS",
+      "name": "English Spirax S 75W-140",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563865.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S 75W-140 United States EN 140002686046 EHS V2.5 12-JUL-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "MIL-PRF-2105E",
+      "organisation": "MIL",
+      "spec": "PRF-2105E"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

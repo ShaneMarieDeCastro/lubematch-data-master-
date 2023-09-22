@@ -1,0 +1,157 @@
+{
+  "id": "001F4154",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Spirax S4 AX 85W-140",
+  "description": "Heavy duty automotive gear oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "circulation",
+    "circulation system",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "manual",
+    "off highway",
+    "powershift",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0829cbe5-3578-4af1-b8af-5741da53fa62.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 AX 85W-140 EN TDG V1.4 05-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/2b4e0fef-6955-4056-8d8a-5754b598170a.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 AX 85W-140 United States EN TDG V1.4 05-May-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563506.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AX 85W-140 United States EN 140002686046 EHS V2.3 09-APR-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4154_002VND_A1WJ",
+      "name": "Pail 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550043591",
+      "margin": "1.32093593158568",
+      "packShot": ""
+    },
+    {
+      "code": "001F4154_002VSH_A1WJ",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550043592",
+      "margin": "0.78950895877762",
+      "packShot": ""
+    },
+    {
+      "code": "001F4154_002VL5_A1WJ",
+      "name": "Keg 60 L O/H Steel Shell Yellow (1)",
+      "size": "60",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550043593",
+      "margin": "1.19854374691896",
+      "packShot": ""
+    },
+    {
+      "code": "001F4154_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009747",
+      "margin": "0.223731937514681",
+      "packShot": ""
+    },
+    {
+      "code": "001F4154_002XEU_A1WJ",
+      "name": "Bottle 1 qt Local (Gear Oil) Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550043590",
+      "margin": "1.31506367506066",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "Mack GO-H",
+      "organisation": "Mack",
+      "spec": "GO-H"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 AX 85W-140 is an extreme-pressure (EP) automotive hypoid gear oil designed to exceed the latest performance standards for heavy duty, severe service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

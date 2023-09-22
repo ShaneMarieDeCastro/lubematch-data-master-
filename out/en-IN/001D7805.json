@@ -1,0 +1,107 @@
+{
+  "id": "001D7805",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Morlina S1 B 680",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "rollers",
+    "rollneck bearings",
+    "water separation"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S1_B_680_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S1 B 680 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637316.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 680 India EN 140006501563 EHS V1.4 14-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_Morlina_S1_B_680_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Morlina S1 B 680 India English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7805_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550031237",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7805_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027241",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7805_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005688",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B oils are high performance oils designed to provide excellent protection for most industrial bearing and circulating oil system applications, particularly those processes where water shedding (demulsification) is important for the life of the equipment. Meets the most basic requirements of the Morgan standard for common bearing oils.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

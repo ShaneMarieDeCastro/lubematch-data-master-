@@ -1,0 +1,67 @@
+{
+  "id": "001G9746",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S2 OGT 0",
+  "description": "Open Gear and Wire Rope Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "Industriefette",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a2675a31-27ec-4160-9d8b-f652aa75db18.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGT 0 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592766.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGT 0 Germany EN 140001492039 EHS V3.3 13-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/88e06bcf-2933-4962-9368-c98f807e3722.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OGT 0 Germany DE TDG V1.4 03-Jul-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592767.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGT 0 Germany DE 140001492039 EHS V3.3 13-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G9746_002VH7_A1P5",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550050993",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 OGT 0 basiert auf einem Aluminiumkomplex-Seifenverdicker mit mittel- und hochviskosem mineralischem Basisöl, dadurch verbessert sich das Verhalten unter Extremdruck und der Verschleißschutz wird erhöht.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

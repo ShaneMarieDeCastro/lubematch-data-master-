@@ -1,0 +1,67 @@
+{
+  "id": "001I4289",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Varnish Removal Fluid",
+  "description": "Synthetic based solvency enhancer for cleaning varnish in Rotating Equipment",
+  "family": "Turbo",
+  "parentCategory": "Oli turbina",
+  "category": "Oli turbina",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7ad78095-2462-4cb0-83d6-4a580a1babaa.pdf",
+      "type": "GTDS",
+      "name": "Varnish Removal Fluid EN TDG V1.0 12-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608092.PDF",
+      "type": "LMSDS",
+      "name": "Varnish Removal Fluid Italy IT 140007645406 EHS V1.2 03-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608091.PDF",
+      "type": "LMSDS",
+      "name": "Varnish Removal Fluid Italy EN 140007645406 EHS V1.2 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/eaa02482-b7fd-4fc0-83b2-ae63348ebebb.pdf",
+      "type": "LTDS",
+      "name": "Varnish Removal Fluid Italy IT TDG V1.0 04-Mar-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I4289_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550059378",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Questo prodotto può essere usato in qualsiasi applicazione di lubrificazione dove la contaminazione da morchie acceleri la formazione di depositi e porti all'incollamento di valvole o all'accumulo di depositi nel sistema. Nota: questo prodotto non deve essere utilizzato in sistemi a base d'acqua o grassi.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,89 @@
+{
+  "id": "001F4933",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Defy High Mileage 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Quaker_State_Defy_High_Mileage_5W-30_Motor_Oil_(SN_GF-5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Defy High Mileage 5W-30 Motor Oil (SN/GF-5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/2648d636-8589-4914-8082-5a2da1a78abe.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Defy High Mileage 5W-30 Motor Oil (SN/GF-5) Canada FR TDG V1.0 13-Feb-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02403095.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Defy High Mileage 5W-30 Motor Oil (SN/GF-5) Canada EN 140006579500 EHS V2.0 27-JAN-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Quaker_State_Defy_High_Mileage_5W-30_Motor_Oil_(SN_GF-5)_(en-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Defy High Mileage 5W-30 Motor Oil (SN/GF-5) Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02403094.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Defy High Mileage 5W-30 Motor Oil (SN/GF-5) Canada FR 140006579500 EHS V2.0 27-JAN-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4933_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550043277",
+      "margin": "0.934144753472246",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": " ^* ^ Comparé ^ à ^ industrie ^ norme ^ Séquence ^ IVA ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

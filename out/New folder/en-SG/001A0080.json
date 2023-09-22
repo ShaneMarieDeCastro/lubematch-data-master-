@@ -1,0 +1,77 @@
+{
+  "id": "001A0080",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Turbine Oil 308",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d75c98bf-c837-4a19-a02c-72ea7861609b.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 308 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/7f0c182f-26ad-4061-b25a-811fdb3726a9.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 308 Singapore EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579905.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 Singapore EN 140001435547 EHS V2.3 22-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0080_002VFJ_AMAP",
+      "name": "Can 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Can",
+      "materialCode": "550050174",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO O-148",
+      "organisation": "NATO",
+      "spec": "O-148"
+    },
+    {
+      "name": "Joint Service Designation OX-9",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-9"
+    },
+    {
+      "name": "MIL-PRF-7808L Type III",
+      "organisation": "MIL",
+      "spec": "PRF-7808L Type III"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 308 is a 3 mm²/s synthetic ester oil incorporating additives to improve resistance to oxidation and corrosion and to minimise wear.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

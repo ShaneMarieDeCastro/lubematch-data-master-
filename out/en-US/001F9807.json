@@ -1,0 +1,72 @@
+{
+  "id": "001F9807",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State High Mileage SAE 10W-40 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b8b125c5-c450-4032-80a2-21f6957ad0c6.pdf",
+      "type": "GTDS",
+      "name": "Quaker State High Mileage SAE 10W-40 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/49db46e0-6463-4154-8a78-d2d9f07f7dc1.pdf",
+      "type": "LTDS",
+      "name": "Quaker State High Mileage SAE 10W-40 Motor Oil United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563096.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State High Mileage SAE 10W-40 Motor Oil United States EN 140002686046 EHS V1.1 23-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9807_002XLL_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic QS Green (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550044938",
+      "margin": "0.546607155399903",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Quaker State^® High Mileage is a synthetic blend motor oil that provides protection for vehicles over 75k miles. It is formulated with anti-wear additives that help protect against wear that high mileage engines experience in everyday driving. Quaker State^® High Mileage also helps stop leaks and reduces oil consumption in worn engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

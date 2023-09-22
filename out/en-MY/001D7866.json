@@ -1,0 +1,127 @@
+{
+  "id": "001D7866",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Air Tool Oil S2 A 100",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": null,
+  "category": "Rockdrill and Pneumatic Tool Lubricants",
+  "applicationKeys": [
+    "bearing",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "plain",
+    "trunnion"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/18952fa6-12ab-4c59-a506-6b36bc4a5306.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 100 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01969259.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 Malaysia MS 140001435555 EHS V1.5 18-FEB-2020",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01969350.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 Malaysia EN 140001435555 EHS V1.5 18-FEB-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7866_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024968",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    },
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool S2 A has been developed to meet the special lubrication requirements of pneumatic tools, including percussion type pneumatic tools subjected to the most arduous conditions. They are designed to maintain high oil film strength and effectively lubricate even the most demanding requirements of pneumatic drill impact mechanisms as well as providing excellent mist lubrication of general purpose air tools.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "102"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "241"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "884"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,144 @@
+{
+  "id": "001G1488",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Platinum High Mileage SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/86ba1f0b-f80c-4e40-842b-fcda726ac5e0.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum High Mileage 0W-20 (SP/GF-6A) EN TDG V1.6 23-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/aac60b7b-4e79-4443-8270-c6d4568efcd3.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum High Mileage 0W-20 (SP/GF-6A) Canada EN TDG V1.6 22-Sep-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/1543bed5-2169-487a-b81d-6697e7e93422.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum High Mileage 0W-20 (SN) Canada FR TDG V1.6 07-May-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289298.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum High Mileage 0W-20 (SN) Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289299.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum High Mileage 0W-20 (SN) Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1488_002XLH_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550049506",
+      "margin": "2.16300422900378",
+      "packShot": ""
+    },
+    {
+      "code": "001G1488_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550046635",
+      "margin": "2.16795493691932",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Ford WSS-M2C947-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-B1"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^* ^Inscription ^obligatoire. ^Gardez ^vos ^reçus. ^D’autres ^conditions ^s’appliquent. ^Voir ^pennzoil.com/warranty ^pour ^détails ^complets",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

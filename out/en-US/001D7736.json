@@ -1,0 +1,63 @@
+{
+  "id": "001D7736",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Morlina S2 BL 5",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "gearbox",
+    "heat transfer",
+    "high speed",
+    "high speed spindles",
+    "hydraulic system",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "pump gear",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/5f3b2c24-8963-48dd-93aa-79945a7c123a.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 5 EN TDG V1.3 25-May-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563706.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 5 United States EN 140002686046 EHS V3.1 05-MAR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-62",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-62"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL oils are special low viscosity, solvent refined mineral oils blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

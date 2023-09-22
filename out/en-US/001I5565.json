@@ -1,0 +1,55 @@
+{
+  "id": "001I5565",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Centrifugal Compressor Fluid 25",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "25",
+  "viscosityType": "ISO",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f02be3ea-4dfe-412f-b8f3-6062254b8eb4.pdf",
+      "type": "GTDS",
+      "name": "Shell Centrifugal Compressor Fluid 25 EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563029.PDF",
+      "type": "LMSDS",
+      "name": "Shell Centrifugal Compressor Fluid 25 United States EN 140002686046 EHS V1.2 12-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5565_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057422",
+      "margin": "5.06274505626889",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

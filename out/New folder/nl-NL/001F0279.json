@@ -1,0 +1,98 @@
+{
+  "id": "001F0279",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra A5/B5 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_A5_B5_0W-30_(SL_A5_B5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497428.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Netherlands EN 140002783873 EHS V1.4 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/a8f120a6-633e-44b3-bf14-a49311fa954c.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497427.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Netherlands NL 140002783873 EHS V1.4 06-DEC-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0279_002YAN_EURO",
+      "name": "Fles 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046659",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F0279_002XS4_A246",
+      "name": "Vaten 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vaten",
+      "materialCode": "550040501",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra maakt gebruik van unieke actieve reinigingstechnologie om hoog presterende motoren te laten werken met maximale efficiëntie. Het helpt om wrijving in de motor te verminderen en zorgt voor verbeterd brandstofverbruik.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046659_Shell_Helix_Ult_A5_B5-0W-30_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

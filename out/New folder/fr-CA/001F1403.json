@@ -1,0 +1,79 @@
+{
+  "id": "001F1403",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Platinum ATF+4",
+  "description": "Premium Chrylser Service Fill ATF",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Platinum_ATF_4_(Chrysler_MS-9602)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Platinum ATF+4 (Chrysler MS-9602) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291097.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum ATF+4 (Chrysler MS-9602) Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291120.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum ATF+4 (Chrysler MS-9602) Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Pzl_Platinum_ATF_(Chrysler_MS-9602)_(fr-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum ATF+4 (Chrysler MS-9602) Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Pzl_Platinum_ATF_(Chrysler_MS-9602)_(en-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum ATF+4 (Chrysler MS-9602) Canada English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1403_002V78_A0IK",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550042090",
+      "margin": "0.584405871052209",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 9602",
+      "organisation": "Chrysler",
+      "spec": "MS 9602"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

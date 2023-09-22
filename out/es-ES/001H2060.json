@@ -1,0 +1,66 @@
+{
+  "id": "001H2060",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Top Up Oil 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6e43af41-08e2-437b-98bb-517528e90b39.pdf",
+      "type": "GTDS",
+      "name": "Helix Top Up Oil 0W-30 EN TDG V1.5 21-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606520.PDF",
+      "type": "LMSDS",
+      "name": "Helix Top Up Oil 0W-30 Spain ES 140003966322 EHS V1.4 30-JUN-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606522.PDF",
+      "type": "LMSDS",
+      "name": "Helix Top Up Oil 0W-30 Spain EN 140003966322 EHS V1.4 30-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Top Up 0W-30 is suitable as top-up oil for modern gasoline engines and diesel engines with particulate filters.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

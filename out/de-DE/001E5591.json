@@ -1,0 +1,169 @@
+{
+  "id": "001E5591",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Morlina S2 B 680",
+  "description": "Industrial Bearing and Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Lager & Umlauföle",
+  "category": "Lager & Umlauföle",
+  "applicationKeys": [
+    "bearing",
+    "enclosed gear",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "oil lubricated bearings",
+    "rollneck bearings",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S2_B_680_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 680 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02602898.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 680 Germany DE 140001492039 EHS V1.5 23-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02602897.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 680 Germany EN 140001492039 EHS V1.5 23-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/05f1c5b0-6ef6-454e-813f-5e1f64bf2d16.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 680 Germany DE TDG V1.2 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B Öle wurden für den Einsatz in Lagern und industriellen Umlaufsystemen entwickelt sowie für Anwendungen, die keine Hochdruckzusätze (EP) benötigen. Sie eignen sich besonders für Anwendungen, die ein gutes Wasserabscheidevermögen und eine hohe Oxidationsbeständigkeit fordern und erfüllen die Anforderungen von Morgan Construction Company und Danieli. ",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO-Viskositätsklasse (ISO VG)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "680"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "37"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "910"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "min 85"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "300"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–9"
+    },
+    {
+      "property": "Korrosionstest, entmineralisiertes Wasser",
+      "method": "ASTM D665 A",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Demulgiervermögen - @82°C (wenn nicht spezifiziert bei *)",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "Min",
+      "value": "min 40"
+    },
+    {
+      "property": "Alterungsverhalten: TOST",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "Std",
+      "value": "min 1000"
+    },
+    {
+      "property": "Oxidationsstabilität: RPVOT",
+      "method": "ASTM 2272",
+      "uom": "",
+      "units": "Min",
+      "value": "min 300"
+    },
+    {
+      "property": "Schaumverhalten, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml Schaum nach 0 /10 Min",
+      "value": "20/0"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

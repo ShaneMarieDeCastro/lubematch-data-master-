@@ -1,0 +1,289 @@
+{
+  "id": "001D7744",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Tellus S2 M 46",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "aero derivative",
+    "antiwear",
+    "automatic",
+    "aviation turbines",
+    "axle",
+    "ball",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "clutch",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "factory applications",
+    "final drive",
+    "fixed",
+    "fluid coupling",
+    "fuel",
+    "gas",
+    "gas turbines",
+    "gearbox",
+    "gerotor pump",
+    "heavy duty",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "industrial hydraulics",
+    "journal",
+    "liquid ring",
+    "lng",
+    "lpg",
+    "manufacturing",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "morgoil",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "offshore",
+    "plain",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "roller spherical",
+    "rollers",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "slew",
+    "spindle",
+    "spindle oil",
+    "stationary",
+    "steam",
+    "swing drive",
+    "tandem drive",
+    "thrust",
+    "torque converter",
+    "transmissions",
+    "turbine",
+    "turbocharger",
+    "urban",
+    "vacuum pumps",
+    "variable",
+    "water",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/42a35aaf-beda-4eb7-95ed-dea3264fe586.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 M 46 EN TDG V3.6 20-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/e22fef4d-9f75-4696-b5b5-84591c73a7ea.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 M 46 Canada EN TDG V3.4 11-Jul-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02601578.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 M 46 Canada EN 140006579500 EHS V1.10 22-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Tellus_S2_M-fr.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 M 46 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02601576.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 M 46 Canada FR 140006579500 EHS V1.10 22-JUN-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-70 - Meets performance requirements",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-70 - Meets performance requirements"
+    },
+    {
+      "name": "Bosch RD 90220-01/04.11",
+      "organisation": "Bosch",
+      "spec": "RD 90220-01/04.11"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-70",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-70"
+    },
+    {
+      "name": "Denison HF-0",
+      "organisation": "Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "GB 111181-1-94 HM",
+      "organisation": "GB",
+      "spec": "111181-1-94 HM"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "Denison HF-1 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-1 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-0 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-0 - Meets performance requirements"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 AM",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 AM"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Bosch RD 90220-01",
+      "organisation": "Bosch",
+      "spec": "RD 90220-01"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694 - Meets performance requirements",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-2 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-2 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 M fluids are high performance hydraulic fluids that provide outstanding protection and performance in most manufacturing and many mobile equipment operations. They resist breakdown under heat or mechanical stress and help prevent damaging deposit formation that can decrease the efficiency of your hydraulic power system.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "46"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@0°C",
+      "units": "cSt",
+      "value": "580"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "46"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "6.7"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "879"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-30"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

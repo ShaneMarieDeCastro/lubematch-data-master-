@@ -1,0 +1,50 @@
+{
+  "id": "001H2997",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Ultra Low Temperature Oil",
+  "description": "Ultra Low Temperature Oil",
+  "family": "Hydraulic",
+  "parentCategory": "Hydrauliköle",
+  "category": "Hydrauliköle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1f82b446-d504-46a0-b8a3-662b2560ad17.pdf",
+      "type": "GTDS",
+      "name": "Ultra Low Temperature Oil EN TDG V1.1 06-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02513472.PDF",
+      "type": "LMSDS",
+      "name": "Ultra Low Temperature Oil Germany DE 140001492039 EHS V2.0 30-DEC-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02513508.PDF",
+      "type": "LMSDS",
+      "name": "Ultra Low Temperature Oil Germany EN 140001492039 EHS V2.0 30-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

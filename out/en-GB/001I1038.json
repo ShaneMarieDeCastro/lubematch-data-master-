@@ -1,0 +1,67 @@
+{
+  "id": "001I1038",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Diala S5 BD",
+  "description": "Premium Inhibited, Readily Biodegradable Electrical Insulating Oil",
+  "family": "Diala",
+  "parentCategory": "Other industrial lubricants",
+  "category": "Other industrial lubricants",
+  "applicationKeys": [
+    "biodegradable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c8784210-a127-4280-8760-9089f4a6e8f9.pdf",
+      "type": "GTDS",
+      "name": "Diala S5 BD EN TDG V1.8 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/e932f93f-82e1-450a-a4d5-d3c8b8ab30e2.pdf",
+      "type": "LTDS",
+      "name": "Diala S5 BD United Kingdom EN TDG V1.8 23-Jun-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607963.PDF",
+      "type": "LMSDS",
+      "name": "Diala S5 BD United Kingdom EN 140002340634 EHS V1.2 03-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I1038_002VJX_A246",
+      "name": "IBC 1000 L Plastic Black (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550056017",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S5 BD is manufactured from zero sulphur base oils produced using Shell’s GTL (gas-to-liquid) technology. These base oils offer a high degree of compositional consistency and have an excellent response to anti-oxidant. In addition they are free from PCBs, DBDS and passivators.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "001H2258",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a16319e5-6bf5-49d2-a4d2-ba67f7121bf5.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) EN TDG V1.0 20-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/e2370186-2dfc-4606-8056-aa7ffb2dc2e9.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Turkey TR TDG V1.0 17-Sep-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02396719.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Turkey TR 140003791542 EHS V1.6 31-DEC-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02396720.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Turkey EN 140003791542 EHS V1.6 31-DEC-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2258_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550052344",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5, aracınızın motorunda sürekli performans almanız için tasarlanmıştır. Kurum ve tortu birikimine karşı korur ve aşınmayı azaltmaya yardımcı olur. Günlük sürüş koşulları için birçok araç için uygundur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

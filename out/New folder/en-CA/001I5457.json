@@ -1,0 +1,83 @@
+{
+  "id": "001I5457",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe EHC Flushing Fluid",
+  "description": "Special Purpose Hydraulic Fluid - FF",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f2015fc9-fcc1-41f0-8a18-c2feace46c60.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe EHC Flushing Fluid EN TDG V1.1 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290699.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe EHC Flushing Fluid Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/380d58fe-ca7c-4d3e-a8c3-84895d899016.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe EHC Flushing Fluid Canada FR TDG V1.1 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b78bf3b1-d36d-4120-96c5-299174f570bd.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe EHC Flushing Fluid Canada EN TDG V1.1 05-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289629.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe EHC Flushing Fluid Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5457_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057296",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5457_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057295",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

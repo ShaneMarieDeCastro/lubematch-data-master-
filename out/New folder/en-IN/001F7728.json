@@ -1,0 +1,171 @@
+{
+  "id": "001F7728",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Rimula R2 Extra 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/16b56cd8-bdb0-43e7-8131-fcc2819899c4.pdf",
+      "type": "GTDS",
+      "name": "Rimula R2 Extra 15W-40 (CF-4) EN TDG V1.1 10-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02409772.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 Extra 15W-40 (CF-4) India EN 140006501563 EHS V1.9 14-MAR-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7728_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550045710",
+      "margin": "0.39771815288889",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002W1Y_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044733",
+      "margin": "0.854023593722166",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002XCL_A343",
+      "name": "Tub 10 L Cylindrical Plastic Shell Red (1)",
+      "size": "10",
+      "uom": "L",
+      "pack": "Tub",
+      "materialCode": "550044727",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002WPF_A343",
+      "name": "Bottle 3 L Wishbone Plastic Shell Red (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044731",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002X5Z_A1W8",
+      "name": "Bottle 0.5 L Wishbone Plastic Shell Red (24)",
+      "size": "0.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044734",
+      "margin": "0.814338023391019",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002WTH_A1W8",
+      "name": "Bottle 5 L Wishbone Plastic Shell Red (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044730",
+      "margin": "1.1279001451345",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009912",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002XCL_A1W8",
+      "name": "Tub 10 L Cylindrical Plastic Shell Red (1)",
+      "size": "10",
+      "uom": "L",
+      "pack": "Tub",
+      "materialCode": "550044728",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002XCD_A1W8",
+      "name": "Keg 55 L Tight Head Plastic Shell Red (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550046313",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002WPF_A1W8",
+      "name": "Bottle 3 L Wishbone Plastic Shell Red (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044732",
+      "margin": "0.562645954701863",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002XCP_A343",
+      "name": "Tub 7.5 L Cylindrical Plastic Shell Red (1)",
+      "size": "7.5",
+      "uom": "L",
+      "pack": "Tub",
+      "materialCode": "550044729",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7728_002XCP_A1W8",
+      "name": "Tub 7.5 L Cylindrical Plastic Shell Red (1)",
+      "size": "7.5",
+      "uom": "L",
+      "pack": "Tub",
+      "materialCode": "550044737",
+      "margin": "0.816853487259058",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R2 Extra oils keep the engine clean. Additives ensure protection against deposits, wear and resist thickening by heat, suitable for most heavy duty applications including turbo-charged engines. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R2-Extra-15_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

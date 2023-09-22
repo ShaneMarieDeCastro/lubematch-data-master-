@@ -1,0 +1,91 @@
+{
+  "id": "001E7786",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra SN 0W-20",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_SN_0W-20_(SN_GF-5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra SN 0W-20 (SN/GF-5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_Kingdom_Shell_Helix_Ultra_SN_0W-20_(SN_GF-5)_(en-GB)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra SN 0W-20 (SN/GF-5) United Kingdom English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534093.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SN 0W-20 (SN/GF-5) United Kingdom EN 140002340634 EHS V1.7 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra SN uses its latest active cleansing technology to help gasoline engines operate to their full potential by keeping them as close as possible to factory clean. It provides unsurpassed sludge and wear protection. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_Ultra_SN_5W_20.png",
+  "valueRecord": [],
+  "commerce": null
+}

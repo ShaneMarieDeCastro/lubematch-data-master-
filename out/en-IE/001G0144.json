@@ -1,0 +1,76 @@
+{
+  "id": "001G0144",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "AeroShell Oil W 80 Plus",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Piston",
+  "applicationKeys": [
+    "ashless"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "80",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6381f573-a710-4222-9490-d81f52d94e2a.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 80 Plus (10-2015) EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02469831.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 80 Plus (10-2015) Ireland EN 140009424789 EHS V1.5 07-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0144_002XOH_AEP2",
+      "name": "Bottle 1 qt Americas Tool Plastic Shell Red Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550051195",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0144_002XOH_AEP1",
+      "name": "Bottle 1 qt Americas Tool Plastic Shell Red Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550050836",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Continental SIL 99-2",
+      "organisation": "Continental",
+      "spec": "SIL 99-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Oil W80 Plus is a single grade oil that combines the single grade, ashless dispersant performance found in AeroShell Oil W80 Plus and the anti-wear/anti-corrosion additives of AeroShell Oil W 15W-50 Multigrade. It is the oil for pilots who prefer a single grade but who also want the extra protection and performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

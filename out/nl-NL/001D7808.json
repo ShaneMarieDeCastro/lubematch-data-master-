@@ -1,0 +1,117 @@
+{
+  "id": "001D7808",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Morlina S2 B 68",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "aero derivative",
+    "aviation turbines",
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "final drive",
+    "gas",
+    "gearbox",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "off highway",
+    "oil lubricated bearings",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "roller spherical",
+    "rollers",
+    "rollneck bearings",
+    "servo",
+    "transmissions",
+    "turbine",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S2_B_68_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S2 B 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/4fee9ca6-813e-4fde-93a7-7e6c566d205d.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 68 Netherlands NL TDG V2.1 02-Aug-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481122.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 68 Netherlands NL 140002783873 EHS V1.8 16-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481121.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 68 Netherlands EN 140002783873 EHS V1.8 16-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7808_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550026383",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B zijn hoogwaardige oliën die uitzonderlijke bescherming tegen oxidatie en een waterafscheidend vermogen bieden in de meeste industriële lagers- en circulatiesystemen en andere industriële toepassingen waarbij 'EP'-prestaties niet vereist zijn. Shell Morlina S2 B oliën voldoen aan de vereisten van Morgan Construction Company en Danieli voor algemene lagersmering. \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

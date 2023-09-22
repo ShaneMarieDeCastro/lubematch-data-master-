@@ -1,0 +1,71 @@
+{
+  "id": "001J0467",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Fire-Resistant Hydraulic Concentrate HFAS",
+  "description": "Water Based Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a19560e1-9d88-4eff-976a-69192ac6a71f.pdf",
+      "type": "GTDS",
+      "name": "Fire-Resistant Hydraulic Concentrate HFAS EN TDG V1.4 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02312228.PDF",
+      "type": "LMSDS",
+      "name": "Fire-Resistant Hydraulic Concentrate HFAS Canada EN 140006579500 EHS V1.1 10-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02312225.PDF",
+      "type": "LMSDS",
+      "name": "Fire-Resistant Hydraulic Concentrate HFAS Canada FR 140006579500 EHS V1.1 10-MAY-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0467_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550060655",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0467_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550060654",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Fire-Resistant Hydraulic Concentrate HFAS is a synthetic solution specifically designed to meet the needs of water based hydraulic systems which utilize reciprocating piston, multi-stage centrifugal or multi-stage gear pumps.  The product is designed to be diluted with soft water at concentrations of 3-5%.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

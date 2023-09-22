@@ -1,0 +1,60 @@
+{
+  "id": "001E1586",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Spirax S4 GJ 75W-90",
+  "description": "High Performance Manual Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "cars",
+    "engine",
+    "gasoline",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d287a9e0-b90d-4bb8-b73f-085a441d9ddc.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 GJ 75W-90 EN TDG V1.1 09-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02414055.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 GJ 75W-90 Malaysia EN 140001435555 EHS V1.0 21-APR-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02414056.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 GJ 75W-90 Malaysia MS 140001435555 EHS V1.0 21-APR-2022",
+      "language": "MS"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 GJ 75W-90 is premium quality, manual transmission oil designed for optimal performance, utilizing unique technology and formulations.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

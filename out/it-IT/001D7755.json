@@ -1,0 +1,108 @@
+{
+  "id": "001D7755",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Tellus S2 MA 46",
+  "description": "Industrial Detergent Hydraulic Fluid\\n",
+  "family": "Tellus",
+  "parentCategory": "Fluidi idraulici",
+  "category": "Fluidi idraulici",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "detergent based",
+    "emulsifiable",
+    "fixed",
+    "gearbox",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "mobile",
+    "mobile equipment",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "transmissions",
+    "turbine",
+    "variable",
+    "wet conditions",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0c4303ba-ca46-40f7-94c6-b6baf6c1c2cf.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MA 46 EN TDG V3.5 27-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570081.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 Italy EN 140007645406 EHS V1.2 30-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/3ab24ae8-b65b-44ba-85c1-24e814c508a6.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MA 46 Italy IT TDG V3.5 11-Sep-2021",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570082.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 Italy IT 140007645406 EHS V1.2 01-MAY-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7755_002VSH_A1P5",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550027130",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": " Shell Tellus S2 MA è un fluido idraulico detergente di elevate prestazioni per impieghi dove sono preferiti fluidi emulsionabili. Impiegando una dimostrata tecnologia antiusura senza ceneri, garantiscono affidabili prestazioni in applicazioni dove è importante il controllo della contaminazione con acqua, della pulizia o dei contaminanti solidi, tipo applicazioni che utilizzano fluidi da taglio.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

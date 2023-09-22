@@ -1,0 +1,57 @@
+{
+  "id": "901L2652",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Catenex Oil S 925",
+  "description": "Paraffinic process oil",
+  "family": "Catenex",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Procesoliën-paraffinisch",
+  "applicationKeys": [
+    "hydraulic system",
+    "pump gear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Catenex_S_925_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Catenex S 925 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140003225530_200907141359.pdf",
+      "type": "LTDS",
+      "name": "Catenex S 925 Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481025.PDF",
+      "type": "LMSDS",
+      "name": "Catenex S 925 Netherlands NL 140002783873 EHS V1.3 02-MAY-2013",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481024.PDF",
+      "type": "LMSDS",
+      "name": "Catenex S 925 Netherlands EN 140002783873 EHS V1.3 02-MAY-2013",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Catenex Oils S are paraffinic process oils manufactured via the solvent extraction process. They are general purpose process oils used as extender or carrier fluids.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

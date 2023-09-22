@@ -1,0 +1,77 @@
+{
+  "id": "001I5604",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Naturelle S2 Hydraulic Fluid 68",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Hydrauliköle",
+  "category": "Hydrauliköle",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/967d4e1d-7203-45d2-9611-2de8d1ba4e23.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 EN TDG V2.0 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/18f2e797-14c6-464e-8d50-8acef6449bd2.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Germany DE TDG V2.0 30-Sep-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605913.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Germany EN 140001492039 EHS V1.4 29-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605912.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Germany DE 140001492039 EHS V1.4 29-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5604_002XXS_A1P5",
+      "name": "Intermediate Bulk Containers 1000 L Local Composite Hdpe/Steel Opaque with PCR (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550060210",
+      "margin": "0.562391981506348",
+      "packShot": ""
+    },
+    {
+      "code": "001I5604_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550060209",
+      "margin": "1.03583413113437",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S2 HF ist ein fortschrittliches Hydrauliköl für den Einsatz in Hydraulikanlagen und Getrieben. Es ist biologisch leicht abbaubar mit nur einer geringen Ökotoxizität und ist somit insbesondere für den Einsatz in ökologisch empfindlichen Bereichen geeignet. Die Verbindung aus vollsynthetischen Estern und aschefreien Additiven verleihen Shell Naturelle S2 HF eine hervorragende Mischung aus Schmierleistung und Umweltverträglichkeit.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S2_Hydraulic_Fluid_68_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

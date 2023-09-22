@@ -1,0 +1,82 @@
+{
+  "id": "001D7867",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Air Tool Oil S2 A 320",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": "",
+  "category": "Rockdrill and Pneumatic Tool Lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/cbe96ffa-96ac-4a07-8531-a31d0c190a3a.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 320 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/f8f00711-e3e6-447f-b182-1afefe4c3da9.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 320 Philippines EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01166979.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 320 Philippines EN 140001435525 EHS V1.1 31-DEC-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7867_002VNA_A227",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550030521",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7867_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024973",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    },
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool S2 A has been developed to meet the special lubrication requirements of pneumatic tools, including percussion type pneumatic tools subjected to the most arduous conditions. They are designed to maintain high oil film strength and effectively lubricate even the most demanding requirements of pneumatic drill impact mechanisms as well as providing excellent mist lubrication of general purpose air tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

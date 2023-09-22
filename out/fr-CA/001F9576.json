@@ -1,0 +1,94 @@
+{
+  "id": "001F9576",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Tellus S2 VK 22",
+  "description": "Industrial Hydraulic Fluid for wide temperature range",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "low temperature",
+    "versatile"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c10f8898-a502-434d-90a1-9f9210ec453f.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 VK 22 (2016) EN TDG V1.6 24-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/25786a38-3110-47c7-b9dc-393af1b97355.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VK 22 (2016) Canada EN TDG V1.6 24-Aug-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291558.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VK 22 (2016) Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cd738247-9877-4e08-bdad-3ea0a3c65b98.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VK 22 (2016) Canada FR TDG V1.6 27-Aug-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291559.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VK 22 (2016) Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9576_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550046070",
+      "margin": "0.91592902376619",
+      "packShot": ""
+    },
+    {
+      "code": "001F9576_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500010084",
+      "margin": "0.672802148060758",
+      "packShot": ""
+    },
+    {
+      "code": "001F9576_002VOM_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550046071",
+      "margin": "0.834295763710675",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Les fluides Shell Tellus S2 VK sont des fluides hydrauliques de haute performance qui ont été conçus pour offrir un excellent contrôle de la viscosité dans des conditions de contraintes mécaniques sévères. Grâce à leur indice de viscosité très élevé, ces fluides procurent une protection et des performances exceptionnelles dans la plupart des équipements mobiles et dans d'autres systèmes soumis à des températures ambiantes ou d’exploitation très variables, qui sont typiques des climats froids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

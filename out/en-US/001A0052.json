@@ -1,0 +1,241 @@
+{
+  "id": "001A0052",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Fluid 5M-A",
+  "description": "Mineral lubricating oil for helicopter transmissions",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    "gearbox",
+    "industrial"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/373a9aaf-7449-4b9d-b203-0be790e1bda1.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 5M-A EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/f262f5a3-7623-4b3d-833b-55a6e3ede0bc.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 5M-A United States EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563484.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 5M-A United States EN 140002686046 EHS V1.4 12-NOV-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DEF STAN 91-112",
+      "organisation": "DEF STAN",
+      "spec": "91-112"
+    },
+    {
+      "name": "NATO O-155",
+      "organisation": "NATO",
+      "spec": "O-155"
+    },
+    {
+      "name": "Joint Service Designation OEP-70",
+      "organisation": "Joint Service Designation",
+      "spec": "OEP-70"
+    },
+    {
+      "name": "MIL-PRF-6086F",
+      "organisation": "MIL",
+      "spec": "PRF-6086F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 5M-A is a highly refined, medium viscosity mineral oil containing an extreme pressure additive as well as additives to provide good oxidation and corrosion protection.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "-"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@37.8°C",
+      "units": "mm²/s",
+      "value": "60 - 82"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@98.9°C",
+      "units": "mm²/s",
+      "value": "-"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "154.5 min"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80 min"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-29 max"
+    },
+    {
+      "property": "Total Acid Number",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "1.0 max"
+    },
+    {
+      "property": "Relative Density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "-"
+    },
+    {
+      "property": "Load Wear Index",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "kg",
+      "value": "40 min"
+    },
+    {
+      "property": "Colour ASTM",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "8 max"
+    },
+    {
+      "property": "Foaming, sequence I, II, III",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Copper corrosion 3 hrs",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@37.8°C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@98.9°C",
+      "units": "mm²/s",
+      "value": "8.3"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "204"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "Below -29"
+    },
+    {
+      "property": "Total Acid Number",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.1"
+    },
+    {
+      "property": "Relative Density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "0.92"
+    },
+    {
+      "property": "Load Wear Index",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "kg",
+      "value": "50"
+    },
+    {
+      "property": "Colour ASTM",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "< 3"
+    },
+    {
+      "property": "Foaming, sequence I, II, III",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    },
+    {
+      "property": "Copper corrosion 3 hrs",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "NULL",
+      "value": "Passes"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

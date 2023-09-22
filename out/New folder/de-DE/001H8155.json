@@ -1,0 +1,87 @@
+{
+  "id": "001H8155",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S3 ALS 85W-90",
+  "description": "High performance, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e708a554-072d-4b51-97cf-6ff5aa422003.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 ALS 85W-90 EN TDG V1.1 15-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02632441.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 Germany EN 140001492039 EHS V1.6 17-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02632440.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 Germany DE 140001492039 EHS V1.6 17-AUG-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/fd6c58db-33a0-4864-b1af-48f9b4e0e5e6.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 ALS 85W-90 Germany DE TDG V1.1 15-Sep-2020",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 21C",
+      "organisation": "ZF",
+      "spec": "TE-ML 21C"
+    },
+    {
+      "name": "ZF TE-ML 16E",
+      "organisation": "ZF",
+      "spec": "TE-ML 16E"
+    },
+    {
+      "name": "ZF TE-ML 05C",
+      "organisation": "ZF",
+      "spec": "TE-ML 05C"
+    },
+    {
+      "name": "ZF TE-ML 12C",
+      "organisation": "ZF",
+      "spec": "TE-ML 12C"
+    },
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 ALS 85W-90 wurde für den Einsatz in einem breiten Spektrum von Achsantrieben entwickelt, insbesondere für solche mit Lamellensperrdifferenzial, und eignet sich u.a. für den Einsatz in vielen ZF-Achsen.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550060232_Shell_Spirax_S3_ALS_85W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

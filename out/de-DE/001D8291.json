@@ -1,0 +1,154 @@
+{
+  "id": "001D8291",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S6 AXME 75W-140",
+  "description": "Superior performance, extended drain synthetic axle oil for  Scania and others",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "axle",
+    "buses",
+    "differential",
+    "energy efficiency",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "front axle",
+    "fuel efficiency",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy truck",
+    "hydraulic system",
+    "industrial",
+    "low temperature",
+    "maintenance saving",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "semi manual",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6fc4eb79-22a8-455f-a626-ed4c97bf155d.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 AXME 75W-140 EN TDG V2.5 06-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02622919.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 75W-140 Germany DE 140001492039 EHS V5.3 24-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/771965f5-f2ed-496a-8ef3-896c6611269e.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 AXME 75W-140 Germany DE TDG V2.5 19-Oct-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02622920.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 75W-140 Germany EN 140001492039 EHS V5.3 24-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8291_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550052710",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8291_002VNF_A1P5",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027947",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8291_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027957",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Scania STO 2:0A",
+      "organisation": "Scania",
+      "spec": "STO 2:0A"
+    },
+    {
+      "name": "ZF TE-ML 12N",
+      "organisation": "ZF",
+      "spec": "TE-ML 12N"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "ZF TE-ML 16F",
+      "organisation": "ZF",
+      "spec": "TE-ML 16F"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 AXME 75W-140 ist ein kraftstoffsparendes und langlebiges Getriebe- und Achsöl, das für den herausragenden Schutz neuester Schaltgetriebe und Achsen von Nutzfahrzeugen entwickelt wurde. Die spezielle Formulierung mit synthetischen Grundölen und einer für Shell einzigartigen Additivtechnologie sorgt für eine verbesserte Schmierung des Antriebsstrangs, senkt die Betriebstemperatur und hilft, die Getriebelebensdauer zu verlängern. Spirax S6 AXME 75W-140 kann auch für verlängerte Ölwechselintervalle eingesetzt werden und ist von Scania, gemäß deren Spezifikation, hierfür freigegeben.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,191 @@
+{
+  "id": "001D7783",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Corena S3 R 68",
+  "description": "Premium Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Sprężarki i pompy próżniowe",
+  "category": "Sprężarki i pompy próżniowe",
+  "applicationKeys": [
+    "air compressor",
+    "axle",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "long life",
+    "mobile",
+    "off highway",
+    "oil flooded",
+    "oil injected",
+    "pump piston",
+    "pump valve",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "servo",
+    "sliding vane",
+    "tandem drive",
+    "transmissions",
+    "vacuum pumps"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1e036514-9b68-4a72-85c2-45e50ac20ad5.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 R 68 EN TDG V1.6 13-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571438.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 R 68 Poland PL 140003791557 EHS V2.8 04-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571437.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 R 68 Poland EN 140003791557 EHS V2.8 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/5728836d-027c-4e16-93ba-d9a922a75709.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 R 68 Poland PL TDG V1.6 14-Nov-2018",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7783_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550026560",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7783_002VNK_A246",
+      "name": "Wiadro 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550027231",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DAH",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAH"
+    },
+    {
+      "name": "ISO 6743-3 L-DAH",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAH"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 R to wysokiej jakości olej przeznaczony do śrubowych i łopatkowych spreżarek powietrza. Zaawansowany pakiet dodatków uszlachetniających zapewnia doskonałą ochronę oraz znakomite własciwości smarne w kompresorach umożliwiając osiągnięcie interwału wymiany 4.000 godzin (jeśli zgodne jest to z wymogami producenta urządzenia).",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "8.9"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "873"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "248"
+    },
+    {
+      "property": "Air Release",
+      "method": "ASTM D3427",
+      "uom": "",
+      "units": "minutes",
+      "value": "5"
+    },
+    {
+      "property": "RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes",
+      "value": "700"
+    },
+    {
+      "property": "FZG Test",
+      "method": "CEC-L-07-A-95",
+      "uom": "",
+      "units": "LS Fail",
+      "value": "11"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "Water separability",
+      "method": "ASTM D1401",
+      "uom": "@54°C",
+      "units": "minutes",
+      "value": "15"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "104"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s3_r.png",
+  "valueRecord": [],
+  "commerce": null
+}

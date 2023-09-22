@@ -1,0 +1,78 @@
+{
+  "id": "001E9965",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Naturelle S4 Stern Tube Fluid 100",
+  "description": "Special purpose biodegradable stern tube fluid",
+  "family": "Naturelle",
+  "parentCategory": "Lubrificanti per Marina",
+  "category": "Oli motore - Cilindro e sistema di lubrificazione",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3b2b5896-086b-4cd8-ac32-9aba7c59a601.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Stern Tube Fluid 100 EN TDG V1.6 19-Nov-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450279.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Stern Tube Fluid 100 Italy EN 140007645406 EHS V1.2 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/f8a39cb5-6168-487b-be8a-fb5704767eb4.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Stern Tube Fluid 100 Italy IT TDG V1.6 18-Mar-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450277.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Stern Tube Fluid 100 Italy IT 140007645406 EHS V1.2 21-SEP-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9965_002VSH_A1P5",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550042314",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "USA EPA VGP",
+      "organisation": "USA EPA",
+      "spec": "VGP"
+    },
+    {
+      "name": "ISO 3448",
+      "organisation": "ISO",
+      "spec": "3448"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Stern Tube Fluid è un fluido sintetico non-emulsionante sviluppato in particolare per l'utilizzo in assi portaelica. Realizzato da esteri completamente saturi, Shell Naturelle S4 Stern Tube Fluid è stato progettato per offrire una lubrificazione superiore e allo stesso tempo altamente biodegradabile con bassa ecotossicità. Shell Naturelle S4 Stern Tube Fluid è un Lubrificante accettato dal punto di vista Ambientale (EAL) secondo l'US EPA 2013 Vessel General Permit (VGP).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S4_Stern_Tube_Fluid_100_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,160 @@
+{
+  "id": "001D8549",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S3 T100 2",
+  "description": "Premium Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "high temperature",
+    "industrial",
+    "industrial bearings",
+    "light load",
+    "long life",
+    "multipurpose",
+    "polyurea",
+    "premium",
+    "water resistance",
+    "water washout resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e14e10a2-2174-4b20-90dd-2452470c2869.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T100 2 EN TDG V1.5 17-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595156.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T100 2 Germany DE 140001492039 EHS V4.3 14-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/c5136212-b71f-4d99-9bf4-69ba4aeefd81.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T100 2 Germany DE TDG V1.5 02-Sep-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594816.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T100 2 Germany EN 140001492039 EHS V5.3 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8549_002VGF_EURO",
+      "name": "Kartusche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550053700",
+      "margin": "7.04836886759981",
+      "packShot": ""
+    },
+    {
+      "code": "001D8549_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550025260",
+      "margin": "3.36934997558594",
+      "packShot": ""
+    },
+    {
+      "code": "001D8549_002VME_A246",
+      "name": "Eimer 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028089",
+      "margin": "6.09831933648641",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 T100 ist ein Hochleitungs-Schmierfett für optimale Leistung bei der Fettschmierung in Wälz- und Gleitlagern in der Industrie. Es basiert auf einem Mineralöl und einem Polyharnstoff-Eindicker, um lange Lebensdauer, niedrigen Verschleiß und eine hohe Scherstabilität bei hohen Temperaturen zu bieten. Bei Hochtemperatur-Anwendungen ist Shell Gadus S3 T 100 genauso geeignet wie aktuell verfügbare vollsynthetische (PAO) Lithium-Komplex-Schmierfette.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Braun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Polyharnstoff"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445 / DIN 51562-1",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445 / DIN 51562-1",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217 / DIN ISO 2137",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pumpbarkeit ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Angemessen"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

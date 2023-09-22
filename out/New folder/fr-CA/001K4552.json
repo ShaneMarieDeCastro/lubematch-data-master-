@@ -1,0 +1,107 @@
+{
+  "id": "001K4552",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Professional MS 5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c55b6e56-f180-4d97-97b0-fa5e247cee9a.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Professional MS 5W-20 CAN EN TDG V1.1 08-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02432676.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Professional MS 5W-20 CAN Canada FR 140006579500 EHS V1.0 16-AUG-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02432459.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Professional MS 5W-20 CAN Canada EN 140006579500 EHS V1.0 16-AUG-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001K4552_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500015064",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® Professional MS Full Synthetic motor oil is formulated for modern turbocharged engines. PENNZOIL^® utilizes the advances of synthetic technology to provide better wear protection in high and low temperatures and improved cleanliness over synthetic blend motor oils. It meets or exceeds the engine protection required by ILSAC GF-6 and is specially formulated to meet the GM dexos1™ specification.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

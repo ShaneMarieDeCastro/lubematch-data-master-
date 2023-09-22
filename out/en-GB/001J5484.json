@@ -1,0 +1,50 @@
+{
+  "id": "001J5484",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell AdBlue",
+  "description": "Aqueous solution of urea",
+  "family": "Non Oil Income (Other)",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/91f7ee06-c078-4697-891f-e7932dff5761.pdf",
+      "type": "GTDS",
+      "name": "Shell AdBlue EN TDG V1.0 15-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599327.PDF",
+      "type": "LMSDS",
+      "name": "Shell AdBlue United Kingdom EN 140002340634 EHS V1.2 16-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 22241",
+      "organisation": "ISO",
+      "spec": "22241"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

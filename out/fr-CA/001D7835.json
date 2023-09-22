@@ -1,0 +1,187 @@
+{
+  "id": "001D7835",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Omala S2 G 100",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "enclosed gear",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "heavy fuel",
+    "helical",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "light fuel",
+    "manual",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "offshore",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "rollers",
+    "servo",
+    "slew",
+    "splash lubricated bearings",
+    "spur",
+    "stationary",
+    "steam",
+    "stern tube seal",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions",
+    "turbine",
+    "variable",
+    "water"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S2_G_100_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 G 100 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573679.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 100 Canada EN 140006579500 EHS V1.7 10-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/7be743c1-d622-4941-94f6-5b73600b1451.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 G 100 Canada EN TDG V4.2 04-Oct-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573678.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 100 Canada FR 140006579500 EHS V1.8 10-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/d32d991f-fc81-47ab-bfe8-81e49ae27577.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 G 100 Canada FR TDG V4.2 09-Nov-2017",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-76",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-76"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 G sont des huiles extrême pression de haute qualité conçues principalement pour la lubrification des engrenages industriels. Leur forte résistance à la charge et leurs propriétés anti-friction offre des performances supérieures.\n",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.4"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "891"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,86 @@
+{
+  "id": "001C4571",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R3 20W-20 (CF)",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    "brakes",
+    "diesel",
+    "engine",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "mobile",
+    "off highway",
+    "pump gear",
+    "pump piston",
+    "slew",
+    "swing drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/eef94e89-fe10-4c56-a668-9fabedf81ed5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 20W-20 (CF) EN TDG V1.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557482.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 20W-20 (CF) Poland PL 140003791557 EHS V1.3 20-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557481.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 20W-20 (CF) Poland EN 140003791557 EHS V1.3 20-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/73cd6011-3476-4023-adf3-d32c3d78bb72.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 20W-20 (CF) Poland PL TDG V1.2 07-Sep-2020",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4571_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550043121",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Oleje Shell Rimula R3 dostosowują się do aktualnych potrzeb zapewniając dodatkową ochronę i utrzymując tłoki i inne części silnika w czystości. Zwiększają trwałość silnika dzięki zabezpieczeniu przed zużyciem oraz zapewniają efektywną pracę zapewniając ochrone przed tworzeniem sie szkodliwych osadów.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

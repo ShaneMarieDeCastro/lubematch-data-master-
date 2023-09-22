@@ -1,0 +1,88 @@
+{
+  "id": "001A0063",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "AeroShell Grease 5",
+  "description": "Mineral grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff980400-39c7-4b90-a7cc-6e0163c10186.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 5 EN TDG V1.4 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535253.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 5 Canada EN 140006579500 EHS V2.0 03-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/1c603d5b-c15f-47ef-92ac-1e00cc77be99.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 5 Canada FR TDG V1.4 24-Jun-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/f458f24a-4e27-4b41-9df5-9ff32c08f879.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 5 Canada EN TDG V1.4 23-Jun-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535254.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 5 Canada FR 140006579500 EHS V2.0 03-MAR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DTD.878A",
+      "organisation": "DTD",
+      "spec": "878A"
+    },
+    {
+      "name": "NATO G-359",
+      "organisation": "NATO",
+      "spec": "G-359"
+    },
+    {
+      "name": "DCSEA 359/A",
+      "organisation": "DCSEA",
+      "spec": "359/A"
+    },
+    {
+      "name": "Joint Service Designation XG-277",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-277"
+    },
+    {
+      "name": "MIL-G-3545C",
+      "organisation": "MIL",
+      "spec": "G-3545C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –18°C to +149°C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

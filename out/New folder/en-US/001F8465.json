@@ -1,0 +1,125 @@
+{
+  "id": "001F8465",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Morlina S3 BA 220",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "industrial",
+    "light load",
+    "plain bearings",
+    "reciprocating gas compressors",
+    "steel mill",
+    "super demulsibility",
+    "water separation",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2d46ea58-ad23-446d-b335-76bd84f3bb8b.pdf",
+      "type": "GTDS",
+      "name": "Morlina S3 BA 220 (2016) EN TDG V2.4 11-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562914.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S3 BA 220 (2016) United States EN 140002686046 EHS V1.2 02-JUN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/ddb7e5fe-4589-47d3-a9c5-58a0996c15d9.pdf",
+      "type": "LTDS",
+      "name": "Morlina S3 BA 220 (2016) United States EN TDG V2.4 16-Jun-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8465_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011182",
+      "margin": "0.781239507766743",
+      "packShot": ""
+    },
+    {
+      "code": "001F8465_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550050765",
+      "margin": "2.49009209923423",
+      "packShot": ""
+    },
+    {
+      "code": "001F8465_002VOP_NAMD",
+      "name": "Pail 5 Gal Plastic O/H Y (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550050766",
+      "margin": "4.99258875071964",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "ISO 12925-1 CKB",
+      "organisation": "ISO",
+      "spec": "12925-1 CKB"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 2.5",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 2.5"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S3 BA oils are premium quality rust & oxidation inhibited lubricating oils providing excellent lubrication in MORGOIL^®^ bearing & steel mill circulating systems. They are designed to have appropriate viscosity/temperature characteristics, low foaming tendencies and excellent water separation properties. In addition, they protect equipment against corrosion and oil oxidation resulting in long service life. Meets the requirements of the Morgan and Danieli for super demulsibility applications.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

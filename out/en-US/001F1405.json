@@ -1,0 +1,71 @@
+{
+  "id": "001F1405",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Dex/Merc ATF",
+  "description": "Older Generation DEXRON-III/MERCON ATF",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "automatic transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ce249c67-5ebc-4fb9-a5c9-20d7d234c524.pdf",
+      "type": "GTDS",
+      "name": "Pzl Dex/Merc ATF (DEXRON-III MERCON) EN TDG V1.1 18-Mar-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563055.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Dex/Merc ATF (DEXRON-III MERCON) United States EN 140002686046 EHS V2.0 24-MAY-2017",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/1a3b4966-351d-41d7-bb74-86aeeac26312.pdf",
+      "type": "LTDS",
+      "name": "Pzl Dex/Merc ATF (DEXRON-III MERCON) United States EN TDG V1.1 02-Dec-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors Dexron III - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron III - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford Mercon - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford Mercon",
+      "organisation": "Ford",
+      "spec": "Mercon"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

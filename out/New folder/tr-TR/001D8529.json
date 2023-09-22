@@ -1,0 +1,135 @@
+{
+  "id": "001D8529",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Gadus S2 V220D 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "lithium",
+    "moly"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_V220D_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220D 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319848.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220D 2 Turkey EN 140003791542 EHS V2.6 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/258fa556-2c12-4d52-a1d2-bc37e7bf2c9f.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220D 2 Turkey TR TDG V1.2 23-Nov-2015",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319711.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220D 2 Turkey TR 140003791542 EHS V2.6 11-MAY-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8529_002XD7_A246",
+      "name": "Kova 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kilogram",
+      "pack": "Kova",
+      "materialCode": "550028219",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8529_002VH7_A246",
+      "name": "Fıçı 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kilogram",
+      "pack": "Fıçı",
+      "materialCode": "550028218",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220D 2, zorlu çalışma şartlarında kullanılmak üzere tasarlanmıştır. Yüksek viskozite indeksine sahip mineral baz yağlar, lityum sabunlu  kalınlaştırıcı, aşırı-basınç (EP), aşınma ve korozyon önleyici katıklardan oluşur. Shell Gadus S2 V220D 2 gresi şok yüklere dayanım sağlayan molibden disülfit katı yağlayıcı da içerir.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "15.5"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "275"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "185"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

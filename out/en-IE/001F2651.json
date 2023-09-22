@@ -1,0 +1,166 @@
+{
+  "id": "001F2651",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix Ultra ECT C2/C3 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ae9fd33f-65c5-4766-8bbe-7fd623de14ea.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C2/C3 0W-30 (C2/C3 VW504/507 MB 229.52) EN TDG V2.0 27-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617687.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C2/C3 0W-30 (C2/C3 VW504/507 MB 229.52) Ireland EN 140007731156 EHS V1.5 13-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2651_002VSI_A246",
+      "name": "Keg 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550042232",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_002XI2_A246",
+      "name": "Bottle 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045937",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550042331",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009387",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550042158",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Porsche C30",
+      "organisation": "Porsche",
+      "spec": "C30"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "Fiat 9.55535-GS1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-GS1 - Meets the requirements"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "MB-Approval 229.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.52"
+    },
+    {
+      "name": "Fiat 9.55535-DS1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-DS1 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C2/C3 features its most advanced emissions-compatible technology that helps to keep diesel particulate filters clean to help maintain engine performance.  It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550048373_Shell_Helix_Ultra_ECT_C2C3_0W-30_20L_EcoPack_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

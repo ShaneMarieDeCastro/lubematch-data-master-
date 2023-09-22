@@ -1,0 +1,124 @@
+{
+  "id": "001E9387",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dc8ed8b7-067e-4e25-84f9-52f4e5be477b.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) EN TDG V1.7 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02310836.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Turkey EN 140003791542 EHS V1.5 06-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/1d1ff869-f355-4bf0-a7f0-a4b8803b7f37.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Turkey TR TDG V1.7 08-Nov-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02310835.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Turkey TR 140003791542 EHS V1.5 06-MAY-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9387_002WX1_EURO",
+      "name": "Şişe 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550046289",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9387_002XS4_A246",
+      "name": "Fıçılar 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçılar",
+      "materialCode": "550040265",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9387_002XK8_A10E",
+      "name": "Şişe 7 L Wishbone Plastic Helix Grey (2)",
+      "size": "7",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550042754",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C913-C",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C"
+    },
+    {
+      "name": "Ford WSS-M2C913-D",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-D"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "Ford WSS-M2C913-C - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C - Meets the requirements"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5003 - Meets the requirements",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5003 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ford ve ACEA A5/B5 sınıfı motor yağı talep edilen diğer yüksek performans araçlarının gereksinimlerini karşılamak üzere tasarlanmıştır.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AF_5L_600061213.png",
+  "valueRecord": [],
+  "commerce": null
+}

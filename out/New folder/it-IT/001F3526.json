@@ -1,0 +1,116 @@
+{
+  "id": "001F3526",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S6 ATF X",
+  "description": "Premium lower viscosity multi-vehicle ATF",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Fluidi per trasmissioni automatiche",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "continuously variable",
+    "differential",
+    "final drive",
+    "manual sequential",
+    "off highway",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "tandem drive",
+    "torque converter",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6a8b811d-e9cc-4bfc-a064-62a5d87ed038.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF X EN TDG V2.2 10-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/ff447d80-2300-4ca7-a99c-7f25807faff0.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF X Italy IT TDG V2.2 01-Aug-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02500080.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF X Italy EN 140007645406 EHS V1.4 07-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02500079.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF X Italy IT 140007645406 EHS V1.4 07-DEC-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3526_002VNF_A246",
+      "name": "Secchio 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550057986",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3526_002W21_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550058231",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3526_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550050371",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO 1A",
+      "organisation": "JASO",
+      "spec": "1A"
+    },
+    {
+      "name": "General Motors Dexron VI",
+      "organisation": "General Motors",
+      "spec": "Dexron VI"
+    },
+    {
+      "name": "Ford Mercon LV",
+      "organisation": "Ford",
+      "spec": "Mercon LV"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Fluido a tecnologia sintetica, ad alte prestazioni, formulato per incontrare le necessità di diverse tipologie di veicoli per il riempimento di servizio della trasmissione automatica. Shell Spirax S6 ATF X incontra i requisiti di molte trasmissioni automatiche giapponesi, asiatiche, europee e nord americane che richiedono un fluido a bassa viscosità, come GM DEXRON^®^ -VI, Ford MERCON LV e Toyota WS. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550058231_Shell_Spirax_S6_ATF_X_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

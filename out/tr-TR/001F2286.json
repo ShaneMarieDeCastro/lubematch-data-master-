@@ -1,0 +1,88 @@
+{
+  "id": "001F2286",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra Professional AF 5W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/413d0fcb-66a7-456c-9dbc-e75cbb0c75ab.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/2ada3b23-edb0-4411-8acb-eaee35176b3f.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) Turkey TR TDG V1.5 08-Nov-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319515.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) Turkey TR 140003791542 EHS V1.6 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319567.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) Turkey EN 140003791542 EHS V1.6 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C948-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C948-B"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ford \"Ecoboost\" motorlar dahil, yüksek performans araçlarının gereksinimlerini karşılamak üzere tasarlanmıştır.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-20_AF_5L_600061116.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,165 @@
+{
+  "id": "001D8307",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Spirax S6 ATF ZM",
+  "description": "Premium Heavy Duty Transmission Oil for ZF Long Drain",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "buses",
+    "disc",
+    "extended drain",
+    "extended life",
+    "gearbox",
+    "heavy duty",
+    "heavy duty atf",
+    "heavy truck",
+    "hydraulic system",
+    "industrial",
+    "low temperature",
+    "manual",
+    "manual sequential",
+    "pump gear",
+    "synchronised",
+    "transmissions",
+    "trucks",
+    "wet brake",
+    "zf ecomat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7262879e-2382-4618-8fa3-27b484daf46e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF ZM EN TDG V2.4 20-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580317.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF ZM Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8307_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027843",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8307_002VSH_A682",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550044221",
+      "margin": "2.40171554731551",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 4D",
+      "organisation": "ZF",
+      "spec": "TE-ML 4D"
+    },
+    {
+      "name": "ZF TE-ML 20F",
+      "organisation": "ZF",
+      "spec": "TE-ML 20F"
+    },
+    {
+      "name": "MAN 339 Type Z4",
+      "organisation": "MAN",
+      "spec": "339 Type Z4"
+    },
+    {
+      "name": "ZF TE-ML 14E",
+      "organisation": "ZF",
+      "spec": "TE-ML 14E"
+    },
+    {
+      "name": "ZF TE-ML 16Q",
+      "organisation": "ZF",
+      "spec": "TE-ML 16Q"
+    },
+    {
+      "name": "MAN 339 Type Z13",
+      "organisation": "MAN",
+      "spec": "339 Type Z13"
+    },
+    {
+      "name": "ZF TE-ML 16N",
+      "organisation": "ZF",
+      "spec": "TE-ML 16N"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF ZM Oil is a fully synthetic, premium quality, heavy-duty automatic transmission oil specifically designed in partnership with ZF as a lubricant for the newest generation of ZF-Ecomat - and ZF-Ecolife transmissions. Spirax S6 ATF ZM is the ultimate performance automatic transmission fluid allowing extended drain intervals even under the most severe conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "61.8"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "10.2"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "153"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "843"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-51"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s6_atf_zm_153.png",
+  "valueRecord": [],
+  "commerce": null
+}

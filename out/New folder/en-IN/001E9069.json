@@ -1,0 +1,111 @@
+{
+  "id": "001E9069",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix HX8 Synthetic SN 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX8_Synthetic_SN_0W-20_(SN_GF-5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 Synthetic SN 0W-20 (SN/GF-5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02161346.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Synthetic SN 0W-20 (SN/GF-5) India EN 140006501563 EHS V1.1 16-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9069_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008430",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9069_002WML_A1W8",
+      "name": "Bottle 4 L Wishbone Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051105",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9069_002WL0_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051104",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9069_002XIU_A1W8",
+      "name": "Bottle 3.5 L Wishbone Plastic Rimula Grey (4)",
+      "size": "3.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051107",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9069_002X0G_A1W8",
+      "name": "Bottle 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051106",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 Synthetic SN works hard to offer a high level of protection and cleansing for modern gasoline engines.  It is particularly suitable for eco-cars.  It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

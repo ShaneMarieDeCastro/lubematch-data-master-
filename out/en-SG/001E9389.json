@@ -1,0 +1,108 @@
+{
+  "id": "001E9389",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Helix Ultra Professional AG 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "gm"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6d65cc9a-5462-4901-bed9-cf101d6d81cf.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AG 5W-30 (meet dexos 2) EN TDG V1.8 10-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579480.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Singapore English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/141fbd3c-2d19-44fa-9167-dd8981be86bf.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Singapore EN TDG V1.8 10-May-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9389_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008891",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002VJV_A227",
+      "name": "IBC 1000 L Plastic W (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550043539",
+      "margin": "0.992574594414752",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550041600",
+      "margin": "1.81076156014108",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including General Motors, Opel/Vauxhall and those requiring API SN or ACEA C3.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AG_5L_600061211.png",
+  "valueRecord": [],
+  "commerce": null
+}

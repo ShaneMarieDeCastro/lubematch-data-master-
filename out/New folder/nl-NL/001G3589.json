@@ -1,0 +1,120 @@
+{
+  "id": "001G3589",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AV-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7826d86b-652c-4684-9335-3aac3d92af30.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) EN TDG V1.5 29-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503628.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) Netherlands EN 140002783873 EHS V1.2 10-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503626.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) Netherlands NL 140002783873 EHS V1.2 10-DEC-2022",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/0d093f0c-6946-49ab-8dbf-492547de89c4.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) Netherlands NL TDG V1.5 01-Dec-2021",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G3589_002YAN_EURO",
+      "name": "Fles 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550048041",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3589_002VNF_A246",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550047886",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3589_002XS4_A246",
+      "name": "Vaten 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vaten",
+      "materialCode": "550047887",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 509.00",
+      "organisation": "VW",
+      "spec": "Standard 509.00"
+    },
+    {
+      "name": "Porsche C20",
+      "organisation": "Porsche",
+      "spec": "C20"
+    },
+    {
+      "name": "VW Standard 508.00",
+      "organisation": "VW",
+      "spec": "Standard 508.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontworpen om aan de hoge eisen van hoogpresterende motoren van Audi, VW en Porsche te voldoen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550048041_Shell_Helix_Ultra_AV-L_0W-20_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

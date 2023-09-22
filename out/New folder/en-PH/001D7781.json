@@ -1,0 +1,98 @@
+{
+  "id": "001D7781",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Corena S3 R 32",
+  "description": "Premium Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "",
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "screw pump",
+    "sliding vane",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8b9df97d-e24d-4a86-9ee6-12e2366bb659.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 R 32 EN TDG V1.5 13-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02530175.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 R 32 Philippines EN 140001435525 EHS V1.5 28-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/aec48a02-b3a9-4614-80d5-f13ba6f4f27a.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 R 32 Philippines EN TDG V1.5 13-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7781_002VNK_A227",
+      "name": "Pail 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550024911",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7781_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024989",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DAH",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAH"
+    },
+    {
+      "name": "ISO 6743-3 L-DAH",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAH"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 R is a premium quality air compressor oil designed to deliver high performance lubrication of rotary sliding vane and screw air compressors. It uses an advanced additive system to provide excellent protection and performance for compressors running with oil maintenance intervals up to 4,000 hours (where allowed by manufacturers).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s3_r.png",
+  "valueRecord": [],
+  "commerce": null
+}

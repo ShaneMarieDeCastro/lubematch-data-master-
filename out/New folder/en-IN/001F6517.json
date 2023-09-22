@@ -1,0 +1,121 @@
+{
+  "id": "001F6517",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Rimula All Purpose Diesel Engine Oil 20W-40",
+  "description": "All purpose diesel engine oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/47ea0f97-3961-43a2-89f9-20c3d55d95fa.pdf",
+      "type": "GTDS",
+      "name": "Rimula All Purpose Diesel Engine Oil 20W-40 EN TDG V1.1 03-Mar-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02234985.PDF",
+      "type": "LMSDS",
+      "name": "Rimula All Purpose Diesel Engine Oil 20W-40 India EN 140006501563 EHS V1.3 09-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F6517_002W1Z_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550043368",
+      "margin": "0.549441103542331",
+      "packShot": ""
+    },
+    {
+      "code": "001F6517_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009695",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F6517_002WX0_A1W8",
+      "name": "Bottle 5 L Wishbone Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550043529",
+      "margin": "0.569492799447525",
+      "packShot": ""
+    },
+    {
+      "code": "001F6517_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550043369",
+      "margin": "0.402103316415575",
+      "packShot": ""
+    },
+    {
+      "code": "001F6517_002WVA_A1W8",
+      "name": "Bottle 3.5 L Wishbone Plastic White (4)",
+      "size": "3.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550043530",
+      "margin": "0.405796393715087",
+      "packShot": ""
+    },
+    {
+      "code": "001F6517_002XCF_A1W8",
+      "name": "Keg 55 L Tight Head Plastic White (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550043370",
+      "margin": "0.499654087412958",
+      "packShot": ""
+    },
+    {
+      "code": "001F6517_002VNI_A1W8",
+      "name": "Pail 20 L Plastic O/H w/lid W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550043371",
+      "margin": "0.515215037832078",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula All Purpose Diesel Engine oil reacts to the varying needs of your engine and keeps it clean. Its protective energy ensures reliable and consistent protection against deposits and wear and resists thickening by heat.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "001I5528",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Omala S3 W 150",
+  "description": "Biodegradable Water Soluble Gear Fluid",
+  "family": "Naturelle",
+  "parentCategory": "",
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7570fe2a-b6ee-4134-95a7-ba90d186bafe.pdf",
+      "type": "GTDS",
+      "name": "Shell Omala S3 W 150 EN TDG V1.2 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/4c00191b-5223-4fc3-8828-311c77e84839.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 W 150 Canada EN TDG V1.2 05-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/972c9d78-2a88-40c0-8640-8d5463f1af74.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 W 150 Canada FR TDG V1.2 09-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02367185.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 W 150 Canada FR 140006579500 EHS V2.0 31-AUG-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02367186.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 W 150 Canada EN 140006579500 EHS V2.0 31-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5528_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057385",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5528_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057384",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

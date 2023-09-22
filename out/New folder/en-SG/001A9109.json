@@ -1,0 +1,71 @@
+{
+  "id": "001A9109",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Advance VSX 2 (FC/EGD)",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/39b8e8eb-4aa9-4e8e-835e-06f284414e42.pdf",
+      "type": "GTDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) EN TDG V1.4 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579915.PDF",
+      "type": "LMSDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) Singapore EN 140001435547 EHS V1.4 27-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9109_002WKZ_A685",
+      "name": "Bottle 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045655",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FC",
+      "organisation": "JASO",
+      "spec": "FC"
+    },
+    {
+      "name": "JASO FC - Meets smoke emission standard",
+      "organisation": "JASO",
+      "spec": "FC - Meets smoke emission standard"
+    },
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance VSX 2 is a synthetic based lubricant specifically designed for excellent engine protection and performance in 2-stroke motorcycle engines. It guarantees superior control against exhaust system blocking and minimises exhaust smoke. Shell Advance VSX 2 is suitable both for all oil-injection and premix systems and exceeds the requirements of leading manufacturers.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_VSX_2T_1L_600059313.png",
+  "valueRecord": [],
+  "commerce": null
+}

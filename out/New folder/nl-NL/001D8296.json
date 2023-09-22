@@ -1,0 +1,67 @@
+{
+  "id": "001D8296",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Spirax S2 ATF A389",
+  "description": "High Performance ATF, Power Steering and Hydraulic Oil for Allison 389 Use",
+  "family": "Spirax",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Automatische transmissie oliën",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "buses",
+    "heavy duty allison transmissions",
+    "heavy truck",
+    "manual sequential",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_ATF_A389_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 ATF A389 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576967.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ATF A389 Netherlands NL 140002783873 EHS V5.2 23-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576968.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ATF A389 Netherlands EN 140002783873 EHS V5.2 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Voith 55.6335",
+      "organisation": "Voith",
+      "spec": "55.6335"
+    },
+    {
+      "name": "Allison TES-389",
+      "organisation": "Allison",
+      "spec": "TES-389"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 ATF A389 is designed for use in Allison heavy duty automatic transmissions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

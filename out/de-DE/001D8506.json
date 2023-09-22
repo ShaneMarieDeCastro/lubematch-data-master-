@@ -1,0 +1,166 @@
+{
+  "id": "001D8506",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S2 OGH 0/00",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "Schmierfette für offene Getriebe",
+  "applicationKeys": [
+    "clay",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "kiln gears",
+    "open gears",
+    "rotary cement kiln",
+    "rotary cement kiln gears",
+    "smectite",
+    "solid lubricant",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0/00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c583389f-234b-4edc-8d66-d6e5dceb201f.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGH 0/00 EN TDG V1.2 04-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02456874.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Germany EN 140001492039 EHS V1.4 26-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/97b30c3c-4888-4293-912a-8d11642829cf.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OGH 0/00 Germany DE TDG V1.2 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02456873.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Germany DE 140001492039 EHS V1.4 26-SEP-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8506_002XD7_A246",
+      "name": "Eimer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028047",
+      "margin": "3.31170561028005",
+      "packShot": ""
+    },
+    {
+      "code": "001D8506_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028076",
+      "margin": "3.26436011948213",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 OGH basiert auf einem seifenfreien anorganischen Eindicker, dispergiert in einem sehr hochviskosen Grundöl und beinhaltet zusätzlich Graphit als Festkörperschmierstoff.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0/00"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Dunkelgrau"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Clay"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Feststoffadditiv",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Graphit 15%"
+    },
+    {
+      "property": "Grundöl Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "1000"
+    },
+    {
+      "property": "Grundöl Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "42"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25 °C",
+      "units": "0.1mm",
+      "value": "395"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "> 250"
+    },
+    {
+      "property": "Vier-Kugel-Test",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kg",
+      "value": "800"
+    },
+    {
+      "property": "FZG-Fressschaden-Test",
+      "method": "A/2.76/50 ISO 14635-3",
+      "uom": "",
+      "units": "",
+      "value": "12 bestanden"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

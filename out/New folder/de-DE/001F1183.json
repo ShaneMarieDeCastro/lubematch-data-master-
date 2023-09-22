@@ -1,0 +1,193 @@
+{
+  "id": "001F1183",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Omala S2 GX 680",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriegetriebeöle",
+  "category": "Industriegetriebeöle",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "compatibility with seals and paints",
+    "enclosed gear",
+    "ep",
+    "extreme performance",
+    "extreme pressure",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "marine",
+    "micropitting",
+    "rollers",
+    "siemens ag",
+    "trunnion",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2d21e6f2-eb56-4f51-98a9-9068129d78af.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 680 EN TDG V1.9 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587598.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 680 Germany EN 140001492039 EHS V2.2 05-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587727.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 680 Germany DE 140001492039 EHS V2.2 05-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/2ea67954-84d7-4a9a-968a-86e7011b61b0.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 680 Germany DE TDG V1.9 29-Jul-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1183_002VNA_A246",
+      "name": "Eimer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550041663",
+      "margin": "1.16096558356572",
+      "packShot": ""
+    },
+    {
+      "code": "001F1183_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550041660",
+      "margin": "0.546665008544922",
+      "packShot": ""
+    },
+    {
+      "code": "001F1183_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550041662",
+      "margin": "0.332130485904089",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "AGMA EP 9005-EO2",
+      "organisation": "AGMA",
+      "spec": "EP 9005-EO2"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-34",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-34"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 GX 680 ist ein hochwertiges Industriegetriebeöl mit Extreme-Pressure-Eigenschaften. Entwickelt für den Einsatz in hoch belasteten und stark beanspruchten Industriegetrieben. Es bietet ein hohes Lasttragevermögen, hohe Graufleckentragfähigkeit, sehr gute Verträglichkeit mit Dichtungen und Farben, kombiniert mit reibungsmindernden Eigenschaften, für eine hervorragende Leistung in Industriegetrieben.  ",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "42.1"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">250"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-9"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "Kg/m³",
+      "value": "912"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

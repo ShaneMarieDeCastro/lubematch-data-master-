@@ -1,0 +1,110 @@
+{
+  "id": "001F9593",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Helix HX7 Professional SN 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6e29155e-1817-4ed6-8d86-c7eb012257b7.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional SN 5W-30 (SN/GF-5) EN TDG V1.2 07-Nov-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580106.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional SN 5W-30 (SN/GF-5) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of high-performance passenger car engines.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "10.2-10.8"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "59.1-62.1"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "162-166"
+    },
+    {
+      "property": "MRV",
+      "method": "ASTM D4684",
+      "uom": "@-35°C",
+      "units": "cP",
+      "value": "13 800-16 200"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m^3",
+      "value": "845.3-848.3"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C typical",
+      "value": "225"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C typical",
+      "value": "-42"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

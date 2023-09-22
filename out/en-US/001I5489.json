@@ -1,0 +1,55 @@
+{
+  "id": "001I5489",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Water Soluble Hydraulic Fluid 32",
+  "description": "Water Soluble Hydraulic Oil",
+  "family": "Hydraulic",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/934adb9a-d6b3-4021-991d-2afd7bd5de81.pdf",
+      "type": "GTDS",
+      "name": "Water Soluble Hydraulic Fluid 32 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02625690.PDF",
+      "type": "LMSDS",
+      "name": "Water Soluble Hydraulic Fluid 32 United States EN 140002686046 EHS V1.2 31-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5489_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057331",
+      "margin": "4.74402797674892",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

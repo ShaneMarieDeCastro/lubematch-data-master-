@@ -1,0 +1,74 @@
+{
+  "id": "001D8278",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S2 ALS 90",
+  "description": "High quality, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Oleje do ręcznych skrzyń biegów i przekładni",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy truck",
+    "industrial",
+    "limited slip differentials",
+    "off highway",
+    "passenger car",
+    "reduction gears",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_ALS_90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Spirax S2 ALS 90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576937.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 90 Poland EN 140003791557 EHS V5.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/e116688a-d17e-45bf-9137-7f20142397e1.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 ALS 90 Poland PL TDG V1.1 05-Nov-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576936.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 90 Poland PL 140003791557 EHS V6.2 23-MAY-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 ALS 90 jest olejem przekładniowym o szerokim zastosowaniu w wielu rodzajach układów różnicowych z ograniczonym poślizgiem stosowanych w pojazdach pracujących w trudnych\nwarunkach.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027908_Shell_Spirax_S2_ALS_90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

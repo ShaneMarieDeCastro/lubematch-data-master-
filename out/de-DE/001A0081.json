@@ -1,0 +1,66 @@
+{
+  "id": "001A0081",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "AeroShell Turbine Oil 390",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "Aviation Schmierstoffe ",
+  "category": "Motoröle - Aviation/Turbine",
+  "applicationKeys": [
+    "aero derivative",
+    "circulation",
+    "circulation system",
+    "gas",
+    "gas turbines",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/36f3aa91-a8be-40ea-9755-fdd43a04d03e.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 390 EN TDG V1.3 08-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550761.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 390 Germany DE 140001492039 EHS V4.1 11-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550760.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 390 Germany EN 140001492039 EHS V4.1 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DEF STAN 91-94",
+      "organisation": "DEF STAN",
+      "spec": "91-94"
+    },
+    {
+      "name": "Joint Service Designation OX-7",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-7"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 390 is a 3 mm²/s synthetic diester oil incorporating a carefully selected and balanced combination of additives to improve thermal and oxidation stability and to increase the load carrying ability of the base oil.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

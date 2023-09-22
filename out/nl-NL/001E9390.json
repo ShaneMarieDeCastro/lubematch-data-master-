@@ -1,0 +1,109 @@
+{
+  "id": "001E9390",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AM-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "bmw",
+    "cars"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4b77a24e-ec93-4151-b777-235f1d8918f2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AM-L 5W-30 (MB229.51 BMW LL-04) EN TDG V2.0 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02623328.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AM-L 5W-30 (MB229.51 BMW LL-04) Netherlands EN 140002783873 EHS V1.7 25-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/403d4c1a-d7ee-456a-a80c-eb478a2bee53.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AM-L 5W-30 (MB229.51 BMW LL-04) Netherlands NL TDG V2.0 17-Nov-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02623329.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AM-L 5W-30 (MB229.51 BMW LL-04) Netherlands NL 140002783873 EHS V1.7 25-JUL-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9390_002W21_EURO",
+      "name": "Fles 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046302",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9390_002XS4_A246",
+      "name": "Vaten 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vaten",
+      "materialCode": "550040211",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontwikkeld om aan de hoge eisen van hoog performante motoren te voldoen, zoals BMW en Mercedes-Benz en voor motoren die een API SN of ACEA C3 specificatie vereisen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AM-L_1L_600044021.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "001I4312",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Shipcare Boiler Water Oil Traces",
+  "description": "Sludge removal and oil coagulant for boilers",
+  "family": "Generic Products (Lubricants)",
+  "parentCategory": "",
+  "category": "Boiler Water Treatment",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "n/a",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d020e210-5087-441d-ad18-03523ae259ca.pdf",
+      "type": "GTDS",
+      "name": "Shell Shipcare Boiler Water Oil Traces EN TDG V1.4 25-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02417162.PDF",
+      "type": "LMSDS",
+      "name": "Shell Shipcare Boiler Water Oil Traces Netherlands EN 140009876307 EHS V2.3 17-MAY-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02417160.PDF",
+      "type": "LMSDS",
+      "name": "Shell Shipcare Boiler Water Oil Traces Netherlands NL 140009876307 EHS V2.3 17-MAY-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

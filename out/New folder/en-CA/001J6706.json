@@ -1,0 +1,77 @@
+{
+  "id": "001J6706",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil Marine Premium Plus 4-Cycle 25W-40",
+  "description": "Leisure Marine 4 stroke Engine Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - Leisure Marine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "25W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d828d2eb-edc3-423c-80f3-9b0664a99259.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Marine Premium Plus 4-Cycle 25W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02464357.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Marine Premium Plus 4-Cycle 25W-40 Canada FR 140006579500 EHS V1.1 21-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02464358.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Marine Premium Plus 4-Cycle 25W-40 Canada EN 140006579500 EHS V1.1 21-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/0936e67c-f224-4ada-af61-8e6f62e9d71b.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Marine Premium Plus 4-Cycle 25W-40 Canada FR TDG V1.1 19-Sep-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J6706_002XO2_A0IK",
+      "name": "Bottle 0.946 L Americas Tool Plastic Shell Yellow Reformulated (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550070247",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J6706_002XLH_A0IK",
+      "name": "Bottle 5 L Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550070246",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

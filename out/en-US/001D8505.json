@@ -1,0 +1,120 @@
+{
+  "id": "001D8505",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S4 OG Clear Oil 20000",
+  "description": "Advanced Open Gear and Wire Rope Lubricant",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Open Gear Greases",
+  "applicationKeys": [
+    "gearbox",
+    "industrial"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6a19bf90-0384-48ee-8788-455f52be8714.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 OG Clear Oil 20000 EN TDG V2.4 21-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563684.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 OG Clear Oil 20000 United States EN 140002686046 EHS V2.1 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8505_002XW3_A1P5",
+      "name": "Drums 180 L Open head Steel Shell Red, Shell Yellow (1)",
+      "size": "180",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550053880",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 OG Clear Oil 20000 is an advanced part-synthetic, non-bitumastic viscous lubricant specifically developed to satisfy the demands of heavily loaded open gearing and large journal bearings as found in heavy industry and sugar mill applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "Appearance ",
+      "method": "Visual",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Clear and Bright"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Part Synthetic"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "20000"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "420"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "145"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2783",
+      "uom": "",
+      "units": "N",
+      "value": "8000"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "0"
+    },
+    {
+      "property": "FZG Failure",
+      "method": "DIN 51354",
+      "uom": "",
+      "units": "Load Stage",
+      "value": ">12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

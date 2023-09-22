@@ -1,0 +1,108 @@
+{
+  "id": "001F7265",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "AeroShell Fluid 41 (NA)",
+  "description": "Mineral hydraulic fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques (aviation)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c9286f90-deb2-4647-8a27-fd61c511e727.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 41 (NA) EN TDG V1.4 22-Jan-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290631.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 41 (NA) Canada FR 140006579500 EHS V2.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/9d007c7d-d233-41c1-8941-d30463a927a8.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 41 (NA) Canada FR TDG V1.4 15-Jul-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/e3541111-9875-4e39-ab08-5c02de46230e.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 41 (NA) Canada EN TDG V1.4 22-Jan-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289953.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 41 (NA) Canada EN 140006579500 EHS V2.4 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-5606J",
+      "organisation": "MIL",
+      "spec": "PRF-5606J"
+    },
+    {
+      "name": "DEF STAN 91-48",
+      "organisation": "DEF STAN",
+      "spec": "91-48"
+    },
+    {
+      "name": "Joint Service Designation OM-18",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-18"
+    },
+    {
+      "name": "NATO H-520",
+      "organisation": "NATO",
+      "spec": "H-520"
+    },
+    {
+      "name": "MIL-PRF-5606H",
+      "organisation": "MIL",
+      "spec": "PRF-5606H"
+    },
+    {
+      "name": "DCSEA 415/A",
+      "organisation": "DCSEA",
+      "spec": "415/A"
+    },
+    {
+      "name": "NATO H-515",
+      "organisation": "NATO",
+      "spec": "H-515"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-104",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-104"
+    },
+    {
+      "name": "Joint Service Designation OM-15",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-15"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 41 est rouge foncé.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

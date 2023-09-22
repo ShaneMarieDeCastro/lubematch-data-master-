@@ -1,0 +1,135 @@
+{
+  "id": "001B1879",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax HD 85W-140",
+  "description": "Heavy duty automotive gear oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "axle",
+    "brakes",
+    "diesel",
+    "differential",
+    "differentials",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "high temperature",
+    "hydraulic system",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "offroad",
+    "power split",
+    "powershift",
+    "reduction gears",
+    "screw pump",
+    "slew",
+    "steering mechanisms",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer boxes",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_HD_85W-140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax HD 85W-140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290475.PDF",
+      "type": "LMSDS",
+      "name": "Spirax HD 85W-140 Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290474.PDF",
+      "type": "LMSDS",
+      "name": "Spirax HD 85W-140 Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/d9075e65-99f4-4dae-92d7-3897dc6687fe.pdf",
+      "type": "LTDS",
+      "name": "Spirax HD 85W-140 Canada EN TDG V1.1 17-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_local_TDS_1-08f.pdf",
+      "type": "LTDS",
+      "name": "Spirax HD 85W-140 Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Mack GO-H",
+      "organisation": "Mack",
+      "spec": "GO-H"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax HD 85W-140 is an extreme-pressure (EP) automotive hypoid gear oil designed to exceed the latest performance standards for heavy duty, severe service.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

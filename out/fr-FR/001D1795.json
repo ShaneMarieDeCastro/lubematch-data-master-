@@ -1,0 +1,96 @@
+{
+  "id": "001D1795",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Rimula R5 LM 10W-40",
+  "description": "Low Emissions Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "bio gas",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "multi fuel",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fcbfe1f4-53a0-4514-9b31-6249ad939a34.pdf",
+      "type": "GTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) EN TDG V1.5 28-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/9d262107-438a-402d-bf2f-afb510128c8b.pdf",
+      "type": "LTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) France FR TDG V1.5 08-Aug-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561401.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) France FR 140003182031 EHS V2.5 26-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561402.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) France EN 140003182031 EHS V2.5 26-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D1795_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550029381",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R5 LM se caractérise par une technologie d'additifs \"Low SAPS\". Son pouvoir de protection procure un niveau de protection élevé permettant une réduction des coûts de maintenance et une extension des périodicités de vidange. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R5-LM-10_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

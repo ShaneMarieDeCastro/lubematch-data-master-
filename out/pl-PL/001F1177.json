@@ -1,0 +1,188 @@
+{
+  "id": "001F1177",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Omala S2 GX 220",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oleje do przekładni przemysłowych",
+  "category": "Oleje do przekładni przemysłowych",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "compatibility with seals and paints",
+    "diesel",
+    "differential",
+    "enclosed gear",
+    "engine",
+    "ep",
+    "extreme performance",
+    "extreme pressure",
+    "final drive",
+    "fixed",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "marine",
+    "marine reversing gears",
+    "micropitting",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "plain",
+    "pump",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller spherical",
+    "rollers",
+    "screw pump",
+    "servo",
+    "siemens ag",
+    "slew",
+    "stationary",
+    "swing drive",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "water pump",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c1134064-af3c-4f2a-8e78-4cba2bbbf914.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 220 EN TDG V2.1 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587161.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 220 Poland EN 140003791557 EHS V3.1 05-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587160.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 220 Poland PL 140003791557 EHS V3.1 05-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/60774989-8865-46cf-be75-21f29878beed.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 220 Poland PL TDG V2.1 21-Jul-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-74",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-74"
+    },
+    {
+      "name": "AGMA EP 9005-EO2",
+      "organisation": "AGMA",
+      "spec": "EP 9005-EO2"
+    },
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 GX to wysokiej jakości olej przekładniowy z dodatkami przeciwzatarciowymi EP, przeznaczony do użycia w wysokoobciążonych przekładniach przemysłowych. Doskonałe właściwości przenoszenia obciążeń, ochrona przed mikropittingiem i kompatybilność z uszczelnieniami zapewniają doskonałą pracę przekładni zamkniętych.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "19.0"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "98"
+    },
+    {
+      "property": "Flash Point COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "Kg/m³",
+      "value": "899"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

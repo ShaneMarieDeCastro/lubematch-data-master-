@@ -1,0 +1,102 @@
+{
+  "id": "001F1399",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Platinum Axle 75W-140",
+  "description": "Premium SAE 75W-140 synthetic axle and gear oil for API GL-5",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/287e83a8-f908-48fe-b802-d80653e0c7d3.pdf",
+      "type": "GTDS",
+      "name": "Pzl Platinum Axle 75W-140 (GL-5) EN TDG V1.1 11-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562974.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum Axle 75W-140 (GL-5) United States EN 140002686046 EHS V1.4 03-SEP-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/9bd12536-f5fd-4076-bebe-24602921ac98.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum Axle 75W-140 (GL-5) United States EN TDG V1.1 11-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1399_002V7K_A0II",
+      "name": "Bottle 1 Quart Round Handled PZL Plat (Gear Lubes) (12)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550042070",
+      "margin": "7.04283179187807",
+      "packShot": ""
+    },
+    {
+      "code": "001F1399_002VOJ_A1WJ",
+      "name": "Pail 35 lb Plastic O/H B (1)",
+      "size": "35",
+      "uom": "lb",
+      "pack": "Pail",
+      "materialCode": "550042044",
+      "margin": "7.13219442174362",
+      "packShot": ""
+    },
+    {
+      "code": "001F1399_002VIZ_A1WJ",
+      "name": "Drum 55 Gal T/H PZL BYtop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550052963",
+      "margin": "1.77214409611263",
+      "packShot": ""
+    },
+    {
+      "code": "001F1399_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550052964",
+      "margin": "2.94351581410465",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

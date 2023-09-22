@@ -1,0 +1,156 @@
+{
+  "id": "001G1522",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadinia S3 30",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Gadinia",
+  "parentCategory": null,
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "biofuel",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "off highway",
+    "plain",
+    "pump piston",
+    "reduction gears",
+    "semi manual",
+    "stationary",
+    "stern tube seal",
+    "tandem drive",
+    "transmissions",
+    "two stroke",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/63a76871-a18a-46a7-83a6-78725797bd65.pdf",
+      "type": "GTDS",
+      "name": "Shell Gadinia S3 30 EN TDG V1.8 27-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562585.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gadinia S3 30 United States EN 140002686046 EHS V1.2 09-NOV-2016",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/bf036de3-48e3-4372-9e39-9af29bb82a9a.pdf",
+      "type": "LTDS",
+      "name": "Shell Gadinia S3 30 United States EN TDG V1.8 27-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MTU Category 1",
+      "organisation": "MTU",
+      "spec": "Category 1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The newly formulated Shell Gadinia S3 30 has also been optimised for use in non-engine applications which are typically found on board such as gearboxes, clutches and stern tubes.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "104"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.85"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "890"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Base Number",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "12"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% m/m",
+      "value": "1.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "103"
+    },
+    {
+      "property": "Load Carrying Capacity (FZG Gear Machine) ",
+      "method": "ISO 14635-1 A/8.3/90",
+      "uom": "",
+      "units": "Failure load stage",
+      "value": "12"
+    },
+    {
+      "property": "SAE grade (viscosity class)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "30"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

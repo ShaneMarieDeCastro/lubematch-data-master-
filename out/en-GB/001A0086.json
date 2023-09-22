@@ -1,0 +1,84 @@
+{
+  "id": "001A0086",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "AeroShell Turbine Oil 750",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "Aviation lubricants",
+  "category": "Aviation lubricants",
+  "applicationKeys": [
+    "aviation turbines",
+    "gas turbines",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/888020ab-a6a2-4ad3-a077-c20c3dba56d7.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 750 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/8e56c500-e62e-4ba8-b96a-49474116b77f.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 750 United Kingdom EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619899.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 750 United Kingdom EN 140002340634 EHS V5.3 18-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0086_002VFJ_AEU1",
+      "name": "Can 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Can",
+      "materialCode": "550049743",
+      "margin": "1.98426052627623",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AIR 3517/A",
+      "organisation": "AIR",
+      "spec": "3517/A"
+    },
+    {
+      "name": "DEF STAN 91-98",
+      "organisation": "DEF STAN",
+      "spec": "91-98"
+    },
+    {
+      "name": "NATO O-149",
+      "organisation": "NATO",
+      "spec": "O-149"
+    },
+    {
+      "name": "Joint Service Designation OX-38",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-38"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

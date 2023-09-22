@@ -1,0 +1,74 @@
+{
+  "id": "001D8503",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Gadus S2 U1000D 2",
+  "description": "High Performance Heavy Duty Plain Bearing Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "bearing",
+    "clay",
+    "moly",
+    "sugar mill"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_U1000D_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 U1000D 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02540197.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U1000D 2 Philippines EN 140001435525 EHS V1.3 15-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/41f3f5c1-dd97-4422-b77f-995634111997.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 U1000D 2 Philippines EN TDG V1.1 26-Aug-2014",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8503_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550044099",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8503_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006070",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 U1000D Greases will lubricate satisfactorily and give good service life at operating temperatures up to 200°C. They are especially useful where heavy wear has occurred or access is difficult.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

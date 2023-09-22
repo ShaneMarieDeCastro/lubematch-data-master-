@@ -1,0 +1,170 @@
+{
+  "id": "001D7859",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Omala S4 WE 460",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriegetriebeöle",
+  "category": "Industriegetriebeöle",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "off highway",
+    "pag",
+    "plain",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "splash lubricated bearings",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b0ea6068-2102-4a8a-8f62-57568aabf917.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 460 EN TDG V4.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/4f49b658-a40f-454f-8a1f-8779ac5960f8.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 460 Germany DE TDG V4.3 27-Jul-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587699.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 460 Germany EN 140001492039 EHS V1.11 05-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587700.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 460 Germany DE 140001492039 EHS V1.11 05-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7859_002VNX_A1P5",
+      "name": "Eimer 20 L Tinplate German Cuboid W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550043672",
+      "margin": "2.68430036197243",
+      "packShot": ""
+    },
+    {
+      "code": "001D7859_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027189",
+      "margin": "2.22363525961323",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE Öle sind spezielle synthetische Hochleistungsgetriebeöle für den Einsatz in Schneckengetrieben. Auf Basis von synthetischem Polyalkylenglykol mit hohem Verschleißschutz und hoher Graufleckentragfähigkeit wurden sie für den Einsatz unter schweren Bedingungen entwickelt, außerdem unterstützen sie eine verbesserte Energieeffizienz, lange Wartungsintervalle und hohen Schutz vor Mikro-Pitting.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viskositätsklasse (ISO VG)",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "460"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "73.2"
+    },
+    {
+      "property": "Viskositätsindex ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "239"
+    },
+    {
+      "property": "Flammpunkt",
+      "method": "ISO 2592 (COC)",
+      "uom": "",
+      "units": "°C",
+      "value": "268"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-36"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "1072"
+    },
+    {
+      "property": "FZG Test",
+      "method": "FZG, A/16.6/90",
+      "uom": "",
+      "units": "Schadenskraftst.",
+      "value": ">12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [],
+  "commerce": null
+}

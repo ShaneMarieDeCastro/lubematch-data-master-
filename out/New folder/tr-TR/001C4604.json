@@ -1,0 +1,72 @@
+{
+  "id": "001C4604",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Rimula R3 FX 10W-30",
+  "description": "Triple Action - Synthetic Technology Multigrade Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "heavy duty",
+    "hydraulic system",
+    "mobile",
+    "off highway",
+    "tandem drive",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rimula_R3_FX_10W-30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 FX 10W-30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319966.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 FX 10W-30 Turkey TR 140003791542 EHS V1.4 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319259.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 FX 10W-30 Turkey EN 140003791542 EHS V1.4 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Ford WSS-M2C921-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C921-A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Enhanced with synthetic base oils technology, Shell Rimula R3 FX offers long life and enhanced protection and is particularly suitable for Ford Light Commercial Vehicles (LCVs).",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

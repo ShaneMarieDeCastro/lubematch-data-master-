@@ -1,0 +1,158 @@
+{
+  "id": "001E7457",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Rimula R6 MS 10W-40",
+  "description": "Maintenance Saving - Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - vehículo pesado",
+  "applicationKeys": [
+    "bio gas",
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "light fuel",
+    "lng",
+    "low speed",
+    "lpg",
+    "manual",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "synchronised",
+    "torque converter",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e3d69894-84d1-4371-b98d-943f304d37e7.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 MS 10W-40 (E7/LDF-3) EN TDG V2.5 31-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621141.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 MS 10W-40 (E7/LDF-3) Spain EN 140003966322 EHS V1.7 20-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621080.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 MS 10W-40 (E7/LDF-3) Spain ES 140003966322 EHS V1.7 20-JUL-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/e0a0829f-9b07-4b75-92ff-0d39f3edec41.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 MS 10W-40 (E7/LDF-3) Spain ES TDG V2.5 01-Jun-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7457_002VNF_A246",
+      "name": "Cubo 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Cubo",
+      "materialCode": "550036000",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7457_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550035977",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Scania LDF-2",
+      "organisation": "Scania",
+      "spec": "LDF-2"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "MAN M 3277",
+      "organisation": "MAN",
+      "spec": "M 3277"
+    },
+    {
+      "name": "Deutz DQC IV-10",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10"
+    },
+    {
+      "name": "Renault Trucks RXD",
+      "organisation": "Renault Trucks",
+      "spec": "RXD"
+    },
+    {
+      "name": "Iveco T3 E4 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T3 E4 - Meets the requirements"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "MB-Approval 228.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.5"
+    },
+    {
+      "name": "MTU Category 3",
+      "organisation": "MTU",
+      "spec": "Category 3"
+    },
+    {
+      "name": "ACEA E4",
+      "organisation": "ACEA",
+      "spec": "E4"
+    },
+    {
+      "name": "Scania LDF-3",
+      "organisation": "Scania",
+      "spec": "LDF-3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 MS está formulado con aceites base 100% sintéticos y una avanzada tecnología de aditivos, para proporcionar la mejor protección a su motor. Su fórmula mejorada posibilita un menor mantenimiento ya que permite intervalos de cambio extendidos, a la vez que protege de forma efectiva frentre a la formación de depósitos y lodo y contribuye a un mayor ahorro de combustible. Adecuado para la mayoría de motores Euro IV y Euro V sin filtro de partículas, así como para los motores Euro VI de Scania.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

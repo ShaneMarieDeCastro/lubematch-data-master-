@@ -1,0 +1,78 @@
+{
+  "id": "001I5204",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra Professional AO-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "cars",
+    "opel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8ef0459a-1f5a-49b3-a10b-1f06b093b9a2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AO-L 0W-20 EN TDG V1.2 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02601830.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AO-L 0W-20 United Kingdom EN 140002340634 EHS V1.2 22-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/8fc30990-34cb-4e97-b551-73cc201b8a92.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AO-L 0W-20 United Kingdom EN TDG V1.2 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5204_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550056696",
+      "margin": "1.77641648922029",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Opel OV 040 1547 - A20",
+      "organisation": "Opel",
+      "spec": "OV 040 1547 - A20"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines from Opel.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

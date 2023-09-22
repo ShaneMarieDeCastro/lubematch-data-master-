@@ -1,0 +1,113 @@
+{
+  "id": "001F6357",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Omala S5 Wind 320",
+  "description": "Advanced Synthetic Wind Turbine Gearbox Oil",
+  "family": "Omala",
+  "parentCategory": "Industrial gear oils",
+  "category": "Industrial gear oils",
+  "applicationKeys": [
+    "circulation",
+    "circulation system",
+    "excellent water separation",
+    "foam resistance",
+    "gearbox",
+    "heavy duty",
+    "high cleanliness",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "pao",
+    "rapid air release",
+    "wind turbine transmission",
+    "wind turbines",
+    "yaw and pitch drive gearboxes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/93c5a3c6-42d2-4531-9e2f-6e9ab859e22d.pdf",
+      "type": "GTDS",
+      "name": "Omala S5 Wind 320 EN TDG V1.8 06-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609595.PDF",
+      "type": "LMSDS",
+      "name": "Omala S5 Wind 320 United Kingdom EN 140002340634 EHS V3.1 04-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/655645de-5914-4fe9-9e1d-05c77313aece.pdf",
+      "type": "LTDS",
+      "name": "Omala S5 Wind 320 United Kingdom EN TDG V1.8 06-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F6357_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550050988",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F6357_002XSN_A1P5",
+      "name": "Pail 20 L Tight head (NAS clean) Tinplate Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550050826",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "ISO 81400-4",
+      "organisation": "ISO",
+      "spec": "81400-4"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "GB 33540.3-2017",
+      "organisation": "GB",
+      "spec": "33540.3-2017"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The innovative formulation is developed to protect your wind turbine gears and bearings by minimizing wear, protecting against micro-pitting, maintaining effective fluidity at extremes of low temperature and minimizing foam formation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

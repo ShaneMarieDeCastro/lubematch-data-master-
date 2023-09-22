@@ -1,0 +1,87 @@
+{
+  "id": "001H4219",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S5 DCT X",
+  "description": "Premium Synthetic Technology Multi-vehicle Wet Dual Clutch Transmission Fluid.",
+  "family": "Spirax DCT",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Altri oli trasmissione",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d234eb42-3bd2-4702-816b-fac08d564d48.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 DCT X EN TDG V1.3 13-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/5e2c94f8-406e-4e33-99bf-8b4d2eadc83e.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 DCT X Italy IT TDG V1.3 20-Nov-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613814.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 DCT X Italy EN 140007645406 EHS V2.2 07-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613815.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 DCT X Italy IT 140007645406 EHS V2.2 07-JUL-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H4219_002W22_A1BK",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550055145",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H4219_002WPC_EURO",
+      "name": "Bottiglia 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550063979",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H4219_002VNG_A246",
+      "name": "Secchio 20 L Plastic O/H w/lid Helix Blue (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550055143",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 DCT X è un olio DCT premium con tecnologia sintetica per le trasmissioni a doppia frizione a bagno d'olio dei relativi principali costruttori. Spirax S5 DCT X impiega una particolare tecnologia di formulazione.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550055145_Shell_Spirax_S5_DCT_X_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

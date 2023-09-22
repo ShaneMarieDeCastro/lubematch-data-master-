@@ -1,0 +1,97 @@
+{
+  "id": "001E0127",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Tonna S2 MX 220",
+  "description": "Machine Tool Slideway Oil ",
+  "family": "Tonna",
+  "parentCategory": null,
+  "category": "Slideway Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Tonna_S2_MX_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Tonna S2 MX 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/00f7dbd8-1b26-49d3-8fca-d1e3983b5660.pdf",
+      "type": "LTDS",
+      "name": "Tonna S2 MX 220 United States EN TDG V1.2 06-Jul-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562883.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 MX 220 United States EN 140002686046 EHS V1.4 07-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0127_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006012",
+      "margin": "0.562836595366366",
+      "packShot": ""
+    },
+    {
+      "code": "001E0127_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026769",
+      "margin": "0.939087532970702",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-50",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-50"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S2 MX oils are specially designed for the lubrication of machine tool slides, tables and feed mechanisms. Their enhanced tackiness and stick-slip characteristics combine to offer superior frictional performance on slideways. They are specially recommended in cases where high adherence is required and where high exposure to soluble cutting fluids exist.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

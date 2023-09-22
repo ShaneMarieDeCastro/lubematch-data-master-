@@ -1,0 +1,82 @@
+{
+  "id": "001D7805",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Morlina S1 B 680",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "rollers",
+    "rollneck bearings",
+    "water separation"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S1_B_680_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S1 B 680 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/5aee43d7-c732-474d-9949-fc085ed0144f.pdf",
+      "type": "LTDS",
+      "name": "Morlina S1 B 680 France FR TDG V4.1 14-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572576.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 680 France EN 140003182031 EHS V3.0 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572577.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 680 France FR 140003182031 EHS V3.0 04-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B sont des huiles de hautes performances conçues pour fournir une excellente protection à la plupart des applications industrielles utilisant des roulements ou de circulation d'huile ; En particulier, où le processus de désémulsion est important pour la vie de l'équipement. Elles répondent aux exigences de base du constructeur Morgan des huiles standards pour paliers.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

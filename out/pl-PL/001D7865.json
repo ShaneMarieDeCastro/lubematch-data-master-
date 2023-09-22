@@ -1,0 +1,79 @@
+{
+  "id": "001D7865",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Air Tool Oil S2 A 32",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Srodki smarne do narzędzi i urządzeń wiertniczych",
+  "applicationKeys": [
+    "hydraulic system",
+    "hydraulics"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4b7b449a-4668-4aa1-aec8-0ddd4ac08e83.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 32 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586416.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 32 Poland EN 140003791557 EHS V1.4 02-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/a6b473a2-469e-4c78-8309-e8e617b8a120.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 32 Poland PL TDG V2.2 05-Nov-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586415.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 32 Poland PL 140003791557 EHS V2.4 02-JUN-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7865_002VNA_A1P5",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550027228",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    },
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool S2 A spełnia wymagania smarownicze dla urządzeń pneumatycznych, włącznie z urządzeniami udarowymi użytkowanymi w ciężkich warunkach. Utrzymuje silny film smarny, a tym samym zapewnia optymalne smarowanie, nawet w najbardziej wymagających zastosowaniach, takich jak maszyny wiertnicze oraz zapewnia doskonałe smarowanie mgłą olejową w urządzeniach pneumatycznych.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "001B2048",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State Universal 2-Cycle Engine Oil for Air Cooled Engines",
+  "description": "2 stroke motorcycle oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/476e6841-b1f2-4467-b155-30b1bb82434c.pdf",
+      "type": "GTDS",
+      "name": "QS Universal 2-Cycle Engine Oil for Air Cooled Engines (TC/FA/FB) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/8398dbfe-e86c-439f-b212-db95fa644f15.pdf",
+      "type": "LTDS",
+      "name": "QS Universal 2-Cycle Engine Oil for Air Cooled Engines (TC/FA/FB) United States EN TDG V1.1 08-Dec-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562860.PDF",
+      "type": "LMSDS",
+      "name": "QS Universal 2-Cycle Engine Oil for Air Cooled Engines (TC/FA/FB) United States EN 140002686046 EHS V3.2 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B2048_002XOF_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic QS Green (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550049494",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B2048_002WN6_A0II",
+      "name": "Bottle 8 oz Local (F Style) Plastic QS Green (24)",
+      "size": "8",
+      "uom": "oz",
+      "pack": "Bottle",
+      "materialCode": "12480",
+      "margin": "0.809610215095238",
+      "packShot": ""
+    },
+    {
+      "code": "001B2048_002WN0_A0II",
+      "name": "Bottle 3.2 oz Local (F Style) Plastic QS Green (24)",
+      "size": "3.2",
+      "uom": "oz",
+      "pack": "Bottle",
+      "materialCode": "12414",
+      "margin": "0.890118530116224",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Designed for use in hot running, air-cooled 2-cycle engines of chainsaws, lawnmowers, leaf blowers, string trimmers, edgers and motorcycles. Can be mixed at any ratio with gasoline as specified in the equipment owner's manual.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

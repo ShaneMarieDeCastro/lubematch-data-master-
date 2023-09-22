@@ -1,0 +1,142 @@
+{
+  "id": "001D7739",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Hydraulic S1 M 32",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Hydrauliköle",
+  "category": "Hydrauliköle",
+  "applicationKeys": [
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "marine",
+    "marine reversing gears",
+    "mobile",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "variable"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5bcc047c-902f-40df-b8e7-225c9d57f23f.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 M 32 EN TDG V3.6 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569496.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 32 Germany DE 140001492039 EHS V1.10 30-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/eadcf3f8-4046-43ec-8670-308ccc927dcc.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 M 32 Germany DE TDG V3.6 30-Oct-2019",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569497.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 32 Germany EN 140001492039 EHS V1.10 01-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 M Öle sind Hydrauliköle für den Einsatz in stationären Hydrauliksystemen und bieten zuverlässigen Verschleißschutz.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse ",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "ISO-Flüssigkeitstyp",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "32"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "5.3"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "96"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15 °C",
+      "units": "kg/l",
+      "value": "0,869"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–18"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

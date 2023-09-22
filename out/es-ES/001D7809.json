@@ -1,0 +1,120 @@
+{
+  "id": "001D7809",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Morlina S2 B 100",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Aceites circulantes y para rodamientos",
+  "category": "Aceites circulantes y para rodamientos",
+  "applicationKeys": [
+    "aviation turbines",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "cooling",
+    "cooling system",
+    "enclosed gear",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "marine",
+    "marine reversing gears",
+    "morgoil",
+    "oil lubricated bearings",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "rollneck bearings",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "turbine",
+    "vacuum pumps",
+    "water",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff4b0b80-7e51-4ecf-984e-60da93ef5a44.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 100 EN TDG V3.3 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572445.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 100 Spain EN 140003966322 EHS V1.8 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/ecfeae5f-d342-494e-98bc-d05f33ca8e0b.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 100 Spain ES TDG V3.3 31-Mar-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572446.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 100 Spain ES 140003966322 EHS V1.8 04-MAY-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7809_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550026378",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B son aceites de alto rendimiento formulados para ofrecer una protección excepcional contra la oxidación y una gran capacidad de separación del agua para la mayoría de aplicaciones de rodamientos industriales y sistemas de circulación, así como en otras aplicaciones industriales que no requieren aceites con propiedades de extrema presión (EP). Estos aceites satisfacen los requerimientos de las normas de Morgan Construction Company y Danieli para los aceites de rodamientos comunes.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

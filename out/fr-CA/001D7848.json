@@ -1,0 +1,105 @@
+{
+  "id": "001D7848",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Omala S3 GP 1500",
+  "description": "Special Application Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bucyrus",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "final drive",
+    "gears",
+    "heavily shock loaded operations",
+    "high load",
+    "industrial",
+    "non shiftable",
+    "off highway",
+    "older gear systems",
+    "reduction gears",
+    "roller spherical",
+    "shock load",
+    "slew",
+    "splash lubricated bearings",
+    "swing drive",
+    "transmissions",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1500",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S3_GP_1500_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 GP 1500 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290211.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 1500 Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/45d1e47e-8535-4d4b-a8a5-6b5d2135f736.pdf",
+      "type": "LTDS",
+      "name": "Omala S3 GP 1500 Canada EN TDG V2.1 15-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291035.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 1500 Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/260c2d6e-b95e-4cd3-8051-808f5286f343.pdf",
+      "type": "LTDS",
+      "name": "Omala S3 GP 1500 Canada FR TDG V2.1 21-Jul-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7848_002VSH_A1SH",
+      "name": "",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550024814",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Arcelor Mittal FT163",
+      "organisation": "Arcelor Mittal",
+      "spec": "FT163"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles de Shell Omala S3 GP sont des lubrifiants spécialisés de «résolution de problèmes» développés pour lubrifier les boîtes de vitesses industrielles soumises à des opérations extrêmement élevées et fortement chargées de chocs comme celles trouvées dans les industries de l'acier, du ciment, des mines et des carrières. Ils sont formulés pour une utilisation où des niveaux ultra-élevés de performance extrême-pression sont nécessaires",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

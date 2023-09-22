@@ -1,0 +1,131 @@
+{
+  "id": "001C4573",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R3+ 40",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "biofuel",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "locomotive",
+    "low speed",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "servo",
+    "stationary",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1b10bd32-4c44-4b9e-8829-c8e93719db93.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3+ 40 (CF/228.0) EN TDG V1.6 29-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557484.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3+ 40 (CF/228.0) Poland PL 140003791557 EHS V3.12 20-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/2f5b9ac1-8269-45c7-bb52-9aa0d8e38949.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3+ 40 (CF/228.0) Poland PL TDG V1.6 03-Aug-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557483.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3+ 40 (CF/228.0) Poland EN 140003791557 EHS V2.12 20-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4573_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550031959",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN 270",
+      "organisation": "MAN",
+      "spec": "270"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA E2",
+      "organisation": "ACEA",
+      "spec": "E2"
+    },
+    {
+      "name": "MB-Approval 228.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "228"
+    },
+    {
+      "name": "MTU Category 1",
+      "organisation": "MTU",
+      "spec": "Category 1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Oleje Shell Rimula R3 dostosowują się do aktualnych potrzeb zapewniając dodatkową ochronę i utrzymując tłoki i inne części silnika w czystości. Zwiększają trwałość silnika dzięki zabezpieczeniu przed zużyciem oraz zapewniają efektywną pracę zapewniając ochrone przed tworzeniem sie szkodliwych osadów.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R3-Plus-40.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,154 @@
+{
+  "id": "001D8261",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Spirax S2 G 80W-90",
+  "description": "High Quality API GL-4 Oil for Manual Transmissions and Gear Sets",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "biodiesel",
+    "buses",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "motorcycle",
+    "off highway",
+    "on highway",
+    "passenger car",
+    "rear axles",
+    "reduction gears",
+    "semi automatic",
+    "separate motorcycle gear",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "urban",
+    "water"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_G_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 G 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510991.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 80W-90 Turkey TR 140003791542 EHS V1.7 28-DEC-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02512437.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 80W-90 Turkey EN 140003791542 EHS V1.7 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Turkey_Shell_Spirax_S2_G_80W-90_(tr)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 G 80W-90 Turkey Turkish",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8261_002VNC_A246",
+      "name": "Kova 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550027930",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 G 80W-90, orta şiddette basıncın olduğu koşullar için gerekli olan çok fonksiyonlu katık paketine sahip bir otomotiv dişli yağıdır.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80W-90"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "146"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.7"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "900"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-27"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s2_g_80w-90.png",
+  "valueRecord": [],
+  "commerce": null
+}

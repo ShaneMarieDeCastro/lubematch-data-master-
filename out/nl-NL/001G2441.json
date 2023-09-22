@@ -1,0 +1,88 @@
+{
+  "id": "001G2441",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AJ-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7d6f1e77-f955-4251-8231-f7f25f770f47.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007 Ford 950-A) EN TDG V1.4 30-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/a5d8431e-172a-4e35-8382-25ea329d94af.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) Netherlands NL TDG V1.4 01-Aug-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553994.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) Netherlands EN 140002783873 EHS V1.3 14-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553993.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) Netherlands NL 140002783873 EHS V1.3 14-APR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5007",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5007"
+    },
+    {
+      "name": "Ford WSS-M2C950-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C950-A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontworpen om aan de hoge eisen van hoog performante motoren van Jaguar-Land Rover en Ford te voldoen, en andere motoren die een ACEA C2 specificatie vereisen. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

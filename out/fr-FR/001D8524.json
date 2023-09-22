@@ -1,0 +1,97 @@
+{
+  "id": "001D8524",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell GadusRail S4 High Speed EUFR",
+  "description": "Advanced Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses non EP à base synthétiques",
+  "applicationKeys": [
+    "advanced",
+    "european axle box",
+    "extended drain",
+    "extended service",
+    "heavy load",
+    "high load",
+    "high speed",
+    "high speed railway",
+    "lithium based",
+    "long life",
+    "rail",
+    "railroad",
+    "railroad axle box",
+    "roller bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d2305ec7-2c36-4daa-bc9d-89239481c710.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S4 High Speed EUFR EN TDG V4.2 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612345.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUFR France EN 140003182031 EHS V3.1 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/a6202b17-e625-4345-b672-d4c3b270273b.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S4 High Speed EUFR France FR TDG V4.2 29-Nov-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612346.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUFR France FR 140003182031 EHS V3.1 06-JUL-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8524_002VSL_A246",
+      "name": "Tonneau 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550028115",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8524_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550059611",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 b",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 b"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "001A0871",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Naturelle Fluid HF-M 46",
+  "description": "Biodegradable hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "biodegradable",
+    "hydraulic system",
+    "hydraulics",
+    "pump gear",
+    "pump vane",
+    "screw pump"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Vegetable",
+  "fluidSubType": "Vegetable",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1e24e404-94f2-49a5-bb01-4df3d455e489.pdf",
+      "type": "GTDS",
+      "name": "Naturelle HF-M 46 EN TDG V1.4 08-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563623.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-M 46 United States EN 140002686046 EHS V6.4 31-DEC-2015",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/2d633172-d37f-4312-9080-ed5345dd8e89.pdf",
+      "type": "LTDS",
+      "name": "Naturelle HF-M 46 United States EN TDG V1.4 08-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Eaton (Vickers) M-2950-S",
+      "organisation": "Eaton (Vickers)",
+      "spec": "M-2950-S"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 BV",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 BV"
+    },
+    {
+      "name": "Eaton (Vickers) I-286-S",
+      "organisation": "Eaton (Vickers)",
+      "spec": "I-286-S"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle HF-M is a biodegradable anti-wear hydraulic fluid developed for use in hydraulic systems working either in or out of doors.  It is a mixture of synthetic ester and vegetable oil blended with anti-wear additives and rust and oxidation inhibitors.  It contains a significant amount of renewable resource.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

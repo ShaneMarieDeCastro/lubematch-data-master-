@@ -1,0 +1,249 @@
+{
+  "id": "001C4597",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Rimula R6 LME 5W-30",
+  "description": "Energy Saving - Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    "axle",
+    "cars",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "lng",
+    "locomotive",
+    "lpg",
+    "off highway",
+    "on highway",
+    "stationary",
+    "tandem drive",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0efaba68-d41e-4a53-b617-86f26b6499aa.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 LME 5W-30 (E7/228.51) EN TDG V6.6 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558415.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LME 5W-30 (E7/228.51) Germany DE 140001492039 EHS V2.5 21-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/8ce62402-a002-4cc5-b7be-4dbe779c00ce.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 LME 5W-30 (E7/228.51) Germany DE TDG V6.6 13-Dec-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558414.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LME 5W-30 (E7/228.51) Germany EN 140001492039 EHS V2.5 21-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4597_002WX1_EURO",
+      "name": "Flasche 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550053997",
+      "margin": "1.71778808440259",
+      "packShot": ""
+    },
+    {
+      "code": "001C4597_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550039382",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4597_002VNF_A246",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550043092",
+      "margin": "1.02034141893984",
+      "packShot": ""
+    },
+    {
+      "code": "001C4597_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550043091",
+      "margin": "0.933162752113549",
+      "packShot": ""
+    },
+    {
+      "code": "001C4597_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500006352",
+      "margin": "0.512222233969673",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3271-1",
+      "organisation": "MAN",
+      "spec": "M 3271-1"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "Iveco TLS E6 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "TLS E6 - Meets the requirements"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Renault RLD-2",
+      "organisation": "Renault",
+      "spec": "RLD-2"
+    },
+    {
+      "name": "Deutz DQC IV-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10 LA"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "MTU Category 3.1",
+      "organisation": "MTU",
+      "spec": "Category 3.1"
+    },
+    {
+      "name": "Scania Low Ash",
+      "organisation": "Scania",
+      "spec": "Low Ash"
+    },
+    {
+      "name": "Mack EO-N",
+      "organisation": "Mack",
+      "spec": "EO-N"
+    },
+    {
+      "name": "Cummins CES 20077",
+      "organisation": "Cummins",
+      "spec": "CES 20077"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 LME Öle zeichnen sich durch die neueste \"Low-SAPS\"-Additivtechnologie und ein einzigartige Verschleißschutzsystem aus. Die Schutzkraft wird verstärkt durch die Shell Synthesetechnologie, für verlängerte Wartungsintervalle und Krafstoffeinsparung. Shell Rimula R6 LME ist besonders geeignet für Euro 4-, Euro 5- und Euro 6- Fahrzeuge.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@ 40 °C",
+      "units": "mm²/s",
+      "value": "66,9"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "12,13"
+    },
+    {
+      "property": "Dynamische Viskosität",
+      "method": "ASTM D5293",
+      "uom": "@–30°C",
+      "units": "mPa s",
+      "value": "5638"
+    },
+    {
+      "property": "Gesamtbasenzahl",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "10,4"
+    },
+    {
+      "property": "Sulfatasche",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "%",
+      "value": "0,95"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@ 15°C",
+      "units": "kg/l",
+      "value": "0,847"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "232"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R6-LME-5_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

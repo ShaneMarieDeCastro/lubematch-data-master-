@@ -1,0 +1,123 @@
+{
+  "id": "001D7833",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Omala S1 W 680",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "enclosed industrial worm gears",
+    "gearbox",
+    "industrial",
+    "low speed enclosed gears",
+    "steam cylinders",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c7000e51-93e8-4fed-9c8e-79cd97287ac5.pdf",
+      "type": "GTDS",
+      "name": "Omala S1 W 680 EN TDG V1.2 05-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/a68537a2-8817-4945-888d-0acf616ace46.pdf",
+      "type": "LTDS",
+      "name": "Omala S1 W 680 Philippines EN TDG V1.2 05-Aug-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02531928.PDF",
+      "type": "LMSDS",
+      "name": "Omala S1 W 680 Philippines EN 140001435525 EHS V1.6 01-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7833_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024946",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S1 W oils are quality refined, high viscosity mineral oils compounded with a small percentage of fatty oils. They are particularly suitable for the lubrication of low speed enclosed gears and worm drive application. They are also suitable for the lubrication of high temperature, high pressure steam cylinders.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "35.2"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "83"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "891"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "322"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-6"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "001F4440",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra ECT C3 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9a2d8fc1-fc85-43e6-b57f-d8c763a780ba.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) EN TDG V2.1 22-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/0f7d0ccc-8a43-430a-a482-36fcb3bdf0f1.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Turkey TR TDG V2.1 23-Aug-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319489.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Turkey TR 140003791542 EHS V1.6 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319819.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Turkey EN 140003791542 EHS V1.6 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Chrysler MS 11106",
+      "organisation": "Chrysler",
+      "spec": "MS 11106"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell'in en gelişmiş çevreci tekonolojisi kullanılarak üretilen Shell Helix Ultra ECT C3, dizel partikül filtrelerini temiz tutarak  motorun sürekli yüksek performansla çalışmasını mümkün kılar.  Sürtünmeyi azaltıcı özelliği ile  üstün yakıt ekonomisi performansı sağlar.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_ECT-C3_1L_600043999.png",
+  "valueRecord": [],
+  "commerce": null
+}

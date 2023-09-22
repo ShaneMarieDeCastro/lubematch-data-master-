@@ -1,0 +1,203 @@
+{
+  "id": "001I2002",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Turbo S4 X 46",
+  "description": "Industrial Steam, Gas and Combined Cycle Turbine Lubricant",
+  "family": "Turbo",
+  "parentCategory": "Turbinenöle",
+  "category": "Turbinenöle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b02254bf-1983-45ed-b528-dd44f9a296b2.pdf",
+      "type": "GTDS",
+      "name": "Turbo S4 X 46 EN TDG V1.5 27-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544288.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 X 46 Germany EN 140001492039 EHS V1.2 24-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544389.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 X 46 Germany DE 140001492039 EHS V1.2 24-MAR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/14d94cfd-c67e-4128-9949-7963bbb5744e.pdf",
+      "type": "LTDS",
+      "name": "Turbo S4 X 46 Germany DE TDG V1.5 28-Mar-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I2002_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550058114",
+      "margin": "1.55347762161085",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 8068:2006 L-TGB",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGB"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "DIN 51515-2 L-TG",
+      "organisation": "DIN",
+      "spec": "51515-2 L-TG"
+    },
+    {
+      "name": "Elliot Turbo-machinery X-18-0004 - Meets the requirements",
+      "organisation": "Elliot Turbo-machinery",
+      "spec": "X-18-0004 - Meets the requirements"
+    },
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    },
+    {
+      "name": "Alstom HTGD 90 117 V0001 AA",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117 V0001 AA"
+    },
+    {
+      "name": "General Electric GEK 120498",
+      "organisation": "General Electric",
+      "spec": "GEK 120498"
+    },
+    {
+      "name": "General Electric GEK 32568K",
+      "organisation": "General Electric",
+      "spec": "GEK 32568K"
+    },
+    {
+      "name": "General Electric GEK 46506E",
+      "organisation": "General Electric",
+      "spec": "GEK 46506E"
+    },
+    {
+      "name": "MAN D and T SE TED 10000494596",
+      "organisation": "MAN",
+      "spec": "D and T SE TED 10000494596"
+    },
+    {
+      "name": "Solar ES 9-224Y Class II",
+      "organisation": "Solar",
+      "spec": "ES 9-224Y Class II"
+    },
+    {
+      "name": "ISO 8068:2006 L-TGSB",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGSB"
+    },
+    {
+      "name": "ASTM D4304-13 Type III",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type III"
+    },
+    {
+      "name": "Siemens TLV 9013 05",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 05"
+    },
+    {
+      "name": "MHI MS04-MA-CL001 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL001 - Meets the requirements"
+    },
+    {
+      "name": "Dresser Rand 003-406-001 Type I",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001 Type I"
+    },
+    {
+      "name": "GE Oil and Gas ITN52220.04",
+      "organisation": "GE Oil and Gas",
+      "spec": "ITN52220.04"
+    },
+    {
+      "name": "Siemens TLV 9013 04",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 04"
+    },
+    {
+      "name": "MHI MS04-MA-CL002 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL002 - Meets the requirements"
+    },
+    {
+      "name": "MHI MS04-MA-CL005 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL005 - Meets the requirements"
+    },
+    {
+      "name": "DIN 51524-1 HL",
+      "organisation": "DIN",
+      "spec": "51524-1 HL"
+    },
+    {
+      "name": "GB 11120-2011 L-TGA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TGA"
+    },
+    {
+      "name": "General Electric GEK 107395A",
+      "organisation": "General Electric",
+      "spec": "GEK 107395A"
+    },
+    {
+      "name": "General Electric GEK 28143B",
+      "organisation": "General Electric",
+      "spec": "GEK 28143B"
+    },
+    {
+      "name": "GB 11120-2011 L-TGSB",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TGSB"
+    },
+    {
+      "name": "Dresser Rand 003-406-001 Type III",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001 Type III"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Das auf der Shell GTL (Gas-to-Liquids)-Technologie  basierende Shell Turbo S4 X 46 wurde speziell für die Anforderungen der neuesten Generation an hocheffizienten Turbinensystemen entwickelt. Es überzeugt durch eine hervorragende Langzeit-Performance unter extremsten Betriebsbedingungen und hilft, die Bildung von Ablagerungen und Schlamm selbst bei zyklischer Spitzenbelastung zu minimieren.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

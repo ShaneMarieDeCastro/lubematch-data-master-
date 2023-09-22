@@ -1,0 +1,118 @@
+{
+  "id": "001D8288",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Spirax S5 ATE 75W-90",
+  "description": "Premium performance, synthetic technology, GL-5/4 transaxle oil for sports cars",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "cars",
+    "continuously variable",
+    "differential",
+    "engine",
+    "final drive",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "heavy duty axle",
+    "heavy load",
+    "industrial",
+    "manual",
+    "manual transmission",
+    "non shiftable",
+    "off highway",
+    "passenger car",
+    "premium performance",
+    "reduction gears",
+    "semi automatic",
+    "synchronised",
+    "tandem drive",
+    "transaxle",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/addb1fe4-3d08-4a7c-a482-158d769f4008.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 ATE 75W-90 EN TDG V2.2 17-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02365858.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 ATE 75W-90 Canada FR 140006579500 EHS V1.10 24-AUG-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02365852.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 ATE 75W-90 Canada EN 140006579500 EHS V1.10 24-AUG-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/015c4a13-2a23-4bd4-b922-d3ea78a18e96.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 ATE 75W-90 Canada EN TDG V2.2 17-May-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/f9a19bce-9c17-43cc-9e92-66d58af22595.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 ATE 75W-90 Canada FR TDG V2.2 03-May-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8288_002VNG_A1P5",
+      "name": "Pail 20 L Plastic O/H w/lid Helix Blue (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027931",
+      "margin": "0.989072903245688",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "MB-Approval 236.26",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.26"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 ATE 75W-90 is particularly designed to fulfil the highest requirements of extremely loaded passenger car drive train systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/Pzl Ultra Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "001D8383",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gas Compressor Oil S3 PY 150",
+  "description": "Special Application Ethylene Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "ethylene",
+    "fda",
+    "food grade",
+    "hypercompressor",
+    "industrial",
+    "ldpe",
+    "pharmaceutical"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e1453c5e-8e08-47c8-9535-ab6f5e49e04e.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S3 PY 150 EN TDG V3.3 06-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574058.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 150 Netherlands EN 140002783873 EHS V1.2 11-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574059.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 150 Netherlands NL 140002783873 EHS V1.2 11-MAY-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "European Regulation 10/2011",
+      "organisation": "European Regulation",
+      "spec": "10/2011"
+    },
+    {
+      "name": "FDA Regulation 21 CFR 178.3570",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3570"
+    },
+    {
+      "name": "FDA Regulation 21 CFR 178.3620",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3620"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S3 PY lubricants are high quality blends designed for total loss lubrication of the cylinders of reciprocating hypercompressors in the manufacture of low density polyethylene (LDPE), including LDPE used in special applications such as food, pharmaceuticals and cable insulation, and ethylene vinyl acetate (EVA). Low feed rates and high quality components help ensure minimal impact on production quality of the finished polymers.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

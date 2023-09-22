@@ -1,0 +1,78 @@
+{
+  "id": "001F8471",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Morlina S2 BL 10",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d8dfb2ae-d09a-4541-93b5-b1ae626a4e4a.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 10 (2016) EN TDG V1.3 29-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02461057.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Turkey TR 140003791542 EHS V1.4 14-OCT-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02461056.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Turkey EN 140003791542 EHS V1.4 14-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8471_002VNA_A1P5",
+      "name": "Kova 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550062216",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8471_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550055978",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 10 uses special low viscosity Shell Gas-to-Liquid (GTL) technology blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

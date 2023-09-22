@@ -1,0 +1,159 @@
+{
+  "id": "001A0327",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Melina S 30",
+  "description": "High Performance Multi-purpose Low-speed Marine Diesel engine Oil",
+  "family": "Melina",
+  "parentCategory": null,
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "plain",
+    "pump gear",
+    "rollers",
+    "stationary",
+    "stern tube seal",
+    "thrust",
+    "trunnion",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a2797cc9-9619-4c6b-9104-216d452aee57.pdf",
+      "type": "GTDS",
+      "name": "Melina S 30 EN TDG V1.1 05-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02517256.PDF",
+      "type": "LMSDS",
+      "name": "Melina S 30 Turkey EN 140003791542 EHS V1.9 18-JAN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02517255.PDF",
+      "type": "LMSDS",
+      "name": "Melina S 30 Turkey TR 140003791542 EHS V1.9 18-JAN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0327_002VSH_A18H",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550014719",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Melina S is a high performance multifunctional low speed diesel engine lubricant designed to provide the highest levels of machinery protection in highly rated low speed marine engines. It is a multifunctional lubricant and can help to rationalise the number of lubricant grades on board. Please note that Shell Melina S is NOT recommended for trunk-piston engines.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "30"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "104"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "102"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.888"
+    },
+    {
+      "property": "Flash Point (CC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "227"
+    },
+    {
+      "property": "Load Carrying Capacity",
+      "method": "FZG A/8.3/90",
+      "uom": "FZG",
+      "units": "Fail Stage",
+      "value": "11"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "TBN-E",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "5"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% wt",
+      "value": "0.62"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

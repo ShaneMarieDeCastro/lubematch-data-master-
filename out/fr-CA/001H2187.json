@@ -1,0 +1,71 @@
+{
+  "id": "001H2187",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Tellus S4 VX 32",
+  "description": "Special Application Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "extra wide temperature range",
+    "extreme low temperature",
+    "high performance",
+    "hv",
+    "industrial",
+    "industrial hydraulics",
+    "low temperature",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "precision",
+    "versatile",
+    "wide temperature range",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d8386f23-3047-4d79-a30f-5f18a834be72.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VX 32 (China only) EN TDG V1.4 05-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02422139.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (China only) Canada FR 140006579500 EHS V1.0 09-JUN-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02422204.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (China only) Canada EN 140006579500 EHS V1.0 09-JUN-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VX is an advanced machinery lubricating oil technology designed for use in applications subjected to extremely low ambient temperatures such as arctic or exposed areas such as in construction, mining and wind power industries.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

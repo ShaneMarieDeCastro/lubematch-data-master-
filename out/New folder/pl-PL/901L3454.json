@@ -1,0 +1,93 @@
+{
+  "id": "901L3454",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Transmission Oil MA 75W-90",
+  "description": "Synthetic high quality gearbox oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Oleje do ręcznych skrzyń biegów i przekładni",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "extended drain",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "low temperature",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "mercedes benz",
+    "off highway",
+    "passenger car",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008264191_201503101018.pdf",
+      "type": "GTDS",
+      "name": "Transmission MA 75W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581004.PDF",
+      "type": "LMSDS",
+      "name": "Transmission MA 75W-90 Poland PL 140003791557 EHS V4.3 25-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581003.PDF",
+      "type": "LMSDS",
+      "name": "Transmission MA 75W-90 Poland EN 140003791557 EHS V3.3 25-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L3454_002VSH_A18H",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550014652",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 235.11",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.11"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Transmission MA is a fully synthetic gearbox oil designed to fulfil the latest Mercedes Benz heavy duty transmission requirements.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

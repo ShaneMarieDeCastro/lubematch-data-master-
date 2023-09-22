@@ -1,0 +1,88 @@
+{
+  "id": "001C8172",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Diesel Ultra AB-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "mercedes benz"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/78bec9fe-d279-499d-b29a-79fa1902dab8.pdf",
+      "type": "GTDS",
+      "name": "Helix Diesel Ultra AB-L 5W-30 (MB 229.51 ) EN TDG V4.1 05-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140003370319_200911212156.pdf",
+      "type": "LTDS",
+      "name": "Helix Diesel Ultra AB-L 5W-30 (MB 229.51 ) Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571348.PDF",
+      "type": "LMSDS",
+      "name": "Helix Diesel Ultra AB-L 5W-30 (MB 229.51 ) Netherlands NL 140002783873 EHS V2.5 05-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571347.PDF",
+      "type": "LMSDS",
+      "name": "Helix Diesel Ultra AB-L 5W-30 (MB 229.51 ) Netherlands EN 140002783873 EHS V2.5 05-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Contains Shell’s ultimate active cleansing technology to continuously prevent dirt and sludge build-up, maximising engine performance right up to the next oil change.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

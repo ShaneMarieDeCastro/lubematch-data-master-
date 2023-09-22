@@ -1,0 +1,91 @@
+{
+  "id": "001D8546",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Gadus S3 T220 2",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "bearing",
+    "electric motors",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "general engineering",
+    "high load",
+    "high temperature",
+    "hot strip mills",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "paper",
+    "paper mill bearings",
+    "plain bearings",
+    "polyurea",
+    "premium",
+    "roller bearings",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9fb7de9-5b4b-4fc2-be78-afeb3a96917c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T220 2 EN TDG V2.4 27-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541868.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 Malaysia EN 140001435555 EHS V2.11 21-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Malaysia_Shell_Gadus_S3_T220_2_(ms-MY)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T220 2 Malaysia Malay (Bahasa Melayu)",
+      "language": "MS"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-MY/4e5acebc-1995-40a5-b277-d087972b5a0e.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T220 2 Malaysia EN TDG V2.4 27-Sep-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541867.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 Malaysia MS 140001435555 EHS V2.11 21-MAR-2023",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8546_002VME_A227",
+      "name": "Pail 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550030003",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

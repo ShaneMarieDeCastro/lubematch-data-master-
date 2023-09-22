@@ -1,0 +1,77 @@
+{
+  "id": "001D8565",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Gadus S1 V160 2",
+  "description": "Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas no EP  con base de aceite mineral",
+  "applicationKeys": [
+    "lithium"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/e540d797-ff09-4ae1-9bcf-2d90ad6431b0.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V160 2 EN TDG V2.2 21-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02455477.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160 2 Spain EN 140003966322 EHS V1.4 26-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/fae5868a-4824-43f5-9e5d-16ea254effb6.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V160 2 Spain ES TDG V2.2 10-May-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02455479.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160 2 Spain ES 140003966322 EHS V1.4 26-SEP-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8565_002VH7_A246",
+      "name": "Bidón 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Bidón",
+      "materialCode": "550028213",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8565_002XD7_A246",
+      "name": "Cubo 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Cubo",
+      "materialCode": "550028214",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,197 @@
+{
+  "id": "001D7789",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Corena S4 P 100",
+  "description": "Advanced Synthetic Reciprocating  (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "air compressor",
+    "bearing",
+    "bio gas",
+    "breathing air compressor",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "extended life",
+    "extended valve maintenance",
+    "gearbox",
+    "high pressure",
+    "high temperature",
+    "industrial",
+    "long life",
+    "natural gas",
+    "piston",
+    "plain",
+    "reciprocating",
+    "severe conditions",
+    "stationary",
+    "two stroke"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/7d0ccbcc-1050-412e-8f49-01e3900bdd81.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 P 100 EN TDG V1.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619379.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 100 Netherlands EN 140002783873 EHS V3.7 17-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/6134dc6d-a7bf-49cf-bda3-e61d1cdca868.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 P 100 Netherlands NL TDG V1.2 19-Sep-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617763.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 100 Netherlands NL 140002783873 EHS V4.4 17-JUL-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7789_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027250",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7789_002VNF_A1P5",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550027265",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "BS EN 12021",
+      "organisation": "BS",
+      "spec": "EN 12021"
+    },
+    {
+      "name": "ISO/DP 6521 L-DAB",
+      "organisation": "ISO",
+      "spec": "/DP 6521 L-DAB"
+    },
+    {
+      "name": "ISO 6743-3 2003 L-DAB",
+      "organisation": "ISO",
+      "spec": "6743-3 2003 L-DAB"
+    },
+    {
+      "name": "DIN 51506 VDL",
+      "organisation": "DIN",
+      "spec": "51506 VDL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 P is een hoogwaardige synthetische olie samengesteld uit synthetische esters en unieke hoogwaardige additieven. Het is ontwikkeld voor excellente smering van perslucht zuigcompressoren, waarbij afvoertemperaturen tot meer dan 220°C mogen reiken.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Performance Standard",
+      "method": "DIN 51506",
+      "uom": "",
+      "units": "",
+      "value": "VDL 100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "10.2"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "988"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "DIN 51575",
+      "uom": "",
+      "units": "%m",
+      "value": "<0.02"
+    },
+    {
+      "property": "Rust Prevention - Distilled Water",
+      "method": "ASTM D665A",
+      "uom": "24 hrs",
+      "units": "Pass",
+      "value": "Pass"
+    },
+    {
+      "property": "Copper Corrosion",
+      "method": "ASTM D130",
+      "uom": "(100ºC/3hr",
+      "units": "°C",
+      "value": "1b"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "min",
+      "value": "25"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

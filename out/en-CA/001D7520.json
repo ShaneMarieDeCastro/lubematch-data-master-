@@ -1,0 +1,73 @@
+{
+  "id": "001D7520",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil SAE 20W-50 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b30e89a8-5c1a-4079-add0-74ad8290ab04.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 20W-50 Motor Oil (SN) EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cc6a0393-65a6-4f0d-94c4-9478038b9470.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 20W-50 Motor Oil (SN) Canada FR TDG V1.2 19-May-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289866.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 20W-50 Motor Oil (SN) Canada FR 140006579500 EHS V1.7 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290015.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 20W-50 Motor Oil (SN) Canada EN 140006579500 EHS V1.7 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/3efcd8eb-eeac-4547-9938-34f72402c5ba.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 20W-50 Motor Oil (SN) Canada EN TDG V1.2 26-May-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® Motor Oil with Active Cleansing Technology. Helps prevent dirt and contaminants from turning into performance robbing deposits. Because at Pennzoil^® we know, a cleaner engine is better protected and responsive. It meets or exceeds the engine protection required by API SN, and is specially formulated to provide proven wear protection.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

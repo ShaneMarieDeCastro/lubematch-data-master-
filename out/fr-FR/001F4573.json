@@ -1,0 +1,88 @@
+{
+  "id": "001F4573",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Naturelle S4 Hydraulic Fluid 46",
+  "description": "Ultimate biodegradable synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b5a5b0ff-ed7e-42e7-8dcd-aa2c557fa0ac.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606543.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 France EN 140003182031 EHS V1.2 30-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/6d2a1309-730d-479c-8e91-efeef40cc795.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 France FR TDG V2.0 01-Sep-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606542.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 France FR 140003182031 EHS V1.2 30-JUN-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4573_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550056320",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    },
+    {
+      "name": "Denison HF-6",
+      "organisation": "Denison",
+      "spec": "HF 6"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Hydraulic Fluid est un fluide hydraulique innovant, utilisable dans les systèmes hydrauliques et de transmission de puissance. Il est facilement biodégradable et grâce à une écotoxicité faible, est adapté aux applications dans les zones écologiquement sensibles. La formule d'esters entièrement saturés et les additifs sans cendres de Shell Naturelle S4 Hydraulic Fluid, offre des performances supérieures et respectueuses de l'environnement.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S4_Hydraulic_Fluid_46_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "001E9391",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Helix Ultra Professional AP-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "psa"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8cc9cd1a-c276-453a-8406-a0050e3773ff.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AP-L 5W-30 (C2 PSA B71 2290) EN TDG V1.7 30-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579479.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 5W-30 (C2 PSA B71 2290) Singapore English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/b3468bdc-4338-4d1e-a5ae-8e879b3dfddf.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AP-L 5W-30 (C2 PSA B71 2290) Singapore EN TDG V1.7 30-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9391_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550040213",
+      "margin": "1.12676431117446",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including Peugeot, Citroen, and those requiring ACEA C2.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

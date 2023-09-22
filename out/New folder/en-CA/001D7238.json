@@ -1,0 +1,126 @@
+{
+  "id": "001D7238",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "FormulaShell Synthetic SAE 5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "urban"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a1eb86d4-fbcf-4276-94aa-746fa38cff2a.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell Synthetic 5W-20 EN TDG V1.4 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290220.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell Synthetic 5W-20 (SN/GF-5) Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140003761626_201012142117.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell Synthetic 5W-20 (SN/GF-5) Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290006.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell Synthetic 5W-20 (SN/GF-5) Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140003761626_201012142115.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell Synthetic 5W-20 (SN/GF-5) Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "Ford WSS-M2C945-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Ford WSS-M2C930-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C930-A - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formula Shell^® Synthtetic Motor Oil is formulated to provide enhanced wear protection and outstanding resistance to thermal breakdown at high operating temperatures.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

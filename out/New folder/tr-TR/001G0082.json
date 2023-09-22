@@ -1,0 +1,67 @@
+{
+  "id": "001G0082",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "General Purpose Grease ENW 1",
+  "description": "Black General Purpose Grease NLGI 1",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bb1404a9-c26b-4ca4-bf30-7c02cc5c1669.pdf",
+      "type": "GTDS",
+      "name": "General Purpose Grease ENW 1 EN TDG V1.2 29-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02466040.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease ENW 1 Turkey TR 140003791542 EHS V2.3 26-OCT-2022",
+      "language": "TR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/80a61046-7fe4-4459-b27a-d0d478c2d621.pdf",
+      "type": "LTDS",
+      "name": "General Purpose Grease ENW 1 Turkey TR TDG V1.2 23-Aug-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02466039.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease ENW 1 Turkey EN 140003791542 EHS V2.3 26-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0082_002VH7_A246",
+      "name": "Fıçı 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kilogram",
+      "pack": "Fıçı",
+      "materialCode": "550045242",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Mineral baz yağlar ve lityum bazlı kalınlaştırıcıların kombinasyonu ile üretilen çok amaçlı gres.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

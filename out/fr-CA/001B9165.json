@@ -1,0 +1,67 @@
+{
+  "id": "001B9165",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State ATF +4",
+  "description": "Chrysler +4 automatic transmission fluid",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "atf",
+    "automatic transmissions",
+    "low temperature",
+    "passenger car",
+    "suv",
+    "trucks"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/5e47efc0-54b4-4124-964f-467878940ab2.pdf",
+      "type": "GTDS",
+      "name": "QS ATF +4 EN TDG V1.1 15-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/714ed239-9e6d-48c2-862a-b285078dba2c.pdf",
+      "type": "LTDS",
+      "name": "QS ATF +4 Canada EN TDG V1.1 15-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291213.PDF",
+      "type": "LMSDS",
+      "name": "QS ATF +4 Canada EN 140006579500 EHS V2.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291212.PDF",
+      "type": "LMSDS",
+      "name": "QS ATF +4 Canada FR 140006579500 EHS V2.2 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 9602",
+      "organisation": "Chrysler",
+      "spec": "MS 9602"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "ATF+4^®^ is specially formulated to meet the requirements for use as a hydraulic fluid for automatic transmissions used in passenger cars, trucks and sport utility vehicles. It is designed as a robust automatic transmission fluid with improved oxidation stability, excellent low temperature viscosity, friction durability/retention, shear stability and antiwear performance characteristics vs. ATF+3^®^ ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

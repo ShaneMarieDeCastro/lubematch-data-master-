@@ -1,0 +1,67 @@
+{
+  "id": "901L2870",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell EP Fluid 460",
+  "description": "Railway wheel flange lubricant",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Autres huiles de transmission",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1c5c8727-4ed3-48a5-ab05-7fe7a76aa10b.pdf",
+      "type": "GTDS",
+      "name": "EP 460 EN TDG V1.2 20-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581655.PDF",
+      "type": "LMSDS",
+      "name": "EP 460 France EN 140003182031 EHS V5.1 25-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581656.PDF",
+      "type": "LMSDS",
+      "name": "EP 460 France FR 140003182031 EHS V5.1 25-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/b42da54f-1a09-48cb-ac98-7b22734be293.pdf",
+      "type": "LTDS",
+      "name": "EP 460 France FR TDG V1.2 25-Mar-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L2870_002VUU_A246",
+      "name": "Barils 190 kg Open head Steel Shell Red, Shell Yellow (1)",
+      "size": "190",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550031850",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

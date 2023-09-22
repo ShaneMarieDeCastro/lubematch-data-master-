@@ -1,0 +1,84 @@
+{
+  "id": "001F8471",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Morlina S2 BL 10",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d8dfb2ae-d09a-4541-93b5-b1ae626a4e4a.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 10 (2016) EN TDG V1.3 29-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/2a7d5442-78cb-413b-a0bb-80e877f1865e.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 10 (2016) Netherlands NL TDG V1.3 26-Apr-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481934.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Netherlands NL 140002783873 EHS V1.5 14-OCT-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482060.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Netherlands EN 140002783873 EHS V1.5 14-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8471_002VNA_A1P5",
+      "name": "Emmer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550062216",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8471_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550055978",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 10 is een olie met lage viscositeit samengesteld uit 'Gas-to-Liquid' (GTL) technologie en zinkvrije additieven voor een betrouwbare bescherming te bieden van spindels van metaalbewerkingsmachines met hoge en zeer hoge snelheden. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

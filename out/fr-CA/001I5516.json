@@ -1,0 +1,73 @@
+{
+  "id": "001I5516",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Water-Glycol S2 C 32",
+  "description": "Water Glycol Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/80cc4eb6-47ce-454a-9ebb-b5336a359536.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol S2 C 32 EN TDG V1.0 23-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291426.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol S2 C 32 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291464.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol S2 C 32 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/7bcd6e9f-e6f0-445d-8b87-8d250fb5aa76.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol S2 C 32 Canada FR TDG V1.0 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/9ed9f815-ff00-4ec5-986c-b9080146f338.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol S2 C 32 Canada EN TDG V1.0 23-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5516_002VOM_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550057368",
+      "margin": "2.15031426558483",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Water Glycol S2 C 32 est un fluide hydraulique résistant au feu et est reconnu par FM Global comme un fluide industriel moins inflammable. Shell Water Glycol S2 C 32 a été développé et conçu spécifiquement pour fonctionner à la pression du système de 2000-4000 psi selon le type de pompe (vane ou piston). La formulation contient plus d’une quantité suffisante d’eau pour empêcher la propagation d’un incendie en cas de rupture de la ligne hydraulique près d’une source d’inflammation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

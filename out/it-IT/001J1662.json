@@ -1,0 +1,50 @@
+{
+  "id": "001J1662",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "SL 3216",
+  "description": "Synthetic Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": "Oli per ingranaggi industriali",
+  "category": "Oli per ingranaggi industriali",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/56f3ba37-57dd-4726-9a73-2fa658251322.pdf",
+      "type": "GTDS",
+      "name": "SL 3216 EN TDG V1.0 19-Nov-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543373.PDF",
+      "type": "LMSDS",
+      "name": "SL 3216 Italy IT 140007645406 EHS V1.2 22-MAR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543374.PDF",
+      "type": "LMSDS",
+      "name": "SL 3216 Italy EN 140007645406 EHS V1.2 22-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

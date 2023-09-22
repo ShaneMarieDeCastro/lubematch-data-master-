@@ -1,0 +1,84 @@
+{
+  "id": "001I5204",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra Professional AO-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "opel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8ef0459a-1f5a-49b3-a10b-1f06b093b9a2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AO-L 0W-20 EN TDG V1.2 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02357264.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AO-L 0W-20 Turkey TR 140003791542 EHS V1.0 07-JUL-2021",
+      "language": "TR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/450012e5-781d-43c8-b2af-3197d9027fa4.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AO-L 0W-20 Turkey TR TDG V1.2 10-Oct-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02357234.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AO-L 0W-20 Turkey EN 140003791542 EHS V1.0 07-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5204_002XS4_A246",
+      "name": "Fıçılar 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçılar",
+      "materialCode": "550056696",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "Opel OV 040 1547 - A20",
+      "organisation": "Opel",
+      "spec": "OV 040 1547 - A20"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Opel'in yüksek performanslı motorlarının zorlu gereksinimlerini karşılamak üzere tasarlandı. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

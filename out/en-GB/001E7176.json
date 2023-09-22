@@ -1,0 +1,64 @@
+{
+  "id": "001E7176",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Mysella S2 Z 15W-40",
+  "description": "Zero Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Industrial engine oils",
+  "category": "Industrial engine oils",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "hydraulic system",
+    "natural gas",
+    "pump gear",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S2_Z_15W-40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 Z 15W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_Kingdom_Shell_Mysella_S2_Z_15W-40_(en-GB)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Mysella S2 Z 15W-40 United Kingdom English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604972.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 15W-40 United Kingdom EN 140002340634 EHS V2.3 28-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 Z is a heavy-duty lubricant for high performance natural gas engines which require an “ash-less” product. Using ash-less technology Shell Mysella S2 Z minimises engine wear, deposits in combustion chambers and exhaust ports and viscosity increase in service.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-mysella-argina-group-220x190.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Inn5QAC&field=Attachment__Name__s",
+      "family": "Mysella",
+      "savings": 25000,
+      "title": "Shell Mysella S2 Z 15W-40"
+    }
+  ],
+  "commerce": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "001I5510",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Omala S3 A 460",
+  "description": "Premium Industrial Gear Oil",
+  "family": "non-GKA GPO - other",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1b208e9a-e0cb-4b12-99b6-77d9f3ae5c91.pdf",
+      "type": "GTDS",
+      "name": "Shell Omala S3 A 460 EN TDG V1.1 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/95c4881a-d17c-4bab-9b0c-4f72c9df50d2.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 A 460 Canada FR TDG V1.1 11-Dec-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/49eac55d-46b5-4ab4-b5f3-e222f3545630.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 A 460 Canada EN TDG V1.1 26-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289738.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 A 460 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289737.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 A 460 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5510_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057358",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 A 460 is a synthetic lubricant formulated to provide excellent lubrication, stability, and extended service life for enclosed industrial gears. Shell Omala S3 A 460 maintains excellent performance during use and helps to reduce operating temperatures, friction and wear.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

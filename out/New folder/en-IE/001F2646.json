@@ -1,0 +1,89 @@
+{
+  "id": "001F2646",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Morlina S4 B 320",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "long life",
+    "low temperature",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0c01d417-3b25-4c59-b344-5760f0afa648.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 320 (2014) EN TDG V4.8 11-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444639.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 320 (2014) Ireland EN 140007731156 EHS V1.6 21-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2646_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550043240",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B oils are high performance synthetic bearing and circulation lubricants, manufactured with high performance base fluids. They offer outstanding lubrication performance, including improved energy efficiency, filterability, and long service life even under challenging operating conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_morlina_s4_b.png",
+  "valueRecord": [],
+  "commerce": null
+}

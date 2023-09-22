@@ -1,0 +1,88 @@
+{
+  "id": "001G4232",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Tellus S4 VX 32",
+  "description": "Special Application Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Fluidos hidráulicos",
+  "category": "Fluidos hidráulicos",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "extra wide temperature range",
+    "extreme low temperature",
+    "high performance",
+    "hv",
+    "industrial",
+    "industrial hydraulics",
+    "low temperature",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "precision",
+    "versatile",
+    "wide temperature range",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3621522d-515b-4ecb-8d0d-18969e6e5d75.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) EN TDG V1.3 16-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463486.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) Spain EN 140003966322 EHS V2.0 20-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463485.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) Spain ES 140003966322 EHS V2.0 20-OCT-2022",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/3245ae54-9ffb-40a2-a06f-71ee9f6edab7.pdf",
+      "type": "LTDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) Spain ES TDG V1.3 03-Feb-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G4232_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550048620",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VX es un fluido hidráulico tecnológicamente avanzado, diseñado para su uso en aplicaciones sometidas a temperaturas ambiente extremadamente bajas, como las que pueden darse en regiones árticas o en regiones muy expuestas.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

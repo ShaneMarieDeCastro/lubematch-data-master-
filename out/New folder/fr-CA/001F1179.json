@@ -1,0 +1,225 @@
+{
+  "id": "001F1179",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Omala S2 GX 320",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "compatibility with seals and paints",
+    "enclosed gear",
+    "ep",
+    "extreme performance",
+    "extreme pressure",
+    "final drive",
+    "fixed",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "marine",
+    "micropitting",
+    "non shiftable",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "roller spherical",
+    "rollers",
+    "servo",
+    "siemens ag",
+    "stern tube seal",
+    "transfer case",
+    "transmissions",
+    "trunnion",
+    "wind turbines"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "320",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1515137b-5cd3-4331-94ce-8fa1e02340bf.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 320 EN TDG V2.2 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02357290.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 320 Canada FR 140006579500 EHS V1.9 06-JUL-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/e376c42f-94cf-4a48-8e6b-c76773788f5b.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 320 Canada EN TDG V2.2 20-Jul-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/3c9c6816-245f-4182-9859-fe2c8b448aa5.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 320 Canada FR TDG V2.2 20-Jul-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02357291.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 320 Canada EN 140006579500 EHS V1.9 06-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1179_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550041738",
+      "margin": "0.70361883125236",
+      "packShot": ""
+    },
+    {
+      "code": "001F1179_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500009140",
+      "margin": "0.353528118519884",
+      "packShot": ""
+    },
+    {
+      "code": "001F1179_002VOM_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550041737",
+      "margin": "0.702682811775632",
+      "packShot": ""
+    },
+    {
+      "code": "001F1179_002X4L_A1WJ",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550041736",
+      "margin": "0.823100559910803",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "AGMA EP 9005-EO2",
+      "organisation": "AGMA",
+      "spec": "EP 9005-EO2"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-59",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-59"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles Shell Omala S2 GX sont des huiles extrême pression de grande qualité conçues principalement pour la lubrification des boîtes d’engrenages industriels soumises à un service intensif. Leur capacité de charge élevée, leur protection contre le micropiquage et leur compatibilité avec les joints d’étanchéité et la peinture s’additionnent pour offrir un excellent rendement dans des applications à engrenages sous carter.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "24.4"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "98"
+    },
+    {
+      "property": "Flash Point COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-15"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "Kg/m³",
+      "value": "903"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

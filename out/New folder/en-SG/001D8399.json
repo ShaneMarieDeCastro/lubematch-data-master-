@@ -1,0 +1,84 @@
+{
+  "id": "001D8399",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Refrigeration Oil S4 FR-V 46",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "",
+  "category": "Refrigerator Oils",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "industrial",
+    "long life",
+    "open compressor",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor",
+    "turbine",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/03da63b4-6645-4846-83fb-10554d7500fd.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 EN TDG V2.4 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579543.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Singapore EN 140001435547 EHS V1.7 02-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8399_002VNF_A1P5",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025701",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V is a synthetic refrigeration lubricant based on alkylated benzenes. It offers a universal solution to the lubrication requirements of most refrigeration compressors and is compatible with all commonly used refrigerants with the exception of HFCs.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

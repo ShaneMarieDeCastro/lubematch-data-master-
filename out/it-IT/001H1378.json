@@ -1,0 +1,81 @@
+{
+  "id": "001H1378",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix CITY 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ce36dcca-5ca3-4f97-8689-3a440e2c2dba.pdf",
+      "type": "GTDS",
+      "name": "Helix CITY 0W-30 (SN C2/C3) EN TDG V1.1 20-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02382328.PDF",
+      "type": "LMSDS",
+      "name": "Helix CITY 0W-30 (SN C2/C3) Italy EN 140007645406 EHS V1.0 26-OCT-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02382329.PDF",
+      "type": "LMSDS",
+      "name": "Helix CITY 0W-30 (SN C2/C3) Italy IT 140007645406 EHS V1.0 26-OCT-2021",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix CITY is expertly engineered for city driving to protect your engine from friction caused by stop/start driving.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,78 @@
+{
+  "id": "001D8269",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S4 G 75W-80",
+  "description": "High Performance PSA Manual Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Oleje do ręcznych skrzyń biegów i przekładni",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-80",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1363e7e2-e31a-497e-a744-2ad56f6eaf81.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 G 75W-80 EN TDG V1.2 08-May-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577542.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-80 Poland EN 140003791557 EHS V2.3 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577544.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-80 Poland PL 140003791557 EHS V2.3 23-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/9d506741-6193-454f-a09d-fd6d5f6102db.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 G 75W-80 Poland PL TDG V1.2 31-May-2019",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8269_002WL0_A805",
+      "name": "Butelka 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550054730",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "PSA B71 2315",
+      "organisation": "PSA",
+      "spec": "B71 2315"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 G 75W-80 to olej przekładniowy do skrzyń biegów w samochodach pasażerskich produkowanych przez PSA.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

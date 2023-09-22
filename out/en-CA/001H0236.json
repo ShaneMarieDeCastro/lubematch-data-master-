@@ -1,0 +1,60 @@
+{
+  "id": "001H0236",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Mysella S6 N 40",
+  "description": "Premium, Long Life, Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "automatic",
+    "bio gas",
+    "engine",
+    "gas",
+    "landfill",
+    "low ash",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6961a376-8b32-40b6-b922-63e8593cc5be.pdf",
+      "type": "GTDS",
+      "name": "Mysella S6 N 40 EN TDG V2.4 16-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290995.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290996.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S6 N is a high-performance oil designed for use in highly-rated, 4-stroke, spark-ignition engines, especially those with steel pistons. Superior engine cleanliness and extended drain intervals are delivered by specially developed lubricant technology.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

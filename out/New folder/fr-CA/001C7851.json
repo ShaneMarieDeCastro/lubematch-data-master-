@@ -1,0 +1,109 @@
+{
+  "id": "001C7851",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Advance Snow Ultra Synthetic",
+  "description": "Synthetic 2 stroke snowmobile engine oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Huiles moteur - Autres",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Generic Grade",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/34343232-daa6-46ac-bd87-fae8cb7e7cc2.pdf",
+      "type": "GTDS",
+      "name": "Advance Snow Ultra Synthetic EN TDG V1.3 03-Dec-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290010.PDF",
+      "type": "LMSDS",
+      "name": "Advance Snow Ultra Synthetic Canada EN 140006579500 EHS V2.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/6420a581-b454-4c4c-bb65-13c933b7f415.pdf",
+      "type": "LTDS",
+      "name": "Advance Snow Ultra Synthetic Canada FR TDG V1.3 24-Dec-2018",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/aa23c7a3-ffef-4248-8bc8-7b9086ae7130.pdf",
+      "type": "LTDS",
+      "name": "Advance Snow Ultra Synthetic Canada EN TDG V1.3 04-Dec-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290009.PDF",
+      "type": "LMSDS",
+      "name": "Advance Snow Ultra Synthetic Canada FR 140006579500 EHS V2.1 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C7851_002XP5_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550045950",
+      "margin": "3.35518232802114",
+      "packShot": ""
+    },
+    {
+      "code": "001C7851_002XR8_CHEP",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550050183",
+      "margin": "3.04441990884765",
+      "packShot": ""
+    },
+    {
+      "code": "001C7851_002XR8_A0IK",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550050182",
+      "margin": "3.58129868654888",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FD",
+      "organisation": "JASO",
+      "spec": "FD"
+    },
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    },
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile Shell ADVANCE SNOW ULTRA est une huile déstinée aux motoneiges équipées de moteurs à deux temps puissants. Conforme aux normes API TC et JASO FD, l'huile Shell ADVANCE SNOW ULTRA protège les moteurs deux-temps à refroidissement par air dans les conditions de températures de fonctionnement plus élevées qui leur sont propres grace à une formule synthétique qui convient parfaitement aux moteurs à injection directe de pointe.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2A-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

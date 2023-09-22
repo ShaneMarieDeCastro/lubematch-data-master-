@@ -1,0 +1,81 @@
+{
+  "id": "001H8155",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Spirax S3 ALS 85W-90",
+  "description": "High performance, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e708a554-072d-4b51-97cf-6ff5aa422003.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 ALS 85W-90 EN TDG V1.1 15-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/e753ab8b-c8fe-402b-ae32-e785f733091f.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 ALS 85W-90 United Kingdom EN TDG V1.1 15-Sep-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02513955.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 United Kingdom EN 140002340634 EHS V1.5 04-JAN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 12C",
+      "organisation": "ZF",
+      "spec": "TE-ML 12C"
+    },
+    {
+      "name": "ZF TE-ML 05C",
+      "organisation": "ZF",
+      "spec": "TE-ML 05C"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 21C",
+      "organisation": "ZF",
+      "spec": "TE-ML 21C"
+    },
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    },
+    {
+      "name": "ZF TE-ML 16E",
+      "organisation": "ZF",
+      "spec": "TE-ML 16E"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 ALS 85W-90 oil is blended for use in a wide variety of automotive axle units with limited slip differentials including many ZF units.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

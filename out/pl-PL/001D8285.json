@@ -1,0 +1,140 @@
+{
+  "id": "001D8285",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S3 AS 80W-140",
+  "description": "High performance, GL-5 axle oil for Scania and ZF",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Oleje do ręcznych skrzyń biegów i przekładni",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "heavy duty",
+    "heavy truck",
+    "manual",
+    "manual transmission",
+    "off highway",
+    "offroad",
+    "passenger car",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S3_AS_80W-140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 AS 80W-140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576934.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AS 80W-140 Poland PL 140003791557 EHS V4.5 23-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/33423ec3-b429-4459-9c43-b0f508338769.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 AS 80W-140 Poland PL TDG V3.3 18-Nov-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576935.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AS 80W-140 Poland EN 140003791557 EHS V3.5 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8285_002VNA_A246",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550027976",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8285_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027929",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 12E",
+      "organisation": "ZF",
+      "spec": "TE-ML 12E"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ZF TE-ML 16C",
+      "organisation": "ZF",
+      "spec": "TE-ML 16C"
+    },
+    {
+      "name": "ZF TE-ML 05A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 AS 80W-140 jest olejem przekładniowym do stosowania w wielu rodzajach mostów napędowych  w pojazdach pracujących w trudnych warunkach. Zastosowanie zaawansowanego pakietu dodatków uszlachetniających oraz specjalnie wyselekcjonowanej bazy olejowej gwarantuje uzyskanie wydłużonych czasów eksploatacji w niektórych zastosowaniach. Dodatkowo Shell Spirax S3 AS 80W-140 może być używany w niesynchronizowanych skrzyniach biegów oraz w wybrancyh synchronizowanych skrzyniach, gdzie producent przewidział użycie oleju o specyfikacji API GL-5 lub MT-1.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027976_Shell_Spirax_S3_AS_80W-140_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,103 @@
+{
+  "id": "001I5465",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe S1 DU 60",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Vegetable",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8994e9aa-f9f1-4687-9f45-8475cfde3c0d.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S1 DU 60 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/00b3f125-b282-4806-b058-58e45b1d9773.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S1 DU 60 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290862.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S1 DU 60 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b29e5449-05c7-4448-95e7-f8a20933561a.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S1 DU 60 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289621.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S1 DU 60 Canada English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5465_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012330",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5465_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550058342",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5465_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057306",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5465_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057307",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe S1 DU 60 is a less flammable hydraulic fluid designed for systems requiring readily biodegradable, low toxicity, hydraulic fluids. It can be used in environmentally sensitive areas including applications involving industrial, marine and mobile equipment including high pressure systems where fire hazards are a concern. It is formulated from high quality high VI vegetable oils and additives providing the properties required for hydraulic performance. Shell EcoSafe S1 DU 60 is a USDA Certified BioPreferred^® product.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

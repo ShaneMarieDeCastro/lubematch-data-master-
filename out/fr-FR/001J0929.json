@@ -1,0 +1,97 @@
+{
+  "id": "001J0929",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Coolant Extra Ready to Use",
+  "description": "Hybrid antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": null,
+  "category": "Liquide de refroidissement /Antigel - Concentré",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d7b6d00-472b-43a6-aa24-cc82488d9f7b.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570641.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) France FR 140003182031 EHS V2.0 04-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/58edf9a3-6c7d-4ff0-8ff1-b18e1fba0713.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) France FR TDG V1.4 07-Jul-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570711.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) France EN 140003182031 EHS V2.0 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0929_002VWL_A863",
+      "name": "Bouteille 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550061798",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0929_002VSH_A863",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550061797",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0929_002YBF_A863",
+      "name": "Bouteille 4 L Local Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550061800",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0929_002YBD_A863",
+      "name": "Bouteille 1 L Local Plastic Rimula Grey (12) ",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550061799",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-coolant-extra-ready-to-use-4l"
+}

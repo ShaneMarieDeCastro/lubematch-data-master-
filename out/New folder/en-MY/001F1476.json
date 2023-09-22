@@ -1,0 +1,101 @@
+{
+  "id": "001F1476",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Omala S2 G 150 (Fine)",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "enclosed gear",
+    "ep",
+    "extreme pressure",
+    "gears",
+    "heavy duty",
+    "helical",
+    "high load",
+    "industrial",
+    "splash lubricated bearings",
+    "spur"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Omala_S2_G_150_Fine_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 G 150 (Fine) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02330460.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 150 (Fine) Malaysia MS 140001435555 EHS V1.6 19-MAY-2021",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02330273.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 150 (Fine) Malaysia EN 140001435555 EHS V1.6 19-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1476_002VJV_A227",
+      "name": "IBC 1000 L Plastic W (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550042010",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1476_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009551",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-77",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-77"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 G oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

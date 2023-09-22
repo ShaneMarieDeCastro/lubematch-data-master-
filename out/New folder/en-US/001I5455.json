@@ -1,0 +1,81 @@
+{
+  "id": "001I5455",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe EHC S3 DU 46",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5699068c-3b5a-42e7-b148-c202b375d8d7.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe EHC S3 DU 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/5f8b1845-bd8b-492e-a87a-aeb74e5f425f.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe EHC S3 DU 46 United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562829.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe EHC S3 DU 46 United States EN 140002686046 EHS V1.3 14-AUG-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5455_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057290",
+      "margin": "7.73669759035099",
+      "packShot": ""
+    },
+    {
+      "code": "001I5455_002VOP_NAMD",
+      "name": "Pail 5 Gal Plastic O/H Y (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057291",
+      "margin": "8.49688478154652",
+      "packShot": ""
+    },
+    {
+      "code": "001I5455_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057292",
+      "margin": "8.69953223908253",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe EHC S3 DU 46 is a synthetic fluid formulated for electro-hydraulic control (EHC) valve service in steam and gas turbines and other applications within fossil fuel power station operations, including high-pressure systems and systems with servo valves. Formulated with high VI, polyalkylene glycol (PAG) base stocks, coupled with a proven ashless additive package, Shell EcoSafe EHC S3 DU 46 provides the properties demanded by today’s high-performance hydraulic systems. With proper flushing and condition monitoring, systems can be easily converted to Shell EcoSafe EHC S3 DU 46 from phosphate ester and polyol ester-based fluids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "001D7778",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Corena S2 P 68",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "breathing air compressor",
+    "high pressure",
+    "hydraulic system",
+    "industrial",
+    "piston",
+    "pump gear",
+    "pump piston",
+    "reciprocating",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2346aea9-f05a-413d-8283-592dde0dfc98.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 68 EN TDG V2.5 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562795.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 United States EN 140002686046 EHS V1.6 12-MAR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/b8842eaa-2899-4563-9433-84cbde74b4b6.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 P 68 United States EN TDG V2.3 28-Mar-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    },
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P is high quality air compressor oil designed to deliver the lubrication performance for high pressure reciprocating compressors.  It is suitable for most reciprocating air compressors running at up to 220°C discharge temperatures at elevated pressures.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

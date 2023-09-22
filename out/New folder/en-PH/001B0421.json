@@ -1,0 +1,85 @@
+{
+  "id": "001B0421",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Flushing Oil 32",
+  "description": "High Performance Flushing Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Other FPM Lubricants",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "combined cycle",
+    "diesel",
+    "engine",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "morgoil",
+    "pump piston",
+    "pump valve",
+    "servo",
+    "turbine",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/b75ca256-0f5b-479a-8571-67808f08eaff.pdf",
+      "type": "GTDS",
+      "name": "Flushing Oil 32 EN TDG V1.2 01-Nov-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/4320cbcd-2d20-4d8f-98bc-821bb3d3a8ea.pdf",
+      "type": "LTDS",
+      "name": "Flushing Oil 32 Philippines EN TDG V1.2 01-Nov-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02394934.PDF",
+      "type": "LMSDS",
+      "name": "Flushing Oil 32 Philippines EN 140001435525 EHS V1.3 15-DEC-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0421_002WM6_A240",
+      "name": "Bottle 0.5 L Wishbone Plastic White (24)",
+      "size": "0.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550043690",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B0421_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500000255",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Flushing Oil 32 is a very low sulphur content non-detergent industrial Group II flushing oil that is suitable for the flushing removal of light hydrocarbon based industrial fluid systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

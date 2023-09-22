@@ -1,0 +1,67 @@
+{
+  "id": "001J0929",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Coolant Extra Ready to Use",
+  "description": "Hybrid antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Refrigerantes / anticongelante - concentrado",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d7b6d00-472b-43a6-aa24-cc82488d9f7b.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/8076a6cf-ef66-4117-a0de-229da9e994b9.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) Spain ES TDG V1.4 09-Jun-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570824.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) Spain EN 140003966322 EHS V2.0 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570640.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) Spain ES 140003966322 EHS V2.0 04-MAY-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0929_002YBF_A863",
+      "name": "Botella 4 L Local Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550061800",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

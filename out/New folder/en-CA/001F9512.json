@@ -1,0 +1,247 @@
+{
+  "id": "001F9512",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Rotella T4 Triple Protection 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "bio gas",
+    "biodiesel",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "hydrostatic",
+    "lng",
+    "lpg",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "transmissions",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d6697db8-8564-4e03-be14-7a616d5753a8.pdf",
+      "type": "GTDS",
+      "name": "Rotella T4 Triple Protection 10W-30 (CK-4) EN TDG V1.5 08-Nov-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02423231.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T4 Triple Protection 10W-30 (CK-4) Canada EN 140006579500 EHS V1.5 21-JUN-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02423230.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T4 Triple Protection 10W-30 (CK-4) Canada FR 140006579500 EHS V1.5 21-JUN-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/be1fb4be-fb23-4a56-bfd7-230251202fde.pdf",
+      "type": "LTDS",
+      "name": "Rotella T4 Triple Protection 10W-30 (CK-4) Canada FR TDG V1.5 15-Nov-2019",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/187d0056-9b45-485d-b613-d88aa7ea6c04.pdf",
+      "type": "LTDS",
+      "name": "Rotella T4 Triple Protection 10W-30 (CK-4) Canada EN TDG V1.5 14-Nov-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9512_002XLR_A0IK",
+      "name": "Bottle 5 L Americas Tool Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045139",
+      "margin": "0.632486703158976",
+      "packShot": ""
+    },
+    {
+      "code": "001F9512_002XO4_A0IK",
+      "name": "Bottle 0.946 L Americas Tool Plastic White (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550049484",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9512_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550047506",
+      "margin": "0.701562832563351",
+      "packShot": ""
+    },
+    {
+      "code": "001F9512_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550045149",
+      "margin": "0.72406166348893",
+      "packShot": ""
+    },
+    {
+      "code": "001F9512_002VON_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H W (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550045136",
+      "margin": "0.574300660489294",
+      "packShot": ""
+    },
+    {
+      "code": "001F9512_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550045137",
+      "margin": "0.709987507527451",
+      "packShot": ""
+    },
+    {
+      "code": "001F9512_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010011",
+      "margin": "0.301866372693673",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "*Compared to a conventional SAE 15W-40 oil.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

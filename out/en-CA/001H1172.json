@@ -1,0 +1,104 @@
+{
+  "id": "001H1172",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Quaker State® High Mileage Full Synthetic 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/380ef976-cbed-40fb-a2a9-ea95d608d076.pdf",
+      "type": "GTDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-30 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290604.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-30 Motor Oil Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b2de1c35-e2ff-4a21-9238-4fb0a530933a.pdf",
+      "type": "LTDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-30 Motor Oil Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290603.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-30 Motor Oil Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/77d63458-3208-4e55-b5e7-0bdbb09b7d2e.pdf",
+      "type": "LTDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-30 Motor Oil Canada FR TDG V1.3 17-Sep-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H1172_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550052760",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H1172_002XLM_CHEP",
+      "name": "Bottle 5 L Americas Tool Plastic QS Green (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052763",
+      "margin": "1.07148290090592",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^2 ^Based ^on ^Sequence ^IIIH ^& ^VH ^tests ^on ^0W-20 ^engine ^oil",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

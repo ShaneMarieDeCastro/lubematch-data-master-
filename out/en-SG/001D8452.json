@@ -1,0 +1,66 @@
+{
+  "id": "001D8452",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Gadus S2 V220 3",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "lithium",
+    "versatile"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "3",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/808f9fdb-a0a6-42d5-a66a-ff8e1955c10e.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220 3 EN TDG V1.2 07-Feb-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580622.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 3 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8452_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006075",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8452_002XD7_A227",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550027047",
+      "margin": "1.02505560980903",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220 greases are designed for multipurpose grease lubrication of rolling element and plain bearings as well as hinges and sliding surfaces such as those found in throughout most industrial and transport sectors.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s2_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,534 @@
+{
+  "id": "001A0048",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Fluid 31",
+  "description": "Synthetic hydrocarbon hydraulic fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    "aviation",
+    "diesel",
+    "hydraulic system",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "servo",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b2da2f73-7052-4d28-bcaa-29bfa115acfe.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 31 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580264.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 31 Singapore English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/9a41179b-3d9d-4ff3-ac75-910805b56caa.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 31 Singapore EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0048_002XJP_A490",
+      "name": "Pail 5 Gal Tight head Metal Shell Red (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550043793",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0048_002VG5_A490",
+      "name": "Can 1 US Gal T/H Tinplate Pre-printed (6)",
+      "size": "1",
+      "uom": "US",
+      "pack": "Can",
+      "materialCode": "550043794",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO H-537",
+      "organisation": "NATO",
+      "spec": "H-537"
+    },
+    {
+      "name": "Joint Service Designation OX-19",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-19"
+    },
+    {
+      "name": "DCSEA 437/A",
+      "organisation": "DCSEA",
+      "spec": "437/A"
+    },
+    {
+      "name": "MIL-PRF-83282D",
+      "organisation": "MIL",
+      "spec": "PRF-83282D"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 31 is dyed red. The useful operating temperature range is –40 to +205°C.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Synthetic Hydrocarbon"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@205°C",
+      "units": "mm²/s",
+      "value": "1.0 min"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "3.45 min"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "14.0 min"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@–40°C",
+      "units": "mm²/s",
+      "value": "2200 max"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "205 min"
+    },
+    {
+      "property": "Fire Point",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "245 min"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.10 max"
+    },
+    {
+      "property": "Evaporation loss 6.5 hrs",
+      "method": "NULL",
+      "uom": "@150°C",
+      "units": "% m",
+      "value": "20 max"
+    },
+    {
+      "property": "Relative density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "Report"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-55 max"
+    },
+    {
+      "property": "Low temperature stability 72 hrs",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "High temperature stability 100 hrs",
+      "method": "",
+      "uom": "@205°C",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Gravimetric Filtration",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mg/100ml",
+      "value": "0.3 max"
+    },
+    {
+      "property": "Filtration time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "minutes",
+      "value": "15 max"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": "5 to 15 µm",
+      "units": "per Lt",
+      "value": "10000 max"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": "16 to 25  µm",
+      "units": "per Lt",
+      "value": "1000 max"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": "26 to 50  µm",
+      "units": "per Lt",
+      "value": "150 max"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": "51 to 100  µm",
+      "units": "per Lt",
+      "value": "20 max"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": ">100 µm",
+      "units": "per Lt",
+      "value": "5 max"
+    },
+    {
+      "property": "Water content",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "100 max"
+    },
+    {
+      "property": "Foam resistance",
+      "method": "",
+      "uom": "ASTM Seq 1",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Flame propagation",
+      "method": "",
+      "uom": "",
+      "units": "cm/s",
+      "value": "Must pass"
+    },
+    {
+      "property": "Rubber swell, NBR-L",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "18 to 30"
+    },
+    {
+      "property": "4-Ball Wear, 1 hr @ 75°C scar dia",
+      "method": "",
+      "uom": "1 kg load/1200 rpm",
+      "units": "mm",
+      "value": "0.21 max"
+    },
+    {
+      "property": "4-Ball Wear, 1 hr @ 75°C scar dia",
+      "method": "",
+      "uom": "10 kg load/1200 rpm",
+      "units": "mm",
+      "value": "0.30 max"
+    },
+    {
+      "property": "4-Ball Wear, 1 hr @ 75°C scar dia",
+      "method": "",
+      "uom": "40 kg load/1200 rpm",
+      "units": "mm",
+      "value": "0.65 max"
+    },
+    {
+      "property": "Oxidation & corrosion stability 168 hrs @ 121°C - metal weight change",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Oxidation & corrosion stability 168 hrs @ 121°C - change in viscosity @ 40°C",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "10 max"
+    },
+    {
+      "property": "Oxidation & corrosion stability 168 hrs @ 121°C - change in acidity",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.2 max"
+    },
+    {
+      "property": "Flammability",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Synthetic Hydrocarbon"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@205°C",
+      "units": "mm²/s",
+      "value": "1.07"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "3.53"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "14.33"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@–40°C",
+      "units": "mm²/s",
+      "value": "2098"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "237"
+    },
+    {
+      "property": "Fire Point",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "251"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.01"
+    },
+    {
+      "property": "Evaporation loss 6.5 hrs",
+      "method": "NULL",
+      "uom": "@150°C",
+      "units": "% m",
+      "value": "10"
+    },
+    {
+      "property": "Relative density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "0.850"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "Below -55"
+    },
+    {
+      "property": "Low temperature stability 72 hrs",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "High temperature stability 100 hrs",
+      "method": "",
+      "uom": "@205°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Gravimetric Filtration",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mg/100ml",
+      "value": "0.2"
+    },
+    {
+      "property": "Filtration time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "minutes",
+      "value": "Less than 15"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": "5 to 15 µm",
+      "units": "per Lt",
+      "value": "1331"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": "16 to 25  µm",
+      "units": "per Lt",
+      "value": "190"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": "26 to 50  µm",
+      "units": "per Lt",
+      "value": "55"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": "51 to 100  µm",
+      "units": "per Lt",
+      "value": "4"
+    },
+    {
+      "property": "Particle Count, Automatic",
+      "method": "",
+      "uom": ">100 µm",
+      "units": "per Lt",
+      "value": "0"
+    },
+    {
+      "property": "Water content",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "82"
+    },
+    {
+      "property": "Foam resistance",
+      "method": "",
+      "uom": "ASTM Seq 1",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Flame propagation",
+      "method": "",
+      "uom": "",
+      "units": "cm/s",
+      "value": "Passes"
+    },
+    {
+      "property": "Rubber swell, NBR-L",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "Passes"
+    },
+    {
+      "property": "4-Ball Wear, 1 hr @ 75°C scar dia",
+      "method": "",
+      "uom": "1 kg load/1200 rpm",
+      "units": "mm",
+      "value": "0.18"
+    },
+    {
+      "property": "4-Ball Wear, 1 hr @ 75°C scar dia",
+      "method": "",
+      "uom": "10 kg load/1200 rpm",
+      "units": "mm",
+      "value": "0.24"
+    },
+    {
+      "property": "4-Ball Wear, 1 hr @ 75°C scar dia",
+      "method": "",
+      "uom": "40 kg load/1200 rpm",
+      "units": "mm",
+      "value": "0.50"
+    },
+    {
+      "property": "Oxidation & corrosion stability 168 hrs @ 121°C - metal weight change",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Oxidation & corrosion stability 168 hrs @ 121°C - change in viscosity @ 40°C",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "Less than 10"
+    },
+    {
+      "property": "Oxidation & corrosion stability 168 hrs @ 121°C - change in acidity",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "Less than 0.02"
+    },
+    {
+      "property": "Flammability",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

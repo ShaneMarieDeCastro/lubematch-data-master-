@@ -1,0 +1,87 @@
+{
+  "id": "001A0080",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Turbine Oil 308",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d75c98bf-c837-4a19-a02c-72ea7861609b.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 308 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564120.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 United States EN 140002686046 EHS V2.2 22-FEB-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/ba9aef34-efd4-4a57-bded-b47f9f9c6dd6.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 308 United States EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0080_002VFJ_A532",
+      "name": "Can 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Can",
+      "materialCode": "550042438",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0080_002VFJ_AMAP",
+      "name": "Can 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Can",
+      "materialCode": "550050174",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OX-9",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-9"
+    },
+    {
+      "name": "MIL-PRF-7808L Type III",
+      "organisation": "MIL",
+      "spec": "PRF-7808L Type III"
+    },
+    {
+      "name": "NATO O-148",
+      "organisation": "NATO",
+      "spec": "O-148"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 308 is a 3 mm²/s synthetic ester oil incorporating additives to improve resistance to oxidation and corrosion and to minimise wear.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

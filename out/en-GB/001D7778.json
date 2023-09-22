@@ -1,0 +1,91 @@
+{
+  "id": "001D7778",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Corena S2 P 68",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressor and Vacuum Pump",
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "breathing air compressor",
+    "high pressure",
+    "hydraulic system",
+    "industrial",
+    "piston",
+    "pump gear",
+    "pump piston",
+    "reciprocating",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2346aea9-f05a-413d-8283-592dde0dfc98.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 68 EN TDG V2.5 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/b1f7eb53-193f-4849-abfe-108759f17b18.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 P 68 United Kingdom EN TDG V2.5 27-Sep-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572260.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 United Kingdom EN 140002340634 EHS V3.7 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7778_002VNA_A246",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550026293",
+      "margin": "1.37625085376582",
+      "packShot": ""
+    },
+    {
+      "code": "001D7778_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550026195",
+      "margin": "1.10170232147932",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    },
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P is high quality air compressor oil designed to deliver the lubrication performance for high pressure reciprocating compressors.  It is suitable for most reciprocating air compressors running at up to 220°C discharge temperatures at elevated pressures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

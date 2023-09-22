@@ -1,0 +1,73 @@
+{
+  "id": "001A0904",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "AeroShell Turbine Oil 2",
+  "description": "Mineral lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "Smeermiddelen voor de luchtvaart",
+  "category": "Motoroliën - Luchtvaart / turbine",
+  "applicationKeys": [
+    "manual",
+    "synchronised",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/87a5ebd6-c1c9-4aa5-bf0d-34556ef7c028.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 2 EN TDG V1.2 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549936.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 2 Netherlands NL 140002783873 EHS V4.1 11-APR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549937.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 2 Netherlands EN 140002783873 EHS V4.1 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OX-10",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-10"
+    },
+    {
+      "name": "AIR 3516/A",
+      "organisation": "AIR",
+      "spec": "3516/A"
+    },
+    {
+      "name": "MIL-PRF-6081D",
+      "organisation": "MIL",
+      "spec": "PRF-6081D"
+    },
+    {
+      "name": "NATO O-133",
+      "organisation": "NATO",
+      "spec": "O-133"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 2 is a 2 mm²/s mineral turbine oil blended from mineral base stocks to which a pour-point depressant and an anti-oxidant have been added.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

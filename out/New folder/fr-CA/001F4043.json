@@ -1,0 +1,124 @@
+{
+  "id": "001F4043",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Platinum High Mileage SAE 5W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3fe2242f-86bf-43c1-8c69-fcd37f46a267.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum High Mileage 5W-20 Full Synthetic Motor Oil (SP/GF-6A) EN TDG V1.7 23-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d72d4707-fe81-45c5-94d2-976ea1a0ad74.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum High Mileage 5W-20 (SN) Canada EN TDG V1.7 23-Apr-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290733.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum High Mileage 5W-20 (SN) Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290732.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum High Mileage 5W-20 (SN) Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/3bec25c2-f55b-4780-9452-f4dd5bd29d6a.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum High Mileage 5W-20 (SN) Canada FR TDG V1.7 05-May-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4043_002X67_A1WJ",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550042740",
+      "margin": "1.67107952092595",
+      "packShot": ""
+    },
+    {
+      "code": "001F4043_002XLH_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550049555",
+      "margin": "2.3597645421501",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^* ^Inscription ^requis. ^Gardez ^vos ^reçus. ^Autres ^conditions ^s’appliquent. ^Voir ^pennzoil.com/warranty ^pour ^complet ^details",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

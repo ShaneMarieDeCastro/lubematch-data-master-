@@ -1,0 +1,195 @@
+{
+  "id": "001D8451",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Gadus S2 V220 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "ball",
+    "bearing",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "heavy duty",
+    "high performance",
+    "hinges",
+    "industrial",
+    "journal",
+    "lithium",
+    "lithium based",
+    "marine",
+    "multipurpose",
+    "plain",
+    "plain bearings",
+    "roller bearings",
+    "roller cylindrical",
+    "rollers",
+    "shock load",
+    "slew",
+    "sliding surfaces",
+    "swing drive",
+    "thrust",
+    "transmissions",
+    "trucks",
+    "versatile",
+    "water resistance",
+    "water washout",
+    "wet conditions",
+    "wheel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/61c79668-557a-4237-a6bd-8517542f49c5.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220 2 EN TDG V3.5 07-Feb-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587306.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 2 Turkey TR 140003791542 EHS V3.4 05-JUN-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587307.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 2 Turkey EN 140003791542 EHS V3.4 05-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/7d36cffa-56ef-4098-ac60-4a9374df91c5.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220 2 Turkey TR TDG V3.5 26-Mar-2018",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8451_002XPX_A246",
+      "name": "Kova 15 kg Open head Tinplate Multi-coloured (1)",
+      "size": "15",
+      "uom": "kilogram",
+      "pack": "Kova",
+      "materialCode": "550052204",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8451_002X62_EURO",
+      "name": "Küvet 1 kg Cylindrical Plastic Black (12)",
+      "size": "1",
+      "uom": "kilogram",
+      "pack": "Küvet",
+      "materialCode": "550054715",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8451_002XEF_EURO",
+      "name": "Küvet 5 kg Cylindrical Plastic Black (4)",
+      "size": "5",
+      "uom": "kilogram",
+      "pack": "Küvet",
+      "materialCode": "550055092",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8451_002VSL_A246",
+      "name": "Keg 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kilogram",
+      "pack": "Keg",
+      "materialCode": "550028023",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8451_002VH7_A246",
+      "name": "Fıçı 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kilogram",
+      "pack": "Fıçı",
+      "materialCode": "550025259",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220 2, endüstri ve nakliye sektöründeki birçok uygulamada mevcut olan düz ve kaymalı yatakların yağlanması için tasarlanmış çok amaçlı bir gresdir.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg",
+      "value": "315"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s2_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

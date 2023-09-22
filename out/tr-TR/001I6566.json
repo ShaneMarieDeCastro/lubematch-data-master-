@@ -1,0 +1,107 @@
+{
+  "id": "001I6566",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Coolant Longlife Concentrate",
+  "description": "Premium extended life antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8a924f5b-706b-4504-b75b-b7d6bff27d49.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Concentrate (Mediterranean) EN TDG V1.6 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02474360.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Concentrate (Mediterranean) Turkey TR 140003791542 EHS V2.0 08-NOV-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02474359.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Concentrate (Mediterranean) Turkey EN 140003791542 EHS V2.0 08-NOV-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/eec642c1-3708-4e7a-8ecd-86e640e98b3b.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Longlife Concentrate (Mediterranean) Turkey TR TDG V1.6 28-Jun-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I6566_002VSH_A0S5",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550060609",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6566_002VT6_A0S5",
+      "name": "Teneke 15 kg Tinplate Lub Quadrapack (1)",
+      "size": "15",
+      "uom": "kilogram",
+      "pack": "Teneke",
+      "materialCode": "550060650",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6566_002VJW_A0S5",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550060608",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6566_002YBD_A0S5",
+      "name": "Şişe 1 L Local Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550060651",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6566_002YBE_A0S5",
+      "name": "Şişe 3 L Local Plastic Rimula Grey (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550060652",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

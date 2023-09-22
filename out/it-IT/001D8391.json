@@ -1,0 +1,89 @@
+{
+  "id": "001D8391",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Refrigeration Oil S2 FR-A 46",
+  "description": "Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": "Altri lubrificanti industriali",
+  "category": "Oli per frigoriferi",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "heat transfer",
+    "hermetic compressor",
+    "industrial",
+    "open compressor",
+    "r290",
+    "r717",
+    "refrigerant",
+    "semi open compressor",
+    "steam",
+    "turbine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3aaa0883-9198-4a99-a254-4cce986b650b.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S2 FR-A 46 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/eb6e9de6-de5a-405b-94d7-56e23696fa64.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Italy IT TDG V1.2 31-Jan-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575358.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Italy IT 140007645406 EHS V1.5 15-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575363.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Italy EN 140007645406 EHS V1.5 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8391_002VSH_A1P5",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550025693",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    },
+    {
+      "name": "DIN 51503 KE",
+      "organisation": "DIN",
+      "spec": "51503 KE"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S2 FR-A è un lubrificante a bassa miscibilità per l’impiego in compressori frigoriferi ad ammoniaca. E’ formulato con oli base paraffinici appositamente raffinati in combinazione con additivi selezionati per minimizzare i depositi nel sistema e garantire una lunga durata in servizio.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

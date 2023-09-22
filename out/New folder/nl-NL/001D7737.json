@@ -1,0 +1,147 @@
+{
+  "id": "001D7737",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Morlina S2 BL 10",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "ashless",
+    "ball",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "gerotor pump",
+    "high speed",
+    "high speed spindles",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "mobile",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "roller needle",
+    "rollers",
+    "servo",
+    "spindle",
+    "spindle oil",
+    "variable",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/110c1f42-9237-4676-8f74-0c7cf6e7f5b9.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 10 EN TDG V1.4 25-May-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02480494.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 Netherlands NL 140002783873 EHS V4.1 04-OCT-2016",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/1f3f9fd6-881f-4616-b218-df3bfae02634.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 10 Netherlands NL TDG V1.4 07-Feb-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02480493.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 Netherlands EN 140002783873 EHS V4.1 04-OCT-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-62",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-62"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 10 is samengesteld uit solvent geraffineerde minerale basisoliën met een lage viscositeit en zinkvrije additieven voor een betrouwbare bescherming van spindels van metaalbewerkingsmachines met hoge en zeer hoge snelheden.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "10"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "2.3"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "881"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "150"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "Rust, Salt Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Oxidation Control Test : TOST",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "Hrs",
+      "value": "2000+"
+    },
+    {
+      "property": "Oxidation Control Test : RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "Mins",
+      "value": "300"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,76 @@
+{
+  "id": "001G5904",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Mysella S2 N 40",
+  "description": "Low Ash Stationary Gas Engine Oil for Oil and Gas applications",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "low ash",
+    "natural gas",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f077dac1-52df-4118-9ce9-e43d5d604016.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 N 40 EN TDG V1.0 01-Nov-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/e30cea88-fb19-47bb-94d7-af165354e00f.pdf",
+      "type": "LTDS",
+      "name": "Mysella S2 N 40 United States EN TDG V1.0 20-May-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563143.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 N 40 United States EN 140002686046 EHS V1.2 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5904_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550049626",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G5904_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010973",
+      "margin": "0.0432849683362449",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 N 40 is an oil blended for use in 4-stroke, spark-ignition engines which require a 'low ash' oil and use natural gas as fuel.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

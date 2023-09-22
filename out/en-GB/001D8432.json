@@ -1,0 +1,91 @@
+{
+  "id": "001D8432",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gadus S5 V460 2",
+  "description": "Advanced Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Greases",
+  "category": "Greases",
+  "applicationKeys": [
+    "advanced",
+    "automotive",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "high temperature",
+    "industrial",
+    "leaky gear boxes",
+    "lithium",
+    "lithium complex",
+    "long life",
+    "multipurpose",
+    "paper",
+    "paper mill",
+    "plain bearings",
+    "roller bearings",
+    "severe conditions",
+    "shock load",
+    "truck wheel hibs",
+    "trucks",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/696f8ff7-a43f-40eb-b49c-c536f27c8be6.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V460 2 EN TDG V2.3 27-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578592.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V460 2 United Kingdom EN 140002340634 EHS V3.4 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/f0912408-1137-4d47-8b88-72cada9fcad5.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V460 2 United Kingdom EN TDG V2.3 27-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8432_002XEC_A1P5",
+      "name": "Pail 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550028211",
+      "margin": "8.36734739078416",
+      "packShot": ""
+    },
+    {
+      "code": "001D8432_002VT7_EURO",
+      "name": "Cartridge 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550062126",
+      "margin": "14.7605271844873",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V460 2 is a multipurpose extreme pressure lithium complex grease for a wide range of bearing lubrication applications. It is based on high viscosity synthetic base oil, PAO, and a lithium complex soap thickener with the latest in additive technology. It has excellent thermal stability and operates very well across both high and low temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

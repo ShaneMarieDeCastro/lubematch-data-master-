@@ -1,0 +1,72 @@
+{
+  "id": "001D8506",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gadus S2 OGH 0/00",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": "Greases",
+  "category": "Greases",
+  "applicationKeys": [
+    "clay",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "kiln gears",
+    "open gears",
+    "rotary cement kiln",
+    "rotary cement kiln gears",
+    "smectite",
+    "solid lubricant",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0/00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c583389f-234b-4edc-8d66-d6e5dceb201f.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGH 0/00 EN TDG V1.2 04-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/e7e368e5-ad47-49da-8074-7bb425909477.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OGH 0/00 United Kingdom EN TDG V1.2 08-Apr-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02456146.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 United Kingdom EN 140002340634 EHS V2.3 26-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8506_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550028076",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 OGH greases are based upon an inorganic non-soap thickener dispersed in a high viscosity base oil containing graphite.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

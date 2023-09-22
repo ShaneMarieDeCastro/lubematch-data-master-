@@ -1,0 +1,172 @@
+{
+  "id": "001D8536",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S2 A320 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie met 'EP additieven",
+  "applicationKeys": [
+    "arduous conditions",
+    "bearing",
+    "calcium based",
+    "cranes",
+    "davits",
+    "ep",
+    "extreme pressure",
+    "general open gear",
+    "general wire rope",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "open gears",
+    "plain bearings",
+    "rollers",
+    "severe conditions",
+    "stern tube bearings",
+    "water",
+    "water tolerant",
+    "winches",
+    "windlass",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f4a02365-ce7f-47f9-a9b0-cccf951fb375.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 A320 2 EN TDG V3.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482073.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 A320 2 Netherlands NL 140002783873 EHS V2.12 23-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/55c9cae5-08ad-4c02-812f-4e8e0bed6e96.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 A320 2 Netherlands NL TDG V3.2 26-Oct-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482072.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 A320 2 Netherlands EN 140002783873 EHS V2.12 23-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8536_002XD7_A246",
+      "name": "Emmer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028061",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8536_002VH7_A246",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028050",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8536_002VGF_EURO",
+      "name": "Cartridge 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550053539",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 A320 zijn calcium vetten voor industriële en marine toepassingen en kunnen ingezet worden bij matige temperaturen waar 'EP' (Extreme pressure) eigenschappen vereist zijn.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Calcium"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral Oil"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "16.5"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "85"
+    },
+    {
+      "property": "Pumpability, Long Distances",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "001D8385",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gas Compressor Oil S4 PN 220",
+  "description": "Advanced Synthetic Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Sprężarki i pompy próżniowe",
+  "category": "Sprężarki i pompy próżniowe",
+  "applicationKeys": [
+    "bio gas",
+    "carbon dioxide",
+    "engine",
+    "gas reinjection",
+    "helium",
+    "high pressure",
+    "hydrocarbon process gas",
+    "hydrogen",
+    "industrial",
+    "natural gas",
+    "nitrogen",
+    "reciprocating",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S4_PN_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S4 PN 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574575.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 PN 220 Poland EN 140003791557 EHS V2.1 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574574.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 PN 220 Poland PL 140003791557 EHS V2.1 15-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/3cde3e49-45bf-4ff8-8fc4-3d22621d1e4f.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S4 PN 220 Poland PL TDG V2.2 02-Jun-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8385_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550029890",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 PN został specjalnie opracowany do smarowania cylindrów sprężarek tłokowych pompujących gaz ziemny pod wysokim ciśnieniem. Jest on oparty na syntetycznych, poliglikolowych olejach bazowych i zapewnia znaczące korzyści w stosunku do produktów na bazie oleju mineralnego, szczególnie w zastosowaniach w sprężarkach z ponownym wtryskiem gazu.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

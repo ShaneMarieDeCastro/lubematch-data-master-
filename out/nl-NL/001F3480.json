@@ -1,0 +1,80 @@
+{
+  "id": "001F3480",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Diala S4 ZX-IG",
+  "description": "Premium inhibited gas absorbing electrical insulating oil",
+  "family": "Diala",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Elektrische oliën",
+  "applicationKeys": [
+    "gas absorbing",
+    "inhibited",
+    "insulating"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/57731b6c-edec-4785-9ade-5d7ee76077fc.pdf",
+      "type": "GTDS",
+      "name": "Diala S4 ZX-IG EN TDG V3.9 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614383.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG Netherlands NL 140002783873 EHS V1.6 11-JUL-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614382.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG Netherlands EN 140002783873 EHS V1.6 11-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/d4dbbeb4-cb41-4d11-b62c-d73aca32887e.pdf",
+      "type": "LTDS",
+      "name": "Diala S4 ZX-IG Netherlands NL TDG V3.9 19-Jul-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3480_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550042452",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    },
+    {
+      "name": "ASTM D3487 Type II",
+      "organisation": "ASTM",
+      "spec": "D3487 Type II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S4 ZX-IG voldoet aan zowel de oude en de nieuwe testen voor kopercorrosie.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,152 @@
+{
+  "id": "001D8547",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Gadus S5 T460 1.5",
+  "description": "Advanced Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Synthetics based EP Greases",
+  "applicationKeys": [
+    "advanced",
+    "bearing",
+    "cement",
+    "chemical industry",
+    "ep",
+    "extreme pressure",
+    "extreme temperatures",
+    "heavy duty",
+    "high load",
+    "high temperature",
+    "industrial",
+    "mining",
+    "multipurpose",
+    "paper",
+    "plain bearings",
+    "polyurea",
+    "roller bearings",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "sealed bearings",
+    "semi sealed bearings",
+    "shock load",
+    "slow",
+    "slow moving",
+    "steel",
+    "water resistance",
+    "wind power"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3bb685cd-31b5-4fd8-9421-30a7a51bbbc0.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 T460 1.5 EN TDG V1.3 03-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535205.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 T460 1.5 Malaysia EN 140001435555 EHS V2.5 03-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535203.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 T460 1.5 Malaysia MS 140001435555 EHS V2.5 03-MAR-2023",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8547_002VH7_A227",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550030007",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 T460 Grease is especially suitable for sealed & semi-sealed applications involving slow moving, heavy-duty bearings operating at high temperature and under severe load.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1.5"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Diurea"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fully synthetic"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Cone penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pumpability Long Distance",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Good"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_t460.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DhnVQAS&field=Attachment__Name__s",
+      "family": "Gadus",
+      "savings": 153000,
+      "title": "Shell Gadus S5 T460 1.5"
+    }
+  ],
+  "commerce": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "001I5569",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Stern Tube Lubricant Concentrate",
+  "description": "Special Purpose Hydraulic Fluid - Concentrate",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cc8cca7d-7970-4fb1-953c-51b954b61236.pdf",
+      "type": "GTDS",
+      "name": "Shell Stern Tube Lubricant Concentrate EN TDG V1.2 21-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563913.PDF",
+      "type": "LMSDS",
+      "name": "Shell Stern Tube Lubricant Concentrate United States EN 140002686046 EHS V2.0 16-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5569_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057426",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

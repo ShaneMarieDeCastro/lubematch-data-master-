@@ -1,0 +1,72 @@
+{
+  "id": "001H3027",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Helix Ultra Professional AR-L RN17 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/41f4e36e-986a-4aa3-9ead-20a8b5282e9d.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) EN TDG V1.4 19-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561889.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Ireland EN 140007731156 EHS V1.4 27-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3027_002XN7_EURO",
+      "name": "Bottle 20 L Local EcoPack PET Bottle 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "EcoPack",
+      "materialCode": "550053648",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Renault RN 17",
+      "organisation": "Renault",
+      "spec": "RN 17"
+    },
+    {
+      "name": "MB-Approval 226.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.52"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of Renault high-performance passenger car engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AR-L_RN17_5L_600050501.png",
+  "valueRecord": [],
+  "commerce": null
+}

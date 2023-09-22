@@ -1,0 +1,179 @@
+{
+  "id": "001D7740",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Hydraulic S1 M 46",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "fixed",
+    "gearbox",
+    "gerotor pump",
+    "heavy duty",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "mobile",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "screw pump",
+    "servo",
+    "variable"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2d2119a3-3263-4e6f-87db-8ca16921f7c0.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 M 46 EN TDG V3.6 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319450.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 46 Turkey EN 140003791542 EHS V1.7 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319451.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 46 Turkey TR 140003791542 EHS V1.7 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/1ee59e08-38fd-4495-91a7-6d9f3dd47152.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 M 46 Turkey TR TDG V3.6 29-Aug-2019",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7740_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027153",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7740_002YAI_A0S5",
+      "name": "Kapaksız Teneke 15 L Local Tinplate Multi-coloured (1)",
+      "size": "15",
+      "uom": "L",
+      "pack": "Kapaksız Teneke",
+      "materialCode": "550061637",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7740_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550027128",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 M hidrolik yağları, normal çalışma koşulları altında kullanılan endüstriyel uygulamalarda önerilen yağ değişim aralığı boyunca güvenilir koruma sağlar.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "46"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "46"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "6.7"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "97"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.873"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-15"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

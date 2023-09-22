@@ -1,0 +1,55 @@
+{
+  "id": "001C3303",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "AeroShell Smoke Oil",
+  "description": "Smoke oil for use in aerobatic aircraft.",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3efce1b3-452b-4f01-a33a-8b4d990e4f4c.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Smoke Oil EN TDG V1.5 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558858.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Smoke Oil Ireland EN 140009711290 EHS V2.1 21-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C3303_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550041152",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "AeroShell Smoke Oil is a hydocarbon fluid based on Shell Gas-to-Liquid Technology. It is fully saturated with a high degree of iso paraffinic structures. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

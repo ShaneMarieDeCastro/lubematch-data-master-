@@ -1,0 +1,81 @@
+{
+  "id": "001I5487",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gas Compressor S4 PGS V 150",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Gas Compressor",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d19c781b-c6c0-4084-b03a-f93754528200.pdf",
+      "type": "GTDS",
+      "name": "Shell Gas Compressor S4 PGS V 150 EN TDG V1.2 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/33fd281c-f526-4385-b4e9-9c03c6dcf5f8.pdf",
+      "type": "LTDS",
+      "name": "Shell Gas Compressor S4 PGS V 150 United States EN TDG V1.2 21-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564193.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gas Compressor S4 PGS V 150 United States EN 140002686046 EHS V2.0 21-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5487_002XD6_NAMD",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057329",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5487_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550058659",
+      "margin": "4.18924123434957",
+      "packShot": ""
+    },
+    {
+      "code": "001I5487_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550058710",
+      "margin": "1.7894076753274",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor S4 PGS V 150 is a synthetic compressor lubricant designed with minimum hydrocarbon solubility for natural gas compression. Shell Gas Compressor S4 PGS V 150 fluids are blended from premium quality base stocks coupled with an additive technology resulting in improvements in performance beyond other compressor fluids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,99 @@
+{
+  "id": "001D1795",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Rimula R5 LM 10W-40",
+  "description": "Low Emissions Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "bio gas",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "multi fuel",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fcbfe1f4-53a0-4514-9b31-6249ad939a34.pdf",
+      "type": "GTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) EN TDG V1.5 28-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561433.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Ireland EN 140007731156 EHS V1.7 26-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D1795_002VSH_A18H",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550016823",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D1795_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550029381",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D1795_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500004345",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R5 LM oils feature \"Low-SAPS\" additive technology. Protective power enhances oil performance to deliver responsive protection, resulting in maintenance saving and long oil drain capability",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R5-LM-10_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

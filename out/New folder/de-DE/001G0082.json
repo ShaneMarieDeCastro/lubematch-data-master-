@@ -1,0 +1,61 @@
+{
+  "id": "001G0082",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "General Purpose Grease ENW 1",
+  "description": "Black General Purpose Grease NLGI 1",
+  "family": "Generic Branded Product",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bb1404a9-c26b-4ca4-bf30-7c02cc5c1669.pdf",
+      "type": "GTDS",
+      "name": "General Purpose Grease ENW 1 EN TDG V1.2 29-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614210.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease ENW 1 Germany EN 140001492039 EHS V2.4 10-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614209.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease ENW 1 Germany DE 140001492039 EHS V2.4 10-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0082_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550045242",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "General purpose grease based on a mineral oil and a lithium thickener.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

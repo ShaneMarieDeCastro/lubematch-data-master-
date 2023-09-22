@@ -1,0 +1,158 @@
+{
+  "id": "001E9242",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Diesel 5W-40",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/abfe3f0f-a23a-4ff3-a80b-2adf311b19f3.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Diesel 5W-40 (CF A3/B4 + OEMs) EN TDG V1.5 26-Jul-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/a5b33cdb-18a0-4466-a12f-329bf2fc9aac.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Diesel 5W-40 (CF A3/B4 + OEMs) Poland PL TDG V1.5 27-Jul-2018",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02434191.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Diesel 5W-40 (A3/B4 + OEMs) Poland PL 140003791557 EHS V1.5 31-AUG-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02434169.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Diesel 5W-40 (A3/B4 + OEMs) Poland EN 140003791557 EHS V1.5 31-AUG-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9242_002W2L_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046645",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9242_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046644",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "MB-Approval 226.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.5"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Fiat 9.55535-Z2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-Z2 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra Diesel zawiera zaawansowany technologicznie pakiet dodatków oczyszczających silnik z osadów zapewniając wysokowydajnym, niskoobciążonym silnikom Diesla pracę  z maksymalną wydajnością poprzez ochronę przed osadami, które powodują szybsze zużycie silnika i straty energii.  ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_Ultra_DIESEL_5W_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

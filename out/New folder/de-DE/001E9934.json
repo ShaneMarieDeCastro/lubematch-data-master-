@@ -1,0 +1,151 @@
+{
+  "id": "001E9934",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Naturelle S4 Gear Fluid 100",
+  "description": "Special Purpose Biodegradable Synthetic Industrial Gear and Bearing Oil",
+  "family": "Naturelle",
+  "parentCategory": "Industriegetriebeöle",
+  "category": "Industriegetriebeöle",
+  "applicationKeys": [
+    "axle",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "marine",
+    "mobile",
+    "off highway",
+    "reduction gears",
+    "stern tube seal",
+    "transmissions"
+  ],
+  "position": "Top",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/56316667-b837-41e7-8a42-eeb1343063a7.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Gear Fluid 100 EN TDG V1.4 14-Nov-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/de/c30c52f3-2c1c-4721-a05f-04b3aa88a752.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Gear Fluid 100 Germany DE TDG V1.3 15-Oct-2018",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561143.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 100 Germany DE 140001492039 EHS V1.5 25-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561144.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 100 Germany EN 140001492039 EHS V1.5 25-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 3448",
+      "organisation": "ISO",
+      "spec": "3448"
+    },
+    {
+      "name": "USA EPA VGP",
+      "organisation": "USA EPA",
+      "spec": "VGP"
+    },
+    {
+      "name": "ISO 14635-1",
+      "organisation": "ISO",
+      "spec": "14635-1"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Gear Fluid ist eine hoch entwickelte synthetische Flüssigkeit für Anwendungen in Getrieben mit Strahlruder und Antrieben. Shell Naturelle S4 Gear Fluid ist hergestellt aus vollständig gesättigten Estern, wurde formuliert für eine überlegene Tragfähigkeit, wobei es biologisch leicht abbaubar ist, mit nur geringer Ökotoxizität. Shell Naturelle S4 Gear Fluid ist ein „Environmentally Acceptable Lubricant (EAL)\", entsprechend der Definition der „US EPA 2013 Vessel General Permit\".",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO-Viskositätsklasse ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "140"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "280"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–24"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "kg/m³",
+      "value": "919"
+    },
+    {
+      "property": "Demulgiervermögen",
+      "method": "ISO 6614",
+      "uom": "",
+      "units": "",
+      "value": "<30 min"
+    },
+    {
+      "property": "FZG-Test ",
+      "method": "Schadenskraftst. A20/8,3/90 (ISO 14635-1)",
+      "uom": "",
+      "units": "",
+      "value": ">13"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

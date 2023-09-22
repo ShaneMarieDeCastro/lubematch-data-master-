@@ -1,0 +1,85 @@
+{
+  "id": "001D8399",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Refrigeration Oil S4 FR-V 46",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Altri lubrificanti industriali",
+  "category": "Oli per frigoriferi",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "industrial",
+    "long life",
+    "open compressor",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor",
+    "turbine",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/03da63b4-6645-4846-83fb-10554d7500fd.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 EN TDG V2.4 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575366.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Italy IT 140007645406 EHS V1.10 15-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/d7037308-6fa4-421a-bbf9-747f0c933b47.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Italy IT TDG V2.4 31-Jan-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575367.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Italy EN 140007645406 EHS V1.10 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V è un lubrificante sintetico frigorifero a base di alchilbenzene. Offre una soluzione universale ai requisiti di lubrificazione della maggioranza del compressori refrigeranti ed è compatibile con tutti i fluidi comunemente usati ad esclusione dei fluidi HFC.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,120 @@
+{
+  "id": "001F9301",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S5 V460KP 1.5",
+  "description": "High performance Wind Power Main and Yaw bearing Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische EP-Schmierfette",
+  "applicationKeys": [
+    "high pressure",
+    "lithium",
+    "low temperature"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/57cc933a-119a-4152-9667-2c7af0a840ab.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V460KP 1.5 EN TDG V1.2 12-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597000.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V460KP 1.5 Germany EN 140001492039 EHS V1.4 15-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597001.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V460KP 1.5 Germany DE 140001492039 EHS V1.4 15-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9301_002VH1_A1P5",
+      "name": "Fass 170 kg O/H Grease R/Y (1)",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550056764",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V460KP wurde speziell als Schmierfett für Windkraftanlagen entwickelt, um auch unter anspruchvollsten Anforderungen und schwersten Betriebsbedingungen zuverlässigen Schutz der der Hauptlager in Windturbinen zu bieten. Shell Gadus S5 V460 kombiniert Koponentenschutz und lange Lebensdauert, unabhängig von Klima und Wetter.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI-Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "1.5"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Hellbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium-Calcium-Complex"
+    },
+    {
+      "property": "Grundöltyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Vollsynthetisch"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "ASTM D217",
+      "uom": "@25 °C",
+      "units": "0,1 mm",
+      "value": "295"
+    },
+    {
+      "property": "Tropfpunkt ",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Emcor-Rost Test",
+      "method": "IP 220",
+      "uom": "",
+      "units": "",
+      "value": "0/0"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

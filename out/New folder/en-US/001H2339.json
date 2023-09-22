@@ -1,0 +1,70 @@
+{
+  "id": "001H2339",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Helix HX7 SN PLUS 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/5bed7574-d387-4319-a234-b5705ce9ca54.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 SN PLUS 5W-30 (SN PLUS/GF-5) EN TDG V1.1 03-Jan-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562591.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 SN PLUS 5W-30 (SN PLUS/GF-5) United States EN 140002686046 EHS V1.1 19-FEB-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 SN PLUS helps to keep gasoline engines clean and running efficiently. It provides excellent sludge protection and helps to prevent engine wear. It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "001C3303",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Smoke Oil",
+  "description": "Smoke oil for use in aerobatic aircraft.",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3efce1b3-452b-4f01-a33a-8b4d990e4f4c.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Smoke Oil EN TDG V1.5 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562563.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Smoke Oil United States EN 140002686046 EHS V5.1 03-FEB-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/0ce470e8-9452-4b41-9033-b4846a8c8eb0.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Smoke Oil United States EN TDG V1.5 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C3303_002VJ2_A1WJ",
+      "name": "Drum 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022303",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "AeroShell Smoke Oil is a hydocarbon fluid based on Shell Gas-to-Liquid Technology. It is fully saturated with a high degree of iso paraffinic structures. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

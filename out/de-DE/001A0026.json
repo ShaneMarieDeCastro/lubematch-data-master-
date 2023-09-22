@@ -1,0 +1,111 @@
+{
+  "id": "001A0026",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Advance Ultra 2T",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Motorrad",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "motorbikes",
+    "motorcycles",
+    "off highway",
+    "two stroke"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a99f11a1-90bd-4746-901c-754e86a12707.pdf",
+      "type": "GTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) EN TDG V1.6 18-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549287.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Germany DE 140001492039 EHS V2.11 07-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/823f7f9e-eef7-4ad0-8840-58c5489b1c8d.pdf",
+      "type": "LTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Germany DE TDG V1.6 08-Apr-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549286.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Germany EN 140001492039 EHS V2.11 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0026_002WKZ_A0BV",
+      "name": "Flasche 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550030046",
+      "margin": "4.63348279925467",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    },
+    {
+      "name": "JASO FD",
+      "organisation": "JASO",
+      "spec": "FD"
+    },
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Es besteht aus einer Kombination aus Polyisobutylen und Shell Grundölen in Verbindung mit Additiven für eine unvergleichliche Leistung in allen 2-Takt-Motoren, auch unter extremen Bedingungen.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@ 100 °C",
+      "units": "mm²/s",
+      "value": "7,3"
+    },
+    {
+      "property": "Flammpunkt (PMCC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C mind.",
+      "value": "70"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C max.",
+      "value": "–48"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_2T_1L_600059316.png",
+  "valueRecord": [],
+  "commerce": null
+}

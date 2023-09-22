@@ -1,0 +1,50 @@
+{
+  "id": "001K1725",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "SL 3605",
+  "description": "Special Application Bearing & Circulating Oil",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4ecb0541-ac82-4d84-8ab3-253d4e3892dd.pdf",
+      "type": "GTDS",
+      "name": "SL 3605 EN TDG V1.0 04-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570403.PDF",
+      "type": "LMSDS",
+      "name": "SL 3605 Turkey EN 140003791542 EHS V1.0 02-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570404.PDF",
+      "type": "LMSDS",
+      "name": "SL 3605 Turkey TR 140003791542 EHS V1.0 02-MAY-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

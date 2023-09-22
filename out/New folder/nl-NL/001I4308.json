@@ -1,0 +1,93 @@
+{
+  "id": "001I4308",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R7 AD 5W-30",
+  "description": "MB GPO Truck Motor Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/66d601ee-d3cc-471e-ac8d-1eba26dec612.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) EN TDG V1.4 21-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/bd29ec35-67f5-43fc-8495-ead97796be58.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Netherlands NL TDG V1.4 23-Dec-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482212.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Netherlands EN 140002783873 EHS V2.0 20-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482213.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Netherlands NL 140002783873 EHS V2.0 20-OCT-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I4308_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550062541",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 228.61",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.61"
+    },
+    {
+      "name": "Cummins CES 20087",
+      "organisation": "Cummins",
+      "spec": "CES 20087"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API FA-4",
+      "organisation": "API",
+      "spec": "FA-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K223",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K223"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R7 AD wordt gekenmerkt door \"Low-SAPS\", hoog perfomante efficiënte additieventechnologie en is ontworpen om een verbeterde brandstofbesparing en emissievoordelen te bereiken. De beschermende werking wordt versterkt door toepassing van synthetische basisolie-technologie, die de wrijving van de motor aanzienlijk verminderen en zo langere onderhoudsintervallen mogelijk maken. Geschikt voor de meest recente motortechnologie.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "001D7778",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Corena S2 P 68",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "breathing air compressor",
+    "high pressure",
+    "hydraulic system",
+    "industrial",
+    "piston",
+    "pump gear",
+    "pump piston",
+    "reciprocating",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2346aea9-f05a-413d-8283-592dde0dfc98.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 68 EN TDG V2.5 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571848.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Ireland EN 140007731156 EHS V2.8 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7778_002VNA_A246",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550026293",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    },
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P is high quality air compressor oil designed to deliver the lubrication performance for high pressure reciprocating compressors.  It is suitable for most reciprocating air compressors running at up to 220°C discharge temperatures at elevated pressures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

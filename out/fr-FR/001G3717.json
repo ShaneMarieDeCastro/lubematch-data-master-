@@ -1,0 +1,61 @@
+{
+  "id": "001G3717",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "AeroShell Turbine Oil 2",
+  "description": "Mineral Turbine oil for jet engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Huiles moteur - Aviation/Turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2bb29dbd-f5ff-465a-8f2b-fda3857b2531.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 2 (EU) EN TDG V1.3 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02632734.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 2 (EU) France FR 140003182031 EHS V3.1 17-AUG-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02632733.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 2 (EU) France EN 140003182031 EHS V3.1 17-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G3717_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550047870",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 2 is a 2 mm²/s mineral turbine oil blended from mineral base stocks to which a pour-point depressant and an anti-oxidant have been added.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

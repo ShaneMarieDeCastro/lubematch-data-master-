@@ -1,0 +1,90 @@
+{
+  "id": "001F2646",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Morlina S4 B 320",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "long life",
+    "low temperature",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0c01d417-3b25-4c59-b344-5760f0afa648.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 320 (2014) EN TDG V4.8 11-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/c0186780-3420-4809-b870-d74487acfb7d.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 320 (2014) France FR TDG V4.8 23-Aug-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488502.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 320 (2014) France EN 140003182031 EHS V1.6 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488503.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 320 (2014) France FR 140003182031 EHS V1.6 21-SEP-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles Shell Morlina S4 B sont des huiles synthétiques de hautes performances pour des roulements et des systèmes de circulation. Elles offrent des performances de lubrification exceptionnelles, une efficacité énergétique accrue, une meilleure filtrabilité et une longue durée de vie, même dans des conditions difficiles d'exploitation.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

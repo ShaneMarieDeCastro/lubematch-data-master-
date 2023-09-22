@@ -1,0 +1,320 @@
+{
+  "id": "001D8290",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Spirax S6 AXME 75W-90",
+  "description": "Superior performance, synthetic, fuel efficient GL-5 axle oil for many premium applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "alcohol",
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "buses",
+    "continuously variable",
+    "diesel",
+    "differential",
+    "energy efficiency",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "front axle",
+    "fuel efficiency",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy duty",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "intermediate axle",
+    "low temperature",
+    "maintenance saving",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "power split",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "semi automatic",
+    "semi manual",
+    "slew",
+    "stationary",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/731cc5a8-4581-41b3-af07-205fa6f61607.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 AXME 75W-90 EN TDG V7.9 30-May-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580314.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 75W-90 Singapore EN 140001435547 EHS V1.8 23-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8290_002VNF_A227",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025063",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8290_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025064",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8290_002VNF_A1P5",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027906",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8290_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027907",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "ZF TE-ML 12L",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L"
+    },
+    {
+      "name": "ZF TE-ML 16F",
+      "organisation": "ZF",
+      "spec": "TE-ML 16F"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "MAN 342 Type S1",
+      "organisation": "MAN",
+      "spec": "342 Type S1"
+    },
+    {
+      "name": "ZF TE-ML 12N",
+      "organisation": "ZF",
+      "spec": "TE-ML 12N"
+    },
+    {
+      "name": "ZF TE-ML 12L - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L - Suitable for use in applications which require"
+    },
+    {
+      "name": "Volvo 97312",
+      "organisation": "Volvo",
+      "spec": "97312"
+    },
+    {
+      "name": "Scania STO 2:0 A FS",
+      "organisation": "Scania",
+      "spec": "STO 2:0 A FS"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ArvinMeritor Specification O76-N",
+      "organisation": "ArvinMeritor",
+      "spec": "Specification O76-N"
+    },
+    {
+      "name": "ZF TE-ML 17B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 19C",
+      "organisation": "ZF",
+      "spec": "TE-ML 19C"
+    },
+    {
+      "name": "MIL-PRF-2105E",
+      "organisation": "MIL",
+      "spec": "PRF-2105E"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "Scania STO 2:0G",
+      "organisation": "Scania",
+      "spec": "STO 2:0G"
+    },
+    {
+      "name": "ZF TE-ML 21B",
+      "organisation": "ZF",
+      "spec": "TE-ML 21B"
+    },
+    {
+      "name": "ZF TE-ML 17B",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "Iveco 18-1805",
+      "organisation": "Iveco",
+      "spec": "18-1805"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "MAN 341 Type GA-2",
+      "organisation": "MAN",
+      "spec": "341 Type GA-2"
+    },
+    {
+      "name": "ZF TE-ML 05B",
+      "organisation": "ZF",
+      "spec": "TE-ML 05B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 AXME 75W-90 is a unique fuel-efficient, long life transmission and axle oil, designed to provide ultimate protection to the latest heavy duty manual transmissions and axles. Specially formulated with synthetic base oils and additive technology unique for Shell, gives improved lubrication of the drive train, lowers the operating temperature and helps promote longer life for the equipment. Shell Spirax S6 AXME 75W-90 is also extended oil drain capable and is approved by several OEMs for their extended drain specifications.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "75W-90"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "115"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15.2"
+    },
+    {
+      "property": "Dynamic Viscosity",
+      "method": "ISO 9262",
+      "uom": "@-40°C",
+      "units": "mPa s",
+      "value": "135 000"
+    },
+    {
+      "property": "Shear Stability (Viscosity after shearing)",
+      "method": "CEC L-45_A-99 ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "138"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "878"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

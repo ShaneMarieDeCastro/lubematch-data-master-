@@ -1,0 +1,61 @@
+{
+  "id": "001F8472",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Morlina S2 BL 22",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Bearing and Circulating oils",
+  "category": "Bearing and Circulating oils",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28e18feb-8dae-4f84-9ca3-7de5dc6e4fd4.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 22 (2016) EN TDG V1.2 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02615752.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) United Kingdom EN 140002340634 EHS V2.4 11-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8472_002VSH_A18H",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550055980",
+      "margin": "1.65732062490363",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 22 is a special low viscosity mineral oil blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

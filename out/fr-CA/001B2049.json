@@ -1,0 +1,76 @@
+{
+  "id": "001B2049",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Motorcycle 20W-50 SL",
+  "description": "4 stroke motorcycle oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Huiles moteur - Motocyclette",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/5e3502b2-df99-4295-a605-b54c38a2db87.pdf",
+      "type": "GTDS",
+      "name": "Pzl Motorcycle 20W-50 (SH SG JASO MA) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290260.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Motorcycle 20W-50 (SH SG JASO MA) Canada FR 140006579500 EHS V2.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290267.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Motorcycle 20W-50 (SH SG JASO MA) Canada EN 140006579500 EHS V2.6 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SF",
+      "organisation": "API",
+      "spec": "SF"
+    },
+    {
+      "name": "API SG",
+      "organisation": "API",
+      "spec": "SG"
+    },
+    {
+      "name": "JASO MA",
+      "organisation": "JASO",
+      "spec": "MA"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SH",
+      "organisation": "API",
+      "spec": "SH"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "PENNZOIL^®^ MOTORCYCLE MOTOR OIL is available in SAE grades 10W-40 and 20W-50 to cover the viscosity requirements for most manufacturers and climates.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

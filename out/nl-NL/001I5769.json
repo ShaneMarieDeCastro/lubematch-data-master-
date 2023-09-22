@@ -1,0 +1,88 @@
+{
+  "id": "001I5769",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix HYBRID 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ed189fb5-d327-4834-a317-f72f90d7196a.pdf",
+      "type": "GTDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) EN TDG V1.1 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/83bea558-495e-4d23-8a02-9d7c5b99b4bf.pdf",
+      "type": "LTDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Netherlands NL TDG V1.1 30-Aug-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605413.PDF",
+      "type": "LMSDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Netherlands NL 140002783873 EHS V1.3 29-JUN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605414.PDF",
+      "type": "LMSDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Netherlands EN 140002783873 EHS V1.3 29-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5769_002XI2_A246",
+      "name": "Fles 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550056726",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5769_002YAN_EURO",
+      "name": "Fles 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550056722",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HYBRID is speciaal ontworpen voor moderne brandstofbesparende benzinemotoren die gebruikt worden in hybride elektrische voertuigen. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,189 @@
+{
+  "id": "001D8298",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S3 ATF MD3",
+  "description": "High Performance Automatic Transmission Fluid in Many Applications",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Płyny do przekładni automatycznych",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "axle",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "buses",
+    "cars",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "fixed",
+    "four stroke",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "heavy duty atf",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "low temperature",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "passenger car",
+    "plain",
+    "power split",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "screw pump",
+    "semi automatic",
+    "semi manual",
+    "servo",
+    "slew",
+    "stationary",
+    "swing drive",
+    "tandem drive",
+    "transmissions",
+    "trucks",
+    "urban",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S3_ATF_MD3_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 ATF MD3 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/1d92607c-7416-49a1-8b0e-f241d8d0e331.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 ATF MD3 Poland PL TDG V1.1 20-Jan-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554510.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ATF MD3 Poland EN 140003791557 EHS V1.3 17-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554508.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ATF MD3 Poland PL 140003791557 EHS V1.3 17-APR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8298_002W2K_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Black (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550047193",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8298_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027951",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors Dexron III - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron III - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford Mercon - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 ATF MD3 to najwyższej jakości olej do automatycznych skrzyń biegów zawierający wysokiej lepkości oleje mineralne i starannie dobrane dodatki. Spełnia rygorytyczne wymagania wiodących producentów przekładni samochodowych.\n",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "33.8"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.3"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "175"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "864"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-48"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

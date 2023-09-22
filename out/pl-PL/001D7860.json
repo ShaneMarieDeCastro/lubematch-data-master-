@@ -1,0 +1,82 @@
+{
+  "id": "001D7860",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Omala S4 WE 680",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oleje do przekładni przemysłowych",
+  "category": "Oleje do przekładni przemysłowych",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "journal",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "off highway",
+    "pag",
+    "reduction gears",
+    "splash lubricated bearings",
+    "transmissions",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/adf1d5e9-77c9-46c6-9551-9a3cd3867a17.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 680 EN TDG V4.3 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/143e3b6d-e856-43ea-96af-0be3662c2cc3.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 680 Poland PL TDG V4.3 22-Jul-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542745.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 680 Poland EN 140003791557 EHS V1.8 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542744.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 680 Poland PL 140003791557 EHS V2.8 22-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE to zaawansowany, syntetyczny przemysłowy olej przekładniowy do zastosowania w wysokoobciążonych przekładniach ślimakowych. Formulacja oparta na bazie polialkiloglikolowej (PAG) oraz doskonałym pakiecie dodatków uszlachetniających zapewnia doskonałe właściwości eksploatacyjne w trudnych warunkach pracy zapewniając oszczędność energii, redukcja tarcia, wydłużone interwały wymiany oraz wysoką odporność na micro-pitting. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,87 @@
+{
+  "id": "001D7778",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Corena S2 P 68",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Sprężarki i pompy próżniowe",
+  "category": "Sprężarki i pompy próżniowe",
+  "applicationKeys": [
+    "air compressor",
+    "breathing air compressor",
+    "high pressure",
+    "hydraulic system",
+    "industrial",
+    "piston",
+    "pump gear",
+    "pump piston",
+    "reciprocating",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2346aea9-f05a-413d-8283-592dde0dfc98.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 68 EN TDG V2.5 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571445.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Poland PL 140003791557 EHS V3.7 04-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/e8b6b3d2-de9f-450e-9b5e-bdcd903e0d7e.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 P 68 Poland PL TDG V2.5 27-Sep-2019",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571446.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Poland EN 140003791557 EHS V2.7 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7778_002VNA_A246",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550026293",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    },
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P to wysokiej jakości olej do tłokowych sprężarek powietrza o doskonałych właściwości smarnych w warunkach wysokich ciśnień panujących w kompresorach tłokowych. Odpowiedni do zastosowania w większości sprężarek tłokowych przy temperaturach na wylocie sięgających 220°C i w podwyższonych ciśnieniach. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,169 @@
+{
+  "id": "001A0930",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Omala Oil F 320",
+  "description": "Very High Performance Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bearings",
+    "circulating and splash lubricated systems",
+    "circulation",
+    "circulation system",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "high performance",
+    "hydraulic system",
+    "industrial",
+    "industrial gears",
+    "journal",
+    "lead free",
+    "manual",
+    "micropitting",
+    "morgoil",
+    "non shiftable",
+    "off highway",
+    "outstanding thermal stability",
+    "oxidation stability",
+    "plain",
+    "pump gear",
+    "pump vane",
+    "reduction gears",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "slew",
+    "steel gear transmissions",
+    "swing drive",
+    "synchronised",
+    "transmissions",
+    "trunnion",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6c6684da-a1ab-4034-b1bf-06fc8f7474ed.pdf",
+      "type": "GTDS",
+      "name": "Omala F 320 EN TDG V3.3 09-Feb-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636918.PDF",
+      "type": "LMSDS",
+      "name": "Omala F 320 India EN 140006501563 EHS V2.1 11-APR-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Omala_Oil_F_320_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Omala F 320 India English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0930_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025096",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0930_002VSH_A15O",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550011108",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0930_002VNA_A246",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027196",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "25"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.903"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "IP 34",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "202"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,135 @@
+{
+  "id": "001E9386",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix HX7 Professional AV 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d6cbb3a5-3595-46d0-b5c1-e2141b371e8b.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) EN TDG V1.4 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603829.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Spain ES 140003966322 EHS V1.5 27-JUN-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603924.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Spain EN 140003966322 EHS V1.5 27-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/7f28703f-cc4b-43a7-92f2-f93c184030cc.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Spain ES TDG V1.4 25-Oct-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9386_002VSI_A246",
+      "name": "Barril 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Barril",
+      "materialCode": "550040406",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002WPC_EURO",
+      "name": "Botella 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550046292",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550040412",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550040404",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002W22_EURO",
+      "name": "Botella 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550046311",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 505.01",
+      "organisation": "VW",
+      "spec": "Standard 505.01"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Diseñado para cumplir los exigentes requerimientos de los motores de alto rendimiento, incluyendo Audi y VW, y aquellos con especificación ACEA C3.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_HX7_Pro_AV_5W_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

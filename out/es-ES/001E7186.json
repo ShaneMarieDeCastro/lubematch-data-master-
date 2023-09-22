@@ -1,0 +1,168 @@
+{
+  "id": "001E7186",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Mysella S5 S 40",
+  "description": "Long Life, Low Ash Stationary Gas Engine Oil for Sour Gas applications",
+  "family": "Mysella",
+  "parentCategory": "Aceites de motor industriales",
+  "category": "Aceites del motor - Motor estacionario de gas",
+  "applicationKeys": [
+    "bio gas",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "gas",
+    "heavy duty",
+    "heavy fuel",
+    "landfill",
+    "lng",
+    "lpg",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "sewage",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ef621a1b-cb4c-4630-a914-2f2d7041e07b.pdf",
+      "type": "GTDS",
+      "name": "Mysella S5 S 40 EN TDG V5.5 28-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/64438f64-8a5a-428a-9733-6ed42841e32d.pdf",
+      "type": "LTDS",
+      "name": "Mysella S5 S 40 Spain ES TDG V5.5 04-Jul-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621127.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S5 S 40 Spain ES 140003966322 EHS V1.10 20-JUL-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621128.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S5 S 40 Spain EN 140003966322 EHS V1.10 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7186_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550035900",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7186_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550035890",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3271-4",
+      "organisation": "MAN",
+      "spec": "M 3271-4"
+    },
+    {
+      "name": "MAN M 3271-2",
+      "organisation": "MAN",
+      "spec": "M 3271-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S5 S ha sido especialmente desarrollado para proporcionar intervalos extendidos de cambio de aceite en motores alimentados con biogas, gas de vertedero y gas de síntesis. Shell Mysella S5 S emplea una formulación optimizada que le permite resistir los efectos oxidantes y corrosivos de los ácidos halógenos y sulfúricos presentes habitualmente en estos gases. Gracias a su bajo contenido en cenizas, Shell Mysella S5 S minimiza la contribución del aceite lubricante a la formación de depósitos en la cámara de combustión.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "125"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.5"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "890"
+    },
+    {
+      "property": "Flash Point, Cleveland Open cup",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "268"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896",
+      "uom": "NULL",
+      "units": "mg KOH/g",
+      "value": "5.3"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ISO 3987",
+      "uom": "NULL",
+      "units": "%wt",
+      "value": "0.57"
+    },
+    {
+      "property": "Phosphorus",
+      "method": "ASTM D4047",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-mysella-argina-group-220x190.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000InKSQA0&field=Attachment__Name__s",
+      "family": "Mysella",
+      "savings": 10000,
+      "title": "Shell Mysella S5 S 40"
+    }
+  ],
+  "commerce": null
+}

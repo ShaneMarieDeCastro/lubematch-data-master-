@@ -1,0 +1,172 @@
+{
+  "id": "001D8245",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S3 T",
+  "description": "Premium Performance, SAE 15W-40, Universal Tractor Oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Agricole STOU (Super Tracteur Huile Universelle)",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "brakes",
+    "conventional gear drives",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic drives",
+    "manual",
+    "manual unsynchronised",
+    "mobile",
+    "off highway",
+    "oil immersed brakes",
+    "on highway",
+    "power steering",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "pump piston",
+    "pump vane",
+    "reduction gears",
+    "stou",
+    "super tractor oil universal",
+    "synchronised",
+    "tandem drive",
+    "tractor",
+    "tractor drivetrain",
+    "tractor hydraulics",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/958c1ed6-10ee-46af-bb6a-9affd118c5cb.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 T EN TDG V2.3 17-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/b9ff05f2-bab5-44b2-89c9-e699fc3b4f3f.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 T France FR TDG V2.3 24-Mar-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578676.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 T France EN 140003182031 EHS V3.7 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578675.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 T France FR 140003182031 EHS V3.7 23-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8245_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027986",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8245_002VNA_A246",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027987",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "API SF",
+      "organisation": "API",
+      "spec": "SF"
+    },
+    {
+      "name": "Caterpillar TO-2",
+      "organisation": "Caterpillar",
+      "spec": "TO-2"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "Massey Ferguson M-1145",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1145"
+    },
+    {
+      "name": "Massey Ferguson M-1139",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1139"
+    },
+    {
+      "name": "Massey Ferguson M-1144",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1144"
+    },
+    {
+      "name": "John Deere JDM J27",
+      "organisation": "John Deere",
+      "spec": "JDM J27"
+    },
+    {
+      "name": "ZF TE-ML 06B",
+      "organisation": "ZF",
+      "spec": "TE-ML 06B"
+    },
+    {
+      "name": "Caterpillar TO-2 - Suitable for use in applications which require",
+      "organisation": "Caterpillar",
+      "spec": "TO-2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 07B",
+      "organisation": "ZF",
+      "spec": "TE-ML 07B"
+    },
+    {
+      "name": "ZF TE-ML 06Q",
+      "organisation": "ZF",
+      "spec": "TE-ML 06Q"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 T 15W-40 est une huile universelle pour tracteur agricole (STOU (Super Tractor Oil Universal)) formulée pour être utilisée dans une grande variété  d'équipements agricoles.  \nLe mélange d'huiles de base à haut indice de viscosité  et l'ensemble d'additifs de technologie avancée de sa formulation apportent des performances fiables au grand nombre de matériels agricoles où elle peut être utilisée.     \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

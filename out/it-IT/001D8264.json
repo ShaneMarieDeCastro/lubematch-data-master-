@@ -1,0 +1,168 @@
+{
+  "id": "001D8264",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S3 G 80W",
+  "description": "High Performance Transmission and Gear Oil for MAN, ZF and other OEMs",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Trasmissione manuale e oli ingranaggi",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "semi automatic",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/27b9934e-5a55-43cf-9d44-7f2e239c7c0e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 G 80W EN TDG V3.5 19-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578868.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W Italy EN 140007645406 EHS V4.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578870.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W Italy IT 140007645406 EHS V4.2 23-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/0ec269cf-2eff-4176-8b64-bb0d0a2f7ce1.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 G 80W Italy IT TDG V3.5 05-May-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8264_002VNA_A246",
+      "name": "Secchio 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550027959",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8264_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550027937",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN 341 Type E2",
+      "organisation": "MAN",
+      "spec": "341 Type E2"
+    },
+    {
+      "name": "ZF TE-ML 02B",
+      "organisation": "ZF",
+      "spec": "TE-ML 02B"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MAN 341 Type Z2",
+      "organisation": "MAN",
+      "spec": "341 Type Z2"
+    },
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    },
+    {
+      "name": "MB-Approval 235.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S3 G 80W è un olio per cambi di lunga durata formulato per fornire nuovi vantaggi sulla base di migliorati livelli di prestazione per soddisfare le esigenze future dei cambi. Oli base minerali appositamente ottimizzati ed una nuova tecnologia di additivi migliorano la lubrificazione della trasmissione e potenzialmente estendono gli intervalli di cambio olio. Olio ad alte prestazioni per trasmissioni e cambi manuali per MAN ed altri costruttori. Non più adatto in applicazioni Mercedes Benz.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80W"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "78"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "9.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "99"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "885"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-33"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027959_Shell_Spirax_S3_G_80W_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

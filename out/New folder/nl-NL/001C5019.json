@@ -1,0 +1,123 @@
+{
+  "id": "001C5019",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R3 Multi 10W-30",
+  "description": "Triple Action - Multigrade Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "engine",
+    "final drive",
+    "heavy duty",
+    "high altitude",
+    "hydraulic system",
+    "mobile",
+    "off highway",
+    "on highway",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "stationary",
+    "steam",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c5c18c53-29b0-494a-ba20-204a4033965c.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 Multi 10W-30 (CH-4) EN TDG V1.3 05-Dec-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558991.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 Multi 10W-30 (CH-4) Netherlands EN 140002783873 EHS V1.7 23-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558992.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 Multi 10W-30 (CH-4) Netherlands NL 140002783873 EHS V1.7 23-APR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Cummins CES 20072",
+      "organisation": "Cummins",
+      "spec": "CES 20072"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "Cummins CES 20075",
+      "organisation": "Cummins",
+      "spec": "CES 20075"
+    },
+    {
+      "name": "Mack EO-M Plus",
+      "organisation": "Mack",
+      "spec": "EO-M Plus"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "Mack EO-M",
+      "organisation": "Mack",
+      "spec": "EO-M"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 Multi oils protect against the changing needs of your driving conditions. It provides triple action protection; low wear for long engine life, low deposit to maintain engine performance and resists breakdown by heat.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

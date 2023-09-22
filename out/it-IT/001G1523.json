@@ -1,0 +1,194 @@
+{
+  "id": "001G1523",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadinia S3 40",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Gadinia",
+  "parentCategory": "Oli motore industriali",
+  "category": "Oli motore - Pistone del motore - Trunk",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "light fuel",
+    "locomotive",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "plain",
+    "reduction gears",
+    "stationary",
+    "steam",
+    "stern tube seal",
+    "thrust",
+    "transmissions",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e0a29983-a2bb-4335-b19c-4ca9b177663a.pdf",
+      "type": "GTDS",
+      "name": "Shell Gadinia S3 40 EN TDG V1.9 17-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613940.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gadinia S3 40 Italy IT 140007645406 EHS V1.4 07-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/fb293ad2-ef0d-4df2-bbc2-a4d32df08d77.pdf",
+      "type": "LTDS",
+      "name": "Shell Gadinia S3 40 Italy IT TDG V1.9 17-May-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613939.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gadinia S3 40 Italy EN 140007645406 EHS V1.4 07-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1523_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550046715",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1523_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550046758",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MTU Category 1",
+      "organisation": "MTU",
+      "spec": "Category 1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La recente formulazione del Shell Gadinia S3 40 è anche stata ottimizzata per l'utilizzo in applicazioni diverse dai motori, come ingranaggi, frizioni e asse porta elica. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "128"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.7"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "890"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Base Number",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "12"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% m/m",
+      "value": "1.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "103"
+    },
+    {
+      "property": "Load Carrying Capacity (FZG Gear Machine)",
+      "method": "ISO 14635-1 A/8.3/90",
+      "uom": "",
+      "units": "Failure load stage",
+      "value": "12"
+    },
+    {
+      "property": "SAE grade (viscosity class)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "40"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000InKNQA0&field=Attachment__Name__s",
+      "family": "Gadinia",
+      "savings": 10000,
+      "title": "Shell Gadinia S3 40"
+    }
+  ],
+  "commerce": null
+}

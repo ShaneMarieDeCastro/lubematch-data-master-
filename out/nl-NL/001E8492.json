@@ -1,0 +1,61 @@
+{
+  "id": "001E8492",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "AeroShell Grease 58",
+  "description": "Synthetic grease for aircraft wheel bearings",
+  "family": "AeroShell",
+  "parentCategory": "Smeermiddelen voor de luchtvaart",
+  "category": "Smeervetten voor Luchtvaart",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7cf14a97-2786-41a1-8f61-4116dfbf7f1e.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 58 EN TDG V1.6 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544845.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 58 Netherlands EN 140002783873 EHS V3.4 27-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544846.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 58 Netherlands NL 140002783873 EHS V3.4 27-MAR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Airbus AIMS 09-06-003",
+      "organisation": "Airbus",
+      "spec": "AIMS 09-06-003"
+    },
+    {
+      "name": "AMS3058",
+      "organisation": "AMS",
+      "spec": "3058"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is -54°C to +175°C",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

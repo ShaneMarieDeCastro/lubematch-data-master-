@@ -1,0 +1,71 @@
+{
+  "id": "001D8387",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gas Compressor Oil S4 RN 68",
+  "description": "Advanced Synthetic Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "hydrocarbon gas",
+    "industrial",
+    "low pressure natural gas",
+    "natural gas",
+    "screw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S4_RN_68_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S4 RN 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/6686c557-35c9-4d6d-84ef-b0aaf90012fb.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S4 RN 68 Netherlands NL TDG V4.2 26-Nov-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574682.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 RN 68 Netherlands NL 140002783873 EHS V4.1 15-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574683.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 RN 68 Netherlands EN 140002783873 EHS V4.1 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8387_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027260",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 RN is speciaal ontwikkeld voor de smering van schroefcompressoren voor het comprimeren van aardgas en andere gassen onder lage druk. Het is samengesteld op basis van polyglycol basisoliën en biedt aanzienlijke voordelen ten opzichte van producten op basis van minerale olie.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

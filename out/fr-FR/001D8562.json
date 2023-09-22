@@ -1,0 +1,90 @@
+{
+  "id": "001D8562",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S5 V142W 00",
+  "description": "Special Advanced Performance Semifluid Gear Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base synthétiques",
+  "applicationKeys": [
+    "advanced",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "good load carrying",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "lubricated for life",
+    "semifluid",
+    "small industrial gear units",
+    "worm",
+    "worm drive",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/366ae1bd-c0ce-4505-a77c-0ad838a30d52.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V142W 00 EN TDG V1.4 02-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/c3b74748-1ee5-462c-a3ca-502e8450f110.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V142W 00 France FR TDG V1.4 23-Mar-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595094.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V142W 00 France EN 140003182031 EHS V1.6 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595093.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V142W 00 France FR 140003182031 EHS V1.6 14-JUN-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8562_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550028113",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8562_002XEC_A1P5",
+      "name": "Sceau 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550028101",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V142W est un lubrifiant synthétique semi-fluide, répondant aux exigences les plus élevées des engrenages industriels et développé pour un fonctionnement longue durée.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,156 @@
+{
+  "id": "001D8450",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S2 V220 1",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi EP a base di olio minerale",
+  "applicationKeys": [
+    "automotive",
+    "bearing",
+    "centralised lubrication",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "high performance",
+    "hinges",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "marine",
+    "multipurpose",
+    "plain bearings",
+    "roller bearings",
+    "roller cylindrical",
+    "shock load",
+    "sliding surfaces",
+    "trucks",
+    "versatile",
+    "water resistance",
+    "water washout",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2e9eecb9-d9b9-4321-ac84-cd92f8bcf30b.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220 1 EN TDG V1.4 07-Feb-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/4b480561-aa80-4bcb-95d8-e9215a6014e1.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220 1 Italy IT TDG V1.4 30-Mar-2018",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02439016.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 1 Italy IT 140007645406 EHS V3.2 23-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02439103.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 1 Italy EN 140007645406 EHS V3.2 23-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8450_002XD7_A246",
+      "name": "Secchio 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550028217",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8450_002VH7_A246",
+      "name": "Fusto 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fusto",
+      "materialCode": "550028215",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220 è sviluppato per la lubrificazione generale di cuscinetti a sfere e piani, di cerniere e superfici striscianti tipiche delle applicazioni industriali e del settore dei trasporti.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "310-340"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg minimum",
+      "value": "315"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s2_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,138 @@
+{
+  "id": "001G0251",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Helix HX8 ECT 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b3d823d3-7ef9-4ab7-a829-210f0869987e.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) EN TDG V3.2 31-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02512592.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) Italy IT 140007645406 EHS V1.2 28-DEC-2022",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/aae38cac-d558-41e8-920c-934c9674434a.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) Italy IT TDG V3.1 25-Nov-2021",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02512590.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) Italy EN 140007645406 EHS V1.2 28-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0251_002X0G_EURO",
+      "name": "Bottiglia 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550046689",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0251_002XI2_A246",
+      "name": "Bottiglia 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550048158",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "Fiat 9.55535-S2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S2 - Meets the requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 ECT utilizza l'avanzata tecnologia compatibile con i sistemi di trattamento delle emissioni che aiuta a mantenere puliti i filtri antiparticolato diesel, preservando le prestazioni del motore. Aiuta a ridurre gli attriti del motore per fornire un risparmio di carburante superiore.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046689_Shell_Helix_HX8_ECT_5W-40_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "001D7845",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Omala S3 GP 220",
+  "description": "Special Application Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Aceites de engranajes industriales",
+  "category": "Aceites de engranajes industriales",
+  "applicationKeys": [
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "gearbox",
+    "gears",
+    "heavily shock loaded operations",
+    "high load",
+    "industrial",
+    "older gear systems",
+    "shock load",
+    "splash lubricated bearings",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1584bb23-6697-49ef-8b34-219d21898aa9.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 GP 220 EN TDG V2.3 14-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450841.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 220 Spain ES 140003966322 EHS V1.1 20-SEP-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450843.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 220 Spain EN 140003966322 EHS V1.1 20-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "Textron Power Transmission S1.53.101E",
+      "organisation": "Textron Power Transmission",
+      "spec": "S1.53.101E"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 GP oils are specialist ‘problem solving’ lubricants developed to lubricate industrial gearboxes subject to extremely high and heavily shock loaded operations such as those found in steel, cement, mining and quarrying industries. They are formulated for use where ultra-high levels of extreme-pressure performance are required.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

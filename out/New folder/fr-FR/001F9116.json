@@ -1,0 +1,79 @@
+{
+  "id": "001F9116",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S5 V110KP 1",
+  "description": "Special Purpose Fully Synthetic Blade Bearings Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Graisses non EP à base synthétiques",
+  "applicationKeys": [
+    "high pressure",
+    "lithium",
+    "low temperature"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b27c8762-8dda-49c6-bcd4-53385e91bd62.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V110KP 1 EN TDG V1.8 16-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02522517.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V110KP 1 France EN 140003182031 EHS V2.4 09-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02522518.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V110KP 1 France FR 140003182031 EHS V2.4 09-FEB-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/2d0504ed-cf08-43f6-b406-48405fe32fe7.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V110KP 1 France FR TDG V1.8 15-Jul-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9116_002XEC_A1P5",
+      "name": "Sceau 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550045826",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9116_002VH1_A1P5",
+      "name": "Baril 170 kg O/H Grease R/Y (1)",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550045827",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V110KP 1 est une graisse d’éolienne entièrement synthétique conçue pour la lubrification des roulements de pales éoliennes et spécifiquement adaptée à des grands diamètres de la lame avec un niveau élevé de tangage actif, hauteur de tour élevée et exposé à des conditions météorologiques extrêmes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "001A0797",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Mysella MA 40",
+  "description": "High Performance Medium-ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Oleje silnikowe przemysłowe",
+  "category": "Oleje silnikowe - stacjonarne silniki gazowe",
+  "applicationKeys": [
+    "bio gas",
+    "diesel",
+    "engine",
+    "gas",
+    "heat transfer",
+    "heavy duty",
+    "hydraulic system",
+    "landfill",
+    "medium ash",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power steering",
+    "sewage",
+    "stationary",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01221995.PDF",
+      "type": "LMSDS",
+      "name": "Mysella MA 40 Poland PL 140003791557 EHS V3.0 26-SEP-2012",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01221994.PDF",
+      "type": "LMSDS",
+      "name": "Mysella MA 40 Poland EN 140003791557 EHS V2.0 26-SEP-2012",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CD",
+      "organisation": "API",
+      "spec": "CD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

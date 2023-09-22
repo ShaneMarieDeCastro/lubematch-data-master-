@@ -1,0 +1,107 @@
+{
+  "id": "001A9306",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rotella DD+ 40",
+  "description": "Two-stroke heavy duty diesel engine oil",
+  "family": "Rotella",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "off highway",
+    "stationary",
+    "two stroke"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008581228_201605200734.pdf",
+      "type": "GTDS",
+      "name": "Rotella DD+ 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/7802e43a-d283-46e0-b9b9-33ad323bc6c5.pdf",
+      "type": "LTDS",
+      "name": "Rotella DD+ 40 Netherlands NL TDG V1.1 30-Jan-2019",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551567.PDF",
+      "type": "LMSDS",
+      "name": "Rotella DD+ 40 Netherlands EN 140002783873 EHS V3.7 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551568.PDF",
+      "type": "LMSDS",
+      "name": "Rotella DD+ 40 Netherlands NL 140002783873 EHS V3.7 12-APR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9306_002VSH_A18H",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550014621",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A9306_002VNR_A18H",
+      "name": "Emmer 20 L Plastic T/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550016968",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Detroit Diesel Corporation 7SE270 8810",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "7SE270 8810"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella DD+ 40 is een hoog performante motorolie afgestemd voor zwaar belaste dieselmotoren, specifiek ontworpen voor alle tweetakt-dieselmotoren gefabriceerd door Detroit Diesel Corporation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

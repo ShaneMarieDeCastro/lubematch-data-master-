@@ -1,0 +1,87 @@
+{
+  "id": "001H5432",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Tellus S4 VK 46",
+  "description": "Advanced Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "low temperature",
+    "versatile"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ccaddebd-fd7c-45d3-930a-768e58687743.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VK 46 EN TDG V1.1 08-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02397852.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VK 46 Canada FR 140006579500 EHS V1.1 05-JAN-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02397851.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VK 46 Canada EN 140006579500 EHS V1.1 05-JAN-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "ASTM D6158-05 HV",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HV"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "Denison HF-0",
+      "organisation": "Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VK hydraulic fluids are advanced performance, all season fluids, formulated using Shell Gas-To-Liquid (GTL) proprietary technology and advanced performance anti-wear additives. Shell Tellus S4 VK is a shear stable hydraulic fluid that exhibits good fluidity which enables fluid pumpability down to minus 30°C. For use in mobile applications, offering all season performance means this fluid is designed to keep the right viscosity/lubricity all year round. Giving greater peace of mind that your equipment will remain protected even during wide temperature ranges including arctic conditions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

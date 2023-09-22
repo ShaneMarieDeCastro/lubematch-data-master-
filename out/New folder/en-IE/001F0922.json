@@ -1,0 +1,137 @@
+{
+  "id": "001F0922",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Spirax S6 ATF VM Plus",
+  "description": "Premium Synthetic Technology Voith Long Drain Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "axle",
+    "buses",
+    "differential",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "heavy truck",
+    "hydraulic system",
+    "low temperature",
+    "manual",
+    "manual sequential",
+    "mobile",
+    "synchronised",
+    "tandem drive",
+    "transmissions",
+    "voith",
+    "voith turbo transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff2e4ddb-ceab-46f6-9894-73299ace1397.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF VM Plus EN TDG V2.5 16-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02540773.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF VM Plus Ireland EN 140009869348 EHS V2.5 16-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0922_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550040072",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 14B",
+      "organisation": "ZF",
+      "spec": "TE-ML 14B"
+    },
+    {
+      "name": "Voith 55.6336",
+      "organisation": "Voith",
+      "spec": "55.6336"
+    },
+    {
+      "name": "ZF TE-ML 17C",
+      "organisation": "ZF",
+      "spec": "TE-ML 17C"
+    },
+    {
+      "name": "ZF TE-ML 16L",
+      "organisation": "ZF",
+      "spec": "TE-ML 16L"
+    },
+    {
+      "name": "ZF TE-ML 04D - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 04D - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 09 - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 09 - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 238.22",
+      "organisation": "Mercedes-Benz",
+      "spec": "238.22"
+    },
+    {
+      "name": "ZF TE-ML 04D",
+      "organisation": "ZF",
+      "spec": "TE-ML 04D"
+    },
+    {
+      "name": "ZF TE-ML 14B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 03D - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 03D - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 17C - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17C - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF VM Plus Oil is a premium performance, automatic transmission fluid specifically designed for use in Voith Turbo transmissions. Spirax S6 ATF VM Plus is recommended for extended oil drain intervals in the DIWA.6 and DIWA.5 transmissions for 180,000km, while it is also suitable for DIWA.3E and older DIWA transmissions at the extended oil drain interval of 120,000km.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiPlQAK&field=Attachment__Name__s",
+      "family": "Spirax",
+      "savings": 50000,
+      "title": "Shell Spirax S6 ATF VM Plus"
+    }
+  ],
+  "commerce": null
+}

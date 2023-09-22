@@ -1,0 +1,101 @@
+{
+  "id": "001I9347",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Taxi 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d087ead3-df14-4fc0-aa18-46b580d11679.pdf",
+      "type": "GTDS",
+      "name": "Helix Taxi 5W-40 (SN Plus A3/B4 MB229.3) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603834.PDF",
+      "type": "LMSDS",
+      "name": "Helix Taxi 5W-40 (SN Plus A3/B4 MB229.3) Spain EN 140003966322 EHS V1.2 27-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603835.PDF",
+      "type": "LMSDS",
+      "name": "Helix Taxi 5W-40 (SN Plus A3/B4 MB229.3) Spain ES 140003966322 EHS V1.2 27-JUN-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "Fiat 9.55535-M2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-M2 - Meets the requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Taxi 5W-40 is designed particularly for taxi vehicles. It helps to keep engines clean and running efficiently by helping to prevent the formation of sludge and engine deposits.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

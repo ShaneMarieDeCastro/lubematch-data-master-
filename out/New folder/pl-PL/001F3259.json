@@ -1,0 +1,84 @@
+{
+  "id": "001F3259",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AP-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "psa"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e1e9214e-1cb5-4313-a0cf-e4d9f237e712.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02527116.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Poland EN 140003791557 EHS V1.7 23-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02527117.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Poland PL 140003791557 EHS V1.7 23-FEB-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/e67d8896-586a-4aa1-b2f2-70986f779312.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Poland PL TDG V1.5 21-Feb-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3259_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550043466",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "PSA B71 2312",
+      "organisation": "PSA",
+      "spec": "B71 2312"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spełnia bardzo wysokie wymagania dla wysokoobciążonych silników marek Peugeot i Citroen oraz silników wymagających stosowania olejów klasy C2. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_0W-30_AP-L_5L_600047345.png",
+  "valueRecord": [],
+  "commerce": null
+}

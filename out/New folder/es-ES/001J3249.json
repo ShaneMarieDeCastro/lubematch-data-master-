@@ -1,0 +1,67 @@
+{
+  "id": "001J3249",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Rimula R7 Plus AM 5W-20",
+  "description": "Fully Synthetic Low HTHSV Heavy Duty Diesel Engine Oil (MAN)",
+  "family": "Rimula",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - vehículo pesado",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d969da2-a5c3-422c-a553-fca0899f5842.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 Plus AM 5W-20 EN TDG V1.6 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545364.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Spain ES 140003966322 EHS V1.1 28-MAR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545366.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Spain EN 140003966322 EHS V1.1 28-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/29c6b01c-06b9-45b4-85b8-8ab2062453d7.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 Plus AM 5W-20 Spain ES TDG V1.6 22-Nov-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3977",
+      "organisation": "MAN",
+      "spec": "M 3977"
+    },
+    {
+      "name": "Scania LDF-5",
+      "organisation": "Scania",
+      "spec": "LDF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

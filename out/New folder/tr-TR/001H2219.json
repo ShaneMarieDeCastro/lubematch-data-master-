@@ -1,0 +1,128 @@
+{
+  "id": "001H2219",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX8 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/373781f8-da8b-4124-a65e-af514ceffec8.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 5W-30 (SL A3/B4 MB229.5) EN TDG V1.2 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/59e595c9-af5a-4d21-96e7-a2c4758217bd.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 5W-30 (SL A3/B4 MB229.5) Turkey TR TDG V1.2 23-Aug-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553757.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-30 (SL A3/B4 MB229.5) Turkey TR 140003791542 EHS V2.2 14-APR-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553758.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-30 (SL A3/B4 MB229.5) Turkey EN 140003791542 EHS V2.2 14-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2219_002WL0_EURO",
+      "name": "Şişe 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550052791",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2219_002WML_EURO",
+      "name": "Şişe 4 L Wishbone Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550052835",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 yeni nesil motorları temizler ve korur. Performans kayıplarına yol açan zararlı depozit oluşumlarını engeller ve yakıt ekonomisini geliştirmek için motor sürtünmesini düşürmeye yardımcı olur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

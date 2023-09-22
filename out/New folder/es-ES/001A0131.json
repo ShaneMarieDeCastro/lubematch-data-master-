@@ -1,0 +1,75 @@
+{
+  "id": "001A0131",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Caprinus HPD 40",
+  "description": "Railroad diesel engine oil",
+  "family": "Caprinus",
+  "parentCategory": "Aceites de motor industriales",
+  "category": "Aceites de motor - Rail",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "fuel",
+    "heavy duty",
+    "heavy fuel",
+    "light fuel",
+    "locomotive",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "railroad",
+    "stationary"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Caprinus_HPD_40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Caprinus HPD 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551032.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus HPD 40 Spain EN 140003966322 EHS V1.5 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550937.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus HPD 40 Spain ES 140003966322 EHS V1.5 11-APR-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CD",
+      "organisation": "API",
+      "spec": "CD"
+    },
+    {
+      "name": "LMOA Generation 5",
+      "organisation": "LMOA",
+      "spec": "Generation 5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Caprinus HPD 40, which contains high viscosity index mineral oil, is designed specially for use in highly rated North American railroad engines subjected to the most severe operating conditions, especially where fuel sulphur is high (say around 1%) and where long oil drain intervals are required.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

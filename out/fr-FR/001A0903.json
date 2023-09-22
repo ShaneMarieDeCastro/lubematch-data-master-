@@ -1,0 +1,82 @@
+{
+  "id": "001A0903",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "AeroShell Grease 33",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Graisses d’aviation",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c772bc5b-bfc7-422b-8bd4-6982630a9971.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 33 EN TDG V1.2 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550868.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 France EN 140003182031 EHS V5.9 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550869.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 France FR 140003182031 EHS V5.9 11-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0903_002XN5_A634",
+      "name": "Récipient without Closure 3 kg Open head Tinplate Shell Red (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Récipient",
+      "materialCode": "550043673",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Boeing BMS 3-33C",
+      "organisation": "Boeing",
+      "spec": "BMS 3-33C"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-302",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-302"
+    },
+    {
+      "name": "Airbus AIMS 09-06-002",
+      "organisation": "Airbus",
+      "spec": "AIMS 09-06-002"
+    },
+    {
+      "name": "MIL-PRF-23827C Type I",
+      "organisation": "MIL",
+      "spec": "PRF-23827C Type I"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

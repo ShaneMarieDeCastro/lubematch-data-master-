@@ -1,0 +1,88 @@
+{
+  "id": "001H2258",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a16319e5-6bf5-49d2-a4d2-ba67f7121bf5.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) EN TDG V1.0 20-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02504161.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Italy IT 140007645406 EHS V1.8 10-DEC-2022",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/f81aaffb-c291-472b-8bf9-761aababbd40.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Italy IT TDG V1.0 07-Jun-2019",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02504171.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Italy EN 140007645406 EHS V1.8 10-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2258_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550052344",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 è studiato per aiutare il motore a mantenere costanti le prestazioni nel tempo, proteggendolo dalle morchie e riducendo l'usura. E' adatto per una grande varietà di veicoli e per le condizioni di guida di tutti i giorni.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

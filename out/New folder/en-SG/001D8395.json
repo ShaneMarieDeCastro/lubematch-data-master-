@@ -1,0 +1,81 @@
+{
+  "id": "001D8395",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Refrigeration Oil S4 FR-F 46",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "",
+  "category": "Refrigerator Oils",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6b10740f-2711-4d5b-81e2-7ac2799321ef.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 46 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580428.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 46 Singapore EN 140001435547 EHS V1.2 27-MAY-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8395_002VNF_A227",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025474",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8395_002VNF_A1P5",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550029084",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F is a synthetic refrigeration lubricant with a polyol ester base fluid. It has been developed for use with R134a and other HFC refrigerants.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

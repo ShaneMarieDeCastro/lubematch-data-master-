@@ -1,0 +1,67 @@
+{
+  "id": "001I4289",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Varnish Removal Fluid",
+  "description": "Synthetic based solvency enhancer for cleaning varnish in Rotating Equipment",
+  "family": "Turbo",
+  "parentCategory": "",
+  "category": "Huiles pour turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7ad78095-2462-4cb0-83d6-4a580a1babaa.pdf",
+      "type": "GTDS",
+      "name": "Varnish Removal Fluid EN TDG V1.0 12-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487751.PDF",
+      "type": "LMSDS",
+      "name": "Varnish Removal Fluid France FR 140003182031 EHS V1.1 22-SEP-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487755.PDF",
+      "type": "LMSDS",
+      "name": "Varnish Removal Fluid France EN 140003182031 EHS V1.1 22-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/810d44c7-40f2-4355-8559-03b613d4b00b.pdf",
+      "type": "LTDS",
+      "name": "Varnish Removal Fluid France FR TDG V1.0 23-Dec-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I4289_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550059378",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Ce produit peut être utilisé dans les applications où la formation de vernis dans l'huile accélère la formation de dépôts et peut conduire par exemple à un blocage des électrovannes. Remarque: Ce produit n’est pas adapté pour une utilisation dans les systèmes à base d’eau ou de graisse.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

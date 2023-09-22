@@ -1,0 +1,160 @@
+{
+  "id": "001D8437",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Gadus S5 V220 2",
+  "description": "Advanced Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Synthetics based EP Greases",
+  "applicationKeys": [
+    "advanced",
+    "automotive",
+    "bearing",
+    "ep",
+    "extreme load",
+    "extreme pressure",
+    "gearbox",
+    "heavy duty",
+    "heavy load",
+    "high load",
+    "industrial",
+    "labyrinth seals",
+    "lithium",
+    "lithium complex",
+    "multipurpose",
+    "paper",
+    "paper machines",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "trucks",
+    "versatile",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/caab4647-1ca1-4b4a-a035-b33034cc74f9.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V220 2 EN TDG V2.9 11-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580047.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V220 2 Singapore English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/17e4d9b6-43dc-4291-8494-2cf45aadfca4.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V220 2 Singapore EN TDG V2.9 11-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8437_002XEC_A1P5",
+      "name": "Pail 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550036561",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB-GC",
+      "organisation": "ASTM",
+      "spec": "D4950 LB-GC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V220 is an advanced performance grease for general transport and industrial applications. It is based on high viscosity index synthetic base oil and a lithium complex soap thickener. It contains additives against wear, oxidation and corrosion.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Light Brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium complex"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "PAO"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "26"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "DIN 51350:4",
+      "uom": "",
+      "units": "N",
+      "value": "3400"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 132",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Starting Torque",
+      "method": "ASTM D4693",
+      "uom": "-40°C",
+      "units": "Nm",
+      "value": "6.50"
+    },
+    {
+      "property": "Running Torque",
+      "method": "ASTM D4693",
+      "uom": "-40°C",
+      "units": "Nm",
+      "value": "5.25"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

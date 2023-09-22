@@ -1,0 +1,55 @@
+{
+  "id": "001I5570",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Stern Tube Lubricant 150",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1d9cbac9-fa62-47c7-a0d9-7f7b05911cff.pdf",
+      "type": "GTDS",
+      "name": "Shell Stern Tube Lubricant 150 EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563911.PDF",
+      "type": "LMSDS",
+      "name": "Shell Stern Tube Lubricant 150 United States EN 140002686046 EHS V2.0 16-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5570_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057427",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Stern Tube Lubricant 150 is produced from biodegradable base stocks and can replace traditional mineral oil hydraulic fluids in in systems with little to no equipment modifications and minimal downtime to provide outstanding performance across a wide range of conditions. Shell Stern Tube Lubricant 150 fluids can be relied on to provide optimal performance in a wide range of outdoor climates, across a wide temperature operating window.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

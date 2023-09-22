@@ -1,0 +1,104 @@
+{
+  "id": "001H6869",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra Professional AJ-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/279c6de0-28fb-4a85-9982-9d28fd496ea7.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) EN TDG V1.2 07-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612587.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) France FR 140003182031 EHS V1.2 06-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/663b37fe-2752-47da-82c8-7359309b91a8.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) France FR TDG V1.2 22-Nov-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612552.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) France EN 140003182031 EHS V1.2 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H6869_002XS4_A246",
+      "name": "Barils 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550059447",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H6869_002VJW_A246",
+      "name": "Réservoir 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550059444",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H6869_002W21_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550059445",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR.03.5005",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5005"
+    },
+    {
+      "name": "ACEA C1",
+      "organisation": "ACEA",
+      "spec": "C1"
+    },
+    {
+      "name": "Ford WSS-M2C934-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C934-B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Conçue pour répondre aux exigences particulières des moteurs à hautes performances du groupe Jaguar-Land Rover et ceux où une huile ACEA C1 est recommandée. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

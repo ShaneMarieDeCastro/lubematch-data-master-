@@ -1,0 +1,413 @@
+{
+  "id": "001A9612",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "AeroShell Oil W 15W-50",
+  "description": "Semi-synthetic lubricating oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Huiles moteur - Aviation/Piston",
+  "applicationKeys": [
+    "ashless",
+    "aviation",
+    "bio gas",
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "piston engine",
+    "stationary",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_AeroShell_Oil_W_15W-50_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 15W-50 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/72e2df04-f859-47c6-869b-991bee60b635.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil W 15W-50 Canada EN TDG V1.3 14-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544972.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 15W-50 Canada EN 140006579500 EHS V3.0 27-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/a37bf482-b381-474b-9851-dec7b01b9b8c.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil W 15W-50 Canada FR TDG V1.3 18-Jul-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544973.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 15W-50 Canada FR 140006579500 EHS V3.0 27-MAR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Textron Lycoming 446C",
+      "organisation": "Textron Lycoming",
+      "spec": "446C"
+    },
+    {
+      "name": "Textron Lycoming 1409A",
+      "organisation": "Textron Lycoming",
+      "spec": "1409A"
+    },
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Textron Lycoming 301F",
+      "organisation": "Textron Lycoming",
+      "spec": "301F"
+    },
+    {
+      "name": "MHS 24A",
+      "organisation": "MHS",
+      "spec": "24A"
+    },
+    {
+      "name": "NATO O-162",
+      "organisation": "NATO",
+      "spec": "O-162"
+    },
+    {
+      "name": "Pratt and Whitney 1183-S",
+      "organisation": "Pratt and Whitney",
+      "spec": "1183-S"
+    },
+    {
+      "name": "FAA Airworthiness Directive 80-04-03 R2",
+      "organisation": "FAA Airworthiness Directive",
+      "spec": "80-04-03 R2"
+    },
+    {
+      "name": "Textron Lycoming 471",
+      "organisation": "Textron Lycoming",
+      "spec": "471"
+    },
+    {
+      "name": "Joint Service Designation OMD-162",
+      "organisation": "Joint Service Designation",
+      "spec": "OMD-162"
+    },
+    {
+      "name": "Continental SIL 99-2",
+      "organisation": "Continental",
+      "spec": "SIL 99-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Oil W 15W-50 offre une protection anti-corrosion supérieure pour tous les types de moteurs à pistons d'avions certifiés. Lorsqu'il est utilisé avec des procédures d'entretien appropriées, le produit fournit une protection maximale et améliore la probabilité que les moteurs d'avion atteignent TBO. En outre, ce produit offre une protection exceptionnelle contre l'oxydation à haute température pour les moteurs fonctionnant à chaud. Il est conçu pour maintenir les moteurs propres, avec moins d'accumulation de boues et de vernis dans la ceinture de cercle critique et dans d'autres zones.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "-"
+    },
+    {
+      "property": "SAE Viscosity grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Multigrade"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "-"
+    },
+    {
+      "property": "Density",
+      "method": "",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "Report"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "-"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "-"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "100 min"
+    },
+    {
+      "property": "Pour Point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "Report"
+    },
+    {
+      "property": "Flashpoint",
+      "method": "Cleveland Open Cup",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "220 min"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "1.0 max"
+    },
+    {
+      "property": "Sulphur",
+      "method": "",
+      "uom": "",
+      "units": "% m",
+      "value": "0.6 max"
+    },
+    {
+      "property": "Copper corrosion 3 hrs",
+      "method": "",
+      "uom": "@100°C",
+      "units": "",
+      "value": "1 max"
+    },
+    {
+      "property": "Copper corrosion 3 hrs",
+      "method": "",
+      "uom": "@204°C",
+      "units": "",
+      "value": "3 max"
+    },
+    {
+      "property": "Ash content",
+      "method": "",
+      "uom": "",
+      "units": "% m",
+      "value": "0.011 max"
+    },
+    {
+      "property": "Trace sediment",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Foaming tendency",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Elastomer Compatibility 72 hrs",
+      "method": "",
+      "uom": "@70°C",
+      "units": "swell %",
+      "value": "Must pass"
+    },
+    {
+      "property": "Elastomer Compatibility 72 hrs",
+      "method": "",
+      "uom": "@150°C",
+      "units": "swell %",
+      "value": "Must pass"
+    },
+    {
+      "property": "Trace metal content",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Compatibility",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mixed synthetic hydrocarbon an"
+    },
+    {
+      "property": "SAE Viscosity grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Multigrade"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "4"
+    },
+    {
+      "property": "Density",
+      "method": "",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.860"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "140"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "19.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "157"
+    },
+    {
+      "property": "Pour Point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Flashpoint",
+      "method": "Cleveland Open Cup",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "238"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.01"
+    },
+    {
+      "property": "Sulphur",
+      "method": "",
+      "uom": "",
+      "units": "% m",
+      "value": "0.2"
+    },
+    {
+      "property": "Copper corrosion 3 hrs",
+      "method": "",
+      "uom": "@100°C",
+      "units": "",
+      "value": "1"
+    },
+    {
+      "property": "Copper corrosion 3 hrs",
+      "method": "",
+      "uom": "@204°C",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Ash content",
+      "method": "",
+      "uom": "",
+      "units": "% m",
+      "value": "0.006"
+    },
+    {
+      "property": "Trace sediment",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Foaming tendency",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Elastomer Compatibility 72 hrs",
+      "method": "",
+      "uom": "@70°C",
+      "units": "swell %",
+      "value": "Passes"
+    },
+    {
+      "property": "Elastomer Compatibility 72 hrs",
+      "method": "",
+      "uom": "@150°C",
+      "units": "swell %",
+      "value": "Passes"
+    },
+    {
+      "property": "Trace metal content",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Compatibility",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

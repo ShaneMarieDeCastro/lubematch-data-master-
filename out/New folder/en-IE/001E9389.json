@@ -1,0 +1,142 @@
+{
+  "id": "001E9389",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix Ultra Professional AG 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "gm"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6d65cc9a-5462-4901-bed9-cf101d6d81cf.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AG 5W-30 (meet dexos 2) EN TDG V1.8 10-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511970.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Ireland EN 140007731156 EHS V1.4 28-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9389_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008891",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002WX1_EURO",
+      "name": "Bottle 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046301",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002W21_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046300",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002WX1_A291",
+      "name": "Bottle 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550041727",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550040209",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550040669",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002W21_A291",
+      "name": "Bottle 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550040139",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including General Motors, Opel/Vauxhall and those requiring API SN or ACEA C3.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AG_5L_600061211.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "001E3851",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T6 0W-40",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "manual",
+    "manual sequential",
+    "off highway",
+    "on highway",
+    "powershift",
+    "synchronised",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rotella_T6_0W-40_(CJ-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Rotella T6 0W-40 (CJ-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/88153e12-0ecb-4ef9-aaa8-c5c7b4a187fb.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 0W-40 (CJ-4) United States EN TDG V1.1 27-May-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564156.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 0W-40 (CJ-4) United States EN 140002686046 EHS V3.0 13-JAN-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Mack EO-N",
+      "organisation": "Mack",
+      "spec": "EO-N"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Key benefits include; compatibility with exhaust emissions control systems and protection in extreme operating temperatures.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

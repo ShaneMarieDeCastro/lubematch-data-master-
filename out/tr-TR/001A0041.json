@@ -1,0 +1,297 @@
+{
+  "id": "001A0041",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "AeroShell Fluid 12",
+  "description": "Synthetic lubricating oil for general purpose aircraft use",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b2aadc27-8181-4a51-843f-8d436079f010.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 12 EN TDG V1.4 28-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556442.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 12 Turkey TR 140003791542 EHS V4.1 19-APR-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556441.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 12 Turkey EN 140003791542 EHS V4.1 19-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "NATO O-147",
+      "organisation": "NATO",
+      "spec": "O-147"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-204",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-204"
+    },
+    {
+      "name": "MIL-PRF-6085F",
+      "organisation": "MIL",
+      "spec": "PRF-6085F"
+    },
+    {
+      "name": "AIR 3511/A",
+      "organisation": "AIR",
+      "spec": "3511/A"
+    },
+    {
+      "name": "MIL-PRF-6085D",
+      "organisation": "MIL",
+      "spec": "PRF-6085D"
+    },
+    {
+      "name": "DEF STAN 91-49",
+      "organisation": "DEF STAN",
+      "spec": "91-49"
+    },
+    {
+      "name": "Joint Service Designation OX-14",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-14"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 12 is a low volatility synthetic ester oil used in aircraft instruments and also for the general lubrication of aircraft. It is oxidation and corrosion inhibited, and possesses good high and low temperature characteristics.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "–"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@54.4°C",
+      "units": "mm²/s",
+      "value": "8 min"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@-53.9°C",
+      "units": "mm²/s",
+      "value": "12000 max"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "185 min"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-57 max"
+    },
+    {
+      "property": "Total Acid Number",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "–"
+    },
+    {
+      "property": "Relative Density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "–"
+    },
+    {
+      "property": "Evaporation loss in 22 hrs",
+      "method": "",
+      "uom": "@-120°C",
+      "units": "% m",
+      "value": "1.80 max"
+    },
+    {
+      "property": "Colour ASTM",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "–"
+    },
+    {
+      "property": "Corrosion & oxidation stability (168 hrs at 135°C) - metal weight change",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Corrosion & oxidation stability (168 hrs at 135°C) - viscosity change",
+      "method": "",
+      "uom": "@54.5°C",
+      "units": "",
+      "value": "± 5"
+    },
+    {
+      "property": "Corrosion & oxidation stability (168 hrs at 135°C) - total acid number change",
+      "method": "NULL",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.5 max"
+    },
+    {
+      "property": "Oxidation and corrosion stability 168 hrs at 135°C - insolubles",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mg/100ml",
+      "value": "–"
+    },
+    {
+      "property": "Low temperature stability",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Corrosivity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Synthetic ester"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@54.4°C",
+      "units": "mm²/s",
+      "value": "8.2"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@-53.9°C",
+      "units": "mm²/s",
+      "value": "11000"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "Below -60"
+    },
+    {
+      "property": "Total Acid Number",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.20"
+    },
+    {
+      "property": "Relative Density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "0.925"
+    },
+    {
+      "property": "Evaporation loss in 22 hrs",
+      "method": "",
+      "uom": "@-120°C",
+      "units": "% m",
+      "value": "1.50"
+    },
+    {
+      "property": "Colour ASTM",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "< 0.5"
+    },
+    {
+      "property": "Corrosion & oxidation stability (168 hrs at 135°C) - metal weight change",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosion & oxidation stability (168 hrs at 135°C) - viscosity change",
+      "method": "",
+      "uom": "@54.5°C",
+      "units": "",
+      "value": "0.5"
+    },
+    {
+      "property": "Corrosion & oxidation stability (168 hrs at 135°C) - total acid number change",
+      "method": "NULL",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.1"
+    },
+    {
+      "property": "Oxidation and corrosion stability 168 hrs at 135°C - insolubles",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mg/100ml",
+      "value": "1.0"
+    },
+    {
+      "property": "Low temperature stability",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosivity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

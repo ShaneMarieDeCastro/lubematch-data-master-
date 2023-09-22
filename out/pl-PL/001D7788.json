@@ -1,0 +1,118 @@
+{
+  "id": "001D7788",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Corena S4 P 68",
+  "description": "Advanced Synthetic Reciprocating  (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Sprężarki i pompy próżniowe",
+  "category": "Sprężarki i pompy próżniowe",
+  "applicationKeys": [
+    "air compressor",
+    "bearing",
+    "breathing air compressor",
+    "diesel",
+    "engine",
+    "extended life",
+    "extended valve maintenance",
+    "high pressure",
+    "high temperature",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "long life",
+    "marine",
+    "medium speed",
+    "piston",
+    "reciprocating",
+    "severe conditions",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ff8bfbbe-c61e-4006-8527-386a2fb20eb3.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 P 68 EN TDG V1.3 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571440.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 68 Poland PL 140003791557 EHS V4.5 04-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571439.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 68 Poland EN 140003791557 EHS V3.5 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/d414ad92-12f8-424f-b17a-4f9006d606ee.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 P 68 Poland PL TDG V1.3 24-Apr-2020",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7788_002VNF_A1P5",
+      "name": "Wiadro 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550027229",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7788_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027230",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51506 VDL",
+      "organisation": "DIN",
+      "spec": "51506 VDL"
+    },
+    {
+      "name": "BS EN 12021",
+      "organisation": "BS",
+      "spec": "EN 12021"
+    },
+    {
+      "name": "ISO/DP 6521 L-DAB",
+      "organisation": "ISO",
+      "spec": "/DP 6521 L-DAB"
+    },
+    {
+      "name": "ISO 6743-3 2003 L-DAB",
+      "organisation": "ISO",
+      "spec": "6743-3 2003 L-DAB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 P to zaawansowany syntetyczny olej do tłokowych sprężarek powietrza zawierający syntetyczna bazę estrową oraz nowoczesny, wysokowydajny pakiet dodatków uszlachetniających.\nZapewnia doskonałe właściwości smarne w wysokociśnieniowych kompresorach tłokowych pracujących w temperaturach przekraczających przy wylocie powietrza 220°C w podwyższonym ciśnieniu .",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

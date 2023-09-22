@@ -1,0 +1,99 @@
+{
+  "id": "001D7845",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Omala S3 GP 220",
+  "description": "Special Application Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "gearbox",
+    "gears",
+    "heavily shock loaded operations",
+    "high load",
+    "industrial",
+    "older gear systems",
+    "shock load",
+    "splash lubricated bearings",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1584bb23-6697-49ef-8b34-219d21898aa9.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 GP 220 EN TDG V2.3 14-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319292.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 220 Turkey TR 140003791542 EHS V1.5 12-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319291.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 220 Turkey EN 140003791542 EHS V1.4 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/26ba9293-ae9f-44ba-b203-5c1668e3276a.pdf",
+      "type": "LTDS",
+      "name": "Omala S3 GP 220 Turkey TR TDG V2.3 19-Sep-2018",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7845_002VSH_A1P5",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550027175",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "Textron Power Transmission S1.53.101E",
+      "organisation": "Textron Power Transmission",
+      "spec": "S1.53.101E"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 GP yağları  demir-çelik, çimento, maden ocakları ve halıcılık gibi sektörlerde aşırı yüksek şok yüklerin söz konusu olduğu kapalı sistem endüstriyel dişli kutularında problemleri çözmek üzere tasarlanmıştır. Çok yüksek aşırı basınç performansının gerektiği uygulamalarda kullanılmak üzere geliştirilmiştir.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s3_gp_yellow.png",
+  "valueRecord": [],
+  "commerce": null
+}

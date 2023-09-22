@@ -1,0 +1,88 @@
+{
+  "id": "001I5412",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Naturelle S2 Hydraulic Fluid 32",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c78b2ef3-2ee7-4b8a-bf18-2f7b0b08e07c.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 32 EN TDG V1.8 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580861.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 32 France EN 140003182031 EHS V1.4 24-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/dd689e10-9887-4805-a436-a4e67318b3ec.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 32 France FR TDG V1.8 24-Nov-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580862.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 32 France FR 140003182031 EHS V1.4 24-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5412_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550060206",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5412_002XXW_A1P5",
+      "name": "Sceau 20 L Tight Head Plastic Helix Grey with PCR (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550060208",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "USA EPA VGP",
+      "organisation": "USA EPA",
+      "spec": "VGP"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S2 Hydraulic Fluid est un fluide hydraulique innovant, utilisable dans les systèmes hydrauliques et de transmission de puissance. Il est facilement biodégradable et grâce à une écotoxicité faible, est adapté aux applications dans les zones écologiquement sensibles. La formule 100% esters synthétiques et additifs sans cendres de Shell Naturelle S2 Hydraulic Fluid offre des performances supérieures et respectueuses de l'environnement.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S2_Hydraulic_Fluid_32_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "001I5469",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Biodegradable Hydraulic Fluid 32",
+  "description": "Biodegradable Water Soluble Hydraulic Fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Top",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f4062d6b-ee7d-467e-8f17-9ef1da1c1807.pdf",
+      "type": "GTDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 32 EN TDG V1.1 29-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562751.PDF",
+      "type": "LMSDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 32 United States EN 140002686046 EHS V3.1 03-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5469_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057310",
+      "margin": "8.46714702781578",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Biodegradable Hydraulic Fluids are fully synthetic PAG (Polyalkylene Glycol) based, non-aqueous hydraulic fluids. These fluids are formulated from a high VI, fully synthetic base stock, coupled with a non-metallic additive package that provides the properties demanded by high-performance hydraulic systems. These fluids also have excellent low temperature properties and are resistant to oxidative and thermal degradation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

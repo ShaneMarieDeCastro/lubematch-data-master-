@@ -1,0 +1,98 @@
+{
+  "id": "001H5439",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra ECT C5 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/22c0a577-be42-4d6b-9c93-e1283e052ecb.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) EN TDG V1.2 14-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/84ccf13c-d435-47dd-906a-e153c2912d5a.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Netherlands NL TDG V1.2 17-Nov-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631545.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Netherlands EN 140002783873 EHS V1.4 17-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631546.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Netherlands NL 140002783873 EHS V1.4 17-AUG-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5439_002YAP_EURO",
+      "name": "Fles 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550056348",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5439_002YAN_EURO",
+      "name": "Fles 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550056346",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "MB-Approval 229.71",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.71"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "BMW Longlife-17 FE+",
+      "organisation": "BMW",
+      "spec": "Longlife-17 FE+"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C5 beschikt over de meest geavanceerde technologie voor uitlaatgasemissie die helpt om roetfilters schoon te houden en om de motorprestaties te handhaven. Het helpt om wrijving in de motor te verminderen en zorgt daarmee voor een lager brandstofverbruik. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550056348_Shell_Helix_Ult_ECT_C5_0W-20_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

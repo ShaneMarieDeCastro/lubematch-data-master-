@@ -1,0 +1,61 @@
+{
+  "id": "001G0145",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "AeroShell Oil W 100 Plus",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "Smeermiddelen voor de luchtvaart",
+  "category": "Motoroliën - Luchtvaart / zuiger",
+  "applicationKeys": [
+    "ashless"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d37cf232-fb2c-4b91-b897-fd8c34446cf7.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) EN TDG V1.5 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482447.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) Netherlands NL 140002783873 EHS V1.5 07-OCT-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482446.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) Netherlands EN 140002783873 EHS V1.5 07-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Continental SIL 99-2",
+      "organisation": "Continental",
+      "spec": "SIL 99-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Oil W100 Plus is a single grade oil that combines the single grade, ashless dispersant performance found in AeroShell Oil W100 and the anti-wear/anti-corrosion additives of AeroShell Oil W 15W-50 Multigrade. It is the oil for pilots who prefer a single grade but who also want the extra protection and performance.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

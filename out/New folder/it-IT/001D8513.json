@@ -1,0 +1,181 @@
+{
+  "id": "001D8513",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S3 Repair",
+  "description": "Premium Open Gear Running In Grease Containing Solid Lubricants",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi per ingranaggi aperti",
+  "applicationKeys": [
+    "aluminium complex",
+    "cement",
+    "ep",
+    "extreme pressure",
+    "grinding mills",
+    "industrial",
+    "mining",
+    "open gears",
+    "power station",
+    "premium",
+    "rotary dryer",
+    "rotary kiln",
+    "running in",
+    "semifluid",
+    "solid lubricant",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1d29841c-7734-41d6-ba6b-4cf539837147.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 Repair EN TDG V2.2 28-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02466491.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Repair Italy IT 140007645406 EHS V3.1 26-OCT-2022",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/b28922ae-3d17-4035-92f1-cae7e2fc20fa.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 Repair Italy IT TDG V2.2 20-Jan-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02466496.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Repair Italy EN 140007645406 EHS V3.1 26-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8513_002VH7_A1P5",
+      "name": "Fusto 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fusto",
+      "materialCode": "550028220",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Il prodotto è stato formulato in modo tale da ottenere un’usura controllata delle dentature al fine di migliorarne la rugosità sia su ingranaggi nuovi che usurati.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "00"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Aluminium Complex "
+    },
+    {
+      "property": "Texture",
+      "method": "Visual",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Tacky"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Part Synthetic"
+    },
+    {
+      "property": "Density",
+      "method": "Gardener Method",
+      "uom": "@15.5°C",
+      "units": "kg/m³",
+      "value": "1"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "520"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "32"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "400-430"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Copper Strip Corrosion (3 hrs)",
+      "method": "",
+      "uom": "@100°C",
+      "units": "",
+      "value": "1b"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "N",
+      "value": "8000"
+    },
+    {
+      "property": "Low Temperature Pumpability (Lincoln Ventmeter)",
+      "method": "NULL",
+      "uom": "@400 psi",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "Rust Test",
+      "method": "ASTM D1743",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

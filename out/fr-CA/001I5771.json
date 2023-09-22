@@ -1,0 +1,109 @@
+{
+  "id": "001I5771",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Gadus S3 V160CP 2",
+  "description": "Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base d’huile minérale",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1e306cb5-f7d1-4b49-ad21-1fd482f93b98.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V160CP 2 EN TDG V1.1 21-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/f27ebf9a-cbf9-48f3-9107-899addcf1172.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V160CP 2 Canada EN TDG V1.1 19-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543091.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V160CP 2 Canada FR 140006579500 EHS V2.0 22-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543105.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V160CP 2 Canada EN 140006579500 EHS V2.0 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/d9e5fb34-e8b5-4068-9abc-c2ff68f76424.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V160CP 2 Canada FR TDG V1.1 18-Mar-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5771_002VKN_NAMD",
+      "name": "",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550058431",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5771_002WWP_NAMD",
+      "name": "",
+      "size": "208",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550058433",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5771_002XL3_NAMD",
+      "name": "",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartouche ",
+      "materialCode": "550058435",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5771_002VME_NAMD",
+      "name": "",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550058432",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB-GC",
+      "organisation": "ASTM",
+      "spec": "D4950 LB-GC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V160CP est une graisse polyvalente fiable destinée aux applications industrielles et de flotte où la résistance à l'eau, la charge et la stabilité mécanique sont requises. Le produit est formulé avec des huiles minérales de haute qualité et des additifs de performance qui améliorent la charge, les performances d'usure, l'oxydation et la protection contre la corrosion. Gadus S3 V160CP est certifié par le NLGI pour les applications de flotte et automobiles où des produits certifiés GC-LB sont requis.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

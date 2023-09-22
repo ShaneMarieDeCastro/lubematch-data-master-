@@ -1,0 +1,202 @@
+{
+  "id": "001E7931",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix HX3 20W-50",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX3_20W-50_(SL_CF)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 20W-50 (SL/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636828.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 20W-50 (SL/CF) India EN 140006501563 EHS V1.7 03-JUN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_Helix_HX3_20W-50_(SL_CF)_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix HX3 20W-50 (SL/CF) India English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7931_002WPF_A699",
+      "name": "Bottle 3 L Wishbone Plastic Shell Red (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046803",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_002WPF_A1W8",
+      "name": "Bottle 3 L Wishbone Plastic Shell Red (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550039905",
+      "margin": "1.02575344859905",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_002X5Z_A1W8",
+      "name": "Bottle 0.5 L Wishbone Plastic Shell Red (24)",
+      "size": "0.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045434",
+      "margin": "1.30819948512372",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_002W1Y_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550039973",
+      "margin": "0.750000687276072",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_002W1Y_A699",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046802",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_002XCT_A1W8",
+      "name": "Bottle 3.5 L Wishbone Plastic Shell Red (4)",
+      "size": "3.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550040000",
+      "margin": "1.05873412845585",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008260",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_002W2H_A699",
+      "name": "Bottle 4 L Wishbone Plastic Red (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046331",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7931_002XCT_A343",
+      "name": "Bottle 3.5 L Wishbone Plastic Shell Red (4)",
+      "size": "3.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550040001",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 helps provide reliable protection for older, high-mileage engines. It helps to prevent sludge and reduce wear. It is suitable for use where API SL/CF is recommended.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "156.30"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "17.87"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "126"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "891.0"
+    },
+    {
+      "property": "Flash Point ",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "256"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    },
+    {
+      "property": "MRV",
+      "method": "ASTM D4684",
+      "uom": "@-20°C",
+      "units": "cP",
+      "value": "50000"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_HX3_20W_50.png",
+  "valueRecord": [],
+  "commerce": null
+}

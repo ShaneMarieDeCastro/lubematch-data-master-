@@ -1,0 +1,114 @@
+{
+  "id": "001C4570",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R3 10W (CF)",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "axle",
+    "bio gas",
+    "brakes",
+    "diesel",
+    "engine",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "semi manual",
+    "servo",
+    "stationary",
+    "synchronised",
+    "torque converter",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0c2c0be6-6ac6-46fa-812d-bbabbc50e47b.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 10W (CF) EN TDG V2.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557445.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) Netherlands NL 140002783873 EHS V2.12 20-APR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557446.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) Netherlands EN 140002783873 EHS V2.12 20-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/9ef00423-371d-4439-9887-84399dd0894d.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 10W (CF) Netherlands NL TDG V2.2 07-Feb-2017",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4570_002VNA_A246",
+      "name": "Emmer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550032225",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4570_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550032224",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "De bewezen chemische samenstelling van Shell Rimula R3 oliën past zich aan uw rijomstandigheden aan en zorgt voor extra bescherming voor uw motor of materieel. Door het sterk detergerend vermogen blijven de zuigers en andere motoronderdelen schoon met als resultaat een efficiëntere motorprestatie en een verlengd motorleven.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R3-10W.png",
+  "valueRecord": [],
+  "commerce": null
+}

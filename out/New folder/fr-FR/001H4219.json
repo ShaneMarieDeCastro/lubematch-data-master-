@@ -1,0 +1,77 @@
+{
+  "id": "001H4219",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S5 DCT X",
+  "description": "Premium Synthetic Technology Multi-vehicle Wet Dual Clutch Transmission Fluid.",
+  "family": "Spirax DCT",
+  "parentCategory": "",
+  "category": "Autres huiles de transmission",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d234eb42-3bd2-4702-816b-fac08d564d48.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 DCT X EN TDG V1.3 13-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486430.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 DCT X France FR 140003182031 EHS V2.1 27-SEP-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486417.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 DCT X France EN 140003182031 EHS V2.1 27-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/68bcc667-aa63-40cb-86ba-2caf52bd53c2.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 DCT X France FR TDG V1.3 19-Aug-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H4219_002W22_A1BK",
+      "name": "Bouteille 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550055145",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H4219_002WPC_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550063979",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 DCT X est un fluide de performance supérieure, à base de technologies de synthése, multi-spécifications OEM destiné aux transmissions à double-embrayages humides (DCT). La Shell Spirax S5 DCT X fait appel à une technologie de formulation unique en son genre.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550055145_Shell_Spirax_S5_DCT_X_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

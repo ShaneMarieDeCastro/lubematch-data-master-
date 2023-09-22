@@ -1,0 +1,95 @@
+{
+  "id": "001D7870",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Paper Machine Oil S2 M 220",
+  "description": "Paper Machine Circulating Oils",
+  "family": "Paper Machine",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "plain",
+    "pump gear",
+    "pump valve",
+    "pump vane",
+    "roller spherical",
+    "rollers",
+    "servo"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c796eb0d-265d-4d60-8e25-7d04f17e9e93.pdf",
+      "type": "GTDS",
+      "name": "Paper Machine Oil S2 M 220 EN TDG V1.5 01-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562407.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S2 M 220 United States EN 140002686046 EHS V2.2 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/76abc47f-80d9-4313-85a8-f999d670a9f6.pdf",
+      "type": "LTDS",
+      "name": "Paper Machine Oil S2 M 220 United States EN TDG V1.5 01-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7870_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006016",
+      "margin": "0.705968979351612",
+      "packShot": ""
+    },
+    {
+      "code": "001D7870_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026762",
+      "margin": "1.30331175891526",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "DIN 51354-2",
+      "organisation": "DIN",
+      "spec": "51354-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Paper Machine Oils S2 M are high performance oils designed to provide excellent all-round protection for the diverse needs and conditions found in modern paper machines. These products offer better wear and corrosion protection to keep paper machines running without interruption.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

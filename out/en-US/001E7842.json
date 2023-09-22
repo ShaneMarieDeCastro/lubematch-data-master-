@@ -1,0 +1,70 @@
+{
+  "id": "001E7842",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Omala S3 Wind",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "high cleanliness",
+    "industrial",
+    "low temperature",
+    "wind turbine transmission",
+    "wind turbines",
+    "yaw and pitch drive gearboxes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/bac1c508-5946-43fc-8d49-340880c813dd.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 Wind EN TDG V1.3 07-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563565.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 Wind United States EN 140002686046 EHS V1.2 13-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "IEC 61400-4",
+      "organisation": "IEC",
+      "spec": "61400-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 Wind is a mineral oil based industrial gear lubricant offering high performance in wind turbine gearbox applications. It has been specifically designed to efficiently operate in low temperatures, assures excellent wear protection under high loads and shock load conditions, guards against micropitting and offers a high level of cleanliness. Please consider that use in systems with fine filtration is not recommended/supported by Shell because sustained foam control performance is not assured.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "001C8159",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra AM-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "bmw",
+    "cars"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_AM-L_5W-30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra AM-L 5W-30 (BMW LL-04) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140007426778_201210101130.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra AM-L 5W-30 (BMW LL-04) Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481714.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AM-L 5W-30 (BMW LL-04) Netherlands NL 140002783873 EHS V2.4 12-APR-2016",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481713.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AM-L 5W-30 (BMW LL-04) Netherlands EN 140002783873 EHS V2.4 12-APR-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "It contains Shell’s ultimate active cleansing technology to continuously prevent dirt and sludge build-up, thereby maximising engine performance right up to the next oil change.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

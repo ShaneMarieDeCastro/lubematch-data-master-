@@ -1,0 +1,83 @@
+{
+  "id": "001E9933",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Naturelle S4 Gear Fluid 68",
+  "description": "Special Purpose Biodegradable Synthetic Industrial Gear and Bearing Oil",
+  "family": "Naturelle",
+  "parentCategory": "Aceites de engranajes industriales",
+  "category": "Aceites de engranajes industriales",
+  "applicationKeys": [
+    "gearbox",
+    "industrial"
+  ],
+  "position": "Top",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/57676347-404a-4044-81fc-356f2c8affa9.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Gear Fluid 68 EN TDG V1.4 14-Nov-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02598303.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 68 Spain ES 140003966322 EHS V1.3 16-JUN-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02598302.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 68 Spain EN 140003966322 EHS V1.3 16-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9933_002VSH_A1P5",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550042313",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 3448",
+      "organisation": "ISO",
+      "spec": "3448"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "USA EPA VGP",
+      "organisation": "USA EPA",
+      "spec": "VGP"
+    },
+    {
+      "name": "ISO 14635-1",
+      "organisation": "ISO",
+      "spec": "14635-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Gear Fluid is an advanced synthetic fluid for use in gearing applications such as thrusters and propulsion drives. Manufactured from fully saturated esters, Shell Naturelle S4 Gear Fluid is designed to offer superior load carrying performance whilst also being readily biodegradable with low ecotoxicity. Shell Naturelle S4 Gear Fluid is an Environmentally Acceptable Lubricant (EAL) according to the definitions of the US EPA 2013 Vessel General Permit.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

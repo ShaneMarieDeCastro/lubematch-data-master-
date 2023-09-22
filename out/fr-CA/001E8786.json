@@ -1,0 +1,93 @@
+{
+  "id": "001E8786",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Ultimate Durability SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/7d917e10-1ce8-4caa-a6f3-38a56a85d1fd.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Ultimate Durability 0W-20 Full Synthetic Motor Oil (SN/GF-5 2013) EN TDG V1.2 31-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291098.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Ultimate Durability 0W-20 Full Synthetic Motor Oil (SN/GF-5 2013) Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/b766a554-67e1-421b-8610-0fd5acdbb896.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Ultimate Durability 0W-20 Full Synthetic Motor Oil (SN/GF-5 2013) Canada EN TDG V1.2 04-Oct-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291233.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Ultimate Durability 0W-20 Full Synthetic Motor Oil (SN/GF-5 2013) Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/6a14b671-b325-46e2-83b5-966a201fed37.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Ultimate Durability 0W-20 Full Synthetic Motor Oil (SN/GF-5 2013) Canada FR TDG V1.2 30-Oct-2017",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos1",
+      "organisation": "General Motors",
+      "spec": "dexos1"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^3 ^Comparativement ^à ^Quaker ^State ^® ^Conventionnel",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

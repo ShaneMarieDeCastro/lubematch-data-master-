@@ -1,0 +1,115 @@
+{
+  "id": "001D8286",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S4 AT 75W-90",
+  "description": "High performance, synthetic blend, GL-5/4 oil for gearboxes and axles",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "extended drain",
+    "final drive",
+    "gasoline",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "off highway",
+    "passenger car",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/91896f6a-161d-44b2-967c-a47477d4a5d3.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 AT 75W-90 EN TDG V1.3 17-Jan-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577902.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AT 75W-90 Germany EN 140001492039 EHS V2.5 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578264.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AT 75W-90 Germany DE 140001492039 EHS V2.5 23-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8286_002VND_A246",
+      "name": "Eimer 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027945",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8286_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027950",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 AT 75W-90 is a part-synthetic superior quality automotive gear lubricant specially designed for use in gearboxes and axles.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

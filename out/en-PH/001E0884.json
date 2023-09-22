@@ -1,0 +1,104 @@
+{
+  "id": "001E0884",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Advance SX2 2T Triple",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "motorbikes",
+    "motorcycles",
+    "two stroke"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/fb97e873-0506-4fde-9b1a-a1625b7fc555.pdf",
+      "type": "GTDS",
+      "name": "Advance SX 2 2T Triple (FB EGB) (undyed solvent free) EN TDG V1.2 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02407502.PDF",
+      "type": "LMSDS",
+      "name": "Advance SX 2 2T Triple (FB EGB) (undyed solvent free) Philippines EN 140001435525 EHS V1.5 28-FEB-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/a91280e1-b96e-4e5f-b988-9394f1412e11.pdf",
+      "type": "LTDS",
+      "name": "Advance SX 2 2T Triple (FB EGB) (undyed solvent free) Philippines EN TDG V1.2 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0884_002W1Z_A753",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052525",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E0884_002W1Z_A236",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550025734",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E0884_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005892",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E0884_002V09_A236",
+      "name": "Bottle 0.2 L Local 2T Y (60)",
+      "size": "0.2",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550025735",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FB",
+      "organisation": "JASO",
+      "spec": "FB"
+    },
+    {
+      "name": "ISO-L-EGB",
+      "organisation": "ISO",
+      "spec": "L-EGB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Advance SX2 2T Triple is a premium quality oil blended for on-highway two-stroke motorcycle engines. High viscosity index mineral oils, fortified by polyisobutylene synthetic base fluid, combine with carefully selected additives to produce a superior performance oil for today's two-stroke motorcycles.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/1L_ADVANCE_2T_TRIPLE_SX2.png",
+  "valueRecord": [],
+  "commerce": null
+}

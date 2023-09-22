@@ -1,0 +1,61 @@
+{
+  "id": "001D8269",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S4 G 75W-80",
+  "description": "High Performance PSA Manual Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-80",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1363e7e2-e31a-497e-a744-2ad56f6eaf81.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 G 75W-80 EN TDG V1.2 08-May-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578227.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-80 Germany EN 140001492039 EHS V2.3 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578226.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-80 Germany DE 140001492039 EHS V2.3 23-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "PSA B71 2315",
+      "organisation": "PSA",
+      "spec": "B71 2315"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 G 75W-80 is an extreme pressure transmission lubricant designed to meet the requirements of PSA passenger car gearboxes.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

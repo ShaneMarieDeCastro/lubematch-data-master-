@@ -1,0 +1,75 @@
+{
+  "id": "001C1350",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Barrier Fluid",
+  "description": "Synthetic Seal Oil",
+  "family": "Generic Products (Lubricants)",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d97af592-9935-4add-8420-c92d58b1ea45.pdf",
+      "type": "GTDS",
+      "name": "Shell Barrier Fluid EN TDG V1.2 15-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291211.PDF",
+      "type": "LMSDS",
+      "name": "Shell Barrier Fluid Canada EN 140006579500 EHS V2.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/41370fd3-57f9-4eb8-8059-a84d387bdb83.pdf",
+      "type": "LTDS",
+      "name": "Shell Barrier Fluid Canada EN TDG V1.2 16-Jul-2019",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/bfd21e2b-0ab0-49d3-b8f6-a5ced68e2cd5.pdf",
+      "type": "LTDS",
+      "name": "Shell Barrier Fluid Canada FR TDG V1.2 24-Jul-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290161.PDF",
+      "type": "LMSDS",
+      "name": "Shell Barrier Fluid Canada FR 140006579500 EHS V2.5 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C1350_002VOP_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H Y (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550022296",
+      "margin": "2.4666071897113",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Barrier Fluid is a premium high viscosity index synthetic fluid for use as a barrier or buffer fluid in various seals where the fluid must lubricate and dissipate the heat from the seal area.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

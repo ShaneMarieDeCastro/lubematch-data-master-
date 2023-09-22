@@ -1,0 +1,234 @@
+{
+  "id": "001F8441",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Tellus S2 MX 100",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "axle",
+    "bearing",
+    "better system efficiency",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "extended life",
+    "extreme performance",
+    "factory applications",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "high tost",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "manufacturing",
+    "marine",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "roller spherical",
+    "rollers",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "variable",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/19df5d2e-25af-4dc3-8146-c9bd59f3aef6.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MX 100 (2016) EN TDG V4.1 05-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/5282bb4a-e5f1-4b98-9c34-7e878f7c8413.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MX 100 (2016) Canada EN TDG V4.1 05-Jul-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02376588.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 100 (2016) Canada EN 140006579500 EHS V1.1 19-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/b3b14a23-ace0-4cec-ae7a-814d12ad89dd.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MX 100 (2016) Canada FR TDG V4.1 06-Jul-2016",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02376587.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 100 (2016) Canada FR 140006579500 EHS V1.1 19-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8441_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010026",
+      "margin": "0.341070407859042",
+      "packShot": ""
+    },
+    {
+      "code": "001F8441_002VOM_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550045423",
+      "margin": "0.618060527732126",
+      "packShot": ""
+    },
+    {
+      "code": "001F8441_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550045422",
+      "margin": "0.191953221459914",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 MX fluids are high performance hydraulic fluids based on Group II base oils that provide outstanding protection and performance in most manufacturing and many mobile equipment operations. They resist breakdown under heat or mechanical stress and help prevent damaging deposit formation that can decrease the efficiency of your hydraulic power system.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@0°C",
+      "units": "cSt",
+      "value": "1800"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11.7"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.870"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "L0.5"
+    },
+    {
+      "property": "Water Separation",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "minutes",
+      "value": "20"
+    },
+    {
+      "property": "TOST life",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours minimum",
+      "value": "5000"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

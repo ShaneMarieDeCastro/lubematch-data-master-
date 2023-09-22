@@ -1,0 +1,77 @@
+{
+  "id": "001I5604",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Naturelle S2 Hydraulic Fluid 68",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Ciecze hydrauliczne",
+  "category": "Płyny hydrauliczne",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/967d4e1d-7203-45d2-9611-2de8d1ba4e23.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 EN TDG V2.0 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605475.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Poland EN 140003791557 EHS V1.4 29-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605473.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Poland PL 140003791557 EHS V1.4 29-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/612e3c0a-7f82-4246-a375-108e2d38a911.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Poland PL TDG V2.0 03-Oct-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5604_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550060209",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5604_002XXS_A1P5",
+      "name": "Kontener 1000 L Local Composite Hdpe/Steel Opaque with PCR (1)",
+      "size": "1000",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550060210",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S2 Hydraulic Fluid to zaawansowane oleje hydrauliczne mające zastosowanie w systemach hydraulicznych i systemach przeniesienia mocy. Łatwo biodegradowalne o niskiej ekotoksyczność - z tego powodu są odpowiednie do używania w obszarach wrażliwych ekologicznie. W pełni syntetyczna baza estrowa w połączeniu z bezpopiołowymi dodatkami zapewniają, że oleje Shell Naturelle S2 Hydraulic Fluid mają znakomite właściwości smarne i są akceptowalne środowiskowo.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S2_Hydraulic_Fluid_68_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

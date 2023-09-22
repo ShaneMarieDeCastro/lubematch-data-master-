@@ -1,0 +1,157 @@
+{
+  "id": "001D7741",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Hydraulic S1 M 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Fluidos hidráulicos",
+  "category": "Fluidos hidráulicos",
+  "applicationKeys": [
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "gerotor pump",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "slew",
+    "swing drive",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/98724352-9cb6-49c9-bd2c-9aa34eb0c09a.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 M 68 EN TDG V3.6 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02633086.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 68 Spain ES 140003966322 EHS V1.9 22-AUG-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/0f96c1bf-b19d-425b-b558-2bc2eb273d60.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 M 68 Spain ES TDG V3.6 29-Jan-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02633087.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 68 Spain EN 140003966322 EHS V1.9 22-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7741_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027158",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 es un fluido hidráulico de calidad con propiedades anti-desgaste que proporciona una eficaz protección y un rendimiento fiable en numerosas aplicaciones industriales fijas y móviles.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "68"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "8.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "97"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.875"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

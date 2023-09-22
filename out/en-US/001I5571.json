@@ -1,0 +1,55 @@
+{
+  "id": "001I5571",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Omala S2 A 320",
+  "description": "Premium Industrial Gear Oil",
+  "family": "non-GKA GPO - other",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9e9b9c9e-88b7-481b-8c66-4deebc6016b9.pdf",
+      "type": "GTDS",
+      "name": "Shell Omala S2 A 320 EN TDG V1.1 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563908.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S2 A 320 United States EN 140002686046 EHS V1.0 17-AUG-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5571_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057821",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 A 320 is a high performance gear lubricant for enclosed industrial gears including worm gears. Shell Omala S2 A 320 is formulated to provide excellent lubrication, stability and extend service life. \nShell Omala S2 A 320 is anhydrous and does not readily hydrolyze in the presence of water.  It is designed to resist the formation of sludge and varnish.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

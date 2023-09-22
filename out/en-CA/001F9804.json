@@ -1,0 +1,108 @@
+{
+  "id": "001F9804",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Quaker State High Mileage SAE 5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dda1c52b-4f2d-47e0-8580-84818e6872d2.pdf",
+      "type": "GTDS",
+      "name": "Quaker State High Mileage SAE 5W-20 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290744.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State High Mileage SAE 5W-20 Motor Oil Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/c219a9c9-20e0-48f7-9d03-354c7d89dd1b.pdf",
+      "type": "LTDS",
+      "name": "Quaker State High Mileage SAE 5W-20 Motor Oil Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290759.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State High Mileage SAE 5W-20 Motor Oil Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/073e4d40-e018-4dc9-83ce-27ff487d045d.pdf",
+      "type": "LTDS",
+      "name": "Quaker State High Mileage SAE 5W-20 Motor Oil Canada FR TDG V1.4 21-Sep-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Ford WSS-M2C945-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A - Meets the requirements"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Quaker State^® High Mileage is a synthetic blend motor oil that provides protection for vehicles over 75k miles. It is formulated with anti-wear additives that help protect against wear that high mileage engines experience in everyday driving. Quaker State^® High Mileage also helps stop leaks and reduces oil consumption in worn engines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

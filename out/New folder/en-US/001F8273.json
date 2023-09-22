@@ -1,0 +1,136 @@
+{
+  "id": "001F8273",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Spirax S6 GME 40",
+  "description": "Premium Synthetic Eaton Long Drain, Fuel Economy Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "on highway",
+    "powershift",
+    "pump gear",
+    "semi manual",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/53f70ee5-becf-49aa-99d4-e010140d472b.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 GME 40 EN TDG V3.6 02-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/73d73d7d-640f-4456-9816-7802081fe24e.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 GME 40 United States EN TDG V3.6 10-Mar-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564059.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GME 40 United States EN 140002686046 EHS V2.0 26-AUG-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8273_002XD6_A1WJ",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550044797",
+      "margin": "1.11928291802294",
+      "packShot": ""
+    },
+    {
+      "code": "001F8273_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550044796",
+      "margin": "0.931399889611141",
+      "packShot": ""
+    },
+    {
+      "code": "001F8273_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550056699",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8273_002XEM_A1WJ",
+      "name": "Keg 16 Gal Open head Steel Shell Red, Shell Yellow (1)",
+      "size": "16",
+      "uom": "Gal",
+      "pack": "Keg",
+      "materialCode": "550044799",
+      "margin": "0.960652678149454",
+      "packShot": ""
+    },
+    {
+      "code": "001F8273_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012466",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Eaton PS-386",
+      "organisation": "Eaton",
+      "spec": "PS-386"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Meritor 081",
+      "organisation": "Meritor",
+      "spec": "081"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S6 GME 40 Synthetic transmission fluid is a specially formulated synthetic lubricant designed for extended drain intervals and severe service in heavy duty commercial vehicle transmissions which require a non-EP transmission lubricant. It is specially formulated to protect higher torque transmissions coupled with increased horsepower engines. It is approved for use in Eaton transmissions such as Ultrashift Plus, Fuller Advantage, FR and RT Series transmissions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

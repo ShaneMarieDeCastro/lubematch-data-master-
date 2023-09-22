@@ -1,0 +1,124 @@
+{
+  "id": "001F1399",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Platinum Axle 75W-140",
+  "description": "Premium SAE 75W-140 synthetic axle and gear oil for API GL-5",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/287e83a8-f908-48fe-b802-d80653e0c7d3.pdf",
+      "type": "GTDS",
+      "name": "Pzl Platinum Axle 75W-140 (GL-5) EN TDG V1.1 11-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/f0bd182e-9b96-4a6b-8f6a-943029468b9d.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum Axle 75W-140 (GL-5) Canada EN TDG V1.1 11-Aug-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289980.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum Axle 75W-140 (GL-5) Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/da0acbd3-acc9-443f-b2b3-77a9dc7084fa.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum Axle 75W-140 (GL-5) Canada FR TDG V1.1 17-Aug-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289892.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum Axle 75W-140 (GL-5) Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1399_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500011061",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1399_002V7K_A0IK",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550042069",
+      "margin": "4.00555824225346",
+      "packShot": ""
+    },
+    {
+      "code": "001F1399_002VOJ_A1WJ",
+      "name": "",
+      "size": "35",
+      "uom": "lb",
+      "pack": "Sceau",
+      "materialCode": "550042044",
+      "margin": "4.80796072418404",
+      "packShot": ""
+    },
+    {
+      "code": "001F1399_002VIZ_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550052963",
+      "margin": "3.28878855388997",
+      "packShot": ""
+    },
+    {
+      "code": "001F1399_002X4L_A1WJ",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550052964",
+      "margin": "2.08209153090066",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

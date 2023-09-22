@@ -1,0 +1,184 @@
+{
+  "id": "001D7836",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Omala S2 G 150",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "enclosed gear",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "heavy fuel",
+    "helical",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "offshore",
+    "on highway",
+    "plain",
+    "power take off pto",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "roller tapered",
+    "rollers",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "slew",
+    "splash lubricated bearings",
+    "spur",
+    "stern tube seal",
+    "swing drive",
+    "tandem drive",
+    "thrust",
+    "transmissions",
+    "trunnion",
+    "turbine",
+    "two stroke",
+    "vacuum pumps",
+    "variable",
+    "water"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S2_G_150_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 G 150 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576131.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 150 Ireland EN 140007731156 EHS V2.6 17-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7836_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027169",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-77",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-77"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 G oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "897"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

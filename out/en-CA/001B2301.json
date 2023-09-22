@@ -1,0 +1,72 @@
+{
+  "id": "001B2301",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Irus Fluid C-NA",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Irus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "fixed",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a95aa6ad-1271-4a43-b988-aee3863dc13c.pdf",
+      "type": "GTDS",
+      "name": "Irus C-NA EN TDG V2.4 07-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/22ab72d7-c0a0-4214-8aca-1d2a51d0ed72.pdf",
+      "type": "LTDS",
+      "name": "Irus C-NA Canada FR TDG V2.4 07-May-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02117906.PDF",
+      "type": "LMSDS",
+      "name": "Irus C-NA Canada FR 140006579500 EHS V2.0 20-JUL-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02117905.PDF",
+      "type": "LMSDS",
+      "name": "Irus C-NA Canada EN 140006579500 EHS V2.0 20-JUL-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/cc25d11a-3050-402b-87f1-9cbf79bfacf3.pdf",
+      "type": "LTDS",
+      "name": "Irus C-NA Canada EN TDG V2.4 07-May-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Irus Fluid C-NA is foam resistant and shear stable. Its higher specific gravity allows any oil contamination to float on the surface where it can be removed by conventional skimming equipment. Low temperatures are not a problem since the product's glycol content protects against freezing.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

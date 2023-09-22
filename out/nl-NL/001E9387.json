@@ -1,0 +1,124 @@
+{
+  "id": "001E9387",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3d1906be-4738-410c-94cb-01d08b1c107e.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) EN TDG V1.8 03-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573869.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Netherlands NL 140002783873 EHS V1.5 11-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573870.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Netherlands EN 140002783873 EHS V1.5 11-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/72e03110-2af5-4573-b57c-e9d2726dfd32.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Netherlands NL TDG V1.8 01-Aug-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9387_002XI2_A246",
+      "name": "Fles 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550045935",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9387_002XS4_A246",
+      "name": "Vaten 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vaten",
+      "materialCode": "550040265",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9387_002W21_EURO",
+      "name": "Fles 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046288",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5003 - Meets the requirements",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5003 - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C913-C - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C - Meets the requirements"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "Ford WSS-M2C913-D",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-D"
+    },
+    {
+      "name": "Ford WSS-M2C913-C",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontwikkeld om aan de strenge eisen van hoogpresterende motoren te voldoen, waaronder Ford en motoren waarvoor een olie met specificatie ACEA A5/B5 wordt vereist.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AF_5L_600061213.png",
+  "valueRecord": [],
+  "commerce": null
+}

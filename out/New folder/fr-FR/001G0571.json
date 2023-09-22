@@ -1,0 +1,133 @@
+{
+  "id": "001G0571",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix HX8 ECT C3 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/7aa12959-9903-4ca3-8e46-071403cc530f.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT C3 5W-30 (C3 + OEM) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/a8651bef-0446-4432-ae4a-7a9d72f264f7.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT C3 5W-30 (C3 + OEM) France French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02501758.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT C3 5W-30 (C3 + OEM) France FR 140003182031 EHS V1.2 08-DEC-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02501757.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT C3 5W-30 (C3 + OEM) France EN 140003182031 EHS V1.2 08-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0571_002X0G_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550046394",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0571_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550046397",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0571_002VSI_A246",
+      "name": "Tonneau 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Tonneau",
+      "materialCode": "550046661",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0571_002WL0_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550046663",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0571_002VJW_A246",
+      "name": "Réservoir 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550049551",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 ECT C3 utilise une technologie avancée compatible avec les système de dépollution aidant à maintenir la propreté des filtres à particule et donc aussi le niveau de performance du moteur.  Participe à la réduction des frictions internes du moteur permettant des économies de carburant.  \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

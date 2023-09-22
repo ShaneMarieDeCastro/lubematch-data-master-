@@ -1,0 +1,67 @@
+{
+  "id": "001C8213",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Diesel HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d869db1c-2c50-45c7-a46e-e156af2ba651.pdf",
+      "type": "GTDS",
+      "name": "Helix Diesel HX5 15W-40 (CF/B2) EN TDG V2.1 05-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487490.PDF",
+      "type": "LMSDS",
+      "name": "Helix Diesel HX5 15W-40 (CF/B2) France FR 140003182031 EHS V1.4 06-FEB-2013",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487491.PDF",
+      "type": "LMSDS",
+      "name": "Helix Diesel HX5 15W-40 (CF/B2) France EN 140003182031 EHS V1.4 06-FEB-2013",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140003370319_20091121230_2.pdf",
+      "type": "LTDS",
+      "name": "Helix Diesel HX5 15W-40 (CF/B2) France French",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA B2",
+      "organisation": "ACEA",
+      "spec": "B2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Diesel HX5 has been formulated with cleansing technology. It works harder to protect than ordinary motor oils by continuously preventing soot deposit build-up and reduce engine noise.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

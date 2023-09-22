@@ -1,0 +1,78 @@
+{
+  "id": "001F4016",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Advance 4T AX7 10W-30 (SM/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "four stroke",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/313b6561-52ca-44f0-b108-905f6d4717e2.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T AX7 10W-30 (SM/MA2) EN TDG V1.5 15-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637450.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 10W-30 (SM/MA2) India EN 140006501563 EHS V1.2 03-SEP-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4016_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011178",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4016_002WVJ_A343",
+      "name": "Bottle 0.9 L Wishbone Plastic Helix Blue (12)",
+      "size": "0.9",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050639",
+      "margin": "1.94605732565091",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T AX7 4 stroke motorcycle engine oil meets the requirements of most motorcycle manufacturers.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

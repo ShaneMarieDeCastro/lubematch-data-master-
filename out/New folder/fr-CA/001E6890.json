@@ -1,0 +1,200 @@
+{
+  "id": "001E6890",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Gadus S4 OGT",
+  "description": "Premium Open Gear and Wire Rope Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Graisses d’engrenage ouvertes",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cf590193-5283-4978-93d5-257a6ba8f6dd.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 OGT EN TDG V4.0 26-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291261.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 OGT Canada FR 140006579500 EHS V4.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291271.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 OGT Canada EN 140006579500 EHS V4.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/51da0699-08ea-4843-a931-61f81d3b06fd.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 OGT Canada EN TDG V4.0 01-Apr-2019",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/59ea3dee-8390-48a8-811d-7834f614a673.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 OGT Canada FR TDG V4.0 10-Apr-2019",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E6890_002WWP_A1WJ",
+      "name": "",
+      "size": "208",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550037672",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E6890_002VKN_A1WJ",
+      "name": "",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550043337",
+      "margin": "4.03373335543133",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Bucyrus International SD 4713",
+      "organisation": "Bucyrus International",
+      "spec": "SD 4713"
+    },
+    {
+      "name": "P&H 464",
+      "organisation": "P&H",
+      "spec": "464"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 OGT est principalement conçu pour être utilisé dans des applications très lourdes et des opérations dans des conditions ambiantes chaudes, dans des équipements d’extraction, des pelles, des draglines et des excavateurs dans des opérations à ciel ouvert. Shell Gadus S4 OGT est basé sur un épaississant au savon complexe d’aluminium et une huile de base semi-synthétique à haute viscosité contenant une chimie extrême pression extrême et une chimie anti-usure.\n\n",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0"
+    },
+    {
+      "property": "Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Al Complex"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Semi-synthetic"
+    },
+    {
+      "property": "Solid Lubricant",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Yes"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt minimum",
+      "value": "50 000"
+    },
+    {
+      "property": "Cone Penetration",
+      "method": "ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "355 to 385"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kg",
+      "value": "800"
+    },
+    {
+      "property": "Four Ball Wear Scar",
+      "method": "ASTM D2266",
+      "uom": "",
+      "units": "mm maximum",
+      "value": "0.7"
+    },
+    {
+      "property": "Four Ball Load Wear Index (LWI)",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kg minimum",
+      "value": "120"
+    },
+    {
+      "property": "Flash Point of base fluid",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "150"
+    },
+    {
+      "property": "Rust Test",
+      "method": "ASTM D1743",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Copper Strip",
+      "method": "ASTM D4048",
+      "uom": "3h @ 100°C",
+      "units": "",
+      "value": "1b"
+    },
+    {
+      "property": "Pumpability, Lincoln Ventmeter",
+      "method": "Time to vent from 1800 psi to less than or equal to 600 psi",
+      "uom": "@-7°C",
+      "units": "seconds maximum",
+      "value": "30"
+    },
+    {
+      "property": "Flow Pressure",
+      "method": "DIN 51805",
+      "uom": "@-10°C",
+      "units": "mbar maximum",
+      "value": "1 400"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

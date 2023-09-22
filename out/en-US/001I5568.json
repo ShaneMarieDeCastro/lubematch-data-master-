@@ -1,0 +1,55 @@
+{
+  "id": "001I5568",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Corena PCF",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cebf52a6-10e0-47fa-999b-e53ad8877d6e.pdf",
+      "type": "GTDS",
+      "name": "Shell Corena PCF EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563915.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena PCF United States EN 140002686046 EHS V1.1 14-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5568_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057425",
+      "margin": "0.393869490901003",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

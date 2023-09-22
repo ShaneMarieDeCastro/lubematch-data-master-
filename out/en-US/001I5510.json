@@ -1,0 +1,55 @@
+{
+  "id": "001I5510",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Omala S3 A 460",
+  "description": "Premium Industrial Gear Oil",
+  "family": "non-GKA GPO - other",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1b208e9a-e0cb-4b12-99b6-77d9f3ae5c91.pdf",
+      "type": "GTDS",
+      "name": "Shell Omala S3 A 460 EN TDG V1.1 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563926.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 A 460 United States EN 140002686046 EHS V1.0 02-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5510_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057358",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 A 460 is a synthetic lubricant formulated to provide excellent lubrication, stability, and extended service life for enclosed industrial gears. Shell Omala S3 A 460 maintains excellent performance during use and helps to reduce operating temperatures, friction and wear.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

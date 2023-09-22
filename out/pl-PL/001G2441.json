@@ -1,0 +1,109 @@
+{
+  "id": "001G2441",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AJ-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7d6f1e77-f955-4251-8231-f7f25f770f47.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007 Ford 950-A) EN TDG V1.4 30-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554096.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) Poland PL 140003791557 EHS V1.4 14-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554097.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) Poland EN 140003791557 EHS V1.4 14-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/d9d59e8f-8870-4975-8870-eebc9745e6cc.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) Poland PL TDG V1.4 04-Jul-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G2441_002YAP_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550047974",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G2441_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550047972",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR.03.5007",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5007"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Ford WSS-M2C950-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C950-A"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Opracowany, aby sprostać wysokim wymaganiom wysokowydajnych silników Jaguar Land Rover i Ford oraz silników wymagających stosowania olejów ACEA C2.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

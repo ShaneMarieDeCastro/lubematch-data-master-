@@ -1,0 +1,259 @@
+{
+  "id": "001F8878",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T5 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "automatic",
+    "aviation",
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "brakes",
+    "cars",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "light fuel",
+    "lng",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "pump piston",
+    "stationary",
+    "tandem drive",
+    "transmissions",
+    "two stroke",
+    "urban",
+    "variable"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cebf5fb6-a604-4928-a719-c286572f90a1.pdf",
+      "type": "GTDS",
+      "name": "Rotella T5 10W-30 (CK-4) EN TDG V1.9 31-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597802.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 10W-30 (CK-4) United States EN 140002686046 EHS V2.2 16-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/c5d1572d-8e45-4774-8a91-bbcca48e868b.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 10W-30 (CK-4) United States EN TDG V1.9 31-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8878_002XOG_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic Rimula Grey (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550049480",
+      "margin": "0.47854740389785",
+      "packShot": ""
+    },
+    {
+      "code": "001F8878_002XLW_A0II",
+      "name": "Bottle 1 Gal Americas Tool Plastic Rimula Grey (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550045130",
+      "margin": "1.50133821541567",
+      "packShot": ""
+    },
+    {
+      "code": "001F8878_002XEY_A0II",
+      "name": "Bottle 2.5 Gal Local (F Style) Plastic Rimula Grey (2)",
+      "size": "2.5",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550045132",
+      "margin": "1.54381061632095",
+      "packShot": ""
+    },
+    {
+      "code": "001F8878_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010047",
+      "margin": "0.872985918918754",
+      "packShot": ""
+    },
+    {
+      "code": "001F8878_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550045131",
+      "margin": "1.54704051113023",
+      "packShot": ""
+    },
+    {
+      "code": "001F8878_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550048237",
+      "margin": "1.41273639593883",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "Deutz DQC III-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-10 LA"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^® T5 heavy duty engine oil with Triple Protection Plus™ technology has been enhanced with premium synthetic base oils plus advanced additive technology to protect against wear, deposits and oil breakdown, PLUS better low temperature flow and better fuel economy performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "001F7268",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "AeroShell Fluid 61 (NA)",
+  "description": "Synthetic hydrocarbon hydraulic fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "Smeermiddelen voor de luchtvaart",
+  "category": "Hydraulische vloeistoffen (luchtvaart)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28d3c04e-e180-45b7-911a-1927e1a39bce.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 61 (NA) EN TDG V1.4 31-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608420.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 61 (NA) Netherlands NL 140002783873 EHS V1.6 04-JUL-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608462.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 61 (NA) Netherlands EN 140002783873 EHS V1.6 04-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-46170E Type I",
+      "organisation": "MIL",
+      "spec": "PRF-46170E Type I"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 61 is a synthetic hydrocarbon base hydraulic fluid specifically inhibited to provide excellent oxidation stability for the oil and good corrosion preventive protection to the hydraulic system.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

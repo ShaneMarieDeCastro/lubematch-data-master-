@@ -1,0 +1,61 @@
+{
+  "id": "001D7510",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Pennzoil SAE 30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7d9bb830-f975-43cf-a2a9-d5ad56a2180b.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 30 Motor Oil (SN) EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02568682.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 30 Motor Oil (SN) Netherlands NL 140002783873 EHS V1.3 30-APR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02568681.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 30 Motor Oil (SN) Netherlands EN 140002783873 EHS V1.3 30-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

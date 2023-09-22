@@ -1,0 +1,83 @@
+{
+  "id": "001D7801",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Morlina S1 B 150",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Aceites circulantes y para rodamientos",
+  "category": "Aceites circulantes y para rodamientos",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "oil lubricated bearings",
+    "plain",
+    "pump gear",
+    "roller cylindrical",
+    "rollers",
+    "rollneck bearings",
+    "water separation"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S1_B_150_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S1 B 150 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Spain_Shell_Morlina_S1_B_150_(es)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Morlina S1 B 150 Spain Spanish; Castilian",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572325.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 150 Spain EN 140003966322 EHS V2.3 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572327.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 150 Spain ES 140003966322 EHS V2.3 04-MAY-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B son aceites de alto rendimiento diseñados para proporcionar una protección excelente a la mayoría de aplicaciones en sistemas de circulación de aceite y de rodamientos industriales, particularmente en aquellos procesos donde la separación de agua (demulsificación) es importante para prolongar la vida útil de los equipos. Cumple los requerimientos básicos de la norma Morgan de aceites lubricantes para rodamientos comunes.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,97 @@
+{
+  "id": "001J0923",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Coolant Essential Ready to Use",
+  "description": "Conventional antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": "",
+  "category": "Liquide de refroidissement /Antigel - Concentré",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b0dd84f8-37c5-40b7-9d8a-e7eb74bfa749.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Essential Ready to Use (Europe) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488750.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Essential Ready to Use (Europe) France FR 140003182031 EHS V1.3 04-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488751.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Essential Ready to Use (Europe) France EN 140003182031 EHS V1.3 04-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/f34aecd2-c58a-49f2-8385-84e5c3bb2b9a.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Essential Ready to Use (Europe) France FR TDG V1.2 16-Feb-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0923_002VWL_A863",
+      "name": "Bouteille 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550061776",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0923_002YBF_A863",
+      "name": "Bouteille 4 L Local Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550061778",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0923_002VSH_A863",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550061775",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0923_002YBD_A863",
+      "name": "Bouteille 1 L Local Plastic Rimula Grey (12) ",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550061777",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-coolant-essential-ready-to-use-4l"
+}

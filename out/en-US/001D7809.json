@@ -1,0 +1,97 @@
+{
+  "id": "001D7809",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Morlina S2 B 100",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "aviation turbines",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "cooling",
+    "cooling system",
+    "enclosed gear",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "marine",
+    "marine reversing gears",
+    "morgoil",
+    "oil lubricated bearings",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "rollneck bearings",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "turbine",
+    "vacuum pumps",
+    "water",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff4b0b80-7e51-4ecf-984e-60da93ef5a44.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 100 EN TDG V3.3 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562314.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 100 United States EN 140002686046 EHS V1.6 10-JUN-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B oils are high performance oils designed to provide outstanding oxidation and water separation protection for most general industrial bearing and circulating oil system applications and certain other industrial applications which do not require oils with extreme pressure (EP) properties.  These oils meet the requirements of the Morgan Construction Company and Danieli for common bearing oils.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "001G8392",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell SL 2480",
+  "description": "Industrial Hydraulic Fluid for wide temperature range",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4f22fef1-50ea-4b08-b726-a218873c3ee6.pdf",
+      "type": "GTDS",
+      "name": "SL 2480 EN TDG V1.0 07-Mar-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01599683.PDF",
+      "type": "LMSDS",
+      "name": "SL 2480 India EN 140006501563 EHS V1.1 15-MAR-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8392_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010927",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8392_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550049559",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "If further information is required please contact the Owning Product Manager or Deputy Product Manager as indicated in the GPC",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

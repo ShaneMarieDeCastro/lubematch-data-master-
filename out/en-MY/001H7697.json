@@ -1,0 +1,88 @@
+{
+  "id": "001H7697",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix Protect 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7e916589-17f9-422c-af9e-0886dc4a66f0.pdf",
+      "type": "GTDS",
+      "name": "Helix Protect 0W-30 (SP) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02390313.PDF",
+      "type": "LMSDS",
+      "name": "Helix Protect 0W-30 (SP) Malaysia Malay (Bahasa Melayu)",
+      "language": "MS"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-MY/72f20168-4122-4911-9506-f285d41b9298.pdf",
+      "type": "LTDS",
+      "name": "Helix Protect 0W-30 (SP) Malaysia English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02390312.PDF",
+      "type": "LMSDS",
+      "name": "Helix Protect 0W-30 (SP) Malaysia English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H7697_002W2M_A04U",
+      "name": "Bottle 4 L Wishbone Plastic Helix Blue (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550054072",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Fully Synthetic Motor Oil expertly engineered to deliver enhanced protection for your engine.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

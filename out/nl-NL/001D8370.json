@@ -1,0 +1,67 @@
+{
+  "id": "001D8370",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Diala S2 ZU-I Dried GT",
+  "description": "Uninhibited Electrical Insulating Oil",
+  "family": "Diala",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Elektrische oliën",
+  "applicationKeys": [
+    "bearing",
+    "electrical",
+    "electrical fluid",
+    "heat transfer",
+    "insulating",
+    "uninhibited"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/b9960444-8e46-4b1e-9cd0-5f4b3840d431.pdf",
+      "type": "GTDS",
+      "name": "Diala S2 ZU-I Dried gasoil tariff EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573867.PDF",
+      "type": "LMSDS",
+      "name": "Diala S2 ZU-I Dried gasoil tariff Netherlands EN 140002783873 EHS V2.5 11-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/a894e201-35f5-4ebb-9400-ddfe83f977a7.pdf",
+      "type": "LTDS",
+      "name": "Diala S2 ZU-I Dried gasoil tariff Netherlands NL TDG V2.2 20-Sep-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573866.PDF",
+      "type": "LMSDS",
+      "name": "Diala S2 ZU-I Dried gasoil tariff Netherlands NL 140002783873 EHS V2.5 11-MAY-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S2 ZU-I Dried gasoil tariff voldoet aan zowel de oude en de nieuwe testen voor kopercorrosie.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,612 @@
+{
+  "id": "001E8701",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Diala S4 ZX-I",
+  "description": "Premium Inhibited Electrical Insulating Oil",
+  "family": "Diala",
+  "parentCategory": null,
+  "category": "Electrical Oils",
+  "applicationKeys": [
+    "dielectric fluid",
+    "electrical",
+    "electrical fluid",
+    "engine",
+    "gas",
+    "heat transfer",
+    "hydraulic system",
+    "hydraulics",
+    "inhibited",
+    "insulating",
+    "landfill",
+    "sewage",
+    "stationary"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2d9d3e00-fc3d-432a-a239-135da3e5837f.pdf",
+      "type": "GTDS",
+      "name": "Diala S4 ZX-I EN TDG V4.5 02-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637306.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-I India EN 140006501563 EHS V2.7 10-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/ba57b9db-0ba4-4639-aabe-314b6f3496dc.pdf",
+      "type": "LTDS",
+      "name": "Diala S4 ZX-I India EN TDG V4.5 02-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E8701_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550040071",
+      "margin": "1.08096198073547",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S4 ZX-I meets both the established and new industry copper corrosion tests.",
+  "physicalCharacteristics": [
+    {
+      "property": "Appearance",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "",
+      "value": "Clear, free from sediment and "
+    },
+    {
+      "property": "Density",
+      "method": "ISO 3675",
+      "uom": "@20°C",
+      "units": "kg/m³ ",
+      "value": ""
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s ",
+      "value": ""
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@-30°C",
+      "units": "mm²/s ",
+      "value": ""
+    },
+    {
+      "property": "Flashpoint P.M.",
+      "method": "ISO 2719",
+      "uom": "",
+      "units": "°C ",
+      "value": "135"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C ",
+      "value": ""
+    },
+    {
+      "property": "Neutralisation value",
+      "method": "IEC 62021-1",
+      "uom": "",
+      "units": "mg KOH/g ",
+      "value": ""
+    },
+    {
+      "property": "Total Sulphur Content",
+      "method": "ASTM D5185",
+      "uom": "",
+      "units": "mg/kg ",
+      "value": ""
+    },
+    {
+      "property": "Corrosive Sulphur",
+      "method": "DIN 51353",
+      "uom": "",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "Potentially Corrosive Sulphur",
+      "method": "IEC 62535",
+      "uom": "",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "Corrosive Sulphur",
+      "method": "ASTM D1275B",
+      "uom": "",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "Breakdown Voltage After Treatment",
+      "method": "IEC 60156",
+      "uom": "",
+      "units": "kV ",
+      "value": "70"
+    },
+    {
+      "property": "Dielectric Dissipation Factor",
+      "method": "IEC 60247",
+      "uom": "@90°C",
+      "units": "DDF ",
+      "value": ""
+    },
+    {
+      "property": "Oxidation Stability",
+      "method": "IEC 61125 C",
+      "uom": "500h / 120°C",
+      "units": "",
+      "value": "Section 7.1 Limits"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "IEC 61125 C",
+      "uom": "",
+      "units": "mg KOH/g ",
+      "value": ""
+    },
+    {
+      "property": "Sludge",
+      "method": "IEC 61125 C",
+      "uom": "",
+      "units": "%m ",
+      "value": ""
+    },
+    {
+      "property": "Dielectric Dissipation Factor",
+      "method": "IEC 61125 C",
+      "uom": " DDF @90°C",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "Water content (Bulk)",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": ""
+    },
+    {
+      "property": "2-Furfural and related compounds content",
+      "method": "IEC 61198",
+      "uom": "",
+      "units": "mg/kg",
+      "value": ""
+    },
+    {
+      "property": "Metal passivator additives",
+      "method": "IEC 60666",
+      "uom": "",
+      "units": "mg/kg",
+      "value": ""
+    },
+    {
+      "property": "Oxidation inhibitor content (DBPC)",
+      "method": "",
+      "uom": "",
+      "units": "% mass",
+      "value": ""
+    },
+    {
+      "property": "PCA Content",
+      "method": "IP346",
+      "uom": "",
+      "units": "% mass ",
+      "value": ""
+    },
+    {
+      "property": "PCB content",
+      "method": "IEC 61619",
+      "uom": "",
+      "units": "mg/kg",
+      "value": ""
+    },
+    {
+      "property": "Breakdown Voltage Untreated",
+      "method": "IEC 60156",
+      "uom": "",
+      "units": "kV ",
+      "value": "30"
+    },
+    {
+      "property": "Water content (Drums/IBC)",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": ""
+    },
+    {
+      "property": "Appearance",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "",
+      "value": "Clear, free from sediment and "
+    },
+    {
+      "property": "Density",
+      "method": "ISO 3675",
+      "uom": "@20°C",
+      "units": "kg/m³ ",
+      "value": "895"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s ",
+      "value": "12"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@-30°C",
+      "units": "mm²/s ",
+      "value": "1 800"
+    },
+    {
+      "property": "Flashpoint P.M.",
+      "method": "ISO 2719",
+      "uom": "",
+      "units": "°C ",
+      "value": ""
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C ",
+      "value": "-40"
+    },
+    {
+      "property": "Neutralisation value",
+      "method": "IEC 62021-1",
+      "uom": "",
+      "units": "mg KOH/g ",
+      "value": "0.01"
+    },
+    {
+      "property": "Total Sulphur Content",
+      "method": "ASTM D5185",
+      "uom": "",
+      "units": "mg/kg ",
+      "value": "Section 7.1 limit 500"
+    },
+    {
+      "property": "Corrosive Sulphur",
+      "method": "DIN 51353",
+      "uom": "",
+      "units": "",
+      "value": "Not corrosive"
+    },
+    {
+      "property": "Potentially Corrosive Sulphur",
+      "method": "IEC 62535",
+      "uom": "",
+      "units": "",
+      "value": "Not corrosive"
+    },
+    {
+      "property": "Corrosive Sulphur",
+      "method": "ASTM D1275B",
+      "uom": "",
+      "units": "",
+      "value": "*"
+    },
+    {
+      "property": "Breakdown Voltage After Treatment",
+      "method": "IEC 60156",
+      "uom": "",
+      "units": "kV ",
+      "value": ""
+    },
+    {
+      "property": "Dielectric Dissipation Factor",
+      "method": "IEC 60247",
+      "uom": "@90°C",
+      "units": "DDF ",
+      "value": "0.005"
+    },
+    {
+      "property": "Oxidation Stability",
+      "method": "IEC 61125 C",
+      "uom": "500h / 120°C",
+      "units": "",
+      "value": "Section 7.1 Limits"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "IEC 61125 C",
+      "uom": "",
+      "units": "mg KOH/g ",
+      "value": "0.3"
+    },
+    {
+      "property": "Sludge",
+      "method": "IEC 61125 C",
+      "uom": "",
+      "units": "%m ",
+      "value": "0.05"
+    },
+    {
+      "property": "Dielectric Dissipation Factor",
+      "method": "IEC 61125 C",
+      "uom": " DDF @90°C",
+      "units": "",
+      "value": "0.05"
+    },
+    {
+      "property": "Water content (Bulk)",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": "30"
+    },
+    {
+      "property": "2-Furfural and related compounds content",
+      "method": "IEC 61198",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "Not detectable"
+    },
+    {
+      "property": "Metal passivator additives",
+      "method": "IEC 60666",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "Not detectable"
+    },
+    {
+      "property": "Oxidation inhibitor content (DBPC)",
+      "method": "",
+      "uom": "",
+      "units": "% mass",
+      "value": ""
+    },
+    {
+      "property": "PCA Content",
+      "method": "IP346",
+      "uom": "",
+      "units": "% mass ",
+      "value": "3"
+    },
+    {
+      "property": "PCB content",
+      "method": "IEC 61619",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "Not detectable"
+    },
+    {
+      "property": "Breakdown Voltage Untreated",
+      "method": "IEC 60156",
+      "uom": "",
+      "units": "kV ",
+      "value": ""
+    },
+    {
+      "property": "Water content (Drums/IBC)",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": "40"
+    },
+    {
+      "property": "Appearance",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "",
+      "value": "Complies"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 3675",
+      "uom": "@20°C",
+      "units": "kg/m³ ",
+      "value": "805"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s ",
+      "value": "9.9"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@-30°C",
+      "units": "mm²/s ",
+      "value": "523"
+    },
+    {
+      "property": "Flashpoint P.M.",
+      "method": "ISO 2719",
+      "uom": "",
+      "units": "°C ",
+      "value": "191"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C ",
+      "value": "-42"
+    },
+    {
+      "property": "Neutralisation value",
+      "method": "IEC 62021-1",
+      "uom": "",
+      "units": "mg KOH/g ",
+      "value": "0.01"
+    },
+    {
+      "property": "Total Sulphur Content",
+      "method": "ASTM D5185",
+      "uom": "",
+      "units": "mg/kg ",
+      "value": "1"
+    },
+    {
+      "property": "Corrosive Sulphur",
+      "method": "DIN 51353",
+      "uom": "",
+      "units": "",
+      "value": "Not corrosive"
+    },
+    {
+      "property": "Potentially Corrosive Sulphur",
+      "method": "IEC 62535",
+      "uom": "",
+      "units": "",
+      "value": "Not corrosive"
+    },
+    {
+      "property": "Corrosive Sulphur",
+      "method": "ASTM D1275B",
+      "uom": "",
+      "units": "",
+      "value": "Not corrosive"
+    },
+    {
+      "property": "Breakdown Voltage After Treatment",
+      "method": "IEC 60156",
+      "uom": "",
+      "units": "kV ",
+      "value": "78"
+    },
+    {
+      "property": "Dielectric Dissipation Factor",
+      "method": "IEC 60247",
+      "uom": "@90°C",
+      "units": "DDF ",
+      "value": "0.001"
+    },
+    {
+      "property": "Oxidation Stability",
+      "method": "IEC 61125 C",
+      "uom": "500h / 120°C",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "Total Acidity",
+      "method": "IEC 61125 C",
+      "uom": "",
+      "units": "mg KOH/g ",
+      "value": "0.02"
+    },
+    {
+      "property": "Sludge",
+      "method": "IEC 61125 C",
+      "uom": "",
+      "units": "%m ",
+      "value": "0.01"
+    },
+    {
+      "property": "Dielectric Dissipation Factor",
+      "method": "IEC 61125 C",
+      "uom": " DDF @90°C",
+      "units": "",
+      "value": "0.001"
+    },
+    {
+      "property": "Water content (Bulk)",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": "14"
+    },
+    {
+      "property": "2-Furfural and related compounds content",
+      "method": "IEC 61198",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "Complies"
+    },
+    {
+      "property": "Metal passivator additives",
+      "method": "IEC 60666",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "Complies"
+    },
+    {
+      "property": "Oxidation inhibitor content (DBPC)",
+      "method": "",
+      "uom": "",
+      "units": "% mass",
+      "value": "0.2"
+    },
+    {
+      "property": "PCA Content",
+      "method": "IP346",
+      "uom": "",
+      "units": "% mass ",
+      "value": "Complies"
+    },
+    {
+      "property": "PCB content",
+      "method": "IEC 61619",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "Complies"
+    },
+    {
+      "property": "Breakdown Voltage Untreated",
+      "method": "IEC 60156",
+      "uom": "",
+      "units": "kV ",
+      "value": "70"
+    },
+    {
+      "property": "Water content (Drums/IBC)",
+      "method": "IEC 60296",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": "14"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DhszQAC&field=Attachment__Name__s",
+      "family": "Diala",
+      "savings": 139000,
+      "title": "Shell Diala S4 ZX-I"
+    }
+  ],
+  "commerce": null
+}

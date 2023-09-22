@@ -1,0 +1,62 @@
+{
+  "id": "001G6105",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Spirax S6 ATF 134ME",
+  "description": "Automatic transmission fluid for Mercedes Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/710b5ebb-af96-4e5f-ba13-c46843677d9e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF 134ME EN TDG V1.3 06-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610961.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME France EN 140003182031 EHS V1.3 05-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610962.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME France FR 140003182031 EHS V1.3 05-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/0bceb856-93d1-4f6c-8f0b-1b5ca40fb5d7.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF 134ME France FR TDG V1.3 16-Jul-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.15",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.15"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF 134ME est une huile de qualité de haute technologie destinée pour la dernière génération de boîtes de vitesses automatiques Mercedes-Benz à 7 vitesses.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

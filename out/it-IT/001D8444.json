@@ -1,0 +1,75 @@
+{
+  "id": "001D8444",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell GadusRail S3 EUFR",
+  "description": "Premium Extreme Pressure Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi EP a base di olio minerale",
+  "applicationKeys": [
+    "ep",
+    "european axle box",
+    "extreme pressure",
+    "heavy load",
+    "high load",
+    "lithium based",
+    "low speed railway",
+    "medium speed railway",
+    "premium",
+    "rail",
+    "railroad",
+    "railroad axle box",
+    "roller bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/65fdda31-5ae2-4677-b3ac-3ba2c357c9fb.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 EUFR EN TDG V3.2 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/687d760b-f233-45dd-8d42-b1eb9a2a7b6d.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S3 EUFR Italy IT TDG V3.2 14-Nov-2018",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608107.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUFR Italy EN 140007645406 EHS V3.1 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608136.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUFR Italy IT 140007645406 EHS V3.1 03-JUL-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 a",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 a"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

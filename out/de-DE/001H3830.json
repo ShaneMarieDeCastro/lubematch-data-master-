@@ -1,0 +1,61 @@
+{
+  "id": "001H3830",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Alexia 100",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": "Marine Schmierstoffe",
+  "category": "Motoröle - Zylinder- und Systemschmiermittel",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6b83a79d-3f13-4e15-8185-c8af9cd6aa79.pdf",
+      "type": "GTDS",
+      "name": "Alexia 100 EN TDG V1.2 13-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533524.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 100 Germany EN 140001492039 EHS V1.6 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533523.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 100 Germany DE 140001492039 EHS V1.6 02-MAR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3830_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550052441",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 100 is a cylinder lubricant designed for use in two stroke low speed diesel engines using residual fuel oil with high sulphur content. It is a BN100 and SAE 50 lubricant, formulated with proven and reliable technology.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

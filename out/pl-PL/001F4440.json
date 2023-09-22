@@ -1,0 +1,143 @@
+{
+  "id": "001F4440",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra ECT C3 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9a2d8fc1-fc85-43e6-b57f-d8c763a780ba.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) EN TDG V2.1 22-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/ad3d45e3-9d02-4729-99b0-2cd8b05de37a.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Poland PL TDG V2.1 25-Aug-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621540.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Poland PL 140003791557 EHS V1.6 21-JUL-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621541.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Poland EN 140003791557 EHS V1.6 21-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4440_002W2L_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550050441",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550049781",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550042824",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002VSI_A246",
+      "name": "Mała beczka 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "l",
+      "pack": "Mała beczka",
+      "materialCode": "550042823",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "Chrysler MS 11106",
+      "organisation": "Chrysler",
+      "spec": "MS 11106"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C3 bazuje na zaawansowanej technologii zapewniającej kompatybilność olejów z systemami kontroli emisji spalin (ECT) i ochronę filtrów cząstek stałych zapewniając wysoką wydajność silnika. Zmniejsza tarcia elementów pracujących silnika zapewniając oszczędność paliwa.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550050441_Shell_Helix_Ult_ECT_C3_5W-30_4L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

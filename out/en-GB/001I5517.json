@@ -1,0 +1,55 @@
+{
+  "id": "001I5517",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Water-Glycol S2 CX 46",
+  "description": "Water Glycol Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/93e22374-ecf8-422f-a54f-1313d2395ec6.pdf",
+      "type": "GTDS",
+      "name": "Water-Glycol S2 CX 46 EN TDG V1.7 16-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621281.PDF",
+      "type": "LMSDS",
+      "name": "Water-Glycol S2 CX 46 United Kingdom EN 140002340634 EHS V2.1 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5517_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550065706",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

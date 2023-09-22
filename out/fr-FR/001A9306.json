@@ -1,0 +1,107 @@
+{
+  "id": "001A9306",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Rotella DD+ 40",
+  "description": "Two-stroke heavy duty diesel engine oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "off highway",
+    "stationary",
+    "two stroke"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008581228_201605200734.pdf",
+      "type": "GTDS",
+      "name": "Rotella DD+ 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552591.PDF",
+      "type": "LMSDS",
+      "name": "Rotella DD+ 40 France FR 140003182031 EHS V3.6 12-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552590.PDF",
+      "type": "LMSDS",
+      "name": "Rotella DD+ 40 France EN 140003182031 EHS V3.6 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/aea87adf-dec6-4c78-bc43-4045cdb81361.pdf",
+      "type": "LTDS",
+      "name": "Rotella DD+ 40 France FR TDG V1.1 01-Feb-2019",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9306_002VNR_A18H",
+      "name": "Sceau 20 L Plastic T/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550016968",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A9306_002VSH_A18H",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550014621",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Detroit Diesel Corporation 7SE270 8810",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "7SE270 8810"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella DD+ 40 est une huile de haute performance pour moteurs fortement chargés, spécialement conçue pour les moteurs diesel deux temps fabriqués par Detroit Diesel Corporation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

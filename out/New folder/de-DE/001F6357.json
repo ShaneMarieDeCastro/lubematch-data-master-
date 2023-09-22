@@ -1,0 +1,109 @@
+{
+  "id": "001F6357",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Omala S5 Wind 320",
+  "description": "Advanced Synthetic Wind Turbine Gearbox Oil",
+  "family": "Omala",
+  "parentCategory": "Industriegetriebeöle",
+  "category": "Industriegetriebeöle",
+  "applicationKeys": [
+    "circulation",
+    "circulation system",
+    "excellent water separation",
+    "foam resistance",
+    "gearbox",
+    "heavy duty",
+    "high cleanliness",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "pao",
+    "rapid air release",
+    "wind turbine transmission",
+    "wind turbines",
+    "yaw and pitch drive gearboxes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/93c5a3c6-42d2-4531-9e2f-6e9ab859e22d.pdf",
+      "type": "GTDS",
+      "name": "Omala S5 Wind 320 EN TDG V1.8 06-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/ea997193-214a-444b-ba09-0d5a51a32c90.pdf",
+      "type": "LTDS",
+      "name": "Omala S5 Wind 320 Germany DE TDG V1.8 07-Mar-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609323.PDF",
+      "type": "LMSDS",
+      "name": "Omala S5 Wind 320 Germany EN 140001492039 EHS V3.1 04-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609324.PDF",
+      "type": "LMSDS",
+      "name": "Omala S5 Wind 320 Germany DE 140001492039 EHS V3.1 04-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F6357_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550050988",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 81400-4",
+      "organisation": "ISO",
+      "spec": "81400-4"
+    },
+    {
+      "name": "GB 33540.3-2017",
+      "organisation": "GB",
+      "spec": "33540.3-2017"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Die innovative Formulierung wurde entwickelt, um die Getriebe von Windturbinen zu schützen durch Minimierung des Verschleißes an Lagern und Zahnrädern, Schutz vor Graufleckigkeit sowie effektive Fließfähigkeit bei extrem niedrigen Temperaturen und geringer Schaumbildung.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

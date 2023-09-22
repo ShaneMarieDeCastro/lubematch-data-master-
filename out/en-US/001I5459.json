@@ -1,0 +1,81 @@
+{
+  "id": "001I5459",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe S3 DU 68",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/30e917c4-3161-4176-9a26-1a4fa217c43d.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S3 DU 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/57ba2c8d-7e42-4f55-943b-c1cb711ceb00.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 68 United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02620600.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 68 United States EN 140002686046 EHS V1.3 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5459_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057080",
+      "margin": "1.24758622099261",
+      "packShot": ""
+    },
+    {
+      "code": "001I5459_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057079",
+      "margin": "2.30351498764244",
+      "packShot": ""
+    },
+    {
+      "code": "001I5459_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012146",
+      "margin": "1.6163543266795",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe S3 DU 68 is a synthetic fire-resistant hydraulic fluid, based on very high VI, polyalkylene glycol (PAG) base stocks, coupled with a proven ashless additive package. Shell EcoSafe S3 DU 68 has been designed to minimize fluid degradation and thus extend fluid changeout intervals under even the most severe operating conditions. Shell EcoSafe S3 DU 68 provides the performance properties demanded by today’s high-performance hydraulic systems. Shell EcoSafe S3 DU 68 is readily biodegradable.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

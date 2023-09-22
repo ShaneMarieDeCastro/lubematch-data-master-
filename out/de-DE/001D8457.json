@@ -1,0 +1,142 @@
+{
+  "id": "001D8457",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S2 V220AD 1",
+  "description": "High Performance Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "lithium",
+    "moly",
+    "shock load",
+    "versatile",
+    "water tolerant"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7c29265f-3d94-4a95-ac36-1a99ef45e72e.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220AD 1 EN TDG V2.3 15-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/652cd65a-4cb7-43c4-89fa-51a46f5aad16.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220AD 1 Germany DE TDG V2.3 15-Nov-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595120.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220AD 1 Germany DE 140001492039 EHS V2.7 14-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594811.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220AD 1 Germany EN 140001492039 EHS V2.7 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8457_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028031",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Sie basieren auf hochviskosen Mineralölen und einer Lithium/Calcium-Mischseife und beinhaltet zusätzlich Korrosions-, Oxidations- und Verschleißschutz-, sowie Hochdruckadditive. Außerdem enthält es Feststoffe um so einen hohen Widerstand gegen Stoßbelastungen zu leisten.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "1"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Schwarz"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium/Calcium"
+    },
+    {
+      "property": "Grundöltyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "18"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25 °C",
+      "units": "0,1mm",
+      "value": "310-340"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "170"
+    },
+    {
+      "property": "4 Kugel-Test(VKA Test)",
+      "method": "IP 239",
+      "uom": "",
+      "units": "Kg",
+      "value": "315"
+    },
+    {
+      "property": "4 Kugel-Test",
+      "method": "IP 239",
+      "uom": "",
+      "units": "Kg typical",
+      "value": "400"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

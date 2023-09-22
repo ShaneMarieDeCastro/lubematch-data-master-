@@ -1,0 +1,218 @@
+{
+  "id": "001A9047",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Turbo Oil CC 32",
+  "description": "Very High Performance Combine Cycle Turbine Oil",
+  "family": "Turbo",
+  "parentCategory": "",
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    "aero derivative",
+    "ashless",
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "cng",
+    "combined cycle",
+    "combined cycle turbine",
+    "combined cycle turbines",
+    "engine",
+    "fixed",
+    "fluid coupling",
+    "gas",
+    "gas turbines",
+    "gearbox",
+    "heavy duty",
+    "hydraulic control system",
+    "hydraulic system",
+    "industrial",
+    "industrial gas turbines",
+    "journal",
+    "lng",
+    "lpg",
+    "natural gas",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "rollers",
+    "stationary",
+    "steam",
+    "steam turbine",
+    "steam turbines",
+    "tost life 10000 hours",
+    "transmissions",
+    "turbine",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6bbfbbd2-8376-42c6-bc9d-283362f1632a.pdf",
+      "type": "GTDS",
+      "name": "Turbo CC 32 EN TDG V3.6 08-Mar-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01932481.PDF",
+      "type": "LMSDS",
+      "name": "Turbo CC 32 India EN 140006501563 EHS V1.3 03-JAN-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/0852d0bf-a10f-48a5-a03a-a41a930a538b.pdf",
+      "type": "LTDS",
+      "name": "Turbo CC 32 India EN TDG V3.6 21-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9047_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550028795",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A9047_002VSH_A15O",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550011121",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4304-06a Type II",
+      "organisation": "ASTM",
+      "spec": "D4304-06a Type II"
+    },
+    {
+      "name": "Siemens 21 T0591",
+      "organisation": "Siemens",
+      "spec": "21 T0591"
+    },
+    {
+      "name": "Siemens 800 037 98",
+      "organisation": "Siemens",
+      "spec": "800 037 98"
+    },
+    {
+      "name": "Alstom NBA P50001A",
+      "organisation": "Alstom",
+      "spec": "NBA P50001A"
+    },
+    {
+      "name": "Siemens PD-55125Z3",
+      "organisation": "Siemens",
+      "spec": "PD-55125Z3"
+    },
+    {
+      "name": "Alstom HTGD 90 117 V0001 AA",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117 V0001 AA"
+    },
+    {
+      "name": "General Electric GEK 46506E",
+      "organisation": "General Electric",
+      "spec": "GEK 46506E"
+    },
+    {
+      "name": "Solar ES 9-224Y Class II",
+      "organisation": "Solar",
+      "spec": "ES 9-224Y Class II"
+    },
+    {
+      "name": "Siemens TLV 9013 05",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 05"
+    },
+    {
+      "name": "ASTM D4304-06a Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-06a Type I"
+    },
+    {
+      "name": "JIS K 2213 Class 2",
+      "organisation": "JIS",
+      "spec": "K 2213 Class 2"
+    },
+    {
+      "name": "ASTM D4304-06a Type III",
+      "organisation": "ASTM",
+      "spec": "D4304-06a Type III"
+    },
+    {
+      "name": "DIN 51515-2 L-TG",
+      "organisation": "DIN",
+      "spec": "51515-2 L-TG"
+    },
+    {
+      "name": "Siemens TLV 9013 04",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 04"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "Siemens/Mannesmann Demag 800 037 98 TD 32/TD 46",
+      "organisation": "Siemens",
+      "spec": "/Mannesmann Demag 800 037 98 TD 32/TD 46"
+    },
+    {
+      "name": "General Electric GEK 101941A",
+      "organisation": "General Electric",
+      "spec": "GEK 101941A"
+    },
+    {
+      "name": "General Electric GEK 32568H",
+      "organisation": "General Electric",
+      "spec": "GEK 32568H"
+    },
+    {
+      "name": "General Electric GEK 107395A",
+      "organisation": "General Electric",
+      "spec": "GEK 107395A"
+    },
+    {
+      "name": "Skoda Tp 0010P/97",
+      "organisation": "Skoda",
+      "spec": "Tp 0010P/97"
+    },
+    {
+      "name": "General Electric GEK 28143B",
+      "organisation": "General Electric",
+      "spec": "GEK 28143B"
+    },
+    {
+      "name": "JIS K 2213-2006 Class 2",
+      "organisation": "JIS",
+      "spec": "K 2213-2006 Class 2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo Oils CC have been developed to meet the severe demands imposed by modern, heavy duty turbine applications, exceeding OEM specifications for both gas and steam turbines. A patented, metal free additive technology, ensures that these products offers substantially improved performance over conventional turbine oils. The unique combination of excellent oxidation and thermal stability, coupled with the resistance to formation of deposits and varnish, sludge control and surface properties make Shell Turbo Oils CC an excellent choice lubricant for emerging combined cycle turbine technology, as well as existing gas and steam turbine plants.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

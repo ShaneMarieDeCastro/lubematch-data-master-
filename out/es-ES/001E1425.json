@@ -1,0 +1,55 @@
+{
+  "id": "001E1425",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Ondina 919",
+  "description": "Medicinal white oil",
+  "family": "Ondina",
+  "parentCategory": "Otros lubricantes industriales",
+  "category": "Aceites blancos medicinales",
+  "applicationKeys": [
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "mobile",
+    "pump piston"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Generic Grade",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Ondina_919_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Ondina 919 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581698.PDF",
+      "type": "LMSDS",
+      "name": "Ondina 919 Spain ES 140003966322 EHS V1.7 25-MAY-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581673.PDF",
+      "type": "LMSDS",
+      "name": "Ondina 919 Spain EN 140003966322 EHS V1.7 25-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Ondina Oils are highly refined, non-stabilised, aromatic-free paraffinic or naphthenic white mineral oils complying with the stringent pharmacopoeia purity requirements. Shell Ondina 919 is designated to substitute Shell Ondina 917.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

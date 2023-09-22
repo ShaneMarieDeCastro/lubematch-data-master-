@@ -1,0 +1,59 @@
+{
+  "id": "001B1103",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State Multi Vehicle ATF",
+  "description": "ATF fluid",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic transmissions",
+    "buses",
+    "cars",
+    "light truck",
+    "mobile hydraulics",
+    "multiple oem",
+    "passenger car",
+    "power steering",
+    "powershift"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140003967125_20110624110_8.pdf",
+      "type": "GTDS",
+      "name": "QS Multi-Vehicle ATF English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562569.PDF",
+      "type": "LMSDS",
+      "name": "QS Multi-Vehicle ATF United States EN 140002686046 EHS V2.1 05-FEB-2014",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Honda ATF-Z1",
+      "organisation": "Honda",
+      "spec": "ATF-Z1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

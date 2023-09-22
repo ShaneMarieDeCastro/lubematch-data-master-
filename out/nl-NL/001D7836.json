@@ -1,0 +1,185 @@
+{
+  "id": "001D7836",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Omala S2 G 150",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriële tandwielkastoliën",
+  "category": "Industriële tandwielkastoliën",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "enclosed gear",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "heavy fuel",
+    "helical",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "offshore",
+    "on highway",
+    "plain",
+    "power take off pto",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "roller tapered",
+    "rollers",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "slew",
+    "splash lubricated bearings",
+    "spur",
+    "stern tube seal",
+    "swing drive",
+    "tandem drive",
+    "thrust",
+    "transmissions",
+    "trunnion",
+    "turbine",
+    "two stroke",
+    "vacuum pumps",
+    "variable",
+    "water"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S2_G_150_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 G 150 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/db07bd98-64bf-4b10-8d6f-0e91a96944bc.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 G 150 Netherlands NL TDG V4.3 07-Feb-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575796.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 150 Netherlands NL 140002783873 EHS V2.6 17-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575798.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 150 Netherlands EN 140002783873 EHS V2.6 17-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-77",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-77"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Omala S2 G smeeroliën zijn hoogwaardige 'extreme-pressure' tandwielkastoliën, ontwikkeld voor zwaarbelaste industriële overbrengingen. De uitstekende bescherming tegen hoge belasting en goede wrijvingseigenschappen bieden superieure prestaties in tandwielkasten.\n",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "897"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

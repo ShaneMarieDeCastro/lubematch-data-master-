@@ -1,0 +1,66 @@
+{
+  "id": "001E2775",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Risella X 430",
+  "description": "High Quality Technical White Oil",
+  "family": "Risella",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Technische Weißöle",
+  "applicationKeys": [
+    "fixed",
+    "heat transfer",
+    "hydraulic system",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8aa6ba0d-f3a0-4bd2-8592-44cac782e075.pdf",
+      "type": "GTDS",
+      "name": "Risella X 430 EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575128.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 Germany EN 140001492039 EHS V1.7 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575129.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 Germany DE 140001492039 EHS V1.7 15-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2775_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550031570",
+      "margin": "0.500664821296523",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Risella X 430 is a hydocarbon fluid based on Shell Gas-to-Liquid Technology. It´s highly saturated with a high degree of iso paraffinic structures and is almost odourless and very stable in colour.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

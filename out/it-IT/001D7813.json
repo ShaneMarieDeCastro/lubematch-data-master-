@@ -1,0 +1,102 @@
+{
+  "id": "001D7813",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Morlina S2 B 460",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oli di circolazione e per cuscinetti",
+  "category": "Oli circolanti e per cuscinetti",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "roller tapered",
+    "rollers",
+    "rollneck bearings",
+    "water separation",
+    "wire rod mill"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0119e91c-e5fd-4015-80e0-72abc9b5c9ca.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 460 EN TDG V2.3 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/a44fe4fc-e109-4cef-b716-78f57b1d3b97.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 460 Italy IT TDG V2.3 27-Feb-2019",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572598.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 460 Italy EN 140007645406 EHS V2.6 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571857.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 460 Italy IT 140007645406 EHS V2.6 04-MAY-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7813_002VSH_A1P5",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550027255",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B sono oli ad elevate prestazioni, formulati per  una eccezionale protezione dall’ossidazione e separazione dall’acqua, nella maggioranza delle applicazioni industriali su cuscinetti e  sistemi a circolazione e in certe altre applicazioni industriali ove non si richiedano oli con proprietà di estrema pressione (EP).  Questi oli incontrano i requisiti di Morgan Construction Company e Danieli per oli per cuscinetti standard.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,119 @@
+{
+  "id": "001F2650",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra Professional AV-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/23334cba-e7f5-4eb7-89b6-60d5d61d3ca2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AV-L 0W-30 (C3 VW 504/507) EN TDG V1.8 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/481f1af1-9813-452e-866c-8d518281ac09.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AV-L 0W-30 (C3 VW 504/507) United Kingdom EN TDG V1.8 24-Oct-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617523.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 0W-30 (C3 VW 504/507) United Kingdom EN 140002340634 EHS V1.6 13-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2650_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550041875",
+      "margin": "0.685391113123151",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550041876",
+      "margin": "1.79955652744807",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_002YAP_EURO",
+      "name": "Bottle 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046304",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_002YAN_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046303",
+      "margin": "2.5804635520465",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Porsche C30",
+      "organisation": "Porsche",
+      "spec": "C30"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including VW, Audi and Porsche.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550041876_Shell_Helix_Ult_Pro_AV-L_0W-30_20L_en.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-helix-ultra-professional-av-l-0w-30-5ltr-521773191"
+}

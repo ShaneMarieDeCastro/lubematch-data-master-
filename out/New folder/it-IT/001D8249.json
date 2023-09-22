@@ -1,0 +1,179 @@
+{
+  "id": "001D8249",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S4 CX 10W",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Altri oli trasmissione",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "cng",
+    "construction",
+    "diesel",
+    "differential",
+    "disc",
+    "engine",
+    "final drive",
+    "fixed",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "lng",
+    "lpg",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "off highway",
+    "offroad",
+    "offroad hydraulic",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "screw pump",
+    "semi manual",
+    "servo",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "variable",
+    "wet brake"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S4_CX_10W_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 10W English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578900.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 10W Italy IT 140007645406 EHS V2.10 23-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/deceaba4-70a1-4a9b-bf8f-b250bc93a5c8.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 10W Italy IT TDG V3.1 22-May-2018",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578899.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 10W Italy EN 140007645406 EHS V2.10 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8249_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550027805",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 03C",
+      "organisation": "ZF",
+      "spec": "TE-ML 03C"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 10W è studiato per fornire agli operatori un funzionamento senza problemi e massima affidabilità per tutta la vita dell'apparecchiatura. Spirax S4 CX 10W soddisfa i severi requisiti delle moderne trasmissioni, riduttori finali, freni a bagno d’olio e sistemi idraulici montati sui mezzi movimento terra.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "10W"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "36"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "884"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "200"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-36"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

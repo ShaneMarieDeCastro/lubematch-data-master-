@@ -1,0 +1,66 @@
+{
+  "id": "001A0909",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "AeroShell Fluid 602",
+  "description": "Synthetic hydrocarbon coolant fluid for aircraft electronics",
+  "family": "AeroShell",
+  "parentCategory": "Środki smarne dla lotnictwa",
+  "category": "Produkty specjalne (dla lotnictwa)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4299307a-adf7-4dcb-ba5f-0a3099155ace.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 602 EN TDG V1.3 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549976.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 602 Poland PL 140003791557 EHS V1.5 11-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550077.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 602 Poland EN 140003791557 EHS V1.5 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-87252E",
+      "organisation": "MIL",
+      "spec": "PRF-87252E"
+    },
+    {
+      "name": "NATO S-1748",
+      "organisation": "NATO",
+      "spec": "S-1748"
+    },
+    {
+      "name": "MIL-PRF-87252C",
+      "organisation": "MIL",
+      "spec": "PRF-87252C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 602 offers exceptional performance over a wide temperature range between -54°C to 200°C and does not react with water, resulting in clean systems and long fluid and component life.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

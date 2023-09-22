@@ -1,0 +1,86 @@
+{
+  "id": "001K4431",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Full Synthetic High Mileage Motor Oil SAE 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ab85124d-df77-4017-9b31-1d7cf94dbe7a.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Full Synthetic High Mileage Motor Oil 0W-20 (SP-GF6) EN TDG V1.0 18-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564135.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Full Synthetic High Mileage Motor Oil 0W-20 (SP-GF6) United States EN 140002686046 EHS V1.3 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001K4431_002XOI_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic Shell Yellow Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550069989",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001K4431_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550069988",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS-M2C962-A1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C962-A1"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^* ^Compared ^to ^Pennzoil® ^Conventional ^High ^Mileage ^Motor ^Oil",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

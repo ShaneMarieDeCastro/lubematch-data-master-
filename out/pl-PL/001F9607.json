@@ -1,0 +1,128 @@
+{
+  "id": "001F9607",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix HX8 ECT 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1e5d7126-b6ca-464d-9d30-4081ea78dc7f.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) EN TDG V2.8 13-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/6e361429-adfd-40b9-a741-14423f04acfd.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Poland PL TDG V2.8 23-Jun-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614003.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Poland EN 140003791557 EHS V1.3 10-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614004.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Poland PL 140003791557 EHS V1.3 10-JUL-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9607_002VSI_A246",
+      "name": "Mała beczka 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "l",
+      "pack": "Mała beczka",
+      "materialCode": "550048141",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002X0G_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550048100",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550048056",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 ECT powstał z zastosowaniem zaawansowanej technologii kompatybilnej z systemami emisji spalin zapewniającej utrzymanie filtrów cząstek stałych w czystości, aby utrzymać wysoką wydajność silnika. Zmniejsza tarcia elementów pracujących silnika zapewniając oszczędność paliwa.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX8_5W-30_ECT_5L_600048380.png",
+  "valueRecord": [],
+  "commerce": null
+}

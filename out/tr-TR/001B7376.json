@@ -1,0 +1,50 @@
+{
+  "id": "001B7376",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Catenex S 879",
+  "description": "Paraffinic Process Oil",
+  "family": "Catenex",
+  "parentCategory": null,
+  "category": "Process Oils-Paraf",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d0644e86-c3c5-4c36-bdf5-78b1bbe9df63.pdf",
+      "type": "GTDS",
+      "name": "Catenex S 879 EN TDG V1.2 21-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319552.PDF",
+      "type": "LMSDS",
+      "name": "Catenex S 879 Turkey EN 140003791542 EHS V1.7 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319587.PDF",
+      "type": "LMSDS",
+      "name": "Catenex S 879 Turkey TR 140003791542 EHS V1.7 11-MAY-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Catenex Oils S are paraffinic process oils manufactured via the solvent extraction process. They are general purpose process oils used as extender or carrier fluids.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

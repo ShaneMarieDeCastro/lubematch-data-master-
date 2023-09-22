@@ -1,0 +1,108 @@
+{
+  "id": "001F4573",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Naturelle S4 Hydraulic Fluid 46",
+  "description": "Ultimate biodegradable synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Ciecze hydrauliczne",
+  "category": "Płyny hydrauliczne",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b5a5b0ff-ed7e-42e7-8dcd-aa2c557fa0ac.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/e3a62507-e366-4347-b3f3-055451620e9e.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 Poland PL TDG V2.0 10-Feb-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606286.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 Poland EN 140003791557 EHS V1.6 30-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606285.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 Poland PL 140003791557 EHS V1.6 30-JUN-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4573_002XXS_A1P5",
+      "name": "Kontener 1000 L Local Composite Hdpe/Steel Opaque with PCR (1)",
+      "size": "1000",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550062480",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4573_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550056320",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4573_002XXW_A1P5",
+      "name": "Wiadro 20 L Tight Head Plastic Helix Grey with PCR (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550062481",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Denison HF-6",
+      "organisation": "Denison",
+      "spec": "HF 6"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Hydraulic Fluid to zaawansowany, biodegradowalny olej hydrauliczny do stosowania w systemach hydraulicznych i systemach przeniesienia mocy. Jest łatwo biodegradowalny i ma niską ekotoksyczność - z tego powodu jest odpowiedni do stosowania w obszarach wrażliwych ekologicznie. Syntetyczna baza oleju Shell Naturelle S4 Hydraulic Fluid oparta na nasyconych estrach organicznych w połączeniu z bezpopiołowymi dodatkami zapewniają znakomite smarowanie i ochronę środowiska.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S4_Hydraulic_Fluid_46_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

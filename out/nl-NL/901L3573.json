@@ -1,0 +1,67 @@
+{
+  "id": "901L3573",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell General Purpose Grease",
+  "description": "Multipurpose Grease",
+  "family": "Generic Branded Product",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie zonder 'EP' additieven",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/814f022e-e372-4222-bc9d-3097c904e9c9.pdf",
+      "type": "GTDS",
+      "name": "General Purpose Grease EN TDG V1.0 29-Jan-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/661e4898-2476-4f30-b84f-ff424b2e37b6.pdf",
+      "type": "LTDS",
+      "name": "General Purpose Grease Netherlands NL TDG V1.0 15-Oct-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581205.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease Netherlands NL 140002783873 EHS V5.1 25-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581204.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease Netherlands EN 140002783873 EHS V5.1 25-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L3573_002VH7_A0H5",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550013808",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Smeervet voor algemeen gebruik op basis van minerale olie en een lithium indikker.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

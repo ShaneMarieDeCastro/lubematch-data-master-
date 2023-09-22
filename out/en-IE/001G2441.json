@@ -1,0 +1,76 @@
+{
+  "id": "001G2441",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix Ultra Professional AJ-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7d6f1e77-f955-4251-8231-f7f25f770f47.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007 Ford 950-A) EN TDG V1.4 30-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554032.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) Ireland EN 140007731156 EHS V1.4 14-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR.03.5007",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5007"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "Ford WSS-M2C950-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C950-A"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines from  Jaguar-Land Rover and Ford and those requiring ACEA C2",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550047974_Shell_Helix_Ult_Pro_AJ-L_0W-30_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

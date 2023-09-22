@@ -1,0 +1,102 @@
+{
+  "id": "001F8437",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Tellus S2 MX 22",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Fluidos hidráulicos",
+  "category": "Fluidos hidráulicos",
+  "applicationKeys": [
+    "antiwear",
+    "better system efficiency",
+    "extended life",
+    "extreme performance",
+    "factory applications",
+    "high tost",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "manufacturing",
+    "marine",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "pump gear",
+    "pump piston",
+    "pump vane",
+    "variable",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/09a4793b-f1d6-41ee-810a-619a8d78c380.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MX 22 (2016) EN TDG V4.2 29-Jan-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02452875.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 22 (2016) Spain EN 140003966322 EHS V2.1 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02454360.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 22 (2016) Spain ES 140003966322 EHS V2.1 21-SEP-2022",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/294bd919-dfaa-4acf-9342-144de6890e0d.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MX 22 (2016) Spain ES TDG V4.2 11-Feb-2020",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "MB-Approval 341.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "341"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Los lubricantes Shell Tellus S2 MX son fluidos hidráulicos de alto rendimiento basados en aceites de base API Grupo II que proporcionan protección y prestaciones sobresalientes en  los equipos industriales y en muchos equipos móviles. Su alta resistencia a la oxidación y su excelente estabilidad térmica ayudan a prevenir la formación de depósitos y lacas que perjudican la eficiencia de los sistemas hidráulicos de transmisión de fuerza o de suspensión.\n",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_tellus_s2_m.png",
+  "valueRecord": [],
+  "commerce": null
+}

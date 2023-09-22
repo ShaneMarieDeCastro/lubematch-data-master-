@@ -1,0 +1,94 @@
+{
+  "id": "001F7729",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Rimula R2 Extra 20W-50",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "lng",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c75d11a0-1e1f-412c-8c16-33d11ef0003b.pdf",
+      "type": "GTDS",
+      "name": "Rimula R2 Extra 20W-50 (CF-4) EN TDG V1.3 06-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02413072.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 Extra 20W-50 (CF-4) Turkey EN 140003791542 EHS V1.9 19-APR-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02413070.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 Extra 20W-50 (CF-4) Turkey TR 140003791542 EHS V1.9 19-APR-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7729_002YCU_A746",
+      "name": "Kapaksız Teneke 16 L Local Tinplate Multi-coloured (1)",
+      "size": "16",
+      "uom": "L",
+      "pack": "Kapaksız Teneke",
+      "materialCode": "550063433",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7729_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550044873",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R2 Extra yağları motoru temiz tutar. Katkı maddeleri depozitlere ve aşınmaya karşı sürekli koruma ve ısı sonucunda oluşan kalınlaşmaya karşı direnç sağlar, turboşarjlı motorlar da dahil olmak üzere birçok ağır hizmet uygulamalarında kullanıma uygundur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,114 @@
+{
+  "id": "001G0570",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix HX8 Professional AG 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "gm"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dd8df411-d428-448d-9459-9424b2d4e379.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SP/GF-6A meet dexos1gen2) EN TDG V3.3 30-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613471.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Netherlands NL 140002783873 EHS V1.4 07-JUL-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/e98db90d-4897-432f-8f7c-51ffaa15159a.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Netherlands NL TDG V3.3 17-Jul-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613472.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Netherlands EN 140002783873 EHS V1.4 07-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0570_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550048138",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Opel OV 040 1547 - G30",
+      "organisation": "Opel",
+      "spec": "OV 040 1547 - G30"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "Chrysler MS 13340",
+      "organisation": "Chrysler",
+      "spec": "MS 13340"
+    },
+    {
+      "name": "VW Norm VWC 53034",
+      "organisation": "VW",
+      "spec": "Norm VWC 53034"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Ford WSS M2C961-A1",
+      "organisation": "Ford",
+      "spec": "WSS M2C961-A1"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontworpen om aan de hoge eisen van hoog performante motoren te voldoen, waaronder General Motors, Opel/Vauxhall en motoren die een API SP of ILSAC GF-6A specificatie vereisen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX8_5W-30_AG_5L_600055099.png",
+  "valueRecord": [],
+  "commerce": null
+}

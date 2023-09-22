@@ -1,0 +1,162 @@
+{
+  "id": "001D8307",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax S6 ATF ZM",
+  "description": "Premium Heavy Duty Transmission Oil for ZF Long Drain",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "buses",
+    "disc",
+    "extended drain",
+    "extended life",
+    "gearbox",
+    "heavy duty",
+    "heavy duty atf",
+    "heavy truck",
+    "hydraulic system",
+    "industrial",
+    "low temperature",
+    "manual",
+    "manual sequential",
+    "pump gear",
+    "synchronised",
+    "transmissions",
+    "trucks",
+    "wet brake",
+    "zf ecomat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7262879e-2382-4618-8fa3-27b484daf46e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF ZM EN TDG V2.4 20-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291087.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF ZM Canada EN 140006579500 EHS V1.7 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/a25d8b1b-bdb2-49eb-99ba-1110effc0a95.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF ZM Canada EN TDG V2.4 20-Sep-2019",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/29193bff-d36c-49b5-ad0e-887443abfcb1.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF ZM Canada FR TDG V2.4 20-Sep-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291086.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF ZM Canada FR 140006579500 EHS V1.7 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 14E",
+      "organisation": "ZF",
+      "spec": "TE-ML 14E"
+    },
+    {
+      "name": "ZF TE-ML 16N",
+      "organisation": "ZF",
+      "spec": "TE-ML 16N"
+    },
+    {
+      "name": "ZF TE-ML 16Q",
+      "organisation": "ZF",
+      "spec": "TE-ML 16Q"
+    },
+    {
+      "name": "ZF TE-ML 20F",
+      "organisation": "ZF",
+      "spec": "TE-ML 20F"
+    },
+    {
+      "name": "MAN 339 Type Z13",
+      "organisation": "MAN",
+      "spec": "339 Type Z13"
+    },
+    {
+      "name": "MAN 339 Type Z4",
+      "organisation": "MAN",
+      "spec": "339 Type Z4"
+    },
+    {
+      "name": "ZF TE-ML 4D",
+      "organisation": "ZF",
+      "spec": "TE-ML 4D"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile Shell Spirax S6 ATF ZM est une huile pour boîte de vitesses automatique entièrement synthétique de qualité supérieure spécialement conçue en partenariat avec ZF en tant que lubrifiant pour la toute dernière génération de transmissions ZF-Ecomat et ZF-Ecolife. Spirax S6 ATF ZM est le fluide de transmission automatique de performance ultime permettant des intervalles de vidange prolongés même dans les conditions les plus sévères.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "61.8"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "10.2"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "153"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "843"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-51"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

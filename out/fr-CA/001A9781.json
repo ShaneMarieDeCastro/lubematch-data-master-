@@ -1,0 +1,205 @@
+{
+  "id": "001A9781",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax S6 ADME 75W-90",
+  "description": "Synthetic high quality axle oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "off highway",
+    "reduction gears",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/625adff6-c5b5-4ffa-b284-75836a0edcfb.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ADME 75W-90 EN TDG V2.4 01-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/f5a72da0-611f-4e4c-9697-1db667afdb14.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ADME 75W-90 Canada FR TDG V2.4 03-May-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02589411.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ADME 75W-90 Canada EN 140006579500 EHS V2.5 09-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/ca9a049b-88a8-4fd5-b670-3b0d1715a826.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ADME 75W-90 Canada EN TDG V2.4 01-Dec-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02589413.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ADME 75W-90 Canada FR 140006579500 EHS V2.5 09-JUN-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9781_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550050846",
+      "margin": "2.38626327860959",
+      "packShot": ""
+    },
+    {
+      "code": "001A9781_002XEM_NAMD",
+      "name": "",
+      "size": "16",
+      "uom": "gal",
+      "pack": "Tonneau",
+      "materialCode": "550050847",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 17B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 12L",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L"
+    },
+    {
+      "name": "ZF TE-ML 19C",
+      "organisation": "ZF",
+      "spec": "TE-ML 19C"
+    },
+    {
+      "name": "ZF TE-ML 12N",
+      "organisation": "ZF",
+      "spec": "TE-ML 12N"
+    },
+    {
+      "name": "MAN 342 Type S1",
+      "organisation": "MAN",
+      "spec": "342 Type S1"
+    },
+    {
+      "name": "ArvinMeritor Specification O76-N",
+      "organisation": "ArvinMeritor",
+      "spec": "Specification O76-N"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "ZF TE-ML 12L - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 235.8",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.8"
+    },
+    {
+      "name": "ZF TE-ML 02B",
+      "organisation": "ZF",
+      "spec": "TE-ML 02B"
+    },
+    {
+      "name": "MAN 342 Type Z2",
+      "organisation": "MAN",
+      "spec": "342 Type Z2"
+    },
+    {
+      "name": "Volvo 97312:040",
+      "organisation": "Volvo",
+      "spec": "97312:040"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "ZF TE-ML 05A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A - Suitable for use in applications which require"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "ZF TE-ML 16F",
+      "organisation": "ZF",
+      "spec": "TE-ML 16F"
+    },
+    {
+      "name": "ZF TE-ML 17B",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ADME 75W-90 est une huile d’essieu entièrement synthétique conçue pour répondre aux dernières exigences de Mercedes Benz et autres essieux lourds.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

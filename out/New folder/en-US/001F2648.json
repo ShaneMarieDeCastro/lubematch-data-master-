@@ -1,0 +1,95 @@
+{
+  "id": "001F2648",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Morlina S4 B 680",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "long life",
+    "low temperature",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c8aa8955-cc1b-4233-ab72-a07683837cdc.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 680 (2014) EN TDG V4.7 11-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563019.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 680 (2014) United States EN 140002686046 EHS V1.6 30-APR-2018",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/69678bd4-70b2-4718-a144-8b24de9756d3.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 680 (2014) United States EN TDG V4.7 16-Jun-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2648_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550042900",
+      "margin": "2.39157053467734",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B oils are high performance synthetic bearing and circulation lubricants, manufactured with high performance base fluids. They offer outstanding lubrication performance, including improved energy efficiency, filterability, and long service life even under challenging operating conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

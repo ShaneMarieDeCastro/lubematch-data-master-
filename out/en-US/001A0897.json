@@ -1,0 +1,177 @@
+{
+  "id": "001A0897",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Caprinus XR 40",
+  "description": "Railroad diesel engine oil",
+  "family": "Caprinus",
+  "parentCategory": null,
+  "category": "Engine Oils - Rail",
+  "applicationKeys": [
+    "bio gas",
+    "diesel",
+    "engine",
+    "fuel",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "locomotive",
+    "low speed",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "railroad",
+    "stationary",
+    "stern tube seal",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff23d016-f52b-4e87-9b09-6bd15ad293f8.pdf",
+      "type": "GTDS",
+      "name": "Caprinus XR 40 EN TDG V1.2 17-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/1430e369-b777-42d3-8f9c-6d46e9ba11ce.pdf",
+      "type": "LTDS",
+      "name": "Caprinus XR 40 United States EN TDG V1.2 17-Oct-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563843.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 40 United States EN 140002686046 EHS V6.6 27-NOV-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0897_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500003002",
+      "margin": "0.92173618999714",
+      "packShot": ""
+    },
+    {
+      "code": "001A0897_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022409",
+      "margin": "1.23155168217478",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "LMOA Generation 5",
+      "organisation": "LMOA",
+      "spec": "Generation 5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The performance of Shell Caprinus XR has been demonstrated in highly rated North American railroad operation subject to the most severe operating conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "15.1"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.908"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "IP 36",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-9"
+    },
+    {
+      "property": "TBN-E",
+      "method": "IP 276",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "13.0"
+    },
+    {
+      "property": "Chlorine Content",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "Trace"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "IP 163",
+      "uom": "NULL",
+      "units": "% wt",
+      "value": "1.5"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,113 @@
+{
+  "id": "001F4017",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Advance 4T AX7 10W-40 (SM/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "four stroke",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d62a5d5c-6958-458c-8d95-6e7ce2209e13.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T AX7 10W-40 (SM/MA2) EN TDG V1.6 17-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534085.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 10W-40 (SM/MA2) United Kingdom EN 140002340634 EHS V2.3 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/8f769e24-4d31-4d59-b0a6-8cf818ae1284.pdf",
+      "type": "LTDS",
+      "name": "Advance 4T AX7 10W-40 (SM/MA2) United Kingdom EN TDG V1.6 17-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T AX7 4 stroke motorcycle engine oil meets the requirements of most motorcycle manufacturers.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "89"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.3"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "167"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "858"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    },
+    {
+      "property": "SAE Viscosity grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "10W-40"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_AX7_10W-40_4T_4L_600059284.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-advance-4t-ax7-10w-40-4ltr-521772541"
+}

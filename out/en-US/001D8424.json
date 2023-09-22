@@ -1,0 +1,159 @@
+{
+  "id": "001D8424",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S3 V220C 1",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "automotive wheel bearings",
+    "axle",
+    "bearing",
+    "breakers",
+    "coloured",
+    "construction",
+    "continous casting",
+    "continuous casting",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "gearbox",
+    "heavy load",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "multipurpose",
+    "off highway",
+    "offroad",
+    "plain bearings",
+    "premium",
+    "quarries",
+    "quarry",
+    "reduction gears",
+    "roller bearings",
+    "roller conveyers",
+    "rollers",
+    "transmissions",
+    "trucks",
+    "vibrating sieves",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/7d9b7467-1d82-4a3c-966d-b5471755e626.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V220C 1 EN TDG V1.4 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562581.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V220C 1 United States EN 140002686046 EHS V7.3 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/d14b5c37-4cca-48f6-8205-207313469f2f.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V220C 1 United States EN TDG V1.4 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8424_002XF1_NAMD",
+      "name": "Intermediate Bulk Containers 1000 kg Local Steel not specified (1)",
+      "size": "1000",
+      "uom": "kg",
+      "pack": "IBC",
+      "materialCode": "550060688",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_002WTV_NAMD",
+      "name": "Cans with Closure 0.12 L Local (Tactic) Plastic Multi-coloured (10)",
+      "size": "0.12",
+      "uom": "L",
+      "pack": "Cans with closure",
+      "materialCode": "550056796",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_002WTW_NAMD",
+      "name": "Cans with Closure 0.25 L Local (Tactic) Plastic Multi-coloured (10)",
+      "size": "0.25",
+      "uom": "L",
+      "pack": "Cans with closure",
+      "materialCode": "550056797",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_002VKN_A1WJ",
+      "name": "Keg 50 kg O/H Steel + Liner Shell Red, Shell Yellow(1) WL",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550026855",
+      "margin": "2.25513376697835",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_002XL3_A1WJ",
+      "name": "Cartridges 0.4 kg Local (Fiber Grease) Composite Multi-coloured (10)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridges",
+      "materialCode": "550027557",
+      "margin": "2.6701689710626",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550026912",
+      "margin": "2.04073934008678",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006032",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB-GC",
+      "organisation": "ASTM",
+      "spec": "D4950 LB-GC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V220C greases are premium multi-purpose greases based on high viscosity index mineral oil and a lithium complex soap thickener. They contain the latest additives to offer excellent high temperature oxidation performance and other additives to enhance its anti-oxidation, anti-wear and anti-corrosion properties. Shell Gadus S3 V220C greases are especially suitable for bearings operating at high temperature and under load.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Pail_Gadus_S3V220.png",
+  "valueRecord": [],
+  "commerce": null
+}

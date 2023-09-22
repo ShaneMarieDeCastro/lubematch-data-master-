@@ -1,0 +1,133 @@
+{
+  "id": "001H2220",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix HX8 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/99d04091-7b3d-4931-b6ae-c7ef52bf1040.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) EN TDG V1.4 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608484.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) Poland EN 140003791557 EHS V1.3 04-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/5224b15a-cadb-43d3-97ef-dd5e32713451.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) Poland PL TDG V1.4 23-Aug-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608476.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) Poland PL 140003791557 EHS V1.3 04-JUL-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2220_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550052836",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2220_002VSI_A246",
+      "name": "Mała beczka 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "l",
+      "pack": "Mała beczka",
+      "materialCode": "550052792",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2220_002WL0_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550052794",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "Fiat 9.55535-M2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-M2 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 to olej syntetyczny, który zabezpiecza i utrzymuje nowoczesne silniki w czystości. Zapobiega powstawaniu szkodliwych osadów, które mogą doprowadzić do utraty mocy. Znakomite zabezpieczenie przed powstawaniem osadów jest zgodne z zalecanymi przez producentów samochodów interwałami wymiany.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

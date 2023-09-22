@@ -1,0 +1,83 @@
+{
+  "id": "001G0276",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil High Mileage 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4ade3e8e-bfdf-42e1-b874-2bf961528509.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SN) EN TDG V1.3 11-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291570.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SN) Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/55d816c7-6fa5-46ba-b416-ba417ba22278.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SN) Canada FR TDG V1.3 12-Jul-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290838.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SN) Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/3316264d-d549-4a8b-aa33-582ddb1edc8f.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SN) Canada EN TDG V1.3 15-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Redesigned for modern turbocharged engines - API SN PLUS, API SN-Resource Conserving and all previous categories.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

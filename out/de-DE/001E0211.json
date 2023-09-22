@@ -1,0 +1,131 @@
+{
+  "id": "001E0211",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S4 V150KP 2",
+  "description": "Premium Multipurpose Low Temperature Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "teilsynthetische EP-Schmierfette",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S4_V150KP_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 V150KP 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562210.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V150KP 2 Germany DE 140001492039 EHS V3.5 27-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/c78df219-b3d7-41f1-aa89-908d466ba844.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 V150KP 2 Germany DE TDG V2.1 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562211.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V150KP 2 Germany EN 140001492039 EHS V3.5 27-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0211_002VSL_A246",
+      "name": "Fass 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028286",
+      "margin": "4.13778173966841",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 V150KP wurde für den Einsatz in Rollenlagern entwickelt, die in einem großen Temperatureinsatzbereich betrieben werden und ein Fett mit guten Hochdruckeigenschaften benötigen.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Braun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithiumkomplex"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Teilsynthetisch"
+    },
+    {
+      "property": "Grundöltyp Viskosität (ohne Lösungsmittel)",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "150"
+    },
+    {
+      "property": "Grundöltyp Viskosität (ohne Lösungsmittel)",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "",
+      "value": "260"
+    },
+    {
+      "property": "Pumpbarkeit in langen Leitungen",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Gut"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

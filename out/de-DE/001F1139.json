@@ -1,0 +1,60 @@
+{
+  "id": "001F1139",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Vacuum Pump Oil S2 R 68",
+  "description": "Special Application Rotary Vacuum Pump Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "Kompressor und Vakuumpumpe",
+  "category": "Kompressor und Vakuumpumpe",
+  "applicationKeys": [
+    "diaphragm",
+    "pump piston",
+    "rotary vane",
+    "turbomolecular",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/44dbba0f-448f-4d41-ae57-37adfd5835e6.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S2 R 68 EN TDG V1.2 06-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02616885.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 68 Germany DE 140001492039 EHS V2.1 12-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02616913.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 68 Germany EN 140001492039 EHS V2.1 12-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DVC",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DVC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S2 R 68 is formulated from selected premium performance, highly refined mineral oils. This provides the low vapour pressure and performance required for the effective lubrication of rotary vacuum pumps.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

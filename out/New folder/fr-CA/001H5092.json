@@ -1,0 +1,139 @@
+{
+  "id": "001H5092",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T1 40",
+  "description": "High Quality Straight Grade Heavy Duty Diesel Engine Oil ",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d682740e-8128-4b42-9d4f-7329a441eb32.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 40 (CF/SL) EN TDG V1.1 20-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/d72d9d32-becf-45c1-8788-a7e0904a5d0d.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 40 (CF/SL) Canada FR TDG V1.1 11-Jun-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/189589af-cc96-434e-a2af-7f06809e4b97.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 40 (CF/SL) Canada EN TDG V1.1 20-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291020.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 40 (CF/SL) Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291021.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 40 (CF/SL) Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5092_002XLR_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550054467",
+      "margin": "0.385453441504018",
+      "packShot": ""
+    },
+    {
+      "code": "001H5092_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500011772",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5092_002XLR_CHEP",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550056261",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5092_002VOM_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550054465",
+      "margin": "0.932893873697088",
+      "packShot": ""
+    },
+    {
+      "code": "001H5092_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550054464",
+      "margin": "1.01086489080948",
+      "packShot": ""
+    },
+    {
+      "code": "001H5092_002VOM_CHEP",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550055984",
+      "margin": "0.227409815835528",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles Shell Rotella^®^ T1 utilisent des additifs de performance pour lutter contre l'usure du moteur et empêcher les dépôts, offrant une lubrification fiable.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

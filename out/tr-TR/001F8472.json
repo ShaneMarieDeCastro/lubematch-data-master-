@@ -1,0 +1,67 @@
+{
+  "id": "001F8472",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Morlina S2 BL 22",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28e18feb-8dae-4f84-9ca3-7de5dc6e4fd4.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 22 (2016) EN TDG V1.2 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02418413.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) Turkey EN 140003791542 EHS V2.3 25-MAY-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02418414.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) Turkey TR 140003791542 EHS V2.3 25-MAY-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8472_002VSH_A18H",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550055980",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 22 is a special low viscosity mineral oil blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

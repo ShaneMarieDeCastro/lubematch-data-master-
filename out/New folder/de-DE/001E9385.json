@@ -1,0 +1,87 @@
+{
+  "id": "001E9385",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix HX7 Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8a0bf1f7-9a8e-459b-8a03-5c6ed73b284b.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) EN TDG V1.6 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603630.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Germany DE 140001492039 EHS V1.4 27-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603631.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Germany EN 140001492039 EHS V1.4 27-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    },
+    {
+      "name": "ILSAC GF-2",
+      "organisation": "ILSAC",
+      "spec": "GF-2"
+    },
+    {
+      "name": "Ford WSS-M2C913-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-A"
+    },
+    {
+      "name": "Ford WSS-M2C913-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-B"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including Ford and those requiring API SJ, ILSAC GF-2 or ACEA A1/B1.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX7_5W-30_AF_5L.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,142 @@
+{
+  "id": "001D7739",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Hydraulic S1 M 32",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "marine",
+    "marine reversing gears",
+    "mobile",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "variable"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5bcc047c-902f-40df-b8e7-225c9d57f23f.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 M 32 EN TDG V3.6 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/887fba93-df4e-41aa-b165-e643867681d2.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 M 32 France FR TDG V3.6 27-Aug-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569826.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 32 France EN 140003182031 EHS V1.4 30-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569825.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 32 France FR 140003182031 EHS V1.4 30-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 M 32/46/68 sont des fluides hydrauliques anti-usure de qualité qui offrent une protection et une performance efficace pour un coût maîtrisé dans la plupart des applications industrielles et mobiles. \n",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "5.3"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "96"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.869"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

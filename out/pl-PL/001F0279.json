@@ -1,0 +1,108 @@
+{
+  "id": "001F0279",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra A5/B5 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_A5_B5_0W-30_(SL_A5_B5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/c1f303d5-7390-4697-9c7c-731dcb8f8a95.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Poland Polish",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592511.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Poland PL 140003791557 EHS V1.5 13-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592510.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Poland EN 140003791557 EHS V1.5 13-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0279_002YAO_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Copper Gold (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046685",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F0279_002YAN_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046659",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F0279_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550040501",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra zawiera zaawansowany technologicznie pakiet dodatków oczyszczających silnik z osadów, które powodują wyższe zużycie energii i zużycie elementów silnika. Umożliwia to zmniejszenie zużycia paliwa dzięki zmniejszeniu tarcia. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046685_Shell_Helix_Ult_A5_B5_0W-30_4L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

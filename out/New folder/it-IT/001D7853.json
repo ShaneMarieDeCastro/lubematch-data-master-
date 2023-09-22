@@ -1,0 +1,197 @@
+{
+  "id": "001D7853",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Omala S4 GX 460",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oli per ingranaggi industriali",
+  "category": "Oli per ingranaggi industriali",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed gear",
+    "ep",
+    "extra long life",
+    "extreme performance",
+    "extreme pressure",
+    "final drive",
+    "fuel",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "non shiftable",
+    "off highway",
+    "pao",
+    "plain",
+    "pump gear",
+    "reduction gears",
+    "roller cylindrical",
+    "rollers",
+    "slew",
+    "splash lubricated bearings",
+    "swing drive",
+    "system efficiency",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6dfb5ee6-4446-458a-9a2c-367528bf51f7.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GX 460 EN TDG V4.6 30-Oct-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02529521.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GX 460 Italy EN 140007645406 EHS V3.3 27-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02529520.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GX 460 Italy IT 140007645406 EHS V3.3 27-FEB-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/abaf8dd1-d0d2-49f8-a9e9-eebdc670f2f6.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GX 460 Italy IT TDG V4.5 30-Aug-2017",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "David Brown S1.53.106",
+      "organisation": "David Brown",
+      "spec": "S1.53.106"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GX sono oli sintetici di tecnologia avanzata per ingranaggi pesantemente caricati che offrono eccezionali prestazioni lubrificanti sotto severe condizioni operative, assicurando attrito ridotto, lunga vita in servizio ed elevata resistenza al micro-pitting per una protezione ottimale degli ingranaggi.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104 ",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "462.5"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104 ",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "50"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "170"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592 ",
+      "uom": "",
+      "units": "°C",
+      "value": "264"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-36"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "879"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "-"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/8,3/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">14"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/16,6/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">14"
+    },
+    {
+      "property": "Timken OK Load",
+      "method": "ASTM D2782",
+      "uom": "",
+      "units": "lbs",
+      "value": ">85"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_gx.png",
+  "valueRecord": [],
+  "commerce": null
+}

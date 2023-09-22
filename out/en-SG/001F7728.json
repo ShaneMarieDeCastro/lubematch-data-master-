@@ -1,0 +1,61 @@
+{
+  "id": "001F7728",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Rimula R2 Extra 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/16b56cd8-bdb0-43e7-8131-fcc2819899c4.pdf",
+      "type": "GTDS",
+      "name": "Rimula R2 Extra 15W-40 (CF-4) EN TDG V1.1 10-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579608.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 Extra 15W-40 (CF-4) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7728_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550044591",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R2 Extra oils keep the engine clean. Additives ensure protection against deposits, wear and resist thickening by heat, suitable for most heavy duty applications including turbo-charged engines. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R2-Extra-15_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

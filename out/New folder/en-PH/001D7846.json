@@ -1,0 +1,92 @@
+{
+  "id": "001D7846",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Omala S3 GP 320",
+  "description": "Special Application Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "gearbox",
+    "gears",
+    "heavily shock loaded operations",
+    "high load",
+    "industrial",
+    "older gear systems",
+    "shock load",
+    "splash lubricated bearings",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S3_GP_320_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 GP 320 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01929857.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 320 Philippines EN 140001435525 EHS V1.0 16-DEC-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7846_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027176",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "Textron Power Transmission S1.53.101E",
+      "organisation": "Textron Power Transmission",
+      "spec": "S1.53.101E"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 GP oils are specialist ‘problem solving’ lubricants developed to lubricate industrial gearboxes subject to extremely high and heavily shock loaded operations such as those found in steel, cement, mining and quarrying industries. They are formulated for use where ultra-high levels of extreme-pressure performance are required.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

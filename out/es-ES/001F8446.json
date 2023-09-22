@@ -1,0 +1,94 @@
+{
+  "id": "001F8446",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Corena S3 RX 46",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compresor y bomba de vacío.",
+  "category": "Compresor y bomba de vacío.",
+  "applicationKeys": [
+    "air compressor",
+    "gtl",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0e292504-d3f8-4815-9a9d-e9ed1a31ffa4.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 RX 46 (2017) EN TDG V1.2 28-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592844.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Spain EN 140003966322 EHS V1.8 13-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/75b140d7-58fd-4be1-b6a8-9daa7689e841.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 RX 46 (2017) Spain ES TDG V1.2 15-Jul-2019",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592845.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Spain ES 140003966322 EHS V1.8 13-JUN-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8446_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550050021",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8446_002VNK_A246",
+      "name": "Cubo 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Cubo",
+      "materialCode": "550050020",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RX es un aceite lubricante, calidad Premium, para compresores de aire rotativos, basado en la avanzada tecnología y exclusivo proceso de síntesis de aceites base:  Gas-To-Liquids (GTL) de Shell unidos a un complejo paquete de aditivos de rendimiento avanzado. Está diseñado para proporcionar una excelente protección y rendimiento para compresores que funcionan con intervalos de cambio de aceite de 6.000 horas y hasta 8.000 horas bajo arduas condiciones de funcionamiento.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

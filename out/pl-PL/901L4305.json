@@ -1,0 +1,158 @@
+{
+  "id": "901L4305",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadinia AL 40",
+  "description": "Very High Performance Medium-speed Diesel Engine Oil for use with Distillate Fuels",
+  "family": "Gadinia",
+  "parentCategory": "Oleje silnikowe przemysłowe",
+  "category": "Oleje silnikowe - silniki tłokowe",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "distillates",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "reduction gears",
+    "stationary",
+    "stern tube seal",
+    "transmissions",
+    "two stroke"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ada6d995-0319-4ee7-84a7-fefdd010e05d.pdf",
+      "type": "GTDS",
+      "name": "Gadinia AL 40 EN TDG V1.1 28-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/813ac0d7-2d7a-4ffa-b592-2a0da97007c4.pdf",
+      "type": "LTDS",
+      "name": "Gadinia AL 40 Poland PL TDG V1.1 28-Feb-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580913.PDF",
+      "type": "LMSDS",
+      "name": "Gadinia AL 40 Poland EN 140003791557 EHS V1.5 25-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580914.PDF",
+      "type": "LMSDS",
+      "name": "Gadinia AL 40 Poland PL 140003791557 EHS V2.5 25-MAY-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L4305_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550032042",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadinia AL jest znakomitej jakości olejem do średnioobrotowych okrętowych silników tłokowych Diesla pracujących na paliwie destylowanym. Olej Shell Gadinia AL został opracowany, aby kontrolować zużycie paliwa w nowoczesnych silnikach, w których występuje problem osadów na cylindrach. Produkt ten może być\nstosowany również jako olej uniwersalny w różnych zastosowaniach okrętowych takich jak np. przekładnie redukcyjne.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "140"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.3"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.900"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": ">200"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "Load Carrying Capacity",
+      "method": "IP 334",
+      "uom": "FZG",
+      "units": "Fail Stage",
+      "value": "12"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% wt",
+      "value": "1.65"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "15"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

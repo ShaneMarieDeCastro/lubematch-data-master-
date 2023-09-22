@@ -1,0 +1,73 @@
+{
+  "id": "001I5461",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe Revive-L",
+  "description": "Special Purpose Turbine Oil - TF",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/84c18a76-284e-47ca-875e-39331d558372.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Revive-L EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290865.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Revive-L Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/7adde4b4-094c-4e8e-94b1-49cee61ed6bc.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Revive-L Canada EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/e49216a0-fc90-47bf-8e84-3893a1853844.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Revive-L Canada FR TDG V1.1 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290864.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Revive-L Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5461_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057299",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe Revive-L is a base-oil modifier that can be incorporated into a commercial hydrocarbon based gear oil to significantly reduce the issues associated with varnish formation and product instability .  Due to its PAG based technology, Shell EcoSafe Revive-L signficantly improves lubricity of the fluid.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

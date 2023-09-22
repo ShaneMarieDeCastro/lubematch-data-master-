@@ -1,0 +1,146 @@
+{
+  "xref": {
+    "name": "xref",
+    "fields": [
+      {
+        "name": "uuid",
+        "type": "int64"
+      },
+      {
+        "name": "countryCode",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "company",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "locale",
+        "type": "string",
+        "facet": true
+      }
+    ],
+    "default_sorting_field": "uuid"
+  },
+  "products": {
+    "name": "products",
+    "fields": [
+      {
+        "name": "uuid",
+        "type": "int64"
+      },
+      {
+        "name": "objectId",
+        "type": "string"
+      },
+      {
+        "name": "countryCode",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "locale",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "category",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "viscosityGrade",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "viscosityType",
+        "type": "string"
+      },
+      {
+        "name": "family",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "description",
+        "type": "string"
+      },
+      {
+        "name": "active",
+        "type": "bool"
+      },
+      {
+        "name": "materialCodes",
+        "type": "string[]"
+      },
+      {
+        "facet": false,
+        "name": "position_number",
+        "optional": false,
+        "type": "int32"
+      }
+    ],
+    "default_sorting_field": "position_number"
+  },
+  "old2new": {
+    "name": "old2new",
+    "fields": [
+      {
+        "name": "uuid",
+        "type": "int64"
+      },
+      {
+        "name": "countryCode",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "company",
+        "type": "string",
+        "facet": true
+      },
+      {
+        "name": "locale",
+        "type": "string",
+        "facet": true
+      }
+    ],
+    "default_sorting_field": "uuid"
+  },
+  "product-families": {
+    "name": "product-families",
+    "fields": [
+      {
+        "name": "uuid",
+        "type": "int64"
+      },
+      {
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "name": "locale",
+        "type": "string"
+      }
+    ],
+    "default_sorting_field": "uuid"
+  }
+}

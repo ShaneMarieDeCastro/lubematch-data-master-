@@ -1,0 +1,82 @@
+{
+  "id": "001D7233",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "FormulaShell SAE 20W-50 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_FormulaShell_20W-50_(SN)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell 20W-50 (SN) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/def76857-9985-407d-9a28-6135a427fb95.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 20W-50 (SN) United States EN TDG V1.0 23-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563535.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 20W-50 (SN) United States EN 140002686046 EHS V1.5 08-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7233_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550024066",
+      "margin": "0.976032433168002",
+      "packShot": ""
+    },
+    {
+      "code": "001D7233_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005576",
+      "margin": "0.19825970501243",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Has enhanced wear protection and outstanding resistance to thermal breakdown at operating temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

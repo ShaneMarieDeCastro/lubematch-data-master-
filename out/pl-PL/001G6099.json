@@ -1,0 +1,73 @@
+{
+  "id": "001G6099",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S6 ATF D971",
+  "description": "Automatic transmission fluid for Mercedes-Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Płyny do przekładni automatycznych",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e18a9d59-95f6-4f7e-b29e-aa598d9fbbcd.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF D971 EN TDG V1.2 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610183.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF D971 Poland PL 140003791557 EHS V1.3 05-JUL-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/c92841b3-a1a2-4c8e-a789-4ba03480cab1.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF D971 Poland PL TDG V1.2 19-Feb-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610182.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF D971 Poland EN 140003791557 EHS V1.3 05-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G6099_002VNF_A246",
+      "name": "Wiadro 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550059554",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.17",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.17"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF D971 to najwyższej jakości płyn do automatycznych przekładni biegów dla najnowszych 9-biegowych, automatycznych skrzyń biegów Mercedes-Benz (9G-Tronic).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,201 @@
+{
+  "id": "001A0074",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "AeroShell Oil W 100",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "Lubrificanti per l'aviazione",
+  "category": "Oli motore - Aviazione / Pistone",
+  "applicationKeys": [
+    "ashless",
+    "aviation",
+    "diesel",
+    "piston engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c5b77895-502e-47ab-861d-38f410bbd051.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 100 EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549565.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 100 Italy EN 140007645406 EHS V1.11 07-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549564.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 100 Italy IT 140007645406 EHS V1.11 07-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Italy_AeroShell_Oil_W100_(it)_TDS.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil W 100 Italy Italian",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0074_002VJ2_A1P5",
+      "name": "Fusto 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Fusto",
+      "materialCode": "550040898",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0074_002XOH_AEP2",
+      "name": "Bottiglia 1 qt Americas Tool Plastic Shell Red Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottiglia",
+      "materialCode": "550051169",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Textron Lycoming 301F",
+      "organisation": "Textron Lycoming",
+      "spec": "301F"
+    },
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "NATO O-125",
+      "organisation": "NATO",
+      "spec": "O-125"
+    },
+    {
+      "name": "Joint Service Designation OMD-250",
+      "organisation": "Joint Service Designation",
+      "spec": "OMD-250"
+    },
+    {
+      "name": "Pratt and Whitney 1183-S",
+      "organisation": "Pratt and Whitney",
+      "spec": "1183-S"
+    },
+    {
+      "name": "AIR 3570",
+      "organisation": "AIR",
+      "spec": "3570"
+    },
+    {
+      "name": "MHS 24B",
+      "organisation": "MHS",
+      "spec": "24B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell W Oils were the first non-ash dispersant oils to be used in aircraft piston engines. They combine non-metallic additives with selected high viscosity index base stocks to give exceptional stability, dispersancy and anti-foaming performance. These additives leave no metallic ash residues that can lead to deposit formation in combustion chambers and on spark plugs, which can cause pre-ignition and possible engine failure.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "50"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "4.0"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.884"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "200"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "20.2"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "118"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "Below -18"
+    },
+    {
+      "property": "Flashpoint Cleveland Open Cup",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "Above 260"
+    },
+    {
+      "property": "Total acidity",
+      "method": "ASTM D664",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "<0.01"
+    },
+    {
+      "property": "Sulphur",
+      "method": "ASTM D129",
+      "uom": "",
+      "units": "% m",
+      "value": "0.38"
+    },
+    {
+      "property": "Copper corrosion",
+      "method": "ASTM D130",
+      "uom": "@100°C",
+      "units": "",
+      "value": "1"
+    },
+    {
+      "property": "Ash content",
+      "method": "ASTM D482",
+      "uom": "",
+      "units": "% m",
+      "value": "0.006"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

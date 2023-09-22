@@ -1,0 +1,87 @@
+{
+  "id": "001J0920",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Coolant Longlife Concentrate",
+  "description": "Premium antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Płyny chłodzące - koncentraty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/25621457-ffdf-4da5-a83b-906cd097b0da.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Concentrate (Europe) EN TDG V1.5 10-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/fa01b690-b037-4f79-a8ea-585af723af98.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Longlife Concentrate (Europe) Poland PL TDG V1.5 21-Aug-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599144.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Concentrate (Europe) Poland EN 140003791557 EHS V1.6 16-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02598780.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Concentrate (Europe) Poland PL 140003791557 EHS V1.6 16-JUN-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0920_002YBD_A863",
+      "name": "Butelka 1 L Local Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550061767",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0920_002YBF_A863",
+      "name": "Butelka 4 L Local Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550061768",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0920_002VWL_A863",
+      "name": "Butelka 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550061766",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

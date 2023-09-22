@@ -1,0 +1,123 @@
+{
+  "id": "001I3036",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra ECT MULTI 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/758b7a32-e1fd-458e-a1b4-67c76aa9929c.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT MULTI 5W-40 EN TDG V1.2 26-Feb-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590951.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-40 Germany DE 140001492039 EHS V1.3 09-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590952.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-40 Germany EN 140001492039 EHS V1.3 09-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/eae10ef2-80ff-4a73-9290-727164c742b3.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT MULTI 5W-40 Germany DE TDG V1.2 20-Apr-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I3036_002VSI_A246",
+      "name": "Fass 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550062517",
+      "margin": "2.3798671582362",
+      "packShot": ""
+    },
+    {
+      "code": "001I3036_002W21_A0YO",
+      "name": "Flasche 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550059750",
+      "margin": "3.49852227923461",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "VW Standard 511.00",
+      "organisation": "VW",
+      "spec": "Standard 511.00"
+    },
+    {
+      "name": "Porsche C40",
+      "organisation": "Porsche",
+      "spec": "C40"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT arbeitet mit der innovativen „Emissions Compatible Technology“ von Shell zum Schutz von Abgasnachbehandlungssystemen, um Dieselpartikelfilter sauber und damit die volle Motorleistung aufrechtzuerhalten. Es reduziert die Reibung im Motor und trägt dadurch zur Kraftstoffeinsparung bei.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

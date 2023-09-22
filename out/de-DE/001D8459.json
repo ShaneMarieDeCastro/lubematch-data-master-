@@ -1,0 +1,62 @@
+{
+  "id": "001D8459",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S5 V25Q 2.5",
+  "description": "Special Synthetic Low Noise Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "lithium",
+    "noise reducing"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S5_V25Q_2.5_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V25Q 2.5 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573173.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V25Q 2.5 Germany DE 140001492039 EHS V2.5 09-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573172.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V25Q 2.5 Germany EN 140001492039 EHS V2.5 09-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8459_002VT9_A246",
+      "name": "Fass 170 kg O/H Grease with liner R/Ytop (1) WL",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028229",
+      "margin": "3.81106866574755",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V25Q grease is a low noise lithium grease based on fully synthetic base oil and it is fortified with anti-oxidant, anti-wear and anti-rust additives. This grease is for use in electrical motor ball bearings (<62mm) and other mainly small ball bearing applications where noise performance is critical.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

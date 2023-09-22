@@ -1,0 +1,53 @@
+{
+  "id": "001B0120",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Alvania Grease EPD",
+  "description": "High Performance Extreme Pressure Railroad Roller Bearing Grease",
+  "family": "Alvania",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "ep",
+    "extreme pressure",
+    "railroad",
+    "roller bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/19bc7005-ceda-4d1d-8f66-fdb1cc400531.pdf",
+      "type": "GTDS",
+      "name": "Alvania EPD EN TDG V1.2 14-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552728.PDF",
+      "type": "LMSDS",
+      "name": "Alvania EPD United Kingdom EN 140002340634 EHS V1.9 12-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "AAR M-942-92",
+      "organisation": "AAR",
+      "spec": "M-942-92"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Alvania Grease EPD is a long-life railroad grease with extreme pressure additives to provide higher load carrying capacity. This grease meets the requirements of AAR M-942-latest revision and NSW SRA L343-84.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

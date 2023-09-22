@@ -1,0 +1,188 @@
+{
+  "id": "001D7812",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Morlina S2 B 320",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oli di circolazione e per cuscinetti",
+  "category": "Oli circolanti e per cuscinetti",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "industrial",
+    "journal",
+    "low load",
+    "machine circulation systems",
+    "oil lubricated bearings",
+    "roller spherical",
+    "rollers",
+    "rollneck bearings",
+    "thrust",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fcf512e8-3612-47ed-9db8-1ccf02be3dc8.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 320 EN TDG V2.3 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450330.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 320 Italy EN 140007645406 EHS V1.8 16-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/d21574d5-40e6-46d1-88fb-ddbef2eab71e.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 320 Italy IT TDG V2.3 20-Feb-2019",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450328.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 320 Italy IT 140007645406 EHS V1.8 16-SEP-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7812_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550027253",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B sono oli ad elevate prestazioni, formulati per una eccezionale protezione dall’ossidazione e separazione dall’acqua, nella maggioranza delle applicazioni industriali su cuscinetti e sistemi a circolazione e anche in certe altre applicazioni industriali ove non si richiedano oli con proprietà di estrema pressione (EP). Questi  oli  incontrano i requisiti di Morgan Construction Company e Danieli per oli per cuscinetti standard.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "25"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "897"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "96"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "282"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-12"
+    },
+    {
+      "property": "Rust, Distilled Water",
+      "method": "ASTM D665A",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Emulsion Test - @82°C (Unless specified by *)",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "Mins",
+      "value": "30"
+    },
+    {
+      "property": "Oxidation Control Test : TOST",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "Hrs",
+      "value": "1 100+"
+    },
+    {
+      "property": "Oxidation Control Test : RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "Mins",
+      "value": "200+"
+    },
+    {
+      "property": "Foam Test, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam at 0/10 mins",
+      "value": "20/0"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

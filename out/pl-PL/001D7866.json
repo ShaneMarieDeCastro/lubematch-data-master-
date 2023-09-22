@@ -1,0 +1,133 @@
+{
+  "id": "001D7866",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Air Tool Oil S2 A 100",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Srodki smarne do narzędzi i urządzeń wiertniczych",
+  "applicationKeys": [
+    "bearing",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "plain",
+    "trunnion"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/18952fa6-12ab-4c59-a506-6b36bc4a5306.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 100 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586421.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 Poland PL 140003791557 EHS V2.6 02-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586422.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 Poland EN 140003791557 EHS V1.6 02-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/31e7aede-2f32-4d6f-88d4-6ecef08c3c12.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 100 Poland PL TDG V2.2 05-Nov-2020",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7866_002VNA_A1P5",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550027215",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    },
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Olej Shell Air Tool S2 A spełnia wymagania smarownicze dla urządzeń pneumatycznych, włącznie z urządzeniami udarowymi użytkowanymi w ciężkich warunkach. Utrzymuje silny film smarny, a tym samym zapewnia optymalne smarowanie, nawet w najbardziej wymagających zastosowaniach, takich jak maszyny wiertnicze oraz zapewnia doskonałe smarowanie mgłą olejową w urządzeniach pneumatycznych.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "102"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "241"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "884"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,134 @@
+{
+  "id": "001D8254",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Spirax S5 CFD M 60",
+  "description": "Premium Performance Off-Highway Caterpillar Final Drive and Axle Oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission Oils Other",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "extreme temperatures",
+    "fdao",
+    "final drive",
+    "front axle",
+    "hydrostatic",
+    "off highway",
+    "offroad",
+    "powershift",
+    "reduction gears",
+    "tandem drive",
+    "transmissions",
+    "wheel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "60",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ccd950cf-852d-4ce0-bb3e-fe55ddc183ac.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 CFD M 60 EN TDG V2.2 21-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/4eee27b0-56b5-4b2b-a1b5-fa837b15433b.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 CFD M 60 Canada FR TDG V2.2 26-Nov-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02373781.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CFD M 60 Canada EN 140006579500 EHS V2.6 22-SEP-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02373780.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CFD M 60 Canada FR 140006579500 EHS V2.6 22-SEP-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/9e13cbbd-0572-499a-90f7-72270cba5a3c.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 CFD M 60 Canada EN TDG V2.2 21-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8254_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026904",
+      "margin": "1.90152825429819",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar FDAO",
+      "organisation": "Caterpillar",
+      "spec": "FDAO"
+    },
+    {
+      "name": "Caterpillar FD-1",
+      "organisation": "Caterpillar",
+      "spec": "FD-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 CFD M 60 is a dedicated final drive and axle oil which offers significantly improved protection for gears and bearings in bevel gears, differentials, final drives and axles. It meets Caterpillar FD-1 final drive axle oil (FDAO) specification. Spirax S5 CFD M 60 has been developed for continuous use in extreme ambient temperatures in off road vehicles.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "60"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "22.8-25.2"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "904"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-15"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

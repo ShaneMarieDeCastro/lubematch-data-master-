@@ -1,0 +1,137 @@
+{
+  "id": "001A0059",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Grease 22",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/057be38e-1147-44f0-b8c1-00a277a57723.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 22 EN TDG V1.8 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/8d1147e1-b5d6-46a1-873f-05d5ae7243a8.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 22 United States EN TDG V1.8 23-Jun-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564131.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 22 United States EN 140002686046 EHS V11.8 17-NOV-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0059_002VFN_A1WJ",
+      "name": "Can 3 kg Local (6.6lb Aeroshell Grease) Tinplate Pre-printed (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Can",
+      "materialCode": "550043633",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0059_002VH1_A1WJ",
+      "name": "Drum 170 kg O/H Grease R/Y (1)",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550043620",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0059_002XN4_A1WJ",
+      "name": "Pail 17 kg Open head Plastic HDPE Shell Red (1)",
+      "size": "17",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550043616",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0059_002WDJ_A606",
+      "name": "Cartridge 0.38 kg Plastic W (30)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550043626",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0059_002WDJ_AER6",
+      "name": "Cartridge 0.38 kg Plastic W (30)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550067096",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-QPL-CMS-OL-301",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-301"
+    },
+    {
+      "name": "DCSEA 395/A",
+      "organisation": "DCSEA",
+      "spec": "395/A"
+    },
+    {
+      "name": "MIL-PRF-24508B",
+      "organisation": "MIL",
+      "spec": "PRF-24508B"
+    },
+    {
+      "name": "NATO G-395",
+      "organisation": "NATO",
+      "spec": "G-395"
+    },
+    {
+      "name": "DEF STAN 91-52",
+      "organisation": "DEF STAN",
+      "spec": "91-52"
+    },
+    {
+      "name": "MIL-PRF-81322G",
+      "organisation": "MIL",
+      "spec": "PRF-81322G"
+    },
+    {
+      "name": "Joint Service Designation XG-293",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-293"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +177°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2A-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

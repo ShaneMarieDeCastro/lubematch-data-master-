@@ -1,0 +1,105 @@
+{
+  "id": "001D7808",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Morlina S2 B 68",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "aero derivative",
+    "aviation turbines",
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "final drive",
+    "gas",
+    "gearbox",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "off highway",
+    "oil lubricated bearings",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "roller spherical",
+    "rollers",
+    "rollneck bearings",
+    "servo",
+    "transmissions",
+    "turbine",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S2_B_68_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S2 B 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444614.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 68 Ireland EN 140007731156 EHS V1.7 16-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7808_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550026383",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B oils are high performance oils designed to provide outstanding oxidation and water separation protection for most general industrial bearing and circulating oil system applications and certain other industrial applications which do not require oils with extreme pressure (EP) properties.  These oils meet the requirements of the Morgan Construction Company and Danieli for common bearing oils.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "001D8387",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gas Compressor Oil S4 RN 68",
+  "description": "Advanced Synthetic Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "",
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "hydrocarbon gas",
+    "industrial",
+    "low pressure natural gas",
+    "natural gas",
+    "screw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S4_RN_68_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S4 RN 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575318.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 RN 68 France FR 140003182031 EHS V4.1 15-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/c2cf8b0e-0650-4b1b-a2fd-799e05a7b9bb.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S4 RN 68 France FR TDG V4.2 19-Apr-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575317.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 RN 68 France EN 140003182031 EHS V4.1 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8387_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027260",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 RN est spécialement développé pour la lubrification des compresseurs rotatifs à vis comprimant le gaz naturel et d’autres gaz à basse pression. Sa formulation à base d’huiles polyglycol offre des avantages significatifs par rapport aux produits à base d’huile minérale.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

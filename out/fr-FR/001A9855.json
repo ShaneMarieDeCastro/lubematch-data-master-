@@ -1,0 +1,166 @@
+{
+  "id": "001A9855",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Helix Ultra AB 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "cars",
+    "mercedes benz"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/761d4d47-b304-4fcb-8873-bfbaedb8f69c.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra AB 5W-30 (SH/CF/A3/B4) EN TDG V2.1 05-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487143.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AB 5W-30 (SH/CF/A3/B4) France EN 140003182031 EHS V2.1 20-JAN-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140003370407_200911220712.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra AB 5W-30 (SH/CF/A3/B4) France French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487141.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AB 5W-30 (SH/CF/A3/B4) France FR 140003182031 EHS V2.1 20-JAN-2016",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "API SH",
+      "organisation": "API",
+      "spec": "SH"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra AB is the latest generation fully synthetic engine oil designed to meet the needs of all Mercedes-Benz gasoline engines and diesel engines without particulate filters. Approved by Mercedes-Benz for normal and extended service.\nShell Helix Ultra AB is a fully synthetic lubricant containing Shell’s ultimate active cleansing technology to continuously prevent dirt and sludge build-up, maximising engine performance right\nup to the next oil change.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "5W-30"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "64.7"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.4"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "173"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "848"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

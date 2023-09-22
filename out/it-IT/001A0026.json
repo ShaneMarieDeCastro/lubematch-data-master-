@@ -1,0 +1,89 @@
+{
+  "id": "001A0026",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Advance Ultra 2T",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - Motocicletta",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "motorbikes",
+    "motorcycles",
+    "off highway",
+    "two stroke"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a99f11a1-90bd-4746-901c-754e86a12707.pdf",
+      "type": "GTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) EN TDG V1.6 18-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/c7f53bd5-8a2c-47ef-a15b-bc18767e016f.pdf",
+      "type": "LTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Italy IT TDG V1.6 19-Jan-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549559.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Italy IT 140007645406 EHS V2.12 07-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549558.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Italy EN 140007645406 EHS V2.12 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0026_002WKZ_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550053583",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FD",
+      "organisation": "JASO",
+      "spec": "FD"
+    },
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    },
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Deriva dalla combinazione di poli-isobutileni e basi sintetiche Shell  XHVI miscelati con specifici additivi per ottenere ineguagliabili prestazioni in tutti i motori a 2 tempi, compresi quelli sottoposti a condizioni estreme di esercizio.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_2T_1L_600059316.png",
+  "valueRecord": [],
+  "commerce": null
+}

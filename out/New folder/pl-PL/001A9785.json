@@ -1,0 +1,120 @@
+{
+  "id": "001A9785",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Turbo Oil T 100",
+  "description": "High Performance Steam Turbine Oil",
+  "family": "Turbo",
+  "parentCategory": "Oleje turbinowe",
+  "category": "Oleje turbinowe",
+  "applicationKeys": [
+    "ashless",
+    "aviation turbines",
+    "ball",
+    "bearing",
+    "gas turbines",
+    "gearbox",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "hydroelectric turbine",
+    "industrial",
+    "journal",
+    "light duty gas turbine",
+    "manual sequential",
+    "plain",
+    "pump gear",
+    "rollers",
+    "rotary vane",
+    "steam",
+    "steam turbine",
+    "tost life 5000 hours",
+    "transmissions",
+    "turbine",
+    "turbocompressors",
+    "vacuum pumps",
+    "water",
+    "wire rod mill",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2b709978-d93f-4d9b-bcf9-f628929076a7.pdf",
+      "type": "GTDS",
+      "name": "Turbo T 100 EN TDG V4.0 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551711.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 Poland EN 140003791557 EHS V2.9 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551661.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 Poland PL 140003791557 EHS V3.9 12-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/7a8cc1b2-d19a-45a9-82a1-aec1ef8b0678.pdf",
+      "type": "LTDS",
+      "name": "Turbo T 100 Poland Polish",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9785_002VSH_A181",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550013829",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 8068:2006 L-THA",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-THA"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "Indian Standard IS 1012 2002",
+      "organisation": "Indian Standard",
+      "spec": "IS 1012 2002"
+    },
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Oleje Shell Turbo T są postrzegane jako standard wśród turbinowych olejów przemysłowych. Pamiętając o tym fakcie udoskonaliliśmy linię produktów Shell Turbo, aby zaoferować większą wydajność i spełnienie wymagań stawianych przez najnowocześniejsze systemy turbin parowych i nisko obciążone turbiny gazowe, które nie wymagają dodatkowej ochrony przeciwzużyciowej dla skrzyni biegów. \nFormulacja olejów Shell Turbo T zawiera wysokiej jakości hydrorafinowane oleje bazowe i bezcynkowe dodatki zapewniające doskonałą stabilność oksydacyjną, ochronę przed rdzą i korozją, niskie pienienie i doskonałą deemulgację.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

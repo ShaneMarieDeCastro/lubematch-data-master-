@@ -1,0 +1,55 @@
+{
+  "id": "001I5498",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Caster Air Oil 460",
+  "description": "High Performance Heat Transfer Fluid",
+  "family": "Heat Transfer",
+  "parentCategory": null,
+  "category": "Heat Transfer Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5d92876d-d06c-45f3-aa51-a346fbd7156e.pdf",
+      "type": "GTDS",
+      "name": "Caster Air Oil 460 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563173.PDF",
+      "type": "LMSDS",
+      "name": "Caster Air Oil 460 United States EN 140002686046 EHS V1.1 08-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5498_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057339",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

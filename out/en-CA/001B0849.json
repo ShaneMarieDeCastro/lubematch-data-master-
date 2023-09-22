@@ -1,0 +1,79 @@
+{
+  "id": "001B0849",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil Power Steering Fluid",
+  "description": "Power steering fluid",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Other Specialities",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Power_Steering_Fluid_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Power Steering Fluid English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/08a02afb-bd1f-48f2-8a26-227b985e20b3.pdf",
+      "type": "LTDS",
+      "name": "Pzl Power Steering Fluid Canada FR TDG V1.1 10-Oct-2016",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290271.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Power Steering Fluid Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/451d736f-0675-4d0f-9fbe-fe21bc93fe9a.pdf",
+      "type": "LTDS",
+      "name": "Pzl Power Steering Fluid Canada EN TDG V1.1 15-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289605.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Power Steering Fluid Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0849_002WCE_A0IK",
+      "name": "Bottle 12 oz Local (PSF PZL) Plastic HDPE PZL yellow (12)",
+      "size": "12",
+      "uom": "oz",
+      "pack": "Bottle",
+      "materialCode": "2747",
+      "margin": "2.41120073705358",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C128-D",
+      "organisation": "Ford",
+      "spec": "WSS-M2C128-D"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

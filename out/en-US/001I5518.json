@@ -1,0 +1,71 @@
+{
+  "id": "001I5518",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Water-Glycol Buffer",
+  "description": "Water Glycol Hydraulic Oil - Buffer",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4fed2b6e-542c-4aa1-b415-18ee1a5c97a7.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol Buffer EN TDG V1.1 17-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/dae6e702-9217-4f38-8480-4cdf24e72de2.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol Buffer United States EN TDG V1.1 21-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564039.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol Buffer United States EN 140002686046 EHS V1.0 23-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5518_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057093",
+      "margin": "2.73751181328577",
+      "packShot": ""
+    },
+    {
+      "code": "001I5518_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057094",
+      "margin": "4.24308072739867",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,108 @@
+{
+  "id": "001D7755",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Tellus S2 MA 46",
+  "description": "Industrial Detergent Hydraulic Fluid\\n",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "detergent based",
+    "emulsifiable",
+    "fixed",
+    "gearbox",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "mobile",
+    "mobile equipment",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "transmissions",
+    "turbine",
+    "variable",
+    "wet conditions",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0c4303ba-ca46-40f7-94c6-b6baf6c1c2cf.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MA 46 EN TDG V3.5 27-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/ed9c561c-6b86-41a7-afd5-93fe97bf60ba.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MA 46 Turkey TR TDG V3.5 27-Aug-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319071.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 Turkey TR 140003791542 EHS V1.4 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319877.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 Turkey EN 140003791542 EHS V1.4 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7755_002VSH_A1P5",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550027130",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 MA deterjan özellikli yüksek performans hidrolik yağları, emülsiyon oluşturabilen akışkanların tercih edildiği uygulamalarda kullanıma uygundur. Kanıtlanmış külsüz aşınma önleyici katıkları sayesinde kesme sıvıları gibi sulu akışkanların söz konusu olduğu uygulamaların yanısıra temizliğin veya kirlilik kontrolünün önemli olduğu uygulamalarda da güvenilir performans sağlar.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

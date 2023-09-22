@@ -1,0 +1,83 @@
+{
+  "id": "001I5468",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Water-Glycol S3 CX 46",
+  "description": "Water Glycol Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/abb9f140-74a7-40ea-9446-332a0c914d6b.pdf",
+      "type": "GTDS",
+      "name": "Water-Glycol S3 CX 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02330294.PDF",
+      "type": "LMSDS",
+      "name": "Water-Glycol S3 CX 46 Canada EN 140006579500 EHS V1.2 19-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/940f091b-69e7-47a6-b5e7-3ce247fd3fe7.pdf",
+      "type": "LTDS",
+      "name": "Water-Glycol S3 CX 46 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/64ffc297-d28a-4df4-916b-8e5cba471062.pdf",
+      "type": "LTDS",
+      "name": "Water-Glycol S3 CX 46 Canada FR TDG V1.3 19-May-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02330291.PDF",
+      "type": "LMSDS",
+      "name": "Water-Glycol S3 CX 46 Canada FR 140006579500 EHS V1.2 19-MAY-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5468_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012148",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5468_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550058343",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Water Glycol S3 CX 46 is a fire-resistant hydraulic fluid and is recognized by FM Global as a less flammable industrial fluid. Shell Water Glycol S3 CX is suitable for use in higher pressure and high-speed hydraulic systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

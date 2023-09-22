@@ -1,0 +1,124 @@
+{
+  "id": "001G4231",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Tellus S4 VX 32",
+  "description": "Special Application Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "extra wide temperature range",
+    "extreme low temperature",
+    "high performance",
+    "hv",
+    "industrial",
+    "industrial hydraulics",
+    "low temperature",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "precision",
+    "versatile",
+    "wide temperature range",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c3fd4592-0921-400b-bc9c-0617e6e47e47.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VX 32 (BKL America) EN TDG V1.3 16-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/1052bb7d-c2f4-4370-a787-77e6bfca3b8e.pdf",
+      "type": "LTDS",
+      "name": "Tellus S4 VX 32 (BKL America) Canada FR TDG V1.3 20-Dec-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02425108.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (BKL America) Canada FR 140006579500 EHS V1.1 29-JUN-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/be004299-6988-4e86-86bc-77747547fb12.pdf",
+      "type": "LTDS",
+      "name": "Tellus S4 VX 32 (BKL America) Canada EN TDG V1.3 20-Dec-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02425107.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (BKL America) Canada EN 140006579500 EHS V1.1 29-JUN-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G4231_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500010840",
+      "margin": "1.28338455921813",
+      "packShot": ""
+    },
+    {
+      "code": "001G4231_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550048911",
+      "margin": "1.33685515067157",
+      "packShot": ""
+    },
+    {
+      "code": "001G4231_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550048910",
+      "margin": "1.59327033219904",
+      "packShot": ""
+    },
+    {
+      "code": "001G4231_002XD6_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550048912",
+      "margin": "1.48921024348635",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VX est un fluid hydraulique de la technologie avancée conçue spécialement pour une utilisation dans des applications soumises à des températures ambiantes extrêmement basses, telles que dans des régions très froides ou arctiques.\n\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

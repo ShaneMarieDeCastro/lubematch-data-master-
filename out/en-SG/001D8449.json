@@ -1,0 +1,111 @@
+{
+  "id": "001D8449",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Gadus S2 V220 00",
+  "description": "High Performance Multipurpose Extreme Pressure Semi-Fluid Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "ball",
+    "bearing",
+    "buses",
+    "centralised chassis lubrication",
+    "centralised lubrication",
+    "enclosed gear",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "heavy duty",
+    "high performance",
+    "hinges",
+    "hydraulic system",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "multipurpose",
+    "plain",
+    "plain bearings",
+    "pump gear",
+    "roller bearings",
+    "semifluid",
+    "shock load",
+    "sliding surfaces",
+    "steel mill",
+    "trucks",
+    "versatile",
+    "water resistance",
+    "water washout",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/38647d43-a82c-4e37-833f-1638efd30443.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220 00 EN TDG V2.6 29-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/2824d59a-18d2-45a9-b2fb-4d6a613ad812.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220 00 Singapore EN TDG V2.6 29-Dec-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580384.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 00 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8449_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005817",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8449_002XD7_A227",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550027039",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8449_002VH7_A227",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550025668",
+      "margin": "1.95996300732648",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220 greases are designed for multipurpose grease lubrication of rolling element and plain bearings as well as hinges and sliding surfaces such as those found in throughout most industrial and transport sectors.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s2_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,91 @@
+{
+  "id": "001D7813",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Morlina S2 B 460",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "roller tapered",
+    "rollers",
+    "rollneck bearings",
+    "water separation",
+    "wire rod mill"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0119e91c-e5fd-4015-80e0-72abc9b5c9ca.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 460 EN TDG V2.3 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/c4de793a-f94e-48f3-b12b-310b91cfa8c6.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 460 Turkey TR TDG V2.3 10-May-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02517675.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 460 Turkey EN 140003791542 EHS V1.8 19-JAN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02517674.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 460 Turkey TR 140003791542 EHS V1.8 19-JAN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B,(EP) özellikli yağlara gereksinim duyulmayan  birçok genel endüstriyel sirkülasyon ve yatak yağlama sistemi ve diğer endüstriyel uygulamaları için üstün oksidasyon ve sudan ayrışma koruması sağlamak üzere tasarlanmış yüksek performanslı yağlardır. Bu yağlar Morgan Construction Company ve Danieli 'nin genel yatak yağları gereksinimlerini karşılamaktadır.\n",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

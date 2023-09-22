@@ -1,0 +1,89 @@
+{
+  "id": "001D8434",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S3 V460XD 1",
+  "description": "Premium Multipurpose Heavy Duty Grease with Extra Solids",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "ep",
+    "extra moly",
+    "extreme pressure",
+    "heavy duty",
+    "heavy load",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "mining",
+    "multipurpose",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "shock load",
+    "slow",
+    "slow moving",
+    "solid lubricant",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V460XD_1_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V460XD 1 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562405.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V460XD 1 United States EN 140002686046 EHS V8.0 05-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/be40d11e-5fee-4642-b243-0fd6a31e3a42.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V460XD 1 United States EN TDG V1.2 24-Dec-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8434_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550026864",
+      "margin": "2.09899294610797",
+      "packShot": ""
+    },
+    {
+      "code": "001D8434_002XL3_A1WJ",
+      "name": "Cartridges 0.4 kg Local (Fiber Grease) Composite Multi-coloured (10)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridges",
+      "materialCode": "550027580",
+      "margin": "1.41613575705265",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "They are based on a high viscosity index mineral oil and lithium complex soap thickener. They contains selected additives to offer excellent high temperature oxidation performance and enhanced extreme pressure, antiwear and anti-corrosion properties. They also contains molybdenum disulfide to provide additional resistance to shock loading.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

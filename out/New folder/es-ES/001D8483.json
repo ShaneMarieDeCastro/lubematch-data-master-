@@ -1,0 +1,127 @@
+{
+  "id": "001D8483",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Gadus S2 U460L 2",
+  "description": "High Performance Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas no EP  con base de aceite mineral",
+  "applicationKeys": [
+    "bearings",
+    "bentonite",
+    "clay",
+    "heavy duty",
+    "heavy load",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "low load",
+    "slow",
+    "slow speed"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4981fb1e-b657-46b4-bcd7-c714669e089c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 U460L 2 EN TDG V1.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/4026d7b0-bf41-46ca-b783-06ca865ec68b.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 U460L 2 Spain ES TDG V1.2 10-Jun-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541540.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 Spain ES 140003966322 EHS V2.5 20-MAR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541539.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 Spain EN 140003966322 EHS V2.5 20-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8483_002XD7_A246",
+      "name": "Cubo 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Cubo",
+      "materialCode": "550028052",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "El aceite base utilizado en la formulación del Shell Gadus S2 U460L es un aceite mineral de alta calidad y elevada viscosidad que posee una excelente resistencia a la oxidación y a la evaporación. La resistencia a la oxidación se ve mejorada aún más por el agregado de un aditivo especial inhibidor de la oxidación adecuado para altas temperaturas.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Inorganic (clay)"
+    },
+    {
+      "property": "Base Oil (Type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "35"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

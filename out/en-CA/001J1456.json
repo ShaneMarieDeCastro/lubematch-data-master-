@@ -1,0 +1,50 @@
+{
+  "id": "001J1456",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "DEG",
+  "description": "DEG",
+  "family": "Additive",
+  "parentCategory": null,
+  "category": "Other Lubricants additive",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "2",
+  "viscosityType": "ISO",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9efb6616-a7d5-4657-bfb7-fe842a88d626.pdf",
+      "type": "GTDS",
+      "name": "Shell DEG EN TDG V1.0 13-Nov-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291384.PDF",
+      "type": "LMSDS",
+      "name": "Shell DEG Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291385.PDF",
+      "type": "LMSDS",
+      "name": "Shell DEG Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

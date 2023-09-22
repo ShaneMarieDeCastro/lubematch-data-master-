@@ -1,0 +1,79 @@
+{
+  "id": "001F8472",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Morlina S2 BL 22",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28e18feb-8dae-4f84-9ca3-7de5dc6e4fd4.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 22 (2016) EN TDG V1.2 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02418502.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) Canada FR 140006579500 EHS V2.2 25-MAY-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d1db23b0-d983-4e97-b22b-159c4e6d7c9f.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 22 (2016) Canada EN TDG V1.2 23-Aug-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02418503.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) Canada EN 140006579500 EHS V2.2 25-MAY-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/4f70143d-931e-47f6-b3b0-4b7517a6dc1d.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 22 (2016) Canada FR TDG V1.2 02-Sep-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8472_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550053972",
+      "margin": "2.30169843801744",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 22 est une huile minérale spéciale à faible viscosité mélangée à des additifs sans zinc, pour fournir des performances étendues dans les broches à grande vitesse des machines-outils.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,86 @@
+{
+  "id": "001D8526",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell GadusRail S4 High Speed EUDB",
+  "description": "Advanced Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses non EP à base synthétiques",
+  "applicationKeys": [
+    "advanced",
+    "european axle box",
+    "extended drain",
+    "extended service",
+    "heavy load",
+    "high load",
+    "high speed",
+    "high speed railway",
+    "lithium based",
+    "rail",
+    "railroad",
+    "railroad axle box",
+    "roller bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/9ce6c4b4-8255-484e-8dc5-95178efbb4f7.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S4 High Speed EUDB EN TDG V4.2 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/c60f9b45-d375-49c4-ad41-8bd0647cb2eb.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S4 High Speed EUDB France FR TDG V4.2 28-Nov-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595086.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUDB France FR 140003182031 EHS V2.12 14-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595087.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUDB France EN 140003182031 EHS V2.12 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8526_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550059271",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 b",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 b"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

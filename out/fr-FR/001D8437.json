@@ -1,0 +1,176 @@
+{
+  "id": "001D8437",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S5 V220 2",
+  "description": "Advanced Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base synthétiques",
+  "applicationKeys": [
+    "advanced",
+    "automotive",
+    "bearing",
+    "ep",
+    "extreme load",
+    "extreme pressure",
+    "gearbox",
+    "heavy duty",
+    "heavy load",
+    "high load",
+    "industrial",
+    "labyrinth seals",
+    "lithium",
+    "lithium complex",
+    "multipurpose",
+    "paper",
+    "paper machines",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "trucks",
+    "versatile",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/caab4647-1ca1-4b4a-a035-b33034cc74f9.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V220 2 EN TDG V2.9 11-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/7a3d2ee8-ca50-44c3-8d24-f7f784e67623.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V220 2 France FR TDG V2.9 17-Nov-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603934.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V220 2 France EN 140003182031 EHS V2.4 27-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603935.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V220 2 France FR 140003182031 EHS V2.4 27-JUN-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8437_002XEC_A1P5",
+      "name": "Sceau 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550036561",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8437_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550028010",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB-GC",
+      "organisation": "ASTM",
+      "spec": "D4950 LB-GC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V220 est une graisse de performances de pointe pour les applications du Transport et de l'Industrie. Elle est élaborée à partir d'huile de base synthétique à indice de viscosité élevé et d'un agent épaississant de lithium complexe. Elle contient des additifs anti-usures, antioxydant et anticorrosion.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Light Brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium complex"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "PAO"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "26"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "DIN 51350:4",
+      "uom": "",
+      "units": "N",
+      "value": "3400"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 132",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Starting Torque",
+      "method": "ASTM D4693",
+      "uom": "-40°C",
+      "units": "Nm",
+      "value": "6.50"
+    },
+    {
+      "property": "Running Torque",
+      "method": "ASTM D4693",
+      "uom": "-40°C",
+      "units": "Nm",
+      "value": "5.25"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

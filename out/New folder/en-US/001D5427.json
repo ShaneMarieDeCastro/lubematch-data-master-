@@ -1,0 +1,72 @@
+{
+  "id": "001D5427",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T1 10W",
+  "description": "High Quality Straight Grade Heavy Duty Diesel Engine Oil ",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "automatic",
+    "brakes",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "manual sequential",
+    "mobile",
+    "on highway",
+    "pump gear",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008308065_201505050428.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 10W (CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562554.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 10W (CF) United States EN 140002686046 EHS V2.0 15-AUG-2019",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/8da9f0ed-fb2a-4c9f-8737-f32035b143b9.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 10W (CF) United States EN TDG V2.1 06-May-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Vickers 35VQ25",
+      "organisation": "Vickers",
+      "spec": "35VQ25"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T1 Energized Protection™ oils use well-proven performance additives to fight engine wear and prevent deposits, providing reliable lubrication and consistent performance. Suitable for day to day use in turbo and non-turbocharged older engines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

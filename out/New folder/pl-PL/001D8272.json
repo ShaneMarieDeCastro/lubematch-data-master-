@@ -1,0 +1,147 @@
+{
+  "id": "001D8272",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S6 GXME 75W-80",
+  "description": "Premium, SyntheticTechnology, Fuel Economy Manual Transmission and Gearbox Ol",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Oleje do ręcznych skrzyń biegów i przekładni",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "fuel efficiency",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "integrated retarders",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "meadium load",
+    "medium loaded axle",
+    "mobile",
+    "off highway",
+    "on highway",
+    "passenger car",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "semi automatic",
+    "semi manual",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-80",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fea1211d-b902-4300-b3d3-3f9b071dd0f7.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 GXME 75W-80 EN TDG V2.7 17-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577608.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GXME 75W-80 Poland PL 140003791557 EHS V2.8 23-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/b95e7319-b1cd-4649-8d37-770d1f9f6573.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 GXME 75W-80 Poland PL TDG V2.7 18-Mar-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577610.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GXME 75W-80 Poland EN 140003791557 EHS V1.8 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8272_002VNF_A1P5",
+      "name": "Wiadro 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550027940",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8272_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027939",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 16K",
+      "organisation": "ZF",
+      "spec": "TE-ML 16K"
+    },
+    {
+      "name": "Volvo 97307",
+      "organisation": "Volvo",
+      "spec": "97307"
+    },
+    {
+      "name": "ZF TE-ML 01L",
+      "organisation": "ZF",
+      "spec": "TE-ML 01L"
+    },
+    {
+      "name": "ZF TE-ML 02L",
+      "organisation": "ZF",
+      "spec": "TE-ML 02L"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MAN 341 Type E3",
+      "organisation": "MAN",
+      "spec": "341 Type E3"
+    },
+    {
+      "name": "MAN 341 Type Z4",
+      "organisation": "MAN",
+      "spec": "341 Type Z4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 GXME 75W-80 jest paliwooszczędnym olejem przekładniowym o wydłużonej trwałości zaprojektowanym aby zapewnić najwyższą wydajność i ochronę wysoko obciążonym skrzyń biegów Volvo. Formulacja zawierająca  w pełni syntetyczną bazę olejową i unikalny pakiet dodatków znacznie poprawia właściwoci smarne oleju i wydłuża eksploatację twojego urządzenia.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027940_Shell_Spirax_S6_GXME_75W-80_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

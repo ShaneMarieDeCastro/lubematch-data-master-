@@ -1,0 +1,81 @@
+{
+  "id": "001D8524",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell GadusRail S4 High Speed EUFR",
+  "description": "Advanced Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "advanced",
+    "european axle box",
+    "extended drain",
+    "extended service",
+    "heavy load",
+    "high load",
+    "high speed",
+    "high speed railway",
+    "lithium based",
+    "long life",
+    "rail",
+    "railroad",
+    "railroad axle box",
+    "roller bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d2305ec7-2c36-4daa-bc9d-89239481c710.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S4 High Speed EUFR EN TDG V4.2 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612181.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUFR Germany DE 140001492039 EHS V2.1 06-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612182.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUFR Germany EN 140001492039 EHS V2.1 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8524_002VSL_A246",
+      "name": "Fass 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028115",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 b",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 b"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

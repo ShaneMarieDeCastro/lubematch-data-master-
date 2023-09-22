@@ -1,0 +1,247 @@
+{
+  "id": "001G1641",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Rimula R4 L 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "light fuel",
+    "lng",
+    "locomotive",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b86f42c-61d9-4c00-b77c-481218042d38.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) EN TDG V2.2 24-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02275197.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) Philippines English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/885c352c-4747-414d-8d58-54c409878c56.pdf",
+      "type": "LTDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) Philippines EN TDG V2.2 24-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1641_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550047421",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010314",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002VND_A227",
+      "name": "Pail 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550047420",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Deutz DQC III-18 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-18 LA"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "ACEA E11",
+      "organisation": "ACEA",
+      "spec": "E11"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Case New Holland MAT 3522 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3522 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison TES-439",
+      "organisation": "Allison",
+      "spec": "TES-439"
+    },
+    {
+      "name": "Case New Holland MAT 3521 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3521 - Suitable for use in applications which require"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "MB DTFR 15C100",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C100"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Iveco T2 E7 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T2 E7 - Meets the requirements"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 L oils use “Low-SAPS” additive technology to protect low emission engines under severe conditions. It delivers improvements in wear and deposit control, resistance to breakdown under high temperatures compared to previous oil.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

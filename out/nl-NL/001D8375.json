@@ -1,0 +1,66 @@
+{
+  "id": "001D8375",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Diala S3 ZX-I",
+  "description": "Premium Inhibited Electrical Insulating Oil",
+  "family": "Diala",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Elektrische oliën",
+  "applicationKeys": [
+    "dielectric fluid",
+    "electrical",
+    "electrical fluid",
+    "inhibited",
+    "insulating"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6bd4f55c-f875-4d0b-a455-54eb66cc45be.pdf",
+      "type": "GTDS",
+      "name": "Diala S3 ZX-I EN TDG V5.4 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140007164090_201205011417.pdf",
+      "type": "LTDS",
+      "name": "Diala S3 ZX-I Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574053.PDF",
+      "type": "LMSDS",
+      "name": "Diala S3 ZX-I Netherlands NL 140002783873 EHS V4.3 11-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574052.PDF",
+      "type": "LMSDS",
+      "name": "Diala S3 ZX-I Netherlands EN 140002783873 EHS V4.3 11-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S3 ZX-I meets both the established and new industry copper corrosion tests.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

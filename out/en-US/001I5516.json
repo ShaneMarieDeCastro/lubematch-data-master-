@@ -1,0 +1,61 @@
+{
+  "id": "001I5516",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Water-Glycol S2 C 32",
+  "description": "Water Glycol Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/80cc4eb6-47ce-454a-9ebb-b5336a359536.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol S2 C 32 EN TDG V1.0 23-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/a43eb18c-81ed-4ef3-8cac-4175cf93f7f2.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol S2 C 32 United States EN TDG V1.0 21-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564041.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol S2 C 32 United States EN 140002686046 EHS V1.0 21-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5516_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057368",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Water Glycol S2 C 32 is a fire-resistant hydraulic fluid and is recognized by FM Global as a less flammable industrial fluid. Shell Water Glycol S2 C 32 was developed and designed specifically to operate at system pressures of 2000-4000 psi depending on pump type (vane or piston).  The formulation contains more than a sufficient amount of water to prevent the propagation of fire in the event of a hydraulic line rupture near an ignition source.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

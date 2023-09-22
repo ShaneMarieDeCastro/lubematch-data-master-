@@ -1,0 +1,148 @@
+{
+  "id": "001G1525",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Argina S4 40",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": null,
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    "axle",
+    "bio gas",
+    "biofuel",
+    "diesel",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "reduction gears",
+    "stationary",
+    "stern tube seal",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/01e50aab-72cf-42d4-97fa-c6d1b0066d45.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S4 40 EN TDG V1.8 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/84c52b20-8a48-47a8-a969-56d04a5878d3.pdf",
+      "type": "LTDS",
+      "name": "Shell Argina S4 40 United States EN TDG V1.8 23-Jun-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562846.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S4 40 United States EN 140002686046 EHS V1.2 28-DEC-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S4 40 is a multifunctional crankcase lubricant for highly rated medium-speed diesel engines operating on residual fuel. Shell Argina S4 40 has a BN of 40 and is designed for conditions of high oil stress. In addition Shell Argina S4 40 has been optimised to improve deposit control.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "127"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.7"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "104"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "916"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Base Number",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "40"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% m/m",
+      "value": "5.0"
+    },
+    {
+      "property": "Load Carrying Capacity (FZG Gear Machine) ",
+      "method": "ISO 14635-1 A/8.3/90",
+      "uom": "",
+      "units": "Failure load stage",
+      "value": "11"
+    },
+    {
+      "property": "SAE grade (viscosity class)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "40"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X0000005MSkQAM&field=Attachment__Name__s",
+      "family": "Argina",
+      "savings": 37000,
+      "title": "Shell Argina S4 40"
+    }
+  ],
+  "commerce": null
+}

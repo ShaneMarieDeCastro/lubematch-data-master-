@@ -1,0 +1,92 @@
+{
+  "id": "001D7772",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Tonna S2 M 220",
+  "description": "Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": null,
+  "category": "Slideway Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "factory applications",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manufacturing",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "rollers",
+    "servo",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Tonna_S2_M_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Tonna S2 M 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596321.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 220 Turkey EN 140003791542 EHS V1.0 15-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596439.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 220 Turkey TR 140003791542 EHS V1.0 15-JUN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-50",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-50"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S2 M oils are specially designed for the lubrication of machine tool slides, tables and feed mechanisms. Their enhanced tackiness and stick-slip characteristics combine to offer superior frictional performance on slideways. They are specially recommended in cases where high exposure to soluble cutting fluids exist.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

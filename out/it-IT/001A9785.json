@@ -1,0 +1,120 @@
+{
+  "id": "001A9785",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Turbo Oil T 100",
+  "description": "High Performance Steam Turbine Oil",
+  "family": "Turbo",
+  "parentCategory": "Oli turbina",
+  "category": "Oli turbina",
+  "applicationKeys": [
+    "ashless",
+    "aviation turbines",
+    "ball",
+    "bearing",
+    "gas turbines",
+    "gearbox",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "hydroelectric turbine",
+    "industrial",
+    "journal",
+    "light duty gas turbine",
+    "manual sequential",
+    "plain",
+    "pump gear",
+    "rollers",
+    "rotary vane",
+    "steam",
+    "steam turbine",
+    "tost life 5000 hours",
+    "transmissions",
+    "turbine",
+    "turbocompressors",
+    "vacuum pumps",
+    "water",
+    "wire rod mill",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2b709978-d93f-4d9b-bcf9-f628929076a7.pdf",
+      "type": "GTDS",
+      "name": "Turbo T 100 EN TDG V4.0 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552856.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 Italy EN 140007645406 EHS V2.9 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552857.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 Italy IT 140007645406 EHS V2.9 12-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/c55b7f92-c73e-4270-a999-8232433f03a6.pdf",
+      "type": "LTDS",
+      "name": "Turbo T 100 Italy Italian",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9785_002VSH_A181",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550013829",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "Indian Standard IS 1012 2002",
+      "organisation": "Indian Standard",
+      "spec": "IS 1012 2002"
+    },
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    },
+    {
+      "name": "ISO 8068:2006 L-THA",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-THA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Gli oli Shell Turbo T sono da tempo considerati uno standard tra gli oli industriali per turbina. I nuovi oli Shell Turbo T sono stati sviluppati per offrire prestazioni ancora superiori, rispondendo alle richieste delle più moderne turbine a vapore e a gas per impiego leggero che non richiedono superiori prestazioni antiusura per il riduttore. Gli oli Shell Turbo T sono formulati con basi idrotrattate di elevata qualità ed una combinazione di additivi senza zinco per fornire elevata stabilità ossidativa, protezione da ruggine e corrosione, bassa schiumosità ed eccellente demulsività. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

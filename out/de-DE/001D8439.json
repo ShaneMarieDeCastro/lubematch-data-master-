@@ -1,0 +1,86 @@
+{
+  "id": "001D8439",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S3 V770D 1",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "bearing",
+    "bushes",
+    "bushing",
+    "cement",
+    "chemical industry",
+    "continuous high load",
+    "ep",
+    "extreme pressure",
+    "flexible gear couplings",
+    "heavy duty",
+    "high load",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "mining",
+    "moly",
+    "multipurpose",
+    "premium",
+    "roller bearings",
+    "rollers",
+    "shock load",
+    "slow",
+    "solid lubricant",
+    "steel",
+    "very slow",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V770D_1_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V770D 1 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621003.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V770D 1 Germany EN 140001492039 EHS V4.2 20-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621002.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V770D 1 Germany DE 140001492039 EHS V4.2 20-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8439_002VME_A246",
+      "name": "Eimer 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028099",
+      "margin": "1.30586420318089",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "001K4218",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Quaker State SAE 5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3f9bf07f-81bf-44ce-9785-8e1de0789254.pdf",
+      "type": "GTDS",
+      "name": "Quaker State SAE 5W-20 Motor Oil (CAN) EN TDG V1.0 27-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02428128.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State SAE 5W-20 Motor Oil (CAN) Canada EN 140006579500 EHS V1.0 25-JUL-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02428129.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State SAE 5W-20 Motor Oil (CAN) Canada FR 140006579500 EHS V1.0 25-JUL-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001K4218_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500014975",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Quaker State^® is a synthetic blend motor oil that provides durable wear protection that helps engines survive daily commutes from sustained high-speed highway operation to repetitive, stop-and-go traffic.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,127 @@
+{
+  "id": "001D8268",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S4 G 75W-90",
+  "description": "High Performance Synthetic VW Manual Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Oleje do ręcznych skrzyń biegów i przekładni",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "hydraulic system",
+    "manual",
+    "off highway",
+    "reduction gears",
+    "screw pump",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/e0a908be-6c15-42b0-9a4e-fb782e60bb42.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 G 75W-90 EN TDG V1.2 30-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577556.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-90 Poland PL 140003791557 EHS V2.10 23-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577536.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-90 Poland EN 140003791557 EHS V2.10 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/ed6e7d4c-13fc-4d4d-a803-f30c4b27fd6a.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 G 75W-90 Poland PL TDG V1.2 31-May-2019",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "VW Standard TL 501.50",
+      "organisation": "VW",
+      "spec": "Standard TL 501.50"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 G 75W-90 to półsyntetyczny olej przekładniowy do skrzyń biegów w samochodach pasażerskich i niskoobciążonych pojazdach produkowanych przez przez Grupę Volkswagen.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "75W-90"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "64.2"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "228"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "868"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "134"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027967_Shell_Spirax_S4_G_75W-90_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

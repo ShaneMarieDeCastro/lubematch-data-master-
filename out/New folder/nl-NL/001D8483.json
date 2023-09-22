@@ -1,0 +1,147 @@
+{
+  "id": "001D8483",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S2 U460L 2",
+  "description": "High Performance Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie zonder 'EP' additieven",
+  "applicationKeys": [
+    "bearings",
+    "bentonite",
+    "clay",
+    "heavy duty",
+    "heavy load",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "low load",
+    "slow",
+    "slow speed"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4981fb1e-b657-46b4-bcd7-c714669e089c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 U460L 2 EN TDG V1.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541180.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 Netherlands EN 140002783873 EHS V2.6 20-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541179.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 Netherlands NL 140002783873 EHS V2.6 20-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/7a6975a0-ebe9-4b01-9d21-51e0f586afa4.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 U460L 2 Netherlands NL TDG V1.2 27-Oct-2020",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8483_002VGF_EURO",
+      "name": "Cartridge 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550053536",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8483_002XD7_A246",
+      "name": "Emmer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028052",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8483_002VH7_A246",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028045",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 U460L is geformuleerd met een hoogwaardige solvent geraffineerde minerale olie met een hoge viscositeit die uitstekend bestand is tegen oxidatie en verdamping. De oxidatiestabiliteit wordt eveneens verbeterd door de toevoeging van een oxidatieremmer tegen hoog-temperatuur oxidatie.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Inorganic (clay)"
+    },
+    {
+      "property": "Base Oil (Type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "35"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,107 @@
+{
+  "id": "001F2286",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix Ultra Professional AF 5W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/413d0fcb-66a7-456c-9dbc-e75cbb0c75ab.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498750.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) Ireland EN 140007731156 EHS V1.7 06-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2286_002WX1_A291",
+      "name": "Bottle 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550042300",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2286_002XN7_EURO",
+      "name": "Bottle 20 L Local EcoPack PET Bottle 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "EcoPack",
+      "materialCode": "550053640",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2286_002XS4_A1P5",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550042278",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C948-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C948-B"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high performance gasoline engines, including Ford \"Ecoboost\" engines. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550053640_Shell_Helix_Ultra_Prof_AF_5W-20_20L_EcoPack_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

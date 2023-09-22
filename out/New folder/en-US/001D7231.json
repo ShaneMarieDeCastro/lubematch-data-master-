@@ -1,0 +1,61 @@
+{
+  "id": "001D7231",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "FormulaShell SAE 40 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_FormulaShell_40_(SN)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell 40 (SN) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/9993159d-3772-486c-8358-8106510b5bfb.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 40 (SN) United States EN TDG V1.0 23-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563537.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 40 (SN) United States EN 140002686046 EHS V1.4 18-OCT-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Has enhanced wear protection and outstanding resistance to thermal breakdown at operating temperatures.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

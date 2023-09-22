@@ -1,0 +1,71 @@
+{
+  "id": "001G5055",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell GadusRail S4 WFB 000",
+  "description": "High Performance Biodegradable Rail Wheel Flange Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "Andere Eisenbahnfette",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "000",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8faabe52-6110-408f-8a58-f34fd064a707.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S4 WFB 000 EN TDG V1.2 13-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610679.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 WFB 000 Germany DE 140001492039 EHS V1.2 05-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610776.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 WFB 000 Germany EN 140001492039 EHS V1.2 05-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5055_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550049114",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G5055_002XEC_A246",
+      "name": "Eimer 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550049104",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell GadusRail S4 WFB 000 is building up an adhesive lubricating coating on the wheel flange.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

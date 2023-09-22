@@ -1,0 +1,166 @@
+{
+  "id": "001D8423",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S5 V100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi EP a base sintetica",
+  "applicationKeys": [
+    "advanced",
+    "bio gas",
+    "electric motors",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "long life",
+    "low temperature",
+    "marine",
+    "moderate speed",
+    "multipurpose",
+    "natural gas",
+    "outdoor fan",
+    "plain bearings",
+    "roller bearings",
+    "severe conditions",
+    "severe low temperature",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6a8b0726-3d71-4445-acda-f4b835615f84.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V100 2 EN TDG V1.2 19-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/9d1907b8-edf5-4700-96a0-893372beef10.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V100 2 Italy IT TDG V1.2 05-Jul-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580880.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V100 2 Italy EN 140007645406 EHS V1.5 24-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580881.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V100 2 Italy IT 140007645406 EHS V1.5 24-MAY-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8423_002XEC_A1P5",
+      "name": "Secchio 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550028433",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V100 è un grasso al litio complesso con olio base sintetico, contenente additivi antiossidanti, EP, antiusura e anticorrosione. Contiene uno speciale additivo modificatore di attrito consigliabile per cuscinetti ad alta velocità, cuscinetti a rulli conici e cilindrici, di tipo NJ, NUP oltre a quelli per rulli di curvatrici.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Penetration, worked 60 strokes (0.1 mm)",
+      "method": "IP 50 / ASTM D217",
+      "uom": "",
+      "units": "",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Rust Preventing Properties : SKF Emcor distilled water",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Rust Preventing Properties : SKF Emcor WWO distilled water",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Lubricating Ability SKF R2F A",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Lubricating Ability SKF R2F B",
+      "method": "NULL",
+      "uom": "@150°C",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Mechanical Stability, Shell Roll (50 hrs)",
+      "method": "NULL",
+      "uom": "@80°C",
+      "units": "NULL",
+      "value": "≤+50"
+    },
+    {
+      "property": "Temperature Range (temporarily)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-50/+150 (200)"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_v100.png",
+  "valueRecord": [],
+  "commerce": null
+}

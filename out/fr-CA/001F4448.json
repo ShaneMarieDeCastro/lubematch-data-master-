@@ -1,0 +1,463 @@
+{
+  "id": "001F4448",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Turbo S4 GX 32",
+  "description": "Industrial Steam, Gas and Combined Cycle Turbine Lubricant",
+  "family": "Turbo",
+  "parentCategory": null,
+  "category": "Huiles pour turbine",
+  "applicationKeys": [
+    "aero derivative",
+    "antiwear",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "combined cycle",
+    "combined cycle turbine",
+    "gas",
+    "gas  combined cycle turbines",
+    "gas turbines",
+    "gearbox",
+    "geared turbine",
+    "gtl",
+    "heavy duty",
+    "hydraulic control system",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "pump gear",
+    "steam",
+    "steam turbine",
+    "steam turbines",
+    "tost life 10000 hours",
+    "turbine",
+    "turbocompressors",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7a49f9ec-efb2-4b7d-a7e7-70f3d46940d0.pdf",
+      "type": "GTDS",
+      "name": "Turbo S4 GX 32 EN TDG V8.0 13-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544173.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 GX 32 Canada FR 140006579500 EHS V3.0 24-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544172.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 GX 32 Canada EN 140006579500 EHS V3.0 24-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/81989abb-1b3d-4c59-a18f-d0b1ea817cf8.pdf",
+      "type": "LTDS",
+      "name": "Turbo S4 GX 32 Canada FR TDG V8.0 13-Sep-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/37ec6ad1-eb87-4f4f-8609-65a82034d663.pdf",
+      "type": "LTDS",
+      "name": "Turbo S4 GX 32 Canada EN TDG V8.0 13-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4448_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550043380",
+      "margin": "1.56324005162655",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 8068 L-TGF",
+      "organisation": "ISO",
+      "spec": "8068 L-TGF"
+    },
+    {
+      "name": "GE Oil and Gas ITN52220.04",
+      "organisation": "GE Oil and Gas",
+      "spec": "ITN52220.04"
+    },
+    {
+      "name": "General Electric GEK 101941A",
+      "organisation": "General Electric",
+      "spec": "GEK 101941A"
+    },
+    {
+      "name": "Siemens PD-55125Z3",
+      "organisation": "Siemens",
+      "spec": "PD-55125Z3"
+    },
+    {
+      "name": "DIN 51515-2 L-TG",
+      "organisation": "DIN",
+      "spec": "51515-2 L-TG"
+    },
+    {
+      "name": "ISO 8068:2006 L-TGSE",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGSE"
+    },
+    {
+      "name": "General Electric GEK 46506E",
+      "organisation": "General Electric",
+      "spec": "GEK 46506E"
+    },
+    {
+      "name": "MAN D and T SE TED 10000494596",
+      "organisation": "MAN",
+      "spec": "D and T SE TED 10000494596"
+    },
+    {
+      "name": "Dresser Rand 003-406-001 Type I",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001 Type I"
+    },
+    {
+      "name": "Siemens MAT 812109",
+      "organisation": "Siemens",
+      "spec": "MAT 812109"
+    },
+    {
+      "name": "ASTM D4313",
+      "organisation": "ASTM",
+      "spec": "D4313"
+    },
+    {
+      "name": "ANSALDO TG02-0171-E00000/B",
+      "organisation": "ANSALDO",
+      "spec": "TG02-0171-E00000/B"
+    },
+    {
+      "name": "Siemens 21 T0591",
+      "organisation": "Siemens",
+      "spec": "21 T0591"
+    },
+    {
+      "name": "Siemens Eng DP21T-00000443",
+      "organisation": "Siemens",
+      "spec": "Eng DP21T-00000443"
+    },
+    {
+      "name": "General Electric GEK 120498",
+      "organisation": "General Electric",
+      "spec": "GEK 120498"
+    },
+    {
+      "name": "ASTM D4304-13 Type III",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type III"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "ASTM D4304-13 Type II",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type II"
+    },
+    {
+      "name": "ISO 8068:2006 L-TGF",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGF"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "General Electric GEK 107395A",
+      "organisation": "General Electric",
+      "spec": "GEK 107395A"
+    },
+    {
+      "name": "ISO 8068 L-TGSE",
+      "organisation": "ISO",
+      "spec": "8068 L-TGSE"
+    },
+    {
+      "name": "Alstom HTGD 90 117 V0001 AA",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117 V0001 AA"
+    },
+    {
+      "name": "General Electric GEK 32568J",
+      "organisation": "General Electric",
+      "spec": "GEK 32568J"
+    },
+    {
+      "name": "Elliot Turbo-machinery X-18-0004 - Meets the requirements",
+      "organisation": "Elliot Turbo-machinery",
+      "spec": "X-18-0004 - Meets the requirements"
+    },
+    {
+      "name": "Dresser Rand 003-406-001 Type III",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001 Type III"
+    },
+    {
+      "name": "Siemens 1CW0047915 - Meets the requirements",
+      "organisation": "Siemens",
+      "spec": "1CW0047915 - Meets the requirements"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Siemens WN80003798 - Meets the requirements",
+      "organisation": "Siemens",
+      "spec": "WN80003798 - Meets the requirements"
+    },
+    {
+      "name": "JIS K 2213-2006 Class 2",
+      "organisation": "JIS",
+      "spec": "K 2213-2006 Class 2"
+    },
+    {
+      "name": "General Electric GEK 32568K",
+      "organisation": "General Electric",
+      "spec": "GEK 32568K"
+    },
+    {
+      "name": "Siemens TLV 9013 05",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 05"
+    },
+    {
+      "name": "Siemens Report 65/0027 - Meets the requirements",
+      "organisation": "Siemens",
+      "spec": "Report 65/0027 - Meets the requirements"
+    },
+    {
+      "name": "Siemens TLV 9013 04",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 04"
+    },
+    {
+      "name": "General Electric GEK 28143B",
+      "organisation": "General Electric",
+      "spec": "GEK 28143B"
+    },
+    {
+      "name": "Solar ES 9-224Y Class II",
+      "organisation": "Solar",
+      "spec": "ES 9-224Y Class II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo S4 GX 32 est formulée à partir de la technology Gas-to-Liquid (GTL). Elle répond aux exigences des turbines les plus contraignantes. Conçue pour offrir les plus hautes performances à long terme dans les conditions de fonctionnement les plus sévères. Shell Turbo S4 GX 32 minimise l'usure et la formation de dépôts et de boues même dans des conditions de fortes et fréquentes variations de charge. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "32.0"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6.06"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "139"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "g/cm³",
+      "value": "0.827"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "232"
+    },
+    {
+      "property": "Neutralisation Number",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0.15"
+    },
+    {
+      "property": "Air Release",
+      "method": "ASTM D3427",
+      "uom": "@50°C",
+      "units": "minutes",
+      "value": "1"
+    },
+    {
+      "property": "Copper Corrosion",
+      "method": "ASTM D130",
+      "uom": "3hr/100°C",
+      "units": "",
+      "value": "1b"
+    },
+    {
+      "property": "Rust Preventing Properties",
+      "method": "ASTM D665 A & B",
+      "uom": "",
+      "units": "",
+      "value": "No Rust"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "minutes to 3 mL emulsion",
+      "units": "minutes",
+      "value": "15"
+    },
+    {
+      "property": "Steam Demulsibility",
+      "method": "IP 19",
+      "uom": "",
+      "units": "seconds",
+      "value": "95"
+    },
+    {
+      "property": "Foaming Characteristics",
+      "method": "ASTM D892",
+      "uom": "tendency, stability",
+      "units": "mL/mL",
+      "value": ""
+    },
+    {
+      "property": "Sequence I",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0/0"
+    },
+    {
+      "property": "Sequence II",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0/0"
+    },
+    {
+      "property": "Sequence III",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0/0"
+    },
+    {
+      "property": "Load Carrying - FZG - failure load stage",
+      "method": "DIN 51354",
+      "uom": "",
+      "units": "",
+      "value": "10"
+    },
+    {
+      "property": "Oxidation Stability",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "RPVOT ",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes",
+      "value": "1400"
+    },
+    {
+      "property": "Modified RPVOT",
+      "method": "",
+      "uom": "",
+      "units": "% of RPVOT",
+      "value": "95%"
+    },
+    {
+      "property": "TOST lifetime",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours",
+      "value": "10 000+"
+    },
+    {
+      "property": "TOST 1000hr sludge",
+      "method": "ASTM D4310",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "25"
+    },
+    {
+      "property": "Dry TOST",
+      "method": "ASTM D7873",
+      "uom": "@120°C",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "Sludge Content at 50% RPVOT",
+      "method": "",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "25"
+    },
+    {
+      "property": "Time to 50% RPVOT",
+      "method": "",
+      "uom": "",
+      "units": "hours",
+      "value": "1410"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "001I5529",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Omala S3 W 220",
+  "description": "Biodegradable Water Soluble Gear Fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f99c1cd9-b70a-433a-96cc-c233d64b6b57.pdf",
+      "type": "GTDS",
+      "name": "Shell Omala S3 W 220 EN TDG V1.2 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/0adab314-334c-4268-b203-5fefb5d1598b.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 W 220 United States EN TDG V1.2 21-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02600750.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 W 220 United States EN 140002686046 EHS V3.0 21-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5529_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057386",
+      "margin": "1.95602733452205",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

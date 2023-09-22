@@ -1,0 +1,73 @@
+{
+  "id": "001B9167",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State ATF Dexron VI",
+  "description": "Dexron VI automatic transmission fluid",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "atf",
+    "automatic transmissions",
+    "extended drain",
+    "hydramatic",
+    "hydramatic automatic tranmsissions",
+    "low temperature",
+    "passenger car"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/9b93538c-f8b8-4ac7-ae50-1aa7594204bf.pdf",
+      "type": "GTDS",
+      "name": "QS ATF Dexron VI EN TDG V1.1 15-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291199.PDF",
+      "type": "LMSDS",
+      "name": "QS ATF Dexron VI Canada FR 140006579500 EHS V3.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/82db0c2f-7f56-42a4-be97-ba083966c401.pdf",
+      "type": "LTDS",
+      "name": "QS ATF Dexron VI Canada EN TDG V1.1 15-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291198.PDF",
+      "type": "LMSDS",
+      "name": "QS ATF Dexron VI Canada EN 140006579500 EHS V3.1 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors Dexron VI",
+      "organisation": "General Motors",
+      "spec": "Dexron VI"
+    },
+    {
+      "name": "GMN 10060 - meets the requirements",
+      "organisation": "GMN",
+      "spec": "10060 - meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Quaker State^® Dexron^® VI Automatic Transmission Fluid is an exceptional automatic transmission fluid approved by General Motors for use in vehicles with automatic transmissions. It is specially formulated to provide twice the service life of a Dexron^®^ III(H) ATF and offers enhanced performance for both new and older transmissions. It is designed to protect transmissions through improved oxidation resistance, friction durability, shear stability and wear protection to help meet warranty protection requirements in late model vehicles.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

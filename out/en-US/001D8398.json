@@ -1,0 +1,73 @@
+{
+  "id": "001D8398",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Refrigeration Oil S4 FR-V 32",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": null,
+  "category": "Refrigerator Oils",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "hydraulic system",
+    "industrial",
+    "long life",
+    "open compressor",
+    "pump gear",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/aa181670-f8f3-4795-b520-8289b69d1441.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 32 EN TDG V2.5 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562648.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 32 United States EN 140002686046 EHS V4.0 26-AUG-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V is a synthetic refrigeration lubricant based on alkylated benzenes. It offers a universal solution to the lubrication requirements of most refrigeration compressors and is compatible with all commonly used refrigerants with the exception of HFCs.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

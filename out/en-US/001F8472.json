@@ -1,0 +1,77 @@
+{
+  "id": "001F8472",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Morlina S2 BL 22",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28e18feb-8dae-4f84-9ca3-7de5dc6e4fd4.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 22 (2016) EN TDG V1.2 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563229.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) United States EN 140002686046 EHS V2.3 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/9611876a-728f-41be-9364-c1af80d08390.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 22 (2016) United States EN TDG V1.2 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8472_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011692",
+      "margin": "0.680655921056496",
+      "packShot": ""
+    },
+    {
+      "code": "001F8472_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550053972",
+      "margin": "3.42892882939731",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 22 is a special low viscosity mineral oil blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

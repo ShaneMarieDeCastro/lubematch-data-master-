@@ -1,0 +1,88 @@
+{
+  "id": "001E7930",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix HX3 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX3_15W-40_(SL_CF)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 15W-40 (SL/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02620555.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 15W-40 (SL/CF) Poland PL 140003791557 EHS V1.6 20-JUL-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/f1e6bc68-eb83-4118-ac43-bb7b7d9ecb52.pdf",
+      "type": "LTDS",
+      "name": "Helix HX3 15W-40 (SL/CF) Poland PL TDG V1.1 29-Oct-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02620554.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 15W-40 (SL/CF) Poland EN 140003791557 EHS V1.6 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7930_002W1Y_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046596",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7930_002W2H_A292",
+      "name": "Butelka 4 L Wishbone Plastic Red (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550039926",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 zapewnia niezawodną ochronę starszym silnikom o dużym przebiegu. Zapobiega powstawaniu osadów i zmniejsza zużycie silnika. Odpowiedni do stosowania w silnikach wymagających olejów spełniających normy API SL/CF.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

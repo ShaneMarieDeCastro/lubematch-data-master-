@@ -1,0 +1,88 @@
+{
+  "id": "001J1510",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell HD5 Fleet 10W-40",
+  "description": "Low Emissions Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0fddb0c7-d061-44d0-841d-c0b53781619d.pdf",
+      "type": "GTDS",
+      "name": "Shell HD5 Fleet 10W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/242a1988-d125-49f7-930b-e2b2dbc916aa.pdf",
+      "type": "LTDS",
+      "name": "Shell HD5 Fleet 10W-40 Poland PL TDG V1.3 03-Aug-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02506142.PDF",
+      "type": "LMSDS",
+      "name": "Shell HD5 Fleet 10W-40 Poland PL 140003791557 EHS V1.3 12-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02506141.PDF",
+      "type": "LMSDS",
+      "name": "Shell HD5 Fleet 10W-40 Poland EN 140003791557 EHS V1.3 12-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J1510_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550061971",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J1510_002VNA_A246",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550061970",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Właściwości ochronne oleju zapewniają ochrone silnika w każdych warunkach, co zapewnia niższe koszty utrzymania oraz wydłużenie interwałów wymiany oleju.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

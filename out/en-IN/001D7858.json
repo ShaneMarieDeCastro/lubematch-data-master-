@@ -1,0 +1,165 @@
+{
+  "id": "001D7858",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Omala S4 WE 320",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "journal",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "pag",
+    "rollers",
+    "splash lubricated bearings",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e98e1da6-032c-4c5b-bf1b-423d9cb9bed2.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 320 EN TDG V4.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/bdab9f63-0738-46b5-89ab-a36fbf7fcb49.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 320 India EN TDG V4.3 21-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637357.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 320 India EN 140006501563 EHS V1.7 20-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7858_002VNX_A1P5",
+      "name": "Pail 20 L Tinplate German Cuboid W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550043652",
+      "margin": "5.59893066230781",
+      "packShot": ""
+    },
+    {
+      "code": "001D7858_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027170",
+      "margin": "1.93935115515384",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE is an advanced synthetic heavy duty industrial worm drive gear oil formulated using specially selected polyalkylene glycol base fluids and additives.  It offers outstanding lubrication performance under severe operating conditions, including improved energy efficiency, long service life and high resistance to micro-pitting.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104 ",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "321"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "52.7"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "230"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "",
+      "units": "°C",
+      "value": "270"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "1069"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2  A/8.3/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000InnUQAS&field=Attachment__Name__s",
+      "family": "Omala",
+      "savings": 31000,
+      "title": "Shell Omala S4 WE 320"
+    }
+  ],
+  "commerce": null
+}

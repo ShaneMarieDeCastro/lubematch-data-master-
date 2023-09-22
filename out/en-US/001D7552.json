@@ -1,0 +1,61 @@
+{
+  "id": "001D7552",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State SAE 20W-50 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/311e85b1-8f10-40ec-be21-420185a2548c.pdf",
+      "type": "GTDS",
+      "name": "Quaker State SAE 20W-50 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/f1c129ff-7eec-4115-8e84-81df5e701b17.pdf",
+      "type": "LTDS",
+      "name": "Quaker State SAE 20W-50 Motor Oil United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563422.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State SAE 20W-50 Motor Oil United States EN 140002686046 EHS V1.5 30-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Quaker State^® motor oil provides durable wear protection that helps engines survive daily commutes from sustained high-speed highway operation to repetitive, stop-and-go traffic.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

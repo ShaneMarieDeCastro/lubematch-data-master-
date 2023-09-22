@@ -1,0 +1,73 @@
+{
+  "id": "001I5515",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Fire Resistant Food Grade 46",
+  "description": "Special Purpose & Food Grade Hydraulic Fluid",
+  "family": "non-GKA GPO - other",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4d0c8431-6f05-435d-9234-479c432ff200.pdf",
+      "type": "GTDS",
+      "name": "Shell Fire Resistant Food Grade 46 EN TDG V1.2 01-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/2624f3a2-f3cd-4172-bc7d-995d66173b74.pdf",
+      "type": "LTDS",
+      "name": "Shell Fire Resistant Food Grade 46 Canada EN TDG V1.2 01-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541339.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fire Resistant Food Grade 46 Canada FR 140006579500 EHS V2.0 21-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541340.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fire Resistant Food Grade 46 Canada EN 140006579500 EHS V2.0 21-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/a0ae1f3f-5b2a-4a4b-ba10-d58bf37b12c7.pdf",
+      "type": "LTDS",
+      "name": "Shell Fire Resistant Food Grade 46 Canada FR TDG V1.2 08-Oct-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5515_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057367",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

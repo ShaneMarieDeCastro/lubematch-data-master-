@@ -1,0 +1,62 @@
+{
+  "id": "001D8523",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Gadus S1 V150D 2",
+  "description": "Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "lithium",
+    "moly"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S1_V150D_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V150D 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_Gadus_S1_V150D_2_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V150D 2 India English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636791.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V150D 2 India EN 140006501563 EHS V1.2 08-MAY-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8523_002VH7_A1W8",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550031272",
+      "margin": "0.674307463458873",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S1 V150D is a light duty multi-purpose grease with solids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

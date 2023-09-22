@@ -1,0 +1,95 @@
+{
+  "id": "001E7179",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Mysella S3 N 30",
+  "description": " Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Moteur à gaz stationnaire",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "gas",
+    "landfill",
+    "lng",
+    "low ash",
+    "lpg",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S3_N_30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 N 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Shell_Mysella_S3_N_30_(en-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 N 30 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289789.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290408.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/273b5687-7ce6-4176-89f0-5d74d86e1e06.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 N 30 Canada FR TDG V3.3 04-Jun-2018",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7179_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550036524",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7179_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500007711",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 N répond aux exigences des moteurs stationnaires à gaz conçus pour répondre aux nouvelles normes en termes d'émissions de NOx et plus particulièrement ceux qui utilisent les dernières technologies en matière de mélange pauvre pour atteindre cet objectif. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

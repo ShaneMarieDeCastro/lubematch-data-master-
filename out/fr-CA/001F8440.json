@@ -1,0 +1,295 @@
+{
+  "id": "001F8440",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Tellus S2 MX 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "axle",
+    "ball",
+    "bearing",
+    "better system efficiency",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "electrical",
+    "electrical fluid",
+    "engine",
+    "extended life",
+    "extreme performance",
+    "factory applications",
+    "final drive",
+    "fixed",
+    "gas turbines",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "high tost",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "industrial hydraulics",
+    "manufacturing",
+    "marine",
+    "marine hydraulic",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "mobile equipment",
+    "momentum transfer",
+    "natural gas",
+    "off highway",
+    "offshore",
+    "plain",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller spherical",
+    "rollers",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "tandem drive",
+    "transmissions",
+    "turbine",
+    "two stroke",
+    "vacuum pumps",
+    "variable",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/380e70d6-d0a0-4769-9491-0644587b6f2c.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MX 68 (2016) EN TDG V4.1 05-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/76262feb-0458-407a-9add-a90386847f8c.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MX 68 (2016) Canada EN TDG V4.1 05-Jul-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02640561.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 68 (2016) Canada EN 140006579500 EHS V1.4 04-SEP-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02640562.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 68 (2016) Canada FR 140006579500 EHS V1.4 04-SEP-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/d7eb4116-35c7-4f47-be95-efadc8963182.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MX 68 (2016) Canada FR TDG V4.1 06-Jul-2016",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8440_002VOM_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550045415",
+      "margin": "0.296605740460005",
+      "packShot": ""
+    },
+    {
+      "code": "001F8440_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550045414",
+      "margin": "0.503994873401734",
+      "packShot": ""
+    },
+    {
+      "code": "001F8440_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500010029",
+      "margin": "0.297050779811764",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Swedish Standard SS 15 54 34 AM",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 AM"
+    },
+    {
+      "name": "Parker Denison HF-2",
+      "organisation": "Parker Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-69",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-69"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "Parker Denison HF-1",
+      "organisation": "Parker Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-69 - Meets performance requirements",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-69 - Meets performance requirements"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "Parker Denison HF-0",
+      "organisation": "Parker Denison",
+      "spec": "HF-0"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les fluides Shell Tellus S2 MX sont des fluides hydrauliques de haute performance à base d’huiles du groupe II qui offrent protection et performance exceptionnelles pendant l’opération de la plupart des équipements mobiles et équipements de fabrication. Ils résistent à la dégradation due à la chaleur ou aux contraintes mécaniques et aident à prévenir la formation de dépôts nuisibles qui peuvent réduire l’efficacité de votre système de transmission hydraulique.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Fluid Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@0°C",
+      "units": "cSt",
+      "value": "1000"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "8.9"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.860"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "L0.5"
+    },
+    {
+      "property": "Water Separation",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "minutes",
+      "value": "20"
+    },
+    {
+      "property": "TOST life",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours minimum",
+      "value": "5000"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X0000005NCxQAM&field=Attachment__Name__s",
+      "family": "Tellus",
+      "savings": 1000,
+      "title": "Shell Tellus S2 MX 68"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X0000005NWYQA2&field=Attachment__Name__s",
+      "family": "Tellus",
+      "savings": 229000,
+      "title": "Shell Tellus S2 MX 68"
+    }
+  ],
+  "commerce": null
+}

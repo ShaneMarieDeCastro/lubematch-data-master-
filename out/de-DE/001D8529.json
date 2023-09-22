@@ -1,0 +1,119 @@
+{
+  "id": "001D8529",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S2 V220D 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "lithium",
+    "moly"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_V220D_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220D 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612191.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220D 2 Germany DE 140001492039 EHS V1.4 06-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619277.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220D 2 Germany EN 140001492039 EHS V1.4 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8529_002XD7_A246",
+      "name": "Eimer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028219",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220D is designed for use in tough operating conditions. It is based on high viscosity index mineral oil and a lithium soap thickener and contains extreme-pressure, anti-wear and anti-corrosion additives. Shell Gadus S2 V220D also contains molybdenum disulphide to enhance its resistance to shock loading.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "15.5"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "275"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "185"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

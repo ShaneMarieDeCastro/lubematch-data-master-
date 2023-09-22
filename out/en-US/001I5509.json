@@ -1,0 +1,65 @@
+{
+  "id": "001I5509",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Omala S3 A 320",
+  "description": "Premium Industrial Gear Oil",
+  "family": "non-GKA GPO - other",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6f690b00-1b26-4336-8541-dfbb2971554e.pdf",
+      "type": "GTDS",
+      "name": "Shell Omala S3 A 320 EN TDG V1.1 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562301.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 A 320 United States EN 140002686046 EHS V1.0 02-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5509_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057357",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5509_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057356",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 A 320 is a synthetic lubricant formulated to provide excellent lubrication, stability, and extended service life for enclosed industrial gears. Shell Omala S3 A 320 maintains excellent performance during use and helps to reduce operating temperatures, friction and wear.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "001B9164",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil ATF +4",
+  "description": "Chrysler +4 automatic transmission fluid",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic transmissions",
+    "low temperature",
+    "passenger car",
+    "suv",
+    "trucks"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_ATF_4_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl ATF +4 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563709.PDF",
+      "type": "LMSDS",
+      "name": "Pzl ATF +4 United States EN 140002686046 EHS V2.4 19-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_States_Pzl_ATF_4_(en-US)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl ATF +4 United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 9602",
+      "organisation": "Chrysler",
+      "spec": "MS 9602"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "ATF+4^® is specially formulated to meet the requirements for use as a hydraulic fluid for automatic transmissions used in passenger cars, trucks and sport utility vehicles. It is designed as a robust automatic transmission fluid with improved oxidation stability, excellent low temperature viscosity, friction durability/retention, shear stability and anti-wear performance characteristics vs. ATF+4[sup]^®[/sup]",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

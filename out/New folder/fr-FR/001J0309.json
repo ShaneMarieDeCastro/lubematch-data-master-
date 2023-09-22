@@ -1,0 +1,61 @@
+{
+  "id": "001J0309",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S4 OGFP",
+  "description": "Advanced Open Gear Grease specifiaclly for Fixed Plant operations",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Graisses d’engrenage ouvertes",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/88b61fb7-f607-4573-84ab-be38a59ea9fc.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 OGFP EN TDG V1.1 28-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02526827.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 OGFP France EN 140003182031 EHS V2.2 22-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02526828.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 OGFP France FR 140003182031 EHS V2.2 22-FEB-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "P&H 464",
+      "organisation": "P&H",
+      "spec": "464"
+    },
+    {
+      "name": "Bucyrus International SD 4713",
+      "organisation": "Bucyrus International",
+      "spec": "SD 4713"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 OGFP grease is designed for use in highly loaded open gear applications such as grinding mills and rotary kiln gears. \nThe product is designed to be sprayed onto the gears.\nShell Gadus S4 OGFP grease is based on an Aluminum Complex thickener dispersed in a high viscosity semi-synthetic base oil containing solid lubricant additives.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

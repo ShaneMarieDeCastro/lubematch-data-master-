@@ -1,0 +1,91 @@
+{
+  "id": "001D7987",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Vacuum Pump Oil S2 R 100",
+  "description": "Special Application Rotary Vacuum Pump Oil",
+  "family": "Vacuum Pump",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "entrapment",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "momentum transfer",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ca260eb0-1495-4f98-a4dc-44b303ec21e6.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S2 R 100 EN TDG V2.4 07-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586386.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 Netherlands NL 140002783873 EHS V1.10 02-JUN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586385.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 Netherlands EN 140002783873 EHS V1.10 02-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/f6a33b28-4a0a-4bb9-8658-8e194870cfaa.pdf",
+      "type": "LTDS",
+      "name": "Vacuum Pump Oil S2 R 100 Netherlands NL TDG V2.4 03-May-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7987_002VNA_A246",
+      "name": "Emmer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550026397",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7987_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027223",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DVC",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DVC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S2 R 100 is samengesteld uit geselecteerde hoogwaardige, zeer geraffineerde minerale oliën. Dit zorgt voor een lage dampspanning die nodig is voor een efficiente smering van roterende vacuümpompen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,184 @@
+{
+  "id": "001E9389",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra Professional AG 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "cars",
+    "gm"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6d65cc9a-5462-4901-bed9-cf101d6d81cf.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AG 5W-30 (meet dexos 2) EN TDG V1.8 10-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603713.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Germany DE 140001492039 EHS V1.5 27-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/70daeca0-1af6-4b01-beb9-731ea8a0cd68.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Germany DE TDG V1.8 03-Jul-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603714.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Germany EN 140001492039 EHS V1.5 27-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9389_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500008980",
+      "margin": "0.326188442022582",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002VSI_A246",
+      "name": "Fass 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550040685",
+      "margin": "1.31794579836411",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002XS4_A246",
+      "name": "Fässer 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550040209",
+      "margin": "1.62939564637746",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002W21_A0YO",
+      "name": "Flasche 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550040618",
+      "margin": "0.861619260454604",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002XI2_A246",
+      "name": "Flasche 20 L JerryDose Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550045933",
+      "margin": "1.4581325336034",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Erfüllt die anspruchsvollen Anforderungen bestimmter Hochleistungsmotoren insbesondere von General Motors und Opel/ Vauxhall sowie jener, die API SN oder ACEA C3 Öle benötigen.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "12,1"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@ 40 °C",
+      "units": "cSt",
+      "value": "69,02"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "174"
+    },
+    {
+      "property": "Dynamische Viskosität (MRV)",
+      "method": "ASTM D4684",
+      "uom": "@–35 °C",
+      "units": "cP",
+      "value": "14.500"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@ 15 °C",
+      "units": "kg/m³",
+      "value": "836,1"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "238"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–45"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,171 @@
+{
+  "id": "001F4440",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix Ultra ECT C3 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/546bc8bf-af2c-4513-89de-bb48b1466276.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) EN TDG V2.0 05-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02500032.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C3 5W-30 (C3 MB229.51 BMW LL-04) Ireland EN 140007731156 EHS V1.5 07-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4440_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009560",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550042824",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002VSI_A246",
+      "name": "Keg 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550042823",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002W21_A291",
+      "name": "Bottle 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550042821",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550042832",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002W21_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550049781",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002W2L_EURO",
+      "name": "Bottle 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050441",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4440_002WX1_A570",
+      "name": "Bottle 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550042822",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "Chrysler MS 11106",
+      "organisation": "Chrysler",
+      "spec": "MS 11106"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C3 features its most advanced emissions-compatible technology that helps to keep diesel particulate filters clean to help maintain engine performance. It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550050441_Shell_Helix_Ult_ECT_C3_5W-30_4L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,114 @@
+{
+  "id": "001F4013",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Advance W 2T (FB/EGB) (solvent free)",
+  "description": "2 Stroke Motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "motorbikes",
+    "motorcycles",
+    "two stroke"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3b4994a5-bafb-487e-903e-23d5afb4638d.pdf",
+      "type": "GTDS",
+      "name": "Advance W 2T (FB/EGB) (solvent free) EN TDG V1.4 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02361958.PDF",
+      "type": "LMSDS",
+      "name": "Advance W 2T (FB/EGB) (solvent free) Malaysia MS 140001435555 EHS V1.6 10-AUG-2021",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02361953.PDF",
+      "type": "LMSDS",
+      "name": "Advance W 2T (FB/EGB) (solvent free) Malaysia EN 140001435555 EHS V1.6 10-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4013_002WL1_A04U",
+      "name": "Bottle 0.5 L Wishbone Plastic Advance Green (24)",
+      "size": "0.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050924",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4013_002WKZ_A238",
+      "name": "Bottle 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550042891",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4013_002WKZ_A04U",
+      "name": "Bottle 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050923",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4013_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009581",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4013_002WL1_A238",
+      "name": "Bottle 0.5 L Wishbone Plastic Advance Green (24)",
+      "size": "0.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550042939",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO-L-EGB",
+      "organisation": "ISO",
+      "spec": "L-EGB"
+    },
+    {
+      "name": "JASO FB",
+      "organisation": "JASO",
+      "spec": "FB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance W 2T is a premium quality oil blended for on-highway two-stroke motorcycle engines. High viscosity index mineral oils, fortified by polyisobutylene synthetic base fluid, combine with carefully selected additives to produce a superior performance oil for today's two-stroke motorcycles.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Helix_Rimula_Advance_Packshot-Group_ref_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

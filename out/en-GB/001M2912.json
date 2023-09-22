@@ -1,0 +1,96 @@
+{
+  "id": "001M2912",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Rimula R7 AX 5W-30",
+  "description": "Fully Synthetic Low HTHSV Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dcdcbbd1-427b-4ce7-84e2-ae7ca01601d0.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 AX 5W-30 (FA-4) EN TDG V1.1 22-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02591047.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AX 5W-30 (FA-4) United Kingdom EN 140002340634 EHS V1.1 18-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001M2912_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550071985",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001M2912_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550071984",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API FA-4",
+      "organisation": "API",
+      "spec": "FA-4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K223",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K223"
+    },
+    {
+      "name": "Volvo VDS-5",
+      "organisation": "Volvo",
+      "spec": "VDS-5"
+    },
+    {
+      "name": "Cummins CES 20087",
+      "organisation": "Cummins",
+      "spec": "CES 20087"
+    },
+    {
+      "name": "MB-Approval 228.61",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.61"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R7 AX oil features “Low-SAPS”, high performing, efficient additive technology that is designed to deliver enhanced fuel economy and lower emissions benefits. Protection is enhanced with synthetic technology that significantly reduces engine friction and delivers extended maintenance intervals. Suitable for the very latest engine technologies.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,192 @@
+{
+  "id": "001D8428",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S3 V460 2",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi EP a base di olio minerale",
+  "applicationKeys": [
+    "bearing",
+    "hydraulic system",
+    "lithium",
+    "plain",
+    "pump gear",
+    "roller tapered",
+    "rollers"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V460_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V460 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558872.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V460 2 Italy IT 140007645406 EHS V5.3 21-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/fc454aa8-4785-4e7a-90c0-62d1d7d01853.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V460 2 Italy IT TDG V2.2 06-Jul-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02558873.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V460 2 Italy EN 140007645406 EHS V5.3 21-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8428_002VME_A246",
+      "name": "Secchio 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550028006",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8428_002VGF_EURO",
+      "name": "Cartuccia 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartuccia",
+      "materialCode": "550053533",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8428_002VH7_A246",
+      "name": "Fusto 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fusto",
+      "materialCode": "550028001",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V460 è idoneo per applicazioni in lenta movimentazione, cuscinetti caricati che operano ad elevate temperature e sotto severo carico.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium complex"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "31"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Low temperature pumpability",
+      "method": "Lincoln ventmeter",
+      "uom": "30sec@-1°C",
+      "units": "psi",
+      "value": "635"
+    },
+    {
+      "property": "Low temperature pumpability",
+      "method": "Lincoln ventmeter to 400psi",
+      "uom": "@-1°C",
+      "units": "sec",
+      "value": "483"
+    },
+    {
+      "property": "Low temperature pumpability",
+      "method": "Lincoln Ventmeter to 600psi",
+      "uom": "@-1°C",
+      "units": "sec",
+      "value": "41"
+    },
+    {
+      "property": "Low temperature pumpability",
+      "method": "Lincoln ventmeter",
+      "uom": "30sec@-18°C",
+      "units": "psi",
+      "value": "1800"
+    },
+    {
+      "property": "Low temperature pumpability",
+      "method": "Lincoln ventmeter to 600psi",
+      "uom": "@-18°C",
+      "units": "sec",
+      "value": "1020"
+    },
+    {
+      "property": "Low temperature pumpability",
+      "method": "Lincoln ventmeter to 400psi",
+      "uom": "@-18°C",
+      "units": "sec",
+      "value": "1446"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

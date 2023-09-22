@@ -1,0 +1,154 @@
+{
+  "id": "001G1651",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Full Synthetic SAE  5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e8e482a9-9347-42dd-ba55-f90a3876cb9d.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-20 Motor Oil EN TDG V2.1 02-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/55ea6f98-fc79-483f-a8f4-d8776d047f78.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-20 Motor Oil Canada FR TDG V2.1 11-Aug-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02430213.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 5W-20 Motor Oil Canada EN 140006579500 EHS V1.8 03-AUG-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02430214.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 5W-20 Motor Oil Canada FR 140006579500 EHS V1.8 03-AUG-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d2844675-9780-4124-8f68-e9560da2b5fa.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-20 Motor Oil Canada EN TDG V2.1 02-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1651_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550046186",
+      "margin": "1.44503077953474",
+      "packShot": ""
+    },
+    {
+      "code": "001G1651_002V7F_A0IK",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550046184",
+      "margin": "2.3130641720862",
+      "packShot": ""
+    },
+    {
+      "code": "001G1651_002VJ1_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550048162",
+      "margin": "1.39909895070894",
+      "packShot": ""
+    },
+    {
+      "code": "001G1651_002XLM_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550046187",
+      "margin": "2.1425750886697",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^1 ^Basé ^sur ^la ^dernière ^norme ^de ^l'industrie",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

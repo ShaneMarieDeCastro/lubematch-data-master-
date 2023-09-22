@@ -1,0 +1,89 @@
+{
+  "id": "001G5577",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AF-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/831c9f0d-12a1-4877-b1cd-28d9283634fd.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02516243.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Poland EN 140003791557 EHS V1.4 15-JAN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02516244.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Poland PL 140003791557 EHS V1.4 15-JAN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/acb4b551-d015-4085-897b-f9cc7173b65f.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Poland PL TDG V1.0 26-Mar-2019",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5577_002YAN_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550048341",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G5577_002XI2_A246",
+      "name": "Butelka 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550054629",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C950-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C950-A"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Opracowany, aby sprostać wysokim wymaganiom wysokowydajnych silników w samochodach Ford i i silnikach wymagających stosowania olejów spełniających normę ACEA C2",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

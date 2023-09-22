@@ -1,0 +1,84 @@
+{
+  "id": "001F4582",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R3 NG 15W-40",
+  "description": "Dedicated Gas Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2d308ddf-c42e-4416-ad1c-a91b730fd7c4.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 NG 15W-40 EN TDG V1.3 09-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02499388.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 NG 15W-40 Netherlands EN 140002783873 EHS V1.2 07-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02499241.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 NG 15W-40 Netherlands NL 140002783873 EHS V1.2 07-DEC-2022",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/6f2448fe-230b-4c2b-b1d3-82aabd14fc7a.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 NG 15W-40 Netherlands NL TDG V1.3 05-Oct-2018",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4582_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550044054",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20074",
+      "organisation": "Cummins",
+      "spec": "CES 20074"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 NG is speciaal ontwikkeld om zich aan te passen en te beschermen bij een blootstelling aan drukken en temperaturen die voorkomen in motoren die op 100% LNG/CNG lopen, goedgekeurd voor gebruik in Cummins LNG/CNG motoren.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

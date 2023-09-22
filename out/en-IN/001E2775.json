@@ -1,0 +1,76 @@
+{
+  "id": "001E2775",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Risella X 430",
+  "description": "High Quality Technical White Oil",
+  "family": "Risella",
+  "parentCategory": null,
+  "category": "Technical White Oils",
+  "applicationKeys": [
+    "fixed",
+    "heat transfer",
+    "hydraulic system",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8aa6ba0d-f3a0-4bd2-8592-44cac782e075.pdf",
+      "type": "GTDS",
+      "name": "Risella X 430 EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637519.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 India EN 140006501563 EHS V1.5 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/8ff7addb-5e80-4b42-bb99-3aca838c0b4f.pdf",
+      "type": "LTDS",
+      "name": "Risella X 430 India EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2775_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550031570",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E2775_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006750",
+      "margin": "0.19393820242265",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Risella X 430 is a hydocarbon fluid based on Shell Gas-to-Liquid Technology. It´s highly saturated with a high degree of iso paraffinic structures and is almost odourless and very stable in colour.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

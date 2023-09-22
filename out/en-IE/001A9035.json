@@ -1,0 +1,93 @@
+{
+  "id": "001A9035",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Naturelle Fluid HF-E 68",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "aviation turbines",
+    "biodegradable",
+    "diesel",
+    "engine",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "off highway",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "servo",
+    "steam",
+    "synthetic",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8c438870-6ed0-4957-b731-de37a49e047c.pdf",
+      "type": "GTDS",
+      "name": "Naturelle HF-E 68 EN TDG V5.2 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552716.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 68 Ireland EN 140007731156 EHS V3.2 12-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9035_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550030594",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VDMA 24568",
+      "organisation": "VDMA",
+      "spec": "24568"
+    },
+    {
+      "name": "ISO 12922 HFDU",
+      "organisation": "ISO",
+      "spec": "12922 HFDU"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 SP",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 SP"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle Fluid HF-E is an advanced biodegradable and HFDU type less flammable hydraulic fluid for use in hydraulic and power transmission systems. It is readily biodegradable with a low ecotoxicity, particularly suited for use in environmentally sensitive areas and in industrial equipment operating in areas subject to fire hazards, such as in steel mills, surface mines and foundries. Fully synthetic esters, blended with ashless additives, provide Shell Naturelle Fluid HF-E with a superior blend of lubrication performance and environmental acceptability.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,131 @@
+{
+  "id": "001D7346",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "AeroShell Oil Diesel Ultra",
+  "description": "Synthetic lubricating oil for aircraft diesel engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Piston",
+  "applicationKeys": [
+    "aviation",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "piston engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/06d92601-5fc9-4e23-8666-f1e7049531a7.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil Diesel Ultra EN TDG V1.4 04-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290003.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil Diesel Ultra Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291043.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil Diesel Ultra Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/fc205871-34e8-4872-9b76-9d05579a4043.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil Diesel Ultra Canada EN TDG V1.3 03-Oct-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/ee1fa020-c948-44f5-80bd-a3d3f49dd342.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil Diesel Ultra Canada FR TDG V1.3 05-Oct-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The formulation has been selected to be suitable in piston engines fuelled by Jet A or Jet A-1 and is designed for use in the latest highly rated turbocharged diesel engines under all operating conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "68.2"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "12.2"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/L",
+      "value": "0.84"
+    },
+    {
+      "property": "Flash Point Cleveland Open Cup",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "HTHS Viscosity",
+      "method": "ASTM D4683",
+      "uom": "@150°C",
+      "units": "mPaS",
+      "value": "3.50"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

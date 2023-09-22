@@ -1,0 +1,78 @@
+{
+  "id": "001E9965",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Naturelle S4 Stern Tube Fluid 100",
+  "description": "Special purpose biodegradable stern tube fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Huiles moteur - Cylindres et lubrifiants système",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3b2b5896-086b-4cd8-ac32-9aba7c59a601.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Stern Tube Fluid 100 EN TDG V1.6 19-Nov-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02598272.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Stern Tube Fluid 100 France FR 140003182031 EHS V1.4 16-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/0f9e40d7-24b2-4f4d-ae5a-410f69a05a5f.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Stern Tube Fluid 100 France FR TDG V1.6 19-Nov-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02598273.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Stern Tube Fluid 100 France EN 140003182031 EHS V1.4 16-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9965_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550042314",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "USA EPA VGP",
+      "organisation": "USA EPA",
+      "spec": "VGP"
+    },
+    {
+      "name": "ISO 3448",
+      "organisation": "ISO",
+      "spec": "3448"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Stern Tube Fluid est une huile synthétique non émulsifiant spécialement développé pour être utilisé dans des arbres d'hélice. Formulé à partir d'esters entièrement saturés, Shell Naturelle S4 Stern Tube Fluid est conçu pour permettre une lubrification peformance tout en étant facilement biodégradable et présentant une faible écotoxicité. Shell Naturelle S4 Stern Tube Fluid est un lubrifiant respectueux de l'environnement (EAL) selon la définition de l'US EPA 2013 Vessel General Permit.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

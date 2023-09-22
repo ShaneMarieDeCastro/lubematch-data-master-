@@ -1,0 +1,322 @@
+{
+  "id": "001D8290",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S6 AXME 75W-90",
+  "description": "Superior performance, synthetic, fuel efficient GL-5 axle oil for many premium applications",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "alcohol",
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "buses",
+    "continuously variable",
+    "diesel",
+    "differential",
+    "energy efficiency",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "front axle",
+    "fuel efficiency",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy duty",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "intermediate axle",
+    "low temperature",
+    "maintenance saving",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "power split",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "semi automatic",
+    "semi manual",
+    "slew",
+    "stationary",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/731cc5a8-4581-41b3-af07-205fa6f61607.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 AXME 75W-90 EN TDG V7.9 30-May-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02622918.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 75W-90 Germany EN 140001492039 EHS V4.3 24-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/0f71d550-d8c8-4e49-bf80-96baaa169c26.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 AXME 75W-90 Germany DE TDG V7.9 27-Aug-2019",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02622917.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 75W-90 Germany DE 140001492039 EHS V4.3 24-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8290_002VJW_A1P5",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550028393",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8290_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027907",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8290_002VNF_A1P5",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027906",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Volvo 97312",
+      "organisation": "Volvo",
+      "spec": "97312"
+    },
+    {
+      "name": "ZF TE-ML 12N",
+      "organisation": "ZF",
+      "spec": "TE-ML 12N"
+    },
+    {
+      "name": "Scania STO 2:0 A FS",
+      "organisation": "Scania",
+      "spec": "STO 2:0 A FS"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "ZF TE-ML 17B",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B"
+    },
+    {
+      "name": "ZF TE-ML 12L",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L"
+    },
+    {
+      "name": "ZF TE-ML 19C",
+      "organisation": "ZF",
+      "spec": "TE-ML 19C"
+    },
+    {
+      "name": "Scania STO 2:0G",
+      "organisation": "Scania",
+      "spec": "STO 2:0G"
+    },
+    {
+      "name": "MAN 341 Type GA-2",
+      "organisation": "MAN",
+      "spec": "341 Type GA-2"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Iveco 18-1805",
+      "organisation": "Iveco",
+      "spec": "18-1805"
+    },
+    {
+      "name": "ZF TE-ML 12L - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 17B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B - Suitable for use in applications which require"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "ArvinMeritor Specification O76-N",
+      "organisation": "ArvinMeritor",
+      "spec": "Specification O76-N"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "MIL-PRF-2105E",
+      "organisation": "MIL",
+      "spec": "PRF-2105E"
+    },
+    {
+      "name": "ZF TE-ML 16F",
+      "organisation": "ZF",
+      "spec": "TE-ML 16F"
+    },
+    {
+      "name": "ZF TE-ML 05B",
+      "organisation": "ZF",
+      "spec": "TE-ML 05B"
+    },
+    {
+      "name": "ZF TE-ML 21B",
+      "organisation": "ZF",
+      "spec": "TE-ML 21B"
+    },
+    {
+      "name": "MAN 342 Type S1",
+      "organisation": "MAN",
+      "spec": "342 Type S1"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 AXME ist ein kraftstoffsparendes Hochleistungs-Achsgetriebeöl für verlängerte Ölwechselintervalle. Es wurde speziell entwickelt, um den Schutz von modernsten Schalt- und Achsgetrieben in Nutzfahrzeugen sicherzustellen. Es basiert auf synthetischen Grundölen und einer exklusiven Shell Additivtechnologie und trägt zur besseren Schmierung des Antriebsstranges, einer Reduzierung der Betriebstemperatur und somit zur Verlängerung der Aggregatelebensdauer bei. Es ist von vielen Herstellern für verlängerte Ölwechselintervalle freigegeben.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE-Viskositätsklasse ",
+      "method": "SAE J 306",
+      "uom": "",
+      "units": "",
+      "value": "75W-90"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 40 °C",
+      "units": "mm²/s",
+      "value": "115"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "15,2"
+    },
+    {
+      "property": "Dynamische Viskosität",
+      "method": "ISO 9262",
+      "uom": "@–40 °C",
+      "units": "mPa s",
+      "value": "135.000"
+    },
+    {
+      "property": "Scherstabilität (Viskosität nach Scherung)",
+      "method": "CEC L-45_A-99 ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "14,5"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "138"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@ 15 °C",
+      "units": "kg/m³",
+      "value": "878"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "210"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027906_Shell_Spirax_S6_AXME_75W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

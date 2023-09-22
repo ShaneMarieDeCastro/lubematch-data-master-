@@ -1,0 +1,90 @@
+{
+  "id": "001F8470",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Morlina S2 BL 5",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d74f6e1a-750d-441e-bc60-8092ebdf1658.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 5 (2016) EN TDG V1.1 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486386.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 5 (2016) France EN 140003182031 EHS V1.7 11-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486387.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 5 (2016) France FR 140003182031 EHS V1.7 11-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/c8a84080-a508-4bcd-a2a8-ec4a8774e995.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 5 (2016) France FR TDG V1.1 01-Dec-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8470_002VNA_A09G",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550069550",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8470_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550055973",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-62",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-62"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 5 est une huile à faible viscosité formulé à partir de la technologie Gas-to-Liquid (GTL) avec des additifs sans zinc pour fournir une performance prolongée dans les broches à haute vitesse de machines-outils. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

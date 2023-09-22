@@ -1,0 +1,127 @@
+{
+  "id": "001D7773",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Tonna S3 M 32",
+  "description": "Premium Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "Otros lubricantes industriales",
+  "category": "Aceites de deslizamiento",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "factory applications",
+    "hydraulic system",
+    "hydraulics",
+    "manufacturing",
+    "pump piston",
+    "variable"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/52292ea4-7b79-497c-9f32-eaa0e0e148e0.pdf",
+      "type": "GTDS",
+      "name": "Tonna S3 M 32 EN TDG V2.4 14-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Spain_Shell_Tonna_S3_M_32_(es)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Tonna S3 M 32 Spain Spanish; Castilian",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544483.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 32 Spain ES 140003966322 EHS V2.1 24-MAR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544482.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 32 Spain EN 140003966322 EHS V2.1 24-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7773_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550027218",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7773_002VNK_A246",
+      "name": "Cubo 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Cubo",
+      "materialCode": "550027227",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-4 L-HG",
+      "organisation": "ISO",
+      "spec": "6743-4 L-HG"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "ISO 11158 HG Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HG Fluid"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "ISO 6743-6 CKC",
+      "organisation": "ISO",
+      "spec": "6743-6 CKC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S3 M oils are specially designed for the lubrication of machine tool slides, tables and feed mechanisms. Their enhanced tackiness and stick-slip characteristics are combined to offer superior frictional performance on slideways. They are specially recommended in cases where high precision and low speed machines are used as well as in combined lubrication systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,76 @@
+{
+  "id": "001D7805",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Morlina S1 B 680",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Lager & Umlauföle",
+  "category": "Lager & Umlauföle",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "rollers",
+    "rollneck bearings",
+    "water separation"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S1_B_680_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S1 B 680 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572222.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 680 Germany EN 140001492039 EHS V3.0 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572221.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 680 Germany DE 140001492039 EHS V3.0 04-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B oils are high performance oils designed to provide excellent protection for most industrial bearing and circulating oil system applications, particularly those processes where water shedding (demulsification) is important for the life of the equipment. Meets the most basic requirements of the Morgan standard for common bearing oils.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

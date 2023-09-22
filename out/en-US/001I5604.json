@@ -1,0 +1,61 @@
+{
+  "id": "001I5604",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Naturelle S2 Hydraulic Fluid 68",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/967d4e1d-7203-45d2-9611-2de8d1ba4e23.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 EN TDG V2.0 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562302.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 United States EN 140002686046 EHS V1.6 13-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/65ce367c-495e-4a1c-8a34-cb550f461420.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 United States EN TDG V2.0 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5604_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550060209",
+      "margin": "3.50948563155594",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S2 Hydraulic Fluid is an advanced hydraulic fluid for use in hydraulic and power transmission systems. Readily biodegradable with low ecotoxicity, Shell Naturelle S2 Hydraulic Fluid is particularly suited for use in environmentally sensitive areas. Fully synthetic esters, blended with ashless additives, provide Shell Naturelle S2 Hydraulic Fluid with an excellent blend of lubrication performance and environmental acceptability.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

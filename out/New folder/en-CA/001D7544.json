@@ -1,0 +1,73 @@
+{
+  "id": "001D7544",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Quaker State HD SAE 30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3b7e884f-4479-4167-9986-da555322e1df.pdf",
+      "type": "GTDS",
+      "name": "Quaker State HD SAE 30 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290030.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State HD SAE 30 Motor Oil Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291040.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State HD SAE 30 Motor Oil Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140003745703_201012011850.pdf",
+      "type": "LTDS",
+      "name": "Quaker State HD SAE 30 Motor Oil Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140003745703_201012011852.pdf",
+      "type": "LTDS",
+      "name": "Quaker State HD SAE 30 Motor Oil Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Quaker State^® motor oil provides durable wear protection that helps engines survive daily commutes from sustained high-speed highway operation to repetitive, stop-and-go traffic.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

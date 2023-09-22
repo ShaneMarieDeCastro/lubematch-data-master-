@@ -1,0 +1,114 @@
+{
+  "id": "001F9513",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix Ultra Professional AJ-L 0W-20",
+  "description": "Passenger Car Engine Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8cd9f4a8-4a69-4554-a301-b0f96b880e78.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-20 (JLR.51.5122) EN TDG V2.0 22-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02501234.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-20 (JLR.51.5122) Italy EN 140007645406 EHS V1.2 08-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/faeb9510-8790-44f1-9587-c96596625037.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-20 (JLR.51.5122) Italy IT TDG V2.0 22-Apr-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02501236.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-20 (JLR.51.5122) Italy IT 140007645406 EHS V1.2 08-DEC-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9513_002YAN_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550049078",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9513_002XI2_A246",
+      "name": "Bottiglia 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550054609",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR 51.5122",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR 51.5122"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Realizzato per incontrare gli esigenti requisiti di particolari motori benzina ad elevate prestazioni di Jaguar Land Rover e quelli richiedenti la specifica API SN. Aiuta a ridurre l'attrito nel motore per garantire un risparmio di carburante superiore.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550049078_Shell_Helix_Ult_Pro_AJ-L_0W-20_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,116 @@
+{
+  "id": "001F3526",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Spirax S6 ATF X",
+  "description": "Premium lower viscosity multi-vehicle ATF",
+  "family": "Spirax",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Automatische transmissie oliën",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "continuously variable",
+    "differential",
+    "final drive",
+    "manual sequential",
+    "off highway",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "tandem drive",
+    "torque converter",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6a8b811d-e9cc-4bfc-a064-62a5d87ed038.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF X EN TDG V2.2 10-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/721b985c-eb58-411e-98fd-013be583b329.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF X Netherlands NL TDG V2.2 23-Jun-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614374.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF X Netherlands NL 140002783873 EHS V1.5 11-JUL-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614373.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF X Netherlands EN 140002783873 EHS V1.5 11-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3526_002VNF_A246",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550057986",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3526_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550050371",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3526_002W21_EURO",
+      "name": "Fles 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550058231",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors Dexron VI",
+      "organisation": "General Motors",
+      "spec": "Dexron VI"
+    },
+    {
+      "name": "Ford Mercon LV",
+      "organisation": "Ford",
+      "spec": "Mercon LV"
+    },
+    {
+      "name": "JASO 1A",
+      "organisation": "JASO",
+      "spec": "1A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Hoog performante automatische transmissieolie met synthetische technologie ontworpen om te voldoen aan de behoeften van meerdere typen voertuigen. Shell Spirax S6 ATF X voldoet aan de behoeften van de meeste Japanse, Aziatische, Europese en Noord-Amerikaanse constructeurs van automatische transmissies waabij een ATF met lage viscositeit, zoals GM DEXRON^®^ -VI, Ford MERCON LV en Toyota WS vereist is.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550058231_Shell_Spirax_S6_ATF_X_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

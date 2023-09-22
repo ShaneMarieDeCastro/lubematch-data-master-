@@ -1,0 +1,55 @@
+{
+  "id": "001F7238",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "SL 1804",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": null,
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_SL_1804_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "SL 1804 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637174.PDF",
+      "type": "LMSDS",
+      "name": "SL 1804 India EN 140006501563 EHS V1.0 16-OCT-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7238_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009851",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Medium-speed engines burning residual fuel need very specialized lubricants. Heavy fuels contaminate the oil with asphaltenes, which require a special type of detergency to avoid sludge formation. The combustion of high sulfur fuels produces sulfur acids, which cause high wear rates of piston rings and cylinder liners unless neutralized by a high basicity reserve in the oil. The oil is in service for very long periods, so centrifugal separators are used to remove water and combustion contaminants from the oil. Medium-speed engine oils must be specially designed to effectively release these contaminants in the separator.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

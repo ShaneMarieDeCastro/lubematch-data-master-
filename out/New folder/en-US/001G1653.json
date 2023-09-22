@@ -1,0 +1,81 @@
+{
+  "id": "001G1653",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e775f553-321c-4b83-be20-de90769572c2.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/282011cd-1dd0-4fe4-aace-738c303546fb.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563065.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil United States EN 140002686046 EHS V1.6 25-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^1 ^Based ^on ^the ^latest ^industry ^standard",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

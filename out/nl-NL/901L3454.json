@@ -1,0 +1,99 @@
+{
+  "id": "901L3454",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Transmission Oil MA 75W-90",
+  "description": "Synthetic high quality gearbox oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Manuele Transmissie- en Versnellingsbakolie",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "extended drain",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "low temperature",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "mercedes benz",
+    "off highway",
+    "passenger car",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008264191_201503101018.pdf",
+      "type": "GTDS",
+      "name": "Transmission MA 75W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581017.PDF",
+      "type": "LMSDS",
+      "name": "Transmission MA 75W-90 Netherlands NL 140002783873 EHS V4.3 25-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/2a428f85-8136-497c-a10a-b04579943a6e.pdf",
+      "type": "LTDS",
+      "name": "Transmission MA 75W-90 Netherlands NL TDG V1.0 08-Feb-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581016.PDF",
+      "type": "LMSDS",
+      "name": "Transmission MA 75W-90 Netherlands EN 140002783873 EHS V4.3 25-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L3454_002VSH_A18H",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550014652",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MB-Approval 235.11",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.11"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Transmission Oil  MA is een volledig synthetische versnellingsbakolie in lijn met de nieuwste eisen van Mercedes Benz voor zware transmissies.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,420 @@
+{
+  "id": "001E7746",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Rimula R4 X 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "ball",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "biofuel",
+    "brakes",
+    "cars",
+    "circulation",
+    "circulation system",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "fixed",
+    "four stroke",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "hydrogen",
+    "hydrostatic",
+    "industrial",
+    "light fuel",
+    "lng",
+    "locomotive",
+    "low speed",
+    "lpg",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "offshore",
+    "on highway",
+    "plain",
+    "power split",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "semi manual",
+    "servo",
+    "stationary",
+    "stern tube seal",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "two stroke",
+    "urban",
+    "vacuum pumps",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8f3cd506-14f7-4893-b8cd-d4592626f4ea.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 X 15W-40 (CI-4/E7/DH-1) EN TDG V5.2 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637763.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 X 15W-40 (CI-4/E7/DH-1) Singapore EN 140001435547 EHS V1.15 28-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/9d75975b-9052-44e9-95aa-a9a25f7c21a5.pdf",
+      "type": "LTDS",
+      "name": "Rimula R4 X 15W-40 (CI-4/E7/DH-1) Singapore EN TDG V5.2 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7746_002VND_A227",
+      "name": "Pail 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550036307",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7746_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007891",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7746_002VJV_A227",
+      "name": "IBC 1000 L Plastic W (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550036313",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7746_002WL0_A685",
+      "name": "Bottle 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044488",
+      "margin": "0.413223662566432",
+      "packShot": ""
+    },
+    {
+      "code": "001E7746_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550036590",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7746_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550036560",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7746_002X32_A685",
+      "name": "Bottle 6 L Wishbone Plastic Rimula Grey (2)",
+      "size": "6",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044489",
+      "margin": "0.355518136719187",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20075",
+      "organisation": "Cummins",
+      "spec": "CES 20075"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Mack EO-N",
+      "organisation": "Mack",
+      "spec": "EO-N"
+    },
+    {
+      "name": "MTU Category 2",
+      "organisation": "MTU",
+      "spec": "Category 2"
+    },
+    {
+      "name": "Case New Holland MS 3520 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MS 3520 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "Deutz DQC III-18",
+      "organisation": "Deutz",
+      "spec": "DQC III-18"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "ACEA E3",
+      "organisation": "ACEA",
+      "spec": "E3"
+    },
+    {
+      "name": "Mack EO-M",
+      "organisation": "Mack",
+      "spec": "EO-M"
+    },
+    {
+      "name": "Cummins CES 20077",
+      "organisation": "Cummins",
+      "spec": "CES 20077"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K215",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K215"
+    },
+    {
+      "name": "Renault Trucks RLD-2",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-2"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "Cummins CES 20072",
+      "organisation": "Cummins",
+      "spec": "CES 20072"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "MB-Approval 228.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.3"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "MAN M 3275-1 - Meets the requirements of",
+      "organisation": "MAN",
+      "spec": "M 3275-1 - Meets the requirements of"
+    },
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    },
+    {
+      "name": "JASO DH-1",
+      "organisation": "JASO",
+      "spec": "DH-1"
+    },
+    {
+      "name": "Mack EO-M Plus",
+      "organisation": "Mack",
+      "spec": "EO-M Plus"
+    },
+    {
+      "name": "Iveco T1 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T1 - Meets the requirements"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "ACEA E5",
+      "organisation": "ACEA",
+      "spec": "E5"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "Global DHD-1",
+      "organisation": "Global",
+      "spec": "DHD-1"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 X is designed to provide Triple Protection to improve engine and oil durability. It helps to lower maintenance and increase reliability of vehicles. It’s suitable for most heavy-duty diesel engines for on and off highway applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "109"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.7"
+    },
+    {
+      "property": "Dynamic Viscosity",
+      "method": "ASTM D5293",
+      "uom": "@-20°C",
+      "units": "mPa s",
+      "value": "6700"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "139"
+    },
+    {
+      "property": "Total Base Number",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "10.5"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "%",
+      "value": "1.45"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.881"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-36"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Io5sQAC&field=Attachment__Name__s",
+      "family": "Rimula",
+      "savings": 277000,
+      "title": "Shell Rimula R4 X 15W-40"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DibpQAC&field=Attachment__Name__s",
+      "family": "Rimula",
+      "savings": 16000,
+      "title": "Shell Rimula R4 X 15W-40"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000InqEQAS&field=Attachment__Name__s",
+      "family": "Rimula",
+      "savings": 125000,
+      "title": "Shell Rimula R4 X 15W-40"
+    }
+  ],
+  "commerce": null
+}

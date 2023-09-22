@@ -1,0 +1,174 @@
+{
+  "id": "001F3007",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil Gold SAE 5W-30 Synthetic Blend Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f3b294f4-0677-4c01-9376-6258d7a5366e.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Gold 5W-30 Synthetic Blend Motor Oil (SP/GF-6A dexos1) EN TDG V2.0 02-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/77727f95-24d2-4b30-bdcc-3b16aef246d9.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Gold 5W-30 Synthetic Blend Motor Oil (SP/GF-6A dexos1) Canada FR TDG V2.0 02-Feb-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291543.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Gold 5W-30 Synthetic Blend Motor Oil (SN-GF/5 dexos1) Canada FR 140006579500 EHS V1.8 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291566.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Gold 5W-30 Synthetic Blend Motor Oil (SN-GF/5 dexos1) Canada EN 140006579500 EHS V1.9 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/52c28c37-9746-403f-bfa2-a99deff8a65c.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Gold 5W-30 Synthetic Blend Motor Oil (SP/GF-6A dexos1) Canada EN TDG V2.0 02-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3007_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009511",
+      "margin": "0.914575804191991",
+      "packShot": ""
+    },
+    {
+      "code": "001F3007_002X67_A1WJ",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550042584",
+      "margin": "0.521450808584486",
+      "packShot": ""
+    },
+    {
+      "code": "001F3007_002VIZ_A1WJ",
+      "name": "Drum 55 Gal T/H PZL BYtop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550042583",
+      "margin": "0.657613906119368",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos1",
+      "organisation": "General Motors",
+      "spec": "dexos1"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C929-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C929-A"
+    },
+    {
+      "name": "Ford WSS-M2C946-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A"
+    },
+    {
+      "name": "Ford WSS-M2C946-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A - Meets the requirements"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "Ford WSS-M2C929-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C929-A - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 13340",
+      "organisation": "Chrysler",
+      "spec": "MS 13340"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® Gold™ is an advanced synthetic blend formula with Active Cleansing Technology. Utilizes the advantages of blended synthetic technology to better prevent dirt and contaminants from turning into performance robbing deposits. Because at Pennzoil we know, a cleaner engine is better protected and responsive. It meets or exceeds the engine protection required by ILSAC GF-6A and GM dexos1™specifications. It is specially formulated to provide extra protection for severe driving conditions. Formulated for Modern Engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

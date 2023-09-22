@@ -1,0 +1,170 @@
+{
+  "id": "001A0037",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "AeroShell Compound 07",
+  "description": "Glycol for aircraft de-icing",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f2bf27d9-692b-48b3-a2eb-ca9820de8040.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Compound 07 EN TDG V1.4 23-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549496.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Compound 07 Ireland EN 140009711290 EHS V9.0 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0037_002XJP_A651",
+      "name": "Pail 5 Gal Tight head Metal Shell Red (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550043816",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation AL-5",
+      "organisation": "Joint Service Designation",
+      "spec": "AL-5"
+    },
+    {
+      "name": "NATO S-745",
+      "organisation": "NATO",
+      "spec": "S-745"
+    },
+    {
+      "name": "DTD.406B",
+      "organisation": "DTD",
+      "spec": "406B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Distilled water 10% volume",
+  "physicalCharacteristics": [
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "–"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@20°C",
+      "units": "mm²/s",
+      "value": "11.0 to 13.0"
+    },
+    {
+      "property": "Cold Test",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "",
+      "value": "No Deposition"
+    },
+    {
+      "property": "pH value",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "6.0 to 7.5"
+    },
+    {
+      "property": "Conductivity",
+      "method": "",
+      "uom": "",
+      "units": "micromho/cm",
+      "value": "5.0 max"
+    },
+    {
+      "property": "Density",
+      "method": "",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "1.092 to 1.097"
+    },
+    {
+      "property": "Miscibility with water",
+      "method": "",
+      "uom": "@15°C",
+      "units": "",
+      "value": "Must pass"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "54.4"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@20°C",
+      "units": "mm²/s",
+      "value": "11.4"
+    },
+    {
+      "property": "Cold Test",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "",
+      "value": "Complies"
+    },
+    {
+      "property": "pH value",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "6.9"
+    },
+    {
+      "property": "Conductivity",
+      "method": "",
+      "uom": "",
+      "units": "micromho/cm",
+      "value": "0.5"
+    },
+    {
+      "property": "Density",
+      "method": "",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "1.094"
+    },
+    {
+      "property": "Miscibility with water",
+      "method": "",
+      "uom": "@15°C",
+      "units": "",
+      "value": "Passes"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

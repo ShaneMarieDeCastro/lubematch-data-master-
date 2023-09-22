@@ -1,0 +1,128 @@
+{
+  "id": "001E7930",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix HX3 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX3_15W-40_(SL_CF)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 15W-40 (SL/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621014.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 15W-40 (SL/CF) Germany EN 140001492039 EHS V1.5 20-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/8e4ed0d0-6262-4ee0-bf44-d5377a16ae85.pdf",
+      "type": "LTDS",
+      "name": "Helix HX3 15W-40 (SL/CF) Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621015.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 15W-40 (SL/CF) Germany DE 140001492039 EHS V1.5 20-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7930_002W1Y_EURO",
+      "name": "Flasche 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550046596",
+      "margin": "1.97437496317758",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 bietet zuverlässigen Schutz für ältere Motoren mit hoher Laufleistung. Es verhindert die Bildung von Schlamm und reduziert den Verschleiß. Es ist geeignet für Motoren, für die API SL/CF Öle empfohlen werden.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "97.94"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "13.33"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "IP 226",
+      "uom": "",
+      "units": "",
+      "value": "135"
+    },
+    {
+      "property": "Dichte",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "879"
+    },
+    {
+      "property": "Flammpunkt",
+      "method": "IP 34",
+      "uom": "",
+      "units": "°C",
+      "value": "242"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "IP 15",
+      "uom": "",
+      "units": "°C",
+      "value": "-36"
+    },
+    {
+      "property": "Dynamische Viskosität (MRV)",
+      "method": "ASTM D4684",
+      "uom": "@-25°C",
+      "units": "cP",
+      "value": "25000"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

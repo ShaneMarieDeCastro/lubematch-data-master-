@@ -1,0 +1,85 @@
+{
+  "id": "001D8278",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S2 ALS 90",
+  "description": "High quality, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Trasmissione manuale e oli ingranaggi",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy truck",
+    "industrial",
+    "limited slip differentials",
+    "off highway",
+    "passenger car",
+    "reduction gears",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_ALS_90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Spirax S2 ALS 90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578889.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 90 Italy EN 140007645406 EHS V5.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/f31404df-4611-4c40-a425-a2cea95b3dfc.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 ALS 90 Italy IT TDG V1.1 30-Jan-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578894.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 90 Italy IT 140007645406 EHS V5.2 23-MAY-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8278_002W1Y_A10E",
+      "name": "Bottiglia 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550027974",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 ALS 90 è un lubrificante utilizzabile in una vasta gamma di applicazioni per assali con differenziali a slittamento limitato.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

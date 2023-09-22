@@ -1,0 +1,143 @@
+{
+  "id": "001F1651",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Rotella ELC Nitrite Free Concentrate",
+  "description": "Long-Life antifreeze/coolant concentrate",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d5c59f82-3ce8-487a-9e4b-af984ec1c862.pdf",
+      "type": "GTDS",
+      "name": "Rotella ELC Nitrite Free Concentrate EN TDG V1.7 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02359845.PDF",
+      "type": "LMSDS",
+      "name": "Rotella ELC Nitrite Free Concentrate Canada FR 140006579500 EHS V2.0 16-JUL-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/bba1e616-c476-4c71-bd67-8d86f7fb51bc.pdf",
+      "type": "LTDS",
+      "name": "Rotella ELC Nitrite Free Concentrate Canada EN TDG V1.7 28-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02359813.PDF",
+      "type": "LMSDS",
+      "name": "Rotella ELC Nitrite Free Concentrate Canada EN 140006579500 EHS V2.0 16-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1651_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550041813",
+      "margin": "0.256772549636478",
+      "packShot": ""
+    },
+    {
+      "code": "001F1651_002V2M_A0IK",
+      "name": "Bottle 1 Gal Rotella Black (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550057738",
+      "margin": "0.447419503646909",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "TMC RP 364",
+      "organisation": "TMC RP",
+      "spec": "364"
+    },
+    {
+      "name": "General Motors GM 6277M",
+      "organisation": "General Motors",
+      "spec": "GM 6277M"
+    },
+    {
+      "name": "Navistar MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)",
+      "organisation": "Navistar",
+      "spec": "MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)"
+    },
+    {
+      "name": "TMC RP 329",
+      "organisation": "TMC RP",
+      "spec": "329"
+    },
+    {
+      "name": "Caterpillar EC-1",
+      "organisation": "Caterpillar",
+      "spec": "EC-1"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K217",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K217"
+    },
+    {
+      "name": "MTU MTL 5048",
+      "organisation": "MTU",
+      "spec": "MTL 5048"
+    },
+    {
+      "name": "Ford WSS-M97B44-D",
+      "organisation": "Ford",
+      "spec": "WSS-M97B44-D"
+    },
+    {
+      "name": "ASTM D6210",
+      "organisation": "ASTM",
+      "spec": "D6210"
+    },
+    {
+      "name": "Cummins CES 14439",
+      "organisation": "Cummins",
+      "spec": "CES 14439"
+    },
+    {
+      "name": "Volvo TSI 184-001",
+      "organisation": "Volvo",
+      "spec": "TSI 184-001"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^® ELC Nitrite Free (NF) a concentrate antifreeze/coolant based on proven Shell Rotella^® ELC OAT technology for extended life operation up to 1,200,000 miles in Class 8 over the road operation. Also, exceptional long life is expected for all other applications, such as diesel, gasoline, and natural gas engine powered vehicles along with light duty passenger cars and pick-up trucks with proper maintenance. Nitrite free formulation provides improved protection of aluminum components in modern engines including brazed aluminum heat exchangers and meets many of the newest OEM specifications.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

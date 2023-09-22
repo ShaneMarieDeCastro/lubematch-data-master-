@@ -1,0 +1,132 @@
+{
+  "id": "22700723",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "ShellZone DEX-COOL ELC AF/C",
+  "description": "Extended Life Antifreeze",
+  "family": "Dexcool",
+  "parentCategory": "",
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1941e7f8-b209-44a9-8637-187dc49a7ac1.pdf",
+      "type": "GTDS",
+      "name": "ShellZone DEX-COOL ELC AF/C English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/df69cf8e-854d-40df-8582-8b46afba83be.pdf",
+      "type": "LTDS",
+      "name": "ShellZone DEX-COOL ELC AF/C United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563859.PDF",
+      "type": "LMSDS",
+      "name": "ShellZone DEX-COOL ELC AF/C United States EN 140002686046 EHS V5.0 16-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "22700723_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022520",
+      "margin": "0.746570535328895",
+      "packShot": ""
+    },
+    {
+      "code": "22700723_002V2N_A0II",
+      "name": "Bottle 1 Gal Rotella W (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "9404006021",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors GM 1899M",
+      "organisation": "General Motors",
+      "spec": "GM 1899M"
+    },
+    {
+      "name": "US Fed A-A-870-A",
+      "organisation": "US Fed",
+      "spec": "A-A-870-A"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "General Motors GMW3420",
+      "organisation": "General Motors",
+      "spec": "GMW3420"
+    },
+    {
+      "name": "General Motors GM 6277M",
+      "organisation": "General Motors",
+      "spec": "GM 6277M"
+    },
+    {
+      "name": "Chrysler MS 12106 - Meets performance requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 12106 - Meets performance requirements"
+    },
+    {
+      "name": "General Motors GM 1825M",
+      "organisation": "General Motors",
+      "spec": "GM 1825M"
+    },
+    {
+      "name": "Ford ESE-M97B44-D",
+      "organisation": "Ford",
+      "spec": "ESE-M97B44-D"
+    },
+    {
+      "name": "ASTM D6210",
+      "organisation": "ASTM",
+      "spec": "D6210"
+    },
+    {
+      "name": "VAG G-12",
+      "organisation": "VAG",
+      "spec": "G-12"
+    },
+    {
+      "name": "Chrysler MS 9769 - Meets performance requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 9769 - Meets performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "ShellZone DEX-COOL^® Extended Life Antifreeze/Coolant is a single-phase, ethylene glycol based, extended life, universal automotive engine coolant based on a unique extended life carboxylate inhibitor system. ShellZone DEX-COOL® is suitable for a five year or 150,000 mile service life in automotive applications. In heavy-duty applications not requiring nitrite ShellZone DEX-COOL® is suitable for a service life of 600,000 miles or 12,000 hours.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

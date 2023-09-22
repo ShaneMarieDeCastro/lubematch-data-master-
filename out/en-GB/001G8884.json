@@ -1,0 +1,73 @@
+{
+  "id": "001G8884",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Helix Ultra Professional AR-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/66d2fee1-e48c-41d0-8dbd-1ec2874858e1.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) EN TDG V1.1 12-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603346.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) United Kingdom EN 140002340634 EHS V1.3 26-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/a5cff7a5-4682-4569-838a-ced89228c122.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) United Kingdom EN TDG V1.1 12-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8884_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550050917",
+      "margin": "2.94421046772642",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "Renault RN 17 FE",
+      "organisation": "Renault",
+      "spec": "RN 17 FE"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of Renault high-performance passenger car engines and those requiring ACEA C5.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550050916_Shell_Helix_Ult_Pro_AR-L_0W-20_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

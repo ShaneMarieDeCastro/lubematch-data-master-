@@ -1,0 +1,494 @@
+{
+  "id": "001F7541",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "AeroShell Fluid 41 (EU)",
+  "description": "Mineral hydraulic fluid for aircraft.",
+  "family": "AeroShell",
+  "parentCategory": "Aviation Schmierstoffe ",
+  "category": "Hydrauliköle  (Aviation)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1cc219bc-172b-42eb-bf9d-d74d22151b34.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 41 (EU) EN TDG V1.4 23-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02537381.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 41 (EU) Germany EN 140001492039 EHS V5.0 08-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/a6015d23-c42c-4ed1-a06d-aa95e81c58c2.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 41 (EU) Germany DE TDG V1.4 27-Jul-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02537380.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 41 (EU) Germany DE 140001492039 EHS V5.0 08-MAR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7541_002VFJ_AER1",
+      "name": "Dose 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "Quart",
+      "pack": "Dose",
+      "materialCode": "550062450",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7541_002W16_A1P5",
+      "name": "Fass 203 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "203",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550069079",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7541_002XJP_A656",
+      "name": "Eimer 5 Gallone Tight head Metal Shell Red (1)",
+      "size": "5",
+      "uom": "Gallone",
+      "pack": "Eimer",
+      "materialCode": "550043760",
+      "margin": "5.01218012981549",
+      "packShot": ""
+    },
+    {
+      "code": "001F7541_002VG0_AER2",
+      "name": "Dose 5 L Local Tinplate (4)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Dose",
+      "materialCode": "550062451",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO H-520",
+      "organisation": "NATO",
+      "spec": "H-520"
+    },
+    {
+      "name": "MIL-PRF-5606J",
+      "organisation": "MIL",
+      "spec": "PRF-5606J"
+    },
+    {
+      "name": "Joint Service Designation OM-18",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-18"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-104",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-104"
+    },
+    {
+      "name": "MIL-PRF-5606H",
+      "organisation": "MIL",
+      "spec": "PRF-5606H"
+    },
+    {
+      "name": "Joint Service Designation OM-15",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-15"
+    },
+    {
+      "name": "DCSEA 415/A",
+      "organisation": "DCSEA",
+      "spec": "415/A"
+    },
+    {
+      "name": "NATO H-515",
+      "organisation": "NATO",
+      "spec": "H-515"
+    },
+    {
+      "name": "DEF STAN 91-48",
+      "organisation": "DEF STAN",
+      "spec": "91-48"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 41 (EU) ist rot eingefärbt.",
+  "physicalCharacteristics": [
+    {
+      "property": "Öltyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "4,90 min."
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "13,2 min."
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "",
+      "uom": "@–40°C",
+      "units": "mm²/s",
+      "value": "600 max."
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "",
+      "uom": "@–54°C",
+      "units": "mm²/s",
+      "value": "2500 max."
+    },
+    {
+      "property": "Flammpunkt (Pensky Martens geschlossener Tiegel)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "82 min"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "",
+      "uom": "",
+      "units": "°C max.",
+      "value": "–60"
+    },
+    {
+      "property": "Neutralisationszahl (TAN)",
+      "method": "",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0,20 max."
+    },
+    {
+      "property": "Verdampfungsverlust",
+      "method": "",
+      "uom": "@71°C",
+      "units": "%m",
+      "value": "20 max."
+    },
+    {
+      "property": "Wassergehalt",
+      "method": "",
+      "uom": "",
+      "units": "ppm",
+      "value": "100 max."
+    },
+    {
+      "property": "Relative Dichte",
+      "method": "",
+      "uom": "@15,6",
+      "units": "",
+      "value": "angeben"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Rot"
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "5 bis 15 μm",
+      "value": "10 000 max."
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "15 bis 25 μm",
+      "value": "1000 max."
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "25 bis 50 μm",
+      "value": "150 max."
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "50 bis 100 μm",
+      "value": "20 max."
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "über 100 μm",
+      "value": "5 max."
+    },
+    {
+      "property": "Kupferkorrosion",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2e max"
+    },
+    {
+      "property": "Stahl auf Stahl Verschleiß",
+      "method": "",
+      "uom": "",
+      "units": "mm",
+      "value": "1,0 max"
+    },
+    {
+      "property": "Gummiquellung, L - Gummi",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "19 bis 30"
+    },
+    {
+      "property": "Tieftemperatur-Stabilität 72 Std.",
+      "method": "",
+      "uom": "@–54°C",
+      "units": "",
+      "value": "Muss bestanden werden"
+    },
+    {
+      "property": "Gravimetrische Filtrierung",
+      "method": "",
+      "uom": "",
+      "units": "mg/100m",
+      "value": "0,3 max"
+    },
+    {
+      "property": "Schaumtest",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Muss bestanden werden"
+    },
+    {
+      "property": "Bariumgehalt",
+      "method": "",
+      "uom": "",
+      "units": "ppm",
+      "value": "10 max."
+    },
+    {
+      "property": "Particle Count",
+      "method": "SAE AS4059",
+      "uom": "",
+      "units": "Number",
+      "value": "5"
+    },
+    {
+      "property": "Öltyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6,13"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "15,68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "",
+      "uom": "@–40°C",
+      "units": "mm²/s",
+      "value": "384"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "",
+      "uom": "@–54°C",
+      "units": "mm²/s",
+      "value": "1450"
+    },
+    {
+      "property": "Flammpunkt (Pensky Martens geschlossener Tiegel)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "104"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "",
+      "uom": "",
+      "units": "°C max.",
+      "value": "–60"
+    },
+    {
+      "property": "Neutralisationszahl (TAN)",
+      "method": "",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0"
+    },
+    {
+      "property": "Verdampfungsverlust",
+      "method": "",
+      "uom": "@71°C",
+      "units": "%m",
+      "value": "16,5"
+    },
+    {
+      "property": "Wassergehalt",
+      "method": "",
+      "uom": "",
+      "units": "ppm",
+      "value": "55"
+    },
+    {
+      "property": "Relative Dichte",
+      "method": "",
+      "uom": "@15,6",
+      "units": "",
+      "value": "0,874"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Rot"
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "5 bis 15 μm",
+      "value": "1200"
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "15 bis 25 μm",
+      "value": "550"
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "25 bis 50 μm",
+      "value": "70"
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "50 bis 100 μm",
+      "value": "5"
+    },
+    {
+      "property": "Kontaminierung mit Partikeln, Anzahl der Partikel pro 100ml im Größenbereich von",
+      "method": "",
+      "uom": "",
+      "units": "über 100 μm",
+      "value": "0"
+    },
+    {
+      "property": "Kupferkorrosion",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "1b"
+    },
+    {
+      "property": "Stahl auf Stahl Verschleiß",
+      "method": "",
+      "uom": "",
+      "units": "mm",
+      "value": "0,65"
+    },
+    {
+      "property": "Gummiquellung, L - Gummi",
+      "method": "",
+      "uom": "",
+      "units": "%",
+      "value": "22"
+    },
+    {
+      "property": "Tieftemperatur-Stabilität 72 Std.",
+      "method": "",
+      "uom": "@–54°C",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Gravimetrische Filtrierung",
+      "method": "",
+      "uom": "",
+      "units": "mg/100m",
+      "value": "0,1"
+    },
+    {
+      "property": "Schaumtest",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Bariumgehalt",
+      "method": "",
+      "uom": "",
+      "units": "ppm",
+      "value": "Unterhalb der Nachweisgrenze"
+    },
+    {
+      "property": "Particle Count",
+      "method": "SAE AS4059",
+      "uom": "",
+      "units": "Number",
+      "value": "5 maximum"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

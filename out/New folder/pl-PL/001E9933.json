@@ -1,0 +1,89 @@
+{
+  "id": "001E9933",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Naturelle S4 Gear Fluid 68",
+  "description": "Special Purpose Biodegradable Synthetic Industrial Gear and Bearing Oil",
+  "family": "Naturelle",
+  "parentCategory": "Oleje do przekładni przemysłowych",
+  "category": "Oleje do przekładni przemysłowych",
+  "applicationKeys": [
+    "gearbox",
+    "industrial"
+  ],
+  "position": "Top",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/57676347-404a-4044-81fc-356f2c8affa9.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Gear Fluid 68 EN TDG V1.4 14-Nov-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/38908157-f759-4096-9e16-b565f08c549c.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Gear Fluid 68 Poland PL TDG V1.4 15-Nov-2019",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444188.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 68 Poland PL 140003791557 EHS V1.4 21-SEP-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444190.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 68 Poland EN 140003791557 EHS V1.4 21-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9933_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550042313",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "USA EPA VGP",
+      "organisation": "USA EPA",
+      "spec": "VGP"
+    },
+    {
+      "name": "ISO 3448",
+      "organisation": "ISO",
+      "spec": "3448"
+    },
+    {
+      "name": "ISO 14635-1",
+      "organisation": "ISO",
+      "spec": "14635-1"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Gear Fluid to zaawansowany środek smarny do zastosowań przekładniowych, w elementach takich jak pędniki i śruby napędowe. Wyprodukowany na bazie nasyconych estrów zapewnia znakomite przenoszenie obciążeń równocześnie charakteryzując się niską ekotoksycznością i łatwą biodegradowalnością. Shell Naturelle S4 Gear Fluid jest środkiem przyjaznym środowisku zgodnie z regulacją Vessel General Permit USA EPA 2013. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S4_Gear_Fluid_68_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,186 @@
+{
+  "id": "001D8423",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S5 V100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische EP-Schmierfette",
+  "applicationKeys": [
+    "advanced",
+    "bio gas",
+    "electric motors",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "long life",
+    "low temperature",
+    "marine",
+    "moderate speed",
+    "multipurpose",
+    "natural gas",
+    "outdoor fan",
+    "plain bearings",
+    "roller bearings",
+    "severe conditions",
+    "severe low temperature",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6a8b0726-3d71-4445-acda-f4b835615f84.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V100 2 EN TDG V1.2 19-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580667.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V100 2 Germany DE 140001492039 EHS V1.6 24-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580668.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V100 2 Germany EN 140001492039 EHS V1.6 24-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/abfb9574-4164-4ecb-8643-d0997441165c.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V100 2 Germany DE TDG V1.2 25-Mar-2019",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8423_002XEC_A1P5",
+      "name": "Eimer 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028433",
+      "margin": "5.96622214849728",
+      "packShot": ""
+    },
+    {
+      "code": "001D8423_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550042319",
+      "margin": "2.86606351660673",
+      "packShot": ""
+    },
+    {
+      "code": "001D8423_002VT7_EURO",
+      "name": "Kartusche 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550050928",
+      "margin": "6.07350879757438",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V100 ist ein Lithiumkomplex-Schmierfett, das auf synthetischen Grundölen basiert und zusätzlich Antioxidantien und EP-Verschleißschutz- und Korrosionsschutzadditive enthält. Aufgrund seines speziellen Reibwertminderers eignet es sich besonders für den Einsatz in Hochgeschwindigkeits-, Rollen- und zylindrischen Lagern des Typs NJ, NUP sowie für Andwendungen mit Winkelring.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI-Klasse",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Walkpenetration, 60 Hübe (0.1 mm)",
+      "method": "IP 50 / ASTM D217",
+      "uom": "",
+      "units": "",
+      "value": "265-295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Korrosionsschutzeigenschaft: SKF Emcor Test mit destilliertem Wasser",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Korrosionsschutzeigenschaft: SKF Emcor WWO Test mit destilliertem Wasser",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Schmierfähigkeit nach SKF R2F A",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Schmierfähigkeit nach SKF R2F B",
+      "method": "",
+      "uom": "@150°C",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Mechanische Stabilität, Shell Rollen (50 Std.)",
+      "method": "",
+      "uom": "@80°C",
+      "units": "",
+      "value": "+50"
+    },
+    {
+      "property": "Temperatureinsatzbereich (kurzzeitig)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-50/+150 (200)"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_v100.png",
+  "valueRecord": [],
+  "commerce": null
+}

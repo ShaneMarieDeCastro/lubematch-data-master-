@@ -1,0 +1,93 @@
+{
+  "id": "001I5487",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Gas Compressor S4 PGS V 150",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Gas Compressor",
+  "parentCategory": "",
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d19c781b-c6c0-4084-b03a-f93754528200.pdf",
+      "type": "GTDS",
+      "name": "Shell Gas Compressor S4 PGS V 150 EN TDG V1.2 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/c0414a36-362c-42c2-9024-205a78806570.pdf",
+      "type": "LTDS",
+      "name": "Shell Gas Compressor S4 PGS V 150 Canada FR TDG V1.2 04-Aug-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542134.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gas Compressor S4 PGS V 150 Canada FR 140006579500 EHS V2.0 21-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/304ea70f-4bdf-4aca-b9e0-9b92d64cc380.pdf",
+      "type": "LTDS",
+      "name": "Shell Gas Compressor S4 PGS V 150 Canada EN TDG V1.2 26-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542135.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gas Compressor S4 PGS V 150 Canada EN 140006579500 EHS V2.0 21-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5487_002XD6_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550057329",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5487_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550058659",
+      "margin": "3.39579745679516",
+      "packShot": ""
+    },
+    {
+      "code": "001I5487_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550058710",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor S4 PGS V 150 est un lubrifiant synthétique pour compresseur conçu avec une solubilité minimale dans les hydrocarbures pour la compression du gaz naturel. Les fluides Shell Gas Compressor S4 PGS V 150 sont mélangés à partir d'huiles de base de qualité supérieure associées à une technologie additive qui améliore les performances au-delà des autres fluides de compresseur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

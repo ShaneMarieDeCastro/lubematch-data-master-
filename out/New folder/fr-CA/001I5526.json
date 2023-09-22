@@ -1,0 +1,83 @@
+{
+  "id": "001I5526",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Biodegradable Hydraulic Fluid 22",
+  "description": "Biodegradable Water Soluble Hydraulic Fluid",
+  "family": "Naturelle",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Top",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bc92b893-d190-417d-bb2d-5e1ce46977ce.pdf",
+      "type": "GTDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 22 EN TDG V1.1 29-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/5d638687-d6eb-458c-a205-47620e4d6af7.pdf",
+      "type": "LTDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 22 Canada EN TDG V1.1 29-Sep-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/f62983d8-a1d8-4492-921a-0cb993c17f7c.pdf",
+      "type": "LTDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 22 Canada FR TDG V1.1 01-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02546363.PDF",
+      "type": "LMSDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 22 Canada EN 140006579500 EHS V3.1 03-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02546364.PDF",
+      "type": "LMSDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 22 Canada FR 140006579500 EHS V3.1 03-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5526_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057380",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5526_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057379",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Fluides hydrauliques biodégradables sont entièrement synthétiques PAG (Polyalkylene Glycol) à base, fluides hydrauliques non aqueux. Ces fluides sont formulés à partir d’une haute VI, un stock de base entièrement synthétique, couplé à un ensemble additif non métallique qui fournit les propriétés exigées par les systèmes hydrauliques haute performance. Ces fluides ont également d’excellentes propriétés à basse température et sont résistants à la dégradation oxydative et thermique.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "001J0924",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Coolant Extra Concentrate",
+  "description": "Hybrid antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/91f4b195-e6ae-4266-b890-617806870292.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Extra Concentrate (Europe) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/824372f4-b5db-484c-ada8-1f0dedb003e5.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Extra Concentrate (Europe) United Kingdom EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590573.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Concentrate (Europe) United Kingdom EN 140002340634 EHS V3.0 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0924_002YBF_A863",
+      "name": "Bottle 4 L Local Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550061782",
+      "margin": "1.45846589045091",
+      "packShot": ""
+    },
+    {
+      "code": "001J0924_002VWL_A863",
+      "name": "Bottle 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550061780",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

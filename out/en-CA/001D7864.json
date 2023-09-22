@@ -1,0 +1,181 @@
+{
+  "id": "001D7864",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Omala S4 Wheel 680",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "enclosed gear",
+    "energy efficiency",
+    "final drive",
+    "front axle",
+    "ge",
+    "gearbox",
+    "heavy duty",
+    "hitachi",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "mining",
+    "mobile",
+    "off highway",
+    "offroad",
+    "pao",
+    "reduction gears",
+    "splash lubricated bearings",
+    "tandem drive",
+    "transmissions",
+    "wheel hubs"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ecb68f04-a411-4109-8360-00e3a339c5da.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 Wheel 680 EN TDG V2.4 03-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b785eb85-bc89-494c-ad56-a5b9d0ecd092.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 Wheel 680 Canada EN TDG V2.4 03-Jul-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/2b412979-421a-46cb-99e6-3e2840347807.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 Wheel 680 Canada FR TDG V2.4 07-Jul-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291083.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 Wheel 680 Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289320.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 Wheel 680 Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7864_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026702",
+      "margin": "3.53424590469706",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "David Brown S1.53.106H",
+      "organisation": "David Brown",
+      "spec": "S1.53.106H"
+    },
+    {
+      "name": "General Electric GEK 30375H",
+      "organisation": "General Electric",
+      "spec": "GEK 30375H"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "GE Specification D50E27E",
+      "organisation": "GE Specification",
+      "spec": "D50E27E"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 Wheel is an advanced synthetic heavy duty industrial gear oil offering outstanding lubrication performance under severe operating conditions, including improved energy efficiency and long service life. It is recommended specifically for use in General Electric Off-Highway Motorized Wheels fitted to haul trucks used in mining applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "61"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "157"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592 ",
+      "uom": "",
+      "units": "°C",
+      "value": "274"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-43"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "860.7"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2 A/8.3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "12"
+    },
+    {
+      "property": "Timken OK Load",
+      "method": "ASTM D2782",
+      "uom": "",
+      "units": "lbs minimum",
+      "value": "80"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

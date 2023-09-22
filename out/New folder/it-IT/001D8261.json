@@ -1,0 +1,164 @@
+{
+  "id": "001D8261",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S2 G 80W-90",
+  "description": "High Quality API GL-4 Oil for Manual Transmissions and Gear Sets",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Trasmissione manuale e oli ingranaggi",
+  "applicationKeys": [
+    "axle",
+    "biodiesel",
+    "buses",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "motorcycle",
+    "off highway",
+    "on highway",
+    "passenger car",
+    "rear axles",
+    "reduction gears",
+    "semi automatic",
+    "separate motorcycle gear",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "urban",
+    "water"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_G_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 G 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511997.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 80W-90 Italy IT 140007645406 EHS V1.6 28-DEC-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511998.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 80W-90 Italy EN 140007645406 EHS V1.6 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/ce376174-6bca-4e38-b4ab-b46b8a0582fc.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 G 80W-90 Italy IT TDG V1.1 07-Feb-2017",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8261_002VNC_A246",
+      "name": "Secchio 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550027930",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8261_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550027913",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 G 80W-90 è un lubrificante per trasmissioni che contiene additivi multifunzionali indicati per condizioni di pressioni massime moderate.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80W-90"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "146"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.7"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "900"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-27"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s2_g_80w-90.png",
+  "valueRecord": [],
+  "commerce": null
+}

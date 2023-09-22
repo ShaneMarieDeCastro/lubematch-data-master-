@@ -1,0 +1,98 @@
+{
+  "id": "001G1528",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Argina S2 40",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": null,
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    "bearing",
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy fuel",
+    "industrial",
+    "light fuel",
+    "manual",
+    "marine",
+    "medium speed",
+    "stationary",
+    "synchronised",
+    "transmissions",
+    "two stroke"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/87c40f37-ada7-4ad5-a890-04ef99f6f58c.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S2 40 EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580334.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S2 40 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1528_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550046465",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1528_002VJV_A227",
+      "name": "IBC 1000 L Plastic W (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550052882",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1528_002VSH_ARME",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550053048",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1528_002VJW_ARME",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550053047",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S2 40 is a multifunctional crankcase lubricant for highly rated medium-speed diesel engines operating on residual, blended or distillate fuels. Shell Argina S2 40 has a BN of 20 and is designed for conditions of low oil stress.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_argina_s2_x.png",
+  "valueRecord": [],
+  "commerce": null
+}

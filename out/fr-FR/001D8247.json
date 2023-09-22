@@ -1,0 +1,192 @@
+{
+  "id": "001D8247",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S4 TX",
+  "description": "Premium Performance, SAE 10W-40, Universal Tractor Oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Agricole STOU (Super Tracteur Huile Universelle)",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "conventional gear drives",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydrostatic",
+    "hydrostatic drives",
+    "industrial",
+    "manual",
+    "mobile",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "oil immersed brakes",
+    "power steering",
+    "power take off pto",
+    "powershift transmissions",
+    "stou",
+    "super tractor oil universal",
+    "synchronised",
+    "tandem drive",
+    "tractor",
+    "tractor hydraulics",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1f06834b-f1f3-42e1-a7e7-2466a131ce04.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 TX EN TDG V2.1 08-Feb-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578522.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 TX France FR 140003182031 EHS V5.3 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/24effe84-7b12-4dcc-8eba-f5ecb4bd29a6.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 TX France FR TDG V2.1 13-Feb-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578523.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 TX France EN 140003182031 EHS V5.3 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8247_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027932",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8247_002VJW_A246",
+      "name": "Réservoir 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550027844",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8247_002VND_A246",
+      "name": "Sceau 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027933",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8247_002VSI_A246",
+      "name": "Tonneau 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Tonneau",
+      "materialCode": "550036852",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "ZF TE-ML 06D",
+      "organisation": "ZF",
+      "spec": "TE-ML 06D"
+    },
+    {
+      "name": "John Deere JDM J27",
+      "organisation": "John Deere",
+      "spec": "JDM J27"
+    },
+    {
+      "name": "ZF TE-ML 06B",
+      "organisation": "ZF",
+      "spec": "TE-ML 06B"
+    },
+    {
+      "name": "Caterpillar TO-2",
+      "organisation": "Caterpillar",
+      "spec": "TO-2"
+    },
+    {
+      "name": "ZF TE-ML 06F",
+      "organisation": "ZF",
+      "spec": "TE-ML 06F"
+    },
+    {
+      "name": "ZF TE-ML 06N",
+      "organisation": "ZF",
+      "spec": "TE-ML 06N"
+    },
+    {
+      "name": "API SF",
+      "organisation": "API",
+      "spec": "SF"
+    },
+    {
+      "name": "Massey Ferguson M-1139",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1139"
+    },
+    {
+      "name": "Massey Ferguson M-1145",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1145"
+    },
+    {
+      "name": "Caterpillar TO-2 - Suitable for use in applications which require",
+      "organisation": "Caterpillar",
+      "spec": "TO-2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "ZF TE-ML 07B",
+      "organisation": "ZF",
+      "spec": "TE-ML 07B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 TX 10W-40 est une huile universelle pour tracteur agricole (STOU (Super Tractor Oil Universal)) formulée à partir d'huiles de base Shell XHVI et d'un ensemble d'additifs de technologie avancée.   Spirax S4 TX 10W-40 apporte un niveau de performance supérieur dans les moteurs, les transmissions et les circuits hydraulique d'une grande variété de matériels agricoles. \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

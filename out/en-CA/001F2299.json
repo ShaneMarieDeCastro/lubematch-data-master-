@@ -1,0 +1,99 @@
+{
+  "id": "001F2299",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil Ultra Platinum SAE 0W-40 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ccee8738-e065-42e8-b465-59c4c1145700.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Ultra Platinum 0W-40 Full Synthetic Motor Oil (SP Chrysler) EN TDG V2.0 16-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289812.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Ultra Platinum 0W-40 Full Synthetic Motor Oil (SP Chrysler) Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/558cb7d0-00bf-48c8-a06a-2f71872e5641.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Ultra Platinum 0W-40 Full Synthetic Motor Oil (SP Chrysler) Canada EN TDG V2.0 06-May-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289813.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Ultra Platinum 0W-40 Full Synthetic Motor Oil (SP Chrysler) Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/39fed8c5-12b2-49f1-915f-fe9fc9ac6b3b.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Ultra Platinum 0W-40 Full Synthetic Motor Oil (SP Chrysler) Canada FR TDG V2.0 29-Mar-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2299_002VIZ_A1WJ",
+      "name": "Drum 55 Gal T/H PZL BYtop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550040846",
+      "margin": "2.02086463307228",
+      "packShot": ""
+    },
+    {
+      "code": "001F2299_002X9K_A0IK",
+      "name": "Bottle 0.946 L Pennzoil Plastic Helix Grey (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550040855",
+      "margin": "2.6578927757659",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Chrysler MS 12633",
+      "organisation": "Chrysler",
+      "spec": "MS 12633"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Ultra Platinum™ with PurePlus™ Technology is a first of its kind full synthetic motor oil made from natural gas and designed for COMPLETE PROTECTION and is race trusted.  Pennzoil Ultra Platinum™ 0W-40 Full Synthetic Motor Oil with PurePlus™ technology is exclusively formulated for and used by FCA in all Chrysler SRT engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,76 @@
+{
+  "id": "001D7778",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Corena S2 P 68",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compresor y bomba de vacío.",
+  "category": "Compresor y bomba de vacío.",
+  "applicationKeys": [
+    "air compressor",
+    "breathing air compressor",
+    "high pressure",
+    "hydraulic system",
+    "industrial",
+    "piston",
+    "pump gear",
+    "pump piston",
+    "reciprocating",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2346aea9-f05a-413d-8283-592dde0dfc98.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 68 EN TDG V2.5 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572776.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Spain ES 140003966322 EHS V2.7 04-MAY-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/3a1397fd-34b6-48d6-a960-1d54f9a10e63.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 P 68 Spain ES TDG V2.5 28-Feb-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572775.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Spain EN 140003966322 EHS V2.7 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    },
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P es un lubricante de alta calidad específicamente diseñado para proporcionar un gran rendimiento de lubricación para compresores de aire de alta presión. Es idóneo para la mayoría de compresores de aire alternativos con temperaturas de descarga de hasta 220ºC.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

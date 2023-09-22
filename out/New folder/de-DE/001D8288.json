@@ -1,0 +1,189 @@
+{
+  "id": "001D8288",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S5 ATE 75W-90",
+  "description": "Premium performance, synthetic technology, GL-5/4 transaxle oil for sports cars",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "cars",
+    "continuously variable",
+    "differential",
+    "engine",
+    "final drive",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "heavy duty axle",
+    "heavy load",
+    "industrial",
+    "manual",
+    "manual transmission",
+    "non shiftable",
+    "off highway",
+    "passenger car",
+    "premium performance",
+    "reduction gears",
+    "semi automatic",
+    "synchronised",
+    "tandem drive",
+    "transaxle",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/addb1fe4-3d08-4a7c-a482-158d769f4008.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 ATE 75W-90 EN TDG V2.2 17-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/cfbb5c12-2dec-4f8f-9569-596fede31907.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 ATE 75W-90 Germany DE TDG V2.2 19-May-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578307.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 ATE 75W-90 Germany EN 140001492039 EHS V2.9 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578306.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 ATE 75W-90 Germany DE 140001492039 EHS V2.9 23-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8288_002VNG_A1P5",
+      "name": "Eimer 20 L Plastic O/H w/lid Helix Blue (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027931",
+      "margin": "4.72331693654511",
+      "packShot": ""
+    },
+    {
+      "code": "001D8288_002VJW_A1P5",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027796",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8288_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027797",
+      "margin": "2.59303495684974",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MB-Approval 236.26",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.26"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 ATE 75W-90 wurde entwickelt, um die hohen Anforderungen an schwer belastete PKW zu erfüllen.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "75W-90"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "81"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.9"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "194"
+    },
+    {
+      "property": "Dynamische Viskosität",
+      "method": "ISO 9262",
+      "uom": "",
+      "units": "mPa s",
+      "value": "35000"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "879"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "205"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN DIN ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-45"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550057966_Shell_Spirax_S5_ATE_75W-90_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

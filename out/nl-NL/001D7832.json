@@ -1,0 +1,149 @@
+{
+  "id": "001D7832",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Omala S1 W 460",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriële tandwielkastoliën",
+  "category": "Industriële tandwielkastoliën",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "enclosed industrial worm gears",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "low speed enclosed gears",
+    "manual sequential",
+    "marine",
+    "medium speed",
+    "non shiftable",
+    "off highway",
+    "plain",
+    "pump vane",
+    "reduction gears",
+    "steam cylinders",
+    "tandem drive",
+    "transmissions",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b2218878-292e-4b05-a2e8-8ee4a008b064.pdf",
+      "type": "GTDS",
+      "name": "Omala S1 W 460 EN TDG V1.2 05-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572974.PDF",
+      "type": "LMSDS",
+      "name": "Omala S1 W 460 Netherlands NL 140002783873 EHS V1.8 08-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/7a5fc50b-3b63-49fc-9e5a-78486173183e.pdf",
+      "type": "LTDS",
+      "name": "Omala S1 W 460 Netherlands NL TDG V1.2 11-Aug-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572964.PDF",
+      "type": "LMSDS",
+      "name": "Omala S1 W 460 Netherlands EN 140002783873 EHS V1.8 08-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7832_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027173",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S1 W is een geraffineerde minerale olie met hoge viscositeit, die is samengesteld uit een klein aantal vette oliën. Shell Omala S1 W is bijzonder geschikt voor de smering van langzame tandwieloverbrengingen in gesloten carters en voor tand- en wormwieloverbrengingen. Deze olie leent zich ook goed voor de smering van cilinders van stoommachines die bij hoge temperatuur en druk werken.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "31.2"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "887"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "318"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-6"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

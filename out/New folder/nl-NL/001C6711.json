@@ -1,0 +1,70 @@
+{
+  "id": "001C6711",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R1 30",
+  "description": "Reliable Lubrication - Monograde Heavy Duty Diesel Engine Oil\n",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "heavy duty",
+    "on highway",
+    "power steering",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2ebbbcdf-99c6-4498-800e-d54a5718eeb5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R1 30 (CC/SC) EN TDG V1.2 10-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571404.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R1 30 (CC/SC) Netherlands NL 140002783873 EHS V1.2 05-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571402.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R1 30 (CC/SC) Netherlands EN 140002783873 EHS V1.2 05-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CC",
+      "organisation": "API",
+      "spec": "CC"
+    },
+    {
+      "name": "API SC",
+      "organisation": "API",
+      "spec": "SC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R1 oils use well-proven performance additives to fight wear providing reliable lubrication, consistent performance. Suitable for day to day use in non-turbocharged engines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

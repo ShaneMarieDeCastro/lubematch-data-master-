@@ -1,0 +1,177 @@
+{
+  "id": "001D7771",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Tonna S2 M 68",
+  "description": "Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Gleitbahnöle",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "factory applications",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "manufacturing",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "roller cylindrical",
+    "rollers",
+    "servo",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/56e3954e-4aa5-4ff1-8f6c-329d549a3613.pdf",
+      "type": "GTDS",
+      "name": "Tonna S2 M 68 EN TDG V1.3 04-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572288.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 68 Germany EN 140001492039 EHS V1.6 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/ccaca5e7-f011-4108-a372-ebb19397eebc.pdf",
+      "type": "LTDS",
+      "name": "Tonna S2 M 68 Germany DE TDG V1.3 11-Dec-2019",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572286.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 68 Germany DE 140001492039 EHS V1.6 04-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7771_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027220",
+      "margin": "0.734615807958305",
+      "packShot": ""
+    },
+    {
+      "code": "001D7771_002VNA_A246",
+      "name": "Eimer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027219",
+      "margin": "1.25991507692454",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-47",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-47"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "GB 11118.1 L-HG",
+      "organisation": "GB",
+      "spec": "11118.1 L-HG"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S2 M Öle wurden speziell für die Schmierung von Gleitbahnen, Arbeitstischen und Führungen von Werkzeugmaschinen entwickelt. Sie überzeugen durch ihre gutes Haftvermögen und gute Stick-Slip Eigenschaften und eignen sich besonders für den Einsatz in Anwendungen, bei denen es zu einer Vermischung mit den Schneidflüssigkeiten kommt.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viskositätsklasse (ISO VG)",
+      "method": "ISO 3448 / DIN 51519",
+      "uom": "",
+      "units": "",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "8.6"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "98"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185 / DIN 51757",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "879"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "225"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-24"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

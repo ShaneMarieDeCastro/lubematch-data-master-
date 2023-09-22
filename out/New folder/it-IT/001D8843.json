@@ -1,0 +1,106 @@
+{
+  "id": "001D8843",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S3 ALS 80W-90",
+  "description": "High performance, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Trasmissione manuale e oli ingranaggi",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "intermediate axle",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "reduction gears",
+    "slew",
+    "spindle",
+    "spindle oil",
+    "swing drive",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S3_ALS_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 ALS 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02495608.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 80W-90 Italy EN 140007645406 EHS V1.11 03-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/bbf98b2b-5dae-4f39-b2b8-9d153bf28711.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 ALS 80W-90 Italy IT TDG V2.1 04-Dec-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02495609.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 80W-90 Italy IT 140007645406 EHS V1.11 03-DEC-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 21C",
+      "organisation": "ZF",
+      "spec": "TE-ML 21C"
+    },
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    },
+    {
+      "name": "ZF TE-ML 12C",
+      "organisation": "ZF",
+      "spec": "TE-ML 12C"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 05C",
+      "organisation": "ZF",
+      "spec": "TE-ML 05C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 ALS 80W-90 è un olio miscelato per l'impiego in una vasta gamma di assali automobilistici con differenziali a slittamento limitato, incluse molte unità ZF. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,78 @@
+{
+  "id": "001A0086",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "AeroShell Turbine Oil 750",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    "aviation turbines",
+    "gas turbines",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/888020ab-a6a2-4ad3-a077-c20c3dba56d7.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 750 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619778.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 750 Ireland EN 140009711290 EHS V2.2 18-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0086_002VFJ_AEU1",
+      "name": "Can 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Can",
+      "materialCode": "550049743",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO O-149",
+      "organisation": "NATO",
+      "spec": "O-149"
+    },
+    {
+      "name": "AIR 3517/A",
+      "organisation": "AIR",
+      "spec": "3517/A"
+    },
+    {
+      "name": "DEF STAN 91-98",
+      "organisation": "DEF STAN",
+      "spec": "91-98"
+    },
+    {
+      "name": "Joint Service Designation OX-38",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-38"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,132 @@
+{
+  "id": "001D8265",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S3 G 80W-90",
+  "description": "High Performance Manual Transmission and Gear Oil for MAN, ZF and other OEMs",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Trasmissione manuale e oli ingranaggi",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "off highway",
+    "on highway",
+    "reduction gears",
+    "semi automatic",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dba55b5e-9f07-4dd1-bd06-01fa0d6ddc5e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 G 80W-90 EN TDG V2.4 19-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578738.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W-90 Italy EN 140007645406 EHS V4.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578739.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W-90 Italy IT 140007645406 EHS V4.2 23-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/359394c8-2cf0-40d7-93ee-987ef0c05b2e.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 G 80W-90 Italy IT TDG V2.4 06-May-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8265_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550027964",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8265_002VNA_A246",
+      "name": "Secchio 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550027961",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN 341 Type E2",
+      "organisation": "MAN",
+      "spec": "341 Type E2"
+    },
+    {
+      "name": "ZF TE-ML 19A",
+      "organisation": "ZF",
+      "spec": "TE-ML 19A"
+    },
+    {
+      "name": "ZF TE-ML 02B",
+      "organisation": "ZF",
+      "spec": "TE-ML 02B"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MAN 341 Type Z2",
+      "organisation": "MAN",
+      "spec": "341 Type Z2"
+    },
+    {
+      "name": "ZF TE-ML 16A",
+      "organisation": "ZF",
+      "spec": "TE-ML 16A"
+    },
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S3 G 80W-90 è un olio lubrificante studiato per estendere gli intervalli di cambio  fornendo benefici prestazionali per incontrare le esigenze dei nuovi sistemi di trasmissione e cambi.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027961_Shell_Spirax_S3_G_80W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

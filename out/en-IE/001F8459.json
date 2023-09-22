@@ -1,0 +1,181 @@
+{
+  "id": "001F8459",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Omala S4 GXV 320",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "biodiesel",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "engine",
+    "ep",
+    "extra long life",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "off highway",
+    "paints and sealants",
+    "plain",
+    "reduction gears",
+    "seal compatibility",
+    "siemens ag",
+    "splash lubricated bearings",
+    "system efficiency",
+    "transmissions",
+    "turbine",
+    "water",
+    "wide temperature range",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f43cdf8a-1913-4ce9-be0b-73b9b3eaa4e7.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GXV 320 EN TDG V2.0 31-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02639194.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 320 Ireland EN 140007731156 EHS V1.6 29-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8459_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550047087",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8459_002VJW_A1P5",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550047085",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GXV 320 is an advanced synthetic heavy duty industrial gear oil, approved by Siemens AG, offering outstanding lubrication performance under severe operating conditions, including reduced friction, long service life, high resistance to micro-pitting for optimal gear protection and superb compatibility with seals.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "37"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "169"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C  minimum",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C  ",
+      "value": "-42"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C  ",
+      "units": "kg/m³",
+      "value": "866"
+    },
+    {
+      "property": "Four Ball EP Weld load",
+      "method": "ASTM D2783",
+      "uom": "",
+      "units": "kg minimum",
+      "value": "250"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/8,3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "14"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

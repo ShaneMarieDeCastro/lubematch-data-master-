@@ -1,0 +1,86 @@
+{
+  "id": "001I3498",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra SP 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b83d01a-daee-45ea-8a1f-2ca4b473a3c4.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) EN TDG V1.1 27-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607960.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) United Kingdom EN 140002340634 EHS V1.3 03-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I3498_002YAP_EURO",
+      "name": "Bottle 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550063071",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I3498_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550061579",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I3498_002YAN_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550063070",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra SP uses unique active cleansing technology to help high-performance engines operate at maximum efficiency by helping to protect them from power-robbing deposits and wear.  It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

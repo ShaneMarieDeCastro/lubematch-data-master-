@@ -1,0 +1,214 @@
+{
+  "id": "001F1182",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Omala S2 GX 460",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "compatibility with seals and paints",
+    "differential",
+    "enclosed gear",
+    "ep",
+    "extreme performance",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "high load",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "marine",
+    "micropitting",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump valve",
+    "reduction gears",
+    "roller spherical",
+    "rollers",
+    "screw pump",
+    "servo",
+    "siemens ag",
+    "slew",
+    "stern tube seal",
+    "swing drive",
+    "tandem drive",
+    "transmissions",
+    "trunnion"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "460",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7d5f219a-7609-4a86-97d5-8fb20317a773.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 460 EN TDG V2.1 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/42931e10-3bc5-4886-be23-981b87577e9b.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 460 Canada FR TDG V2.1 20-Jul-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289977.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 460 Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/920c4a84-0167-4a88-bcf1-16c1ec79d048.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 460 Canada EN TDG V2.1 20-Jul-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289976.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 460 Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1182_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550041735",
+      "margin": "0.622888635824994",
+      "packShot": ""
+    },
+    {
+      "code": "001F1182_002VOM_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550041734",
+      "margin": "0.640383107345568",
+      "packShot": ""
+    },
+    {
+      "code": "001F1182_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009141",
+      "margin": "0.205883625542744",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "AGMA EP 9005-EO2",
+      "organisation": "AGMA",
+      "spec": "EP 9005-EO2"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-35",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-35"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 GX oils are high quality extreme-pressure (EP) oils designed primarily for the lubrication of heavy duty industrial gearboxes. Their high load carrying capacity, protection against micropitting and compatibility with seals and paints, combine to offer excellent performance in enclosed gear applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "30.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "97"
+    },
+    {
+      "property": "Flash Point COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-12"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "Kg/m³",
+      "value": "904"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

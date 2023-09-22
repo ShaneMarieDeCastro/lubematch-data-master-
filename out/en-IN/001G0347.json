@@ -1,0 +1,50 @@
+{
+  "id": "001G0347",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Heat Transfer Oil S2 S",
+  "description": "High Performance Heat transfer fluid",
+  "family": "Heat Transfer",
+  "parentCategory": null,
+  "category": "Heat Transfer Oils",
+  "applicationKeys": [
+    "heat transfer"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ce50b6a4-5f3d-46ce-8ef3-e560107a4b6a.pdf",
+      "type": "GTDS",
+      "name": "Heat Transfer Oil S2 S EN TDG V1.6 11-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637136.PDF",
+      "type": "LMSDS",
+      "name": "Heat Transfer Oil S2 S India EN 140006501563 EHS V1.0 28-JUN-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-12",
+      "organisation": "ISO",
+      "spec": "6743-12"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Heat Transfer Oil S2 S is based on carefully selected mineral oils chosen for their ability to perform in indirect closed fluid heat transfer systems.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

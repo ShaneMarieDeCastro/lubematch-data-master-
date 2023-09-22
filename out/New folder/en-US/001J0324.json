@@ -1,0 +1,86 @@
+{
+  "id": "001J0324",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S3 V550L 2",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "lithium",
+    "low load"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/461a29cf-cd6a-400c-be16-5f8be4e88ae8.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V550L 2 EN TDG V1.0 28-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562754.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V550L 2 United States EN 140002686046 EHS V1.0 03-NOV-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0324_002VKN_NAMD",
+      "name": "Keg 50 kg O/H Steel + Liner Shell Red, Shell Yellow(1) WL",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550061215",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0324_002XF1_NAMD",
+      "name": "Intermediate Bulk Containers 1000 kg Local Steel not specified (1)",
+      "size": "1000",
+      "uom": "kg",
+      "pack": "IBC",
+      "materialCode": "550061217",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0324_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500013144",
+      "margin": "2.8164694605392",
+      "packShot": ""
+    },
+    {
+      "code": "001J0324_002WWP_NAMD",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550061216",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V550L 2 is a lithium complex grease based on high viscous mineral oils, containing anti-oxidants, EP- and wear preventive additives and rust inhibitors.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

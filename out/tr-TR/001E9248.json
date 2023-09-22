@@ -1,0 +1,73 @@
+{
+  "id": "001E9248",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX5 Diesel 10W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX5_Diesel_10W-30_(CH-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 Diesel 10W-30 (CH-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/f61390e7-ddf5-469a-ad9b-9a55dfa6def9.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 Diesel 10W-30 (CH-4) Turkey TR TDG V1.0 11-May-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319720.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 Diesel 10W-30 (CH-4) Turkey EN 140003791542 EHS V1.2 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319774.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 Diesel 10W-30 (CH-4) Turkey TR 140003791542 EHS V1.2 11-MAY-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9248_002XQW_A10E",
+      "name": "Şişe 7 L Wishbone Plastic Shell Yellow (2)",
+      "size": "7",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550049147",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 Dizel hafif ticari araçların motorundan sürekli performans almanızı sağlayacak şekilde tasarlandı. Kurum ve tortu birikimini önleyerek motordaki aşınmaları azaltır. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

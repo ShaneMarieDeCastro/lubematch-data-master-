@@ -1,0 +1,72 @@
+{
+  "id": "001D8068",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Air Tool Oil S2 A 150",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": "",
+  "category": "Rockdrill and Pneumatic Tool Lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f9d078cd-edb3-4a1b-ae5b-7598387af2dc.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 150 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562483.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 150 United States EN 140002686046 EHS V1.5 17-FEB-2020",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/dcf09b3b-2134-4213-ba25-8d32f0a883d9.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 150 United States EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8068_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026753",
+      "margin": "1.49764781422152",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    },
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool S2 A has been developed to meet the special lubrication requirements of pneumatic tools, including percussion type pneumatic tools subjected to the most arduous conditions. They are designed to maintain high oil film strength and effectively lubricate even the most demanding requirements of pneumatic drill impact mechanisms as well as providing excellent mist lubrication of general purpose air tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

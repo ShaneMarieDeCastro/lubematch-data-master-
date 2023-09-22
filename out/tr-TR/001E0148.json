@@ -1,0 +1,43 @@
+{
+  "id": "001E0148",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "AdBlue",
+  "description": "Aqueous solution of urea",
+  "family": "Non Oil Income (Other)",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02374914.PDF",
+      "type": "LMSDS",
+      "name": "AdBlue Turkey TR 140003791542 EHS V1.4 27-SEP-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02374913.PDF",
+      "type": "LMSDS",
+      "name": "AdBlue Turkey EN 140003791542 EHS V1.4 27-SEP-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

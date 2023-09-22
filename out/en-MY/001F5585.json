@@ -1,0 +1,107 @@
+{
+  "id": "001F5585",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Advance VSX 2 (FC/EGC) (undyed prediluted fragranced)",
+  "description": "2 Stroke Motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a83549cd-cb3f-4f0d-a850-eec916706e55.pdf",
+      "type": "GTDS",
+      "name": "Advance VSX 2 (FC/EGC) (undyed prediluted fragranced) EN TDG V1.5 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02362173.PDF",
+      "type": "LMSDS",
+      "name": "Advance VSX 2 (FC/EGC) (undyed prediluted fragranced) Malaysia EN 140001435555 EHS V1.6 10-AUG-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02361954.PDF",
+      "type": "LMSDS",
+      "name": "Advance VSX 2 (FC/EGC) (undyed prediluted fragranced) Malaysia MS 140001435555 EHS V1.6 10-AUG-2021",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F5585_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009622",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F5585_002WL1_A238",
+      "name": "Bottle 0.5 L Wishbone Plastic Advance Green (24)",
+      "size": "0.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550043147",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F5585_002WKZ_A238",
+      "name": "Bottle 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550043148",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F5585_002WKZ_A04U",
+      "name": "Bottle 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050926",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FC",
+      "organisation": "JASO",
+      "spec": "FC"
+    },
+    {
+      "name": "JASO FC - Meets smoke emission standard",
+      "organisation": "JASO",
+      "spec": "FC - Meets smoke emission standard"
+    },
+    {
+      "name": "ISO-L-EGC",
+      "organisation": "ISO",
+      "spec": "L-EGC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance VSX 2 is a synthetic based lubricant with fragrance, specifically designed for excellent engine protection and performance in 2-stroke motorcycle engines. It guarantees superior control against exhaust system blocking and minimises exhaust smoke. Shell Advance VSX 2 is suitable both for all oil-injection and premix systems and exceeds the requirements of leading manufacturers.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_VSX_2T_1L_600059313.png",
+  "valueRecord": [],
+  "commerce": null
+}

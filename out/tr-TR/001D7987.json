@@ -1,0 +1,81 @@
+{
+  "id": "001D7987",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Vacuum Pump Oil S2 R 100",
+  "description": "Special Application Rotary Vacuum Pump Oil",
+  "family": "Vacuum Pump",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "entrapment",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "momentum transfer",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ca260eb0-1495-4f98-a4dc-44b303ec21e6.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S2 R 100 EN TDG V2.4 07-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/e4817db3-0581-4740-bbee-5f591149c80b.pdf",
+      "type": "LTDS",
+      "name": "Vacuum Pump Oil S2 R 100 Turkey TR TDG V2.4 31-Dec-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02467885.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 Turkey EN 140003791542 EHS V2.2 02-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02467886.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 Turkey TR 140003791542 EHS V2.2 02-OCT-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7987_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550027223",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DVC",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DVC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S2 R, özel rafine edilmiş baz yağlardan formüle edilmiştir.  Düşük buharlaşma basıncı ve yüksek performansı sayesinde vakum pompalarında verimli bir yağlama sağlar.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

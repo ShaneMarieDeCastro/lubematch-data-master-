@@ -1,0 +1,148 @@
+{
+  "id": "001B0209",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shellzone",
+  "description": "Coolant",
+  "family": "Shellzone",
+  "parentCategory": "",
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    "cooling",
+    "cooling system"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008140459_201407251039.pdf",
+      "type": "GTDS",
+      "name": "Shellzone English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/ff576cbf-22df-466a-ac0d-4ad526380acf.pdf",
+      "type": "LTDS",
+      "name": "Shellzone United States EN TDG V1.1 06-Jul-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563851.PDF",
+      "type": "LMSDS",
+      "name": "Shellzone United States EN 140002686046 EHS V4.2 14-DEC-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0209_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "9401000055",
+      "margin": "0.416420607290112",
+      "packShot": ""
+    },
+    {
+      "code": "001B0209_002V2V_A0II",
+      "name": "Bottle 1 Gal Local (F-Style) Plastic White (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "9401006021",
+      "margin": "0.378720869331702",
+      "packShot": ""
+    },
+    {
+      "code": "001B0209_001176_A1SJ",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005282",
+      "margin": "0.596973945047043",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors GM 1899M",
+      "organisation": "General Motors",
+      "spec": "GM 1899M"
+    },
+    {
+      "name": "JI Case JIC501",
+      "organisation": "JI Case",
+      "spec": "JIC501"
+    },
+    {
+      "name": "US Fed A-A-870-A",
+      "organisation": "US Fed",
+      "spec": "A-A-870-A"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "SAE J1034",
+      "organisation": "SAE",
+      "spec": "J1034"
+    },
+    {
+      "name": "TMC RP 302A",
+      "organisation": "TMC RP",
+      "spec": "302A"
+    },
+    {
+      "name": "General Motors GM 1825M",
+      "organisation": "General Motors",
+      "spec": "GM 1825M"
+    },
+    {
+      "name": "Cummins 90T8-4",
+      "organisation": "Cummins",
+      "spec": "90T8-4"
+    },
+    {
+      "name": "John Deere H24B1",
+      "organisation": "John Deere",
+      "spec": "H24B1"
+    },
+    {
+      "name": "Chrysler MS 7170",
+      "organisation": "Chrysler",
+      "spec": "MS 7170"
+    },
+    {
+      "name": "John Deere H24C1",
+      "organisation": "John Deere",
+      "spec": "H24C1"
+    },
+    {
+      "name": "Ford ESE-M97B44-A",
+      "organisation": "Ford",
+      "spec": "ESE-M97B44-A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shellzone® Antifreeze is a superior quality, single phase, ethylene glycol based antifreeze. It is a low silicate, all-purpose coolant designed for use in both automotive and heavy duty diesel engines (with the use of SCA’s). Shellzone Antifreeze Prediluted 50/50 is a 50/50 volume mixture of Shellzone Antifreeze with deionized water.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

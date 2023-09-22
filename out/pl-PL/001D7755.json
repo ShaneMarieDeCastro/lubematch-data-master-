@@ -1,0 +1,128 @@
+{
+  "id": "001D7755",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Tellus S2 MA 46",
+  "description": "Industrial Detergent Hydraulic Fluid\\n",
+  "family": "Tellus",
+  "parentCategory": "Ciecze hydrauliczne",
+  "category": "Płyny hydrauliczne",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "detergent based",
+    "emulsifiable",
+    "fixed",
+    "gearbox",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "mobile",
+    "mobile equipment",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "transmissions",
+    "turbine",
+    "variable",
+    "wet conditions",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0c4303ba-ca46-40f7-94c6-b6baf6c1c2cf.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MA 46 EN TDG V3.5 27-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/00d58ccf-92f5-47db-a098-c91772ccba95.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MA 46 Poland PL TDG V3.5 30-Aug-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02568785.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 Poland PL 140003791557 EHS V3.5 30-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02568734.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MA 46 Poland EN 140003791557 EHS V2.5 01-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7755_002VNA_A1P5",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550027161",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7755_002VJW_A1P5",
+      "name": "Kontener 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550027121",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7755_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027130",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 MA to wysokiej jakości olej hydrauliczny z dodatkiem detergentów stosowany gdy wymagane są oleje detergentowane. Zawiera zaawansowany technologicznie pakiet bezpopiołowych dodatków przeciwzużyciowych, co czyni go doskonałym produktem do zastosowania w układach gdzie występuje możliwość zanieczyszczenia wodą pochodzącą np. z płynów obróbkowych, a także wymagana jest wysoka czystość i kontrola zawartości zanieczyszczeń stałych.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

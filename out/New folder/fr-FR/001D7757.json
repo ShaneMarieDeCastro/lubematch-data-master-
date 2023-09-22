@@ -1,0 +1,115 @@
+{
+  "id": "001D7757",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Tellus S3 M 22",
+  "description": "Premium Zinc-Free Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "extended life",
+    "factory applications",
+    "high load",
+    "high tost",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "low toxicity",
+    "manufacturing",
+    "mobile equipment",
+    "pump gear",
+    "severe duty",
+    "stationary",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1dd230cb-3114-4212-a354-f2ee3a3129d0.pdf",
+      "type": "GTDS",
+      "name": "Tellus S3 M 22 EN TDG V4.3 17-Nov-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569882.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S3 M 22 France FR 140003182031 EHS V1.5 30-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/2b4f242a-3fca-4356-adde-f70abc0fd90e.pdf",
+      "type": "LTDS",
+      "name": "Tellus S3 M 22 France FR TDG V4.3 16-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569981.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S3 M 22 France EN 140003182031 EHS V1.5 30-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7757_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550034340",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D6158 HM",
+      "organisation": "ASTM",
+      "spec": "D6158 HM"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 M",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 M"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694 - Meets performance requirements",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694 - Meets performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les fluides de hautes performances Shell Tellus S3 M permettent, grâce à une technologie exclusive sans zinc, de fournir une protection exceptionnelle et des performances optimales dans la plupart des circuits hydrauliques industriels ou mobiles. Shell Tellus S3 M a une excellente résistance à l’oxydation et aux contraintes thermiques, limitant ainsi les dépôts qui peuvent diminuer l'efficacité de votre système hydraulique.  ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

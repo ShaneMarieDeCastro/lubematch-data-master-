@@ -1,0 +1,73 @@
+{
+  "id": "001F9116",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Gadus S5 V110KP 1",
+  "description": "Special Purpose Fully Synthetic Blade Bearings Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas no EP de base sintética",
+  "applicationKeys": [
+    "high pressure",
+    "lithium",
+    "low temperature"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b27c8762-8dda-49c6-bcd4-53385e91bd62.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V110KP 1 EN TDG V1.8 16-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597094.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V110KP 1 Spain ES 140003966322 EHS V2.5 14-JUN-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597093.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V110KP 1 Spain EN 140003966322 EHS V2.5 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9116_002VH1_A1P5",
+      "name": "Bidón 170 kg O/H Grease R/Y (1)",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Bidón",
+      "materialCode": "550045827",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9116_002XEC_A1P5",
+      "name": "Cubo 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Cubo",
+      "materialCode": "550045826",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V110KP 1 is an advanced fully synthetic wind turbine grease designed for lubrication of blade bearings and specifically suitable for greater blade diameters with high level of active pitching, high tower height and exposed to extreme weather and climate.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

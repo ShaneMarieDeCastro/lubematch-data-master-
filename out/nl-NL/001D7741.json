@@ -1,0 +1,146 @@
+{
+  "id": "001D7741",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Hydraulic S1 M 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Hydraulische vloeistoffen",
+  "category": "Hydraulische vloeistoffen",
+  "applicationKeys": [
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "gerotor pump",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "slew",
+    "swing drive",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/98724352-9cb6-49c9-bd2c-9aa34eb0c09a.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 M 68 EN TDG V3.6 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02633839.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 68 Netherlands EN 140002783873 EHS V1.5 22-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02633838.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 68 Netherlands NL 140002783873 EHS V1.5 22-AUG-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/ede74eaf-7854-43e0-b73c-f04d0858de8c.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 M 68 Netherlands NL TDG V3.6 30-Aug-2019",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 M 32/46/68 zijn hoogwaardige anti-slijtage hydraulische vloeistoffen die een kosteneffectieve, betrouwbare bescherming en prestatie biedt in de meest industriële en mobiele toepassingen.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "68"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "8.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "97"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.875"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-12"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

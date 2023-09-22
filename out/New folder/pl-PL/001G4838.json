@@ -1,0 +1,94 @@
+{
+  "id": "001G4838",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AT-L 5W-30",
+  "description": "Passenger Car Engine Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "fiat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/80ca024a-3619-474b-bb21-1acf18721c75.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) EN TDG V1.4 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503366.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) Poland PL 140003791557 EHS V1.1 10-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503367.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) Poland EN 140003791557 EHS V1.1 10-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/4ee0d997-015b-4633-9be1-161911dadada.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) Poland PL TDG V1.4 03-Sep-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G4838_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550047903",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G4838_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550047905",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "Fiat 9.55535-S1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S1 - Meets the requirements"
+    },
+    {
+      "name": "Iveco 18-1811 Sp-SC1 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "18-1811 Sp-SC1 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spełnia bardzo wysokie wymagania wysokoobciążonych silników m.in Fiat oraz silników wymagających stosowania olejów klasy C2.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

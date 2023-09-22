@@ -1,0 +1,90 @@
+{
+  "id": "001A0131",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Caprinus HPD 40",
+  "description": "Railroad diesel engine oil",
+  "family": "Caprinus",
+  "parentCategory": "",
+  "category": "Engine Oils - Rail",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "fuel",
+    "heavy duty",
+    "heavy fuel",
+    "light fuel",
+    "locomotive",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "railroad",
+    "stationary"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Caprinus_HPD_40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Caprinus HPD 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580453.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus HPD 40 Singapore EN 140001435547 EHS V1.4 06-JAN-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0131_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500000413",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0131_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550033083",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CD",
+      "organisation": "API",
+      "spec": "CD"
+    },
+    {
+      "name": "LMOA Generation 5",
+      "organisation": "LMOA",
+      "spec": "Generation 5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Caprinus HPD 40, which contains high viscosity index mineral oil, is designed specially for use in highly rated North American railroad engines subjected to the most severe operating conditions, especially where fuel sulphur is high (say around 1%) and where long oil drain intervals are required.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

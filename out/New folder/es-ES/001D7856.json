@@ -1,0 +1,111 @@
+{
+  "id": "001D7856",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Omala S4 WE 150",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Aceites de engranajes industriales",
+  "category": "Aceites de engranajes industriales",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "natural gas",
+    "pag",
+    "power take off pto",
+    "rollers",
+    "splash lubricated bearings",
+    "stationary",
+    "tandem drive",
+    "thrust",
+    "transmissions",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d933ae97-6ab5-45ed-a8a0-f1d8b7ccb675.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 150 EN TDG V4.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543242.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 150 Spain ES 140003966322 EHS V1.11 22-MAR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543243.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 150 Spain EN 140003966322 EHS V1.11 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/8512e5fd-fd9c-46d7-a8bf-e01a8af2bd5f.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 150 Spain ES TDG V4.3 22-Jul-2021",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7856_002VSH_A1P5",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550027182",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7856_002VJW_A1P5",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027183",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE es un avanzado lubricante sintético para engranajes de transmisiones industriales de tornillo sin fin, partiendo de fluidos de polialquilenglicol y aditivos especialmente seleccionados. Ofrece un rendimiento de lubricación excepcional bajo exigentes condiciones de operación, incluyendo una mejora de la eficiencia energética, larga vida de servicio y una elevada resistencia al micro-picado por corrosión.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [],
+  "commerce": null
+}

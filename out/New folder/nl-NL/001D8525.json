@@ -1,0 +1,103 @@
+{
+  "id": "001D8525",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S5 V42P 2.5",
+  "description": "Advanced Extreme Pressure Grease for High Speed Bearings",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van synthetische olie zonder 'EP additieven",
+  "applicationKeys": [
+    "advanced",
+    "bearings",
+    "electric motor bearings",
+    "electric motors",
+    "fan bearings",
+    "heavy load",
+    "high load",
+    "high pressure",
+    "high speed",
+    "high speed bearings",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "long life",
+    "machine tool bearings",
+    "plain bearings",
+    "roller bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008147434_201407310513.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V42P 2.5 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545757.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V42P 2.5 Netherlands NL 140002783873 EHS V2.10 30-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/5a69809f-8ed9-4585-8bab-c95fcecfee92.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V42P 2.5 Netherlands NL TDG V3.1 15-Feb-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545756.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V42P 2.5 Netherlands EN 140002783873 EHS V2.10 30-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8525_002VSL_A246",
+      "name": "Vat 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028102",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8525_002XEC_A246",
+      "name": "Emmer 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028104",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8525_002VT7_EURO",
+      "name": "Cartridge 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550053537",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

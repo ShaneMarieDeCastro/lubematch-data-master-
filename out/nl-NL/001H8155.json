@@ -1,0 +1,98 @@
+{
+  "id": "001H8155",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Spirax S3 ALS 85W-90",
+  "description": "High performance, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Manuele Transmissie- en Versnellingsbakolie",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e708a554-072d-4b51-97cf-6ff5aa422003.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 ALS 85W-90 EN TDG V1.1 15-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/1db06196-d1f6-48e7-9969-8c0e1825daf6.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 ALS 85W-90 Netherlands NL TDG V1.1 23-Sep-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02632008.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 Netherlands NL 140002783873 EHS V1.6 18-AUG-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02632010.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 Netherlands EN 140002783873 EHS V1.6 18-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H8155_002VSI_A246",
+      "name": "Vat 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550055994",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 21C",
+      "organisation": "ZF",
+      "spec": "TE-ML 21C"
+    },
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 16E",
+      "organisation": "ZF",
+      "spec": "TE-ML 16E"
+    },
+    {
+      "name": "ZF TE-ML 12C",
+      "organisation": "ZF",
+      "spec": "TE-ML 12C"
+    },
+    {
+      "name": "ZF TE-ML 05C",
+      "organisation": "ZF",
+      "spec": "TE-ML 05C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 ALS 85W-90 is geformuleerd voor een zo breed mogelijk toepassingsgebied in automotieve overbrengingen met limited slip differentiëlen waaronder een groot aantal ZF transmissies.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550060232_Shell_Spirax_S3_ALS_85W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

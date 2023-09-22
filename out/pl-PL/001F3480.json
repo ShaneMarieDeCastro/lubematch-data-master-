@@ -1,0 +1,80 @@
+{
+  "id": "001F3480",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Diala S4 ZX-IG",
+  "description": "Premium inhibited gas absorbing electrical insulating oil",
+  "family": "Diala",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Oleje elektroizolacyjne",
+  "applicationKeys": [
+    "gas absorbing",
+    "inhibited",
+    "insulating"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/57731b6c-edec-4785-9ade-5d7ee76077fc.pdf",
+      "type": "GTDS",
+      "name": "Diala S4 ZX-IG EN TDG V3.9 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/3787df25-f223-4acd-bd1e-057609962ad0.pdf",
+      "type": "LTDS",
+      "name": "Diala S4 ZX-IG Poland PL TDG V3.9 29-Jun-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614611.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG Poland EN 140003791557 EHS V1.6 11-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614610.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG Poland PL 140003791557 EHS V1.6 11-JUL-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3480_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550042452",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D3487 Type II",
+      "organisation": "ASTM",
+      "spec": "D3487 Type II"
+    },
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S4 ZX-IG spełnia obie normy aktualną i nową opisującą testy na korozję miedzi. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

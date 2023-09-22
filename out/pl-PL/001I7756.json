@@ -1,0 +1,113 @@
+{
+  "id": "001I7756",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R4 NG Plus 15W-40",
+  "description": "LNG/CNG Heavy Duty Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7c369940-81e0-4544-ad87-f384067a293d.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 NG Plus 15W-40 (CK-4) EN TDG V1.1 12-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/1d1e8583-362c-4d14-8c19-0eecca116e8c.pdf",
+      "type": "LTDS",
+      "name": "Rimula R4 NG Plus 15W-40 (CK-4) Poland PL TDG V1.1 20-Dec-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604177.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 NG Plus 15W-40 (CK-4) Poland PL 140003791557 EHS V1.2 28-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604178.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 NG Plus 15W-40 (CK-4) Poland EN 140003791557 EHS V1.2 28-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I7756_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550063115",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Cummins CES 20092",
+      "organisation": "Cummins",
+      "spec": "CES 20092"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 NG Plus został specjalnie opracowany, aby zapewnić ochronę w ciężkich warunkach użytkowania w pełnym zakresie ciśnień i temperatur w silnikach na gaz ziemny. Jest odpowiedni do pojazdów pracujących w 100% z paliwem LNG / CNG, został zatwierdzony do stosowania w silnikach LNG / CNG Cummins.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

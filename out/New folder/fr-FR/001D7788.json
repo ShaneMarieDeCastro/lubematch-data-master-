@@ -1,0 +1,108 @@
+{
+  "id": "001D7788",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Corena S4 P 68",
+  "description": "Advanced Synthetic Reciprocating  (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "",
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "air compressor",
+    "bearing",
+    "breathing air compressor",
+    "diesel",
+    "engine",
+    "extended life",
+    "extended valve maintenance",
+    "high pressure",
+    "high temperature",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "long life",
+    "marine",
+    "medium speed",
+    "piston",
+    "reciprocating",
+    "severe conditions",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ff8bfbbe-c61e-4006-8527-386a2fb20eb3.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 P 68 EN TDG V1.3 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572539.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 68 France FR 140003182031 EHS V3.5 04-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572538.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 68 France EN 140003182031 EHS V3.5 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/778243b7-957c-46e1-9fcf-d3b66ed60a3d.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 P 68 France FR TDG V1.3 19-Sep-2018",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7788_002VNF_A1P5",
+      "name": "Sceau 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027229",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "BS EN 12021",
+      "organisation": "BS",
+      "spec": "EN 12021"
+    },
+    {
+      "name": "DIN 51506 VDL",
+      "organisation": "DIN",
+      "spec": "51506 VDL"
+    },
+    {
+      "name": "ISO/DP 6521 L-DAB",
+      "organisation": "ISO",
+      "spec": "/DP 6521 L-DAB"
+    },
+    {
+      "name": "ISO 6743-3 2003 L-DAB",
+      "organisation": "ISO",
+      "spec": "6743-3 2003 L-DAB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 P est une huile synthétique de haute qualité formulée à partir d'esters synthétique et d'additifs uniques de haute performance. Elle est particulièrement adaptée à la lubrification des compresseurs d'air alternatifs fonctionnant à des pressions élevées et pour les températures de refoulement allant jusqu'à 220C°",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

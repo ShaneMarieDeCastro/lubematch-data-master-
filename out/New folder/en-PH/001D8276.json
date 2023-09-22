@@ -1,0 +1,160 @@
+{
+  "id": "001D8276",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Spirax S2 A 80W-90",
+  "description": "High quality, GL-5 axle oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "brakes",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "front axle",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "on highway",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "slew",
+    "stationary",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "wheel"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_A_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 A 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/3ebf07f6-5f47-4316-bcb4-89efa6063881.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 A 80W-90 Philippines EN TDG V1.1 11-Jul-2014",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02359305.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 80W-90 Philippines EN 140001435525 EHS V1.9 15-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8276_002VNC_A227",
+      "name": "Pail 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025120",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 A 80W-90 is blended for use in a wide variety of automotive axle units subjected to heavy duty conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80W-90"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "146"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.7"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "904"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-27"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s2_a_80w-90.png",
+  "valueRecord": [],
+  "commerce": null
+}

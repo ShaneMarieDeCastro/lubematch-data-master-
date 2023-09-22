@@ -1,0 +1,124 @@
+{
+  "id": "001D7833",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Omala S1 W 680",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "enclosed industrial worm gears",
+    "gearbox",
+    "industrial",
+    "low speed enclosed gears",
+    "steam cylinders",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c7000e51-93e8-4fed-9c8e-79cd97287ac5.pdf",
+      "type": "GTDS",
+      "name": "Omala S1 W 680 EN TDG V1.2 05-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532189.PDF",
+      "type": "LMSDS",
+      "name": "Omala S1 W 680 Canada EN 140006579500 EHS V2.0 01-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532187.PDF",
+      "type": "LMSDS",
+      "name": "Omala S1 W 680 Canada FR 140006579500 EHS V2.0 01-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Shell_Omala_S1_W_680_(en-CA)_TDS_v1.pdf",
+      "type": "LTDS",
+      "name": "Omala S1 W 680 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Omala_S1_W-fr.pdf",
+      "type": "LTDS",
+      "name": "Omala S1 W 680 Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S1 W oils are quality refined, high viscosity mineral oils compounded with a small percentage of fatty oils. They are particularly suitable for the lubrication of low speed enclosed gears and worm drive application. They are also suitable for the lubrication of high temperature, high pressure steam cylinders.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "35.2"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "83"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "891"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "322"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-6"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

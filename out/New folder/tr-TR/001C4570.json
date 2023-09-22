@@ -1,0 +1,114 @@
+{
+  "id": "001C4570",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Rimula R3 10W (CF)",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "axle",
+    "bio gas",
+    "brakes",
+    "diesel",
+    "engine",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "semi manual",
+    "servo",
+    "stationary",
+    "synchronised",
+    "torque converter",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0c2c0be6-6ac6-46fa-812d-bbabbc50e47b.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 10W (CF) EN TDG V2.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319579.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) Turkey TR 140003791542 EHS V1.10 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319216.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) Turkey EN 140003791542 EHS V1.10 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/bc966684-48ef-47d5-af80-eae974fb6039.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 10W (CF) Turkey TR TDG V2.2 08-Dec-2016",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4570_002VNA_A246",
+      "name": "Kova 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550032225",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4570_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550032224",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3, motorunuzun ya da ekipmanınızın gereksinimi olan ekstra korumayı sağlamak amacıyla sürüş ihtiyaçlarınıza göre geliştirilmiş bir formülasyona sahiptir. Aktif deterjan özelliği ile piston ve motor parçalarını temiz tutarak uzun uzun motor ömrü için aşınmaya ve yüksek motor performansı için depozitlere karşı koruma sağlar.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R3-10W.png",
+  "valueRecord": [],
+  "commerce": null
+}

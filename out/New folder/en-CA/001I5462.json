@@ -1,0 +1,99 @@
+{
+  "id": "001I5462",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe Turbine Fluid S5 X 25",
+  "description": "Special Purpose Turbine Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "25",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ac24add6-68e1-4989-9070-d399c5dccde7.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 25 EN TDG V1.1 28-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cc750b22-fe8b-44b0-a46a-c57df12037a7.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 25 Canada FR TDG V1.1 10-Dec-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290871.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 25 Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290863.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 25 Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/34fc3181-e449-484f-a509-4820dae879f7.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 25 Canada EN TDG V1.1 28-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5462_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057300",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5462_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012327",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5462_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057301",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Electric GEK 32568K",
+      "organisation": "General Electric",
+      "spec": "GEK 32568K"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

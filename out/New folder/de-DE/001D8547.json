@@ -1,0 +1,198 @@
+{
+  "id": "001D8547",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S5 T460 1.5",
+  "description": "Advanced Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische EP-Schmierfette",
+  "applicationKeys": [
+    "advanced",
+    "bearing",
+    "cement",
+    "chemical industry",
+    "ep",
+    "extreme pressure",
+    "extreme temperatures",
+    "heavy duty",
+    "high load",
+    "high temperature",
+    "industrial",
+    "mining",
+    "multipurpose",
+    "paper",
+    "plain bearings",
+    "polyurea",
+    "roller bearings",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "sealed bearings",
+    "semi sealed bearings",
+    "shock load",
+    "slow",
+    "slow moving",
+    "steel",
+    "water resistance",
+    "wind power"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3bb685cd-31b5-4fd8-9421-30a7a51bbbc0.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 T460 1.5 EN TDG V1.3 03-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02622148.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 T460 1.5 Germany DE 140001492039 EHS V4.10 20-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621825.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 T460 1.5 Germany EN 140001492039 EHS V4.10 20-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/af736183-c739-4dbc-9e05-3c5f60108238.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 T460 1.5 Germany DE TDG V1.3 03-Feb-2020",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8547_002VT7_EURO",
+      "name": "Kartusche 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550061120",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8547_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028065",
+      "margin": "11.2350845095317",
+      "packShot": ""
+    },
+    {
+      "code": "001D8547_002XEC_A246",
+      "name": "Eimer 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028086",
+      "margin": "4.9033902796991",
+      "packShot": ""
+    },
+    {
+      "code": "001D8547_002VT9_A246",
+      "name": "Fass 170 kg O/H Grease with liner R/Ytop (1) WL",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550047206",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8547_002XM9_EURO",
+      "name": "Kartusche 0.4 kg Local (Kartusche Lube shuttle) Plastic White (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550053081",
+      "margin": "7.89097185038308",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 T460 ist vor allem für abgedichtete und halb abgedichtete Anwendungen mit langsam laufenden hoch belasteten Lagern bei hohen Temperaturen geeignet.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI-Klasse",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "1.5"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Hellbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Polyharnstoff"
+    },
+    {
+      "property": "Grundöltyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Vollsynthetisch"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pumpbarkeit in langen Leitungen",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Gut"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_t460.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DhnVQAS&field=Attachment__Name__s",
+      "family": "Gadus",
+      "savings": 153000,
+      "title": "Shell Gadus S5 T460 1.5"
+    }
+  ],
+  "commerce": null
+}

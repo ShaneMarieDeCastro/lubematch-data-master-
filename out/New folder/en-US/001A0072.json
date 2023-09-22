@@ -1,0 +1,71 @@
+{
+  "id": "001A0072",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Oil 65",
+  "description": "Mineral lubricating oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Engine Oils - Aviation/Piston",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/82620dff-1148-4412-aafa-ca4dd0581d7c.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil 65 EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563627.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil 65 United States EN 140002686046 EHS V12.9 06-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/9474bef0-b4fb-4f8d-810b-e4d7302c5dd1.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil 65 United States EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OM-107",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-107"
+    },
+    {
+      "name": "SAE J1966",
+      "organisation": "SAE",
+      "spec": "J1966"
+    },
+    {
+      "name": "NATO O-113",
+      "organisation": "NATO",
+      "spec": "O-113"
+    },
+    {
+      "name": "AIR 3560/D",
+      "organisation": "AIR",
+      "spec": "3560/D"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell straight mineral oils are blended from selected high viscosity index base stocks. These oils do not contain additives except for a small quantity of pourpoint depressant (which is added when improved fluidity at very low temperature is required) and an anti-oxidant.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

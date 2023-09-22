@@ -1,0 +1,147 @@
+{
+  "id": "001D8272",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S6 GXME 75W-80",
+  "description": "Premium, SyntheticTechnology, Fuel Economy Manual Transmission and Gearbox Ol",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "fuel efficiency",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "integrated retarders",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "meadium load",
+    "medium loaded axle",
+    "mobile",
+    "off highway",
+    "on highway",
+    "passenger car",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "semi automatic",
+    "semi manual",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-80",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fea1211d-b902-4300-b3d3-3f9b071dd0f7.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 GXME 75W-80 EN TDG V2.7 17-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578718.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GXME 75W-80 France EN 140003182031 EHS V1.8 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578717.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GXME 75W-80 France FR 140003182031 EHS V1.8 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/f0da8dcf-8f79-42b1-95d6-47d9825a5eca.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 GXME 75W-80 France FR TDG V2.7 24-Mar-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8272_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027939",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8272_002VNF_A1P5",
+      "name": "Sceau 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027940",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "Volvo 97307",
+      "organisation": "Volvo",
+      "spec": "97307"
+    },
+    {
+      "name": "ZF TE-ML 01L",
+      "organisation": "ZF",
+      "spec": "TE-ML 01L"
+    },
+    {
+      "name": "MAN 341 Type Z4",
+      "organisation": "MAN",
+      "spec": "341 Type Z4"
+    },
+    {
+      "name": "ZF TE-ML 16K",
+      "organisation": "ZF",
+      "spec": "TE-ML 16K"
+    },
+    {
+      "name": "MAN 341 Type E3",
+      "organisation": "MAN",
+      "spec": "341 Type E3"
+    },
+    {
+      "name": "ZF TE-ML 02L",
+      "organisation": "ZF",
+      "spec": "TE-ML 02L"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Unique en son genre, la Spirax S6 GXME 75W-80 est une huile pour engrenages, autorisant de longs intervalles de vidanges et favorisant les économies de carburant, conçue pour assurer une protection et un rendement optimal et ce afin de satisfaire aux exigences de fonctionnement intensif des transmissions actuelles et futures. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027940_Shell_Spirax_S6_GXME_75W-80_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

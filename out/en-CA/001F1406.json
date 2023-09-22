@@ -1,0 +1,68 @@
+{
+  "id": "001F1406",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil Platinum CVT-2",
+  "description": "Multi-Vehicle CVT Fluid for Nissan, Chrysler, and others",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Platinum_CVT-2_(Jatco_NS-2V)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Platinum CVT-2 (Jatco NS-2V) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289830.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum CVT-2 (Jatco NS-2V) Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Pzl_Platinum_CVT-2_(Jatco_NS-2V)_(fr-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum CVT-2 (Jatco NS-2V) Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Pzl_Platinum_CVT-2_(Jatco_NS-2V)_(en-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum CVT-2 (Jatco NS-2V) Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291105.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum CVT-2 (Jatco NS-2V) Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Nissan NS-2V",
+      "organisation": "Nissan",
+      "spec": "NS-2V"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

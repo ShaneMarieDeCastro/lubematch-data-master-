@@ -1,0 +1,61 @@
+{
+  "id": "001I6216",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Fire-Resistant Hydraulic Fluid S3 DU 68",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Hydrauliköle",
+  "category": "Hydrauliköle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d57818c5-5579-4a01-9f19-e9f5c2bba538.pdf",
+      "type": "GTDS",
+      "name": "Fire-Resistant Hydraulic Fluid S3 DU 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605864.PDF",
+      "type": "LMSDS",
+      "name": "Fire-Resistant Hydraulic Fluid S3 DU 68 Germany DE 140001492039 EHS V1.6 29-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605901.PDF",
+      "type": "LMSDS",
+      "name": "Fire-Resistant Hydraulic Fluid S3 DU 68 Germany EN 140001492039 EHS V1.6 29-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I6216_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550057687",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Fire-Resistant Hydraulic Fluid S3 DU 68 provides the performance properties demanded by today’s high-performance hydraulic systems. Shell Fire-Resistant Hydraulic Fluid S3 DU 68 is readily biodegradable.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

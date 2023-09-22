@@ -1,0 +1,78 @@
+{
+  "id": "001E0212",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S2 V145KP 2",
+  "description": "High Performance Multipurpose Low Temperature Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne z dodatkami EP",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f405e45e-b63f-48c8-9582-624da7033b42.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V145KP 2 EN TDG V2.3 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611496.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V145KP 2 Poland EN 140003791557 EHS V3.5 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/a905dad5-de1a-44b3-bc4d-008806edbc80.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V145KP 2 Poland PL TDG V2.3 11-Oct-2018",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611497.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V145KP 2 Poland PL 140003791557 EHS V3.5 06-JUL-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0212_002XD7_A246",
+      "name": "Wiadro 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028125",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN 283 Li-P 2",
+      "organisation": "MAN",
+      "spec": "283 Li-P 2"
+    },
+    {
+      "name": "MB-Approval 267.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "267"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

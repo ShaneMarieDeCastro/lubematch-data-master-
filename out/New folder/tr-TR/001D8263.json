@@ -1,0 +1,80 @@
+{
+  "id": "001D8263",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Spirax S2 G 140",
+  "description": "High Quality API GL-4 Oil for Manual Transmissions and Gear Sets",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "off highway",
+    "on highway",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_G_140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 G 140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02308467.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 140 Turkey TR 140003791542 EHS V1.7 06-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Turkey_Shell_Spirax_S2_G_140_(tr)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 G 140 Turkey Turkish",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02308468.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 140 Turkey EN 140003791542 EHS V1.7 06-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 G 140, orta şiddette basıncın olduğu koşullar için gerekli olan çok fonksiyonlu katık paketine sahip bir otomotiv dişli yağıdır.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

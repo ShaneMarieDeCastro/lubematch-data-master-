@@ -1,0 +1,87 @@
+{
+  "id": "001D7802",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Morlina S1 B 220",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollneck bearings",
+    "servo",
+    "variable",
+    "water separation"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S1_B_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S1 B 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572548.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 220 France FR 140003182031 EHS V1.6 04-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572549.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 220 France EN 140003182031 EHS V1.6 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/dd431d16-eac8-40fd-9dd7-a3c80822a1c3.pdf",
+      "type": "LTDS",
+      "name": "Morlina S1 B 220 France FR TDG V3.1 14-Feb-2017",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B sont des huiles de hautes performances conçues pour fournir une excellente protection à la plupart des applications industrielles utilisant des roulements ou de circulation d'huile ; En particulier, où le processus de désémulsion est important pour la vie de l'équipement. Elles répondent aux exigences de base du constructeur Morgan des huiles standards pour paliers.  ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

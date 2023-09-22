@@ -1,0 +1,119 @@
+{
+  "id": "001D7227",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "FormulaShell SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4bb3a030-ea88-4e7a-b8e7-886cc7a5c153.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/c22a5258-4166-4a92-ad8f-8df2d7e7a9a6.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil Canada EN TDG V1.5 05-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02407344.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil Canada FR 140006579500 EHS V2.10 28-FEB-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02407345.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil Canada EN 140006579500 EHS V2.10 28-FEB-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/9a5a0855-63c1-4e47-9a0e-cc1ab20369b8.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil Canada FR TDG V1.5 19-Apr-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7227_002XMG_A0IK",
+      "name": "Bottle 5 L Americas Vigor Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045225",
+      "margin": "0.690281598939871",
+      "packShot": ""
+    },
+    {
+      "code": "001D7227_002XO4_A0IK",
+      "name": "Bottle 0.946 L Americas Tool Plastic White (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550049238",
+      "margin": "0.707308387018846",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "FormulaShell^® Motor Oil is formulated to provide wear protection and helps protect against the formation of sludge, varnish and rust.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "001F0279",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra A5/B5 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_A5_B5_0W-30_(SL_A5_B5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_Kingdom_Shell_Helix_Ultra_A5_B5_0W-30_(SL_A5_B5)_(en-GB)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) United Kingdom English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592732.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) United Kingdom EN 140002340634 EHS V1.5 13-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0279_002YAN_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046659",
+      "margin": "4.78298601511836",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra uses unique active cleansing technology to help high-performance engines operate at maximum efficiency by helping to protect them from power-robbing deposits and wear.  It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046685_Shell_Helix_Ult_A5_B5_0W-30_4L_en.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-helix-ultra-a5-b5-engine-oil-0w-30-4ltr-521773091"
+}

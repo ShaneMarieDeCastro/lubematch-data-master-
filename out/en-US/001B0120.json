@@ -1,0 +1,74 @@
+{
+  "id": "001B0120",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Alvania Grease EPD",
+  "description": "High Performance Extreme Pressure Railroad Roller Bearing Grease",
+  "family": "Alvania",
+  "parentCategory": null,
+  "category": "Axle Box & Traction Greases",
+  "applicationKeys": [
+    "ep",
+    "extreme pressure",
+    "railroad",
+    "roller bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/19bc7005-ceda-4d1d-8f66-fdb1cc400531.pdf",
+      "type": "GTDS",
+      "name": "Alvania EPD EN TDG V1.2 14-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563677.PDF",
+      "type": "LMSDS",
+      "name": "Alvania EPD United States EN 140002686046 EHS V1.7 20-MAR-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0120_002X83_A1WJ",
+      "name": "Intermediate Bulk Containers 825 kg Local (Fluid Bag) Fabric White (1)",
+      "size": "825",
+      "uom": "kg",
+      "pack": "IBC",
+      "materialCode": "550024015",
+      "margin": "2.5114089275203",
+      "packShot": ""
+    },
+    {
+      "code": "001B0120_002VH7_A1WJ",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550024014",
+      "margin": "2.7975459052189",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AAR M-942-92",
+      "organisation": "AAR",
+      "spec": "M-942-92"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Alvania Grease EPD is a long-life railroad grease with extreme pressure additives to provide higher load carrying capacity. This grease meets the requirements of AAR M-942-latest revision and NSW SRA L343-84.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

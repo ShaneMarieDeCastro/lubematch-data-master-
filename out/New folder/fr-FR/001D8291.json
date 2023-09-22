@@ -1,0 +1,154 @@
+{
+  "id": "001D8291",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S6 AXME 75W-140",
+  "description": "Superior performance, extended drain synthetic axle oil for  Scania and others",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "axle",
+    "buses",
+    "differential",
+    "energy efficiency",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "front axle",
+    "fuel efficiency",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy truck",
+    "hydraulic system",
+    "industrial",
+    "low temperature",
+    "maintenance saving",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "semi manual",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6fc4eb79-22a8-455f-a626-ed4c97bf155d.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 AXME 75W-140 EN TDG V2.5 06-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578526.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 75W-140 France EN 140003182031 EHS V5.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578527.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 75W-140 France FR 140003182031 EHS V5.2 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/474296ee-e3b3-44fa-9c13-2d4edeedf943.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 AXME 75W-140 France FR TDG V2.5 06-Oct-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8291_002VNF_A1P5",
+      "name": "Sceau 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027947",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8291_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027957",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8291_002VJW_A246",
+      "name": "Réservoir 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550052710",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "Scania STO 2:0A",
+      "organisation": "Scania",
+      "spec": "STO 2:0A"
+    },
+    {
+      "name": "ZF TE-ML 12N",
+      "organisation": "ZF",
+      "spec": "TE-ML 12N"
+    },
+    {
+      "name": "ZF TE-ML 16F",
+      "organisation": "ZF",
+      "spec": "TE-ML 16F"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La Shell Spirax S6 AXME 75W-140 est une huile de longue durée de vie à haut rendement énergétique conçue pour assurer une protection optimale aux d'essieux et de transmissions manuelles soumis à de forte charges. Sa formule à partir de bases synthétiques et d'additifs de technologie unique à Shell apporte une meilleure lubrification de la transmission, abaisse les températures de fonctionnement et contribue à prolonger la durée de vie des matériels. La Shell Spirax S6 AXME 75W-140 permettant des vidanges plus espacées est approuvée par plusieurs équipementiers en regard de leurs normes autorisant de longs intervalles de vidange. \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

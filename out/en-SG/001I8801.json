@@ -1,0 +1,85 @@
+{
+  "id": "001I8801",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Super Marine S3 15W-40",
+  "description": "High-Speed Diesel Engine Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/69b89d81-6342-483b-8009-9f2db41c7c09.pdf",
+      "type": "GTDS",
+      "name": "Super Marine S3 15W-40 (CH-4) EN TDG V1.5 08-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580474.PDF",
+      "type": "LMSDS",
+      "name": "Super Marine S3 15W-40 (CH-4) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA E2",
+      "organisation": "ACEA",
+      "spec": "E2"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The energised protection oil feature has proven lubricant chemistry to resist wear, deposits and heat on marine diesel engines to improve engine and oil durability. Suitable for marine diesel engines burning distillate fuels with a sulphur content of up to 0.5%.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

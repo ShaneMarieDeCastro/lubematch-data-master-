@@ -1,0 +1,175 @@
+{
+  "id": "001D8499",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S2 OG 40",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "Schmierfette für offene Getriebe",
+  "applicationKeys": [
+    "bentone",
+    "clay",
+    "draglines",
+    "earth mover",
+    "ep",
+    "excavators",
+    "extreme pressure",
+    "grinding mills",
+    "heavily loaded open gears",
+    "heavy duty mining",
+    "heavy loaded open gear",
+    "industrial",
+    "intermittently immersed in salt water",
+    "marine",
+    "mooring ropes",
+    "open gears",
+    "open to atmosphere",
+    "pivot bushings",
+    "pivot pins",
+    "plain bearings",
+    "reclaimers",
+    "salt water",
+    "ship loadeers",
+    "shovels",
+    "slow",
+    "slow moving gears",
+    "slow moving wire rope",
+    "solid lubricant",
+    "stackers",
+    "static wire ropes",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Grease (Semifluid)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/33c30740-e54f-4d06-8860-038ad364af60.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OG 40 EN TDG V5.6 11-Nov-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/6454ebf4-fa98-45ab-a2ab-30bd7b293fb1.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OG 40 Germany DE TDG V5.6 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607467.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OG 40 Germany DE 140001492039 EHS V1.8 03-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607466.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OG 40 Germany EN 140001492039 EHS V1.8 03-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8499_002XD7_A1P5",
+      "name": "Eimer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550036172",
+      "margin": "3.50672027842546",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Für eine optimale Leistung werden qualitativ hochwertige, paraffinbasische Mineralöle und synthetische Grundöle mit ausgesuchten Additiven versehen. Die ausgewogene Formulierung ermöglicht es dem Schmierstoff, über einen langen Zeitraum weich und geschmeidig zu bleiben und so der Aufstauung von Schmiermittel in der Verzahnung entgegenzuwirken. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "40"
+    },
+    {
+      "property": "Kinematische Viskosität Grundöl",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "40"
+    },
+    {
+      "property": "Kinematische Viskosität Grundöl",
+      "method": "ASTM D445",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "655"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ASTM D92/ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "min. 130"
+    },
+    {
+      "property": "Vier-Kugel-Apparat, Schweißen Belastung",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "N",
+      "value": "6200"
+    },
+    {
+      "property": "Vierkugel-Apparat, Verschleißdurchmesser",
+      "method": "ASTM D2266",
+      "uom": "",
+      "units": "mm",
+      "value": "max. 0,67"
+    },
+    {
+      "property": "Timken, OK Belastung (ohne Feststoffe)",
+      "method": "ASTM D2509",
+      "uom": "",
+      "units": "lbs",
+      "value": "min. 50"
+    },
+    {
+      "property": "Falex-Druckbelastungstest, Ausfall",
+      "method": "ASTM D3233",
+      "uom": "",
+      "units": "N",
+      "value": "min. 20450"
+    },
+    {
+      "property": "Kupferstreifen-Test",
+      "method": "ASTM D4048",
+      "uom": "Bewertung",
+      "units": "",
+      "value": "1b max."
+    },
+    {
+      "property": "Rostschutz",
+      "method": "ASTM D1743",
+      "uom": "",
+      "units": "",
+      "value": "Erfüllt"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Clay"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

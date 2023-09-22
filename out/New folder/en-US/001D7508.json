@@ -1,0 +1,60 @@
+{
+  "id": "001D7508",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "FormulaShell Higher Mileage Formula SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_FormulaShell_HMF_10W-30_(SN)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell HMF 10W-30 (SN) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563525.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell HMF 10W-30 (SN) United States EN 140002686046 EHS V1.2 27-AUG-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Has enhanced wear protection and outstanding resistance to thermal breakdown at operating temperatures.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

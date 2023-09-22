@@ -1,0 +1,71 @@
+{
+  "id": "001C8474",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix HX5 10W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a23fa3e1-2892-47de-86bb-17649cb6aeeb.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 10W-30 (SL/CF) EN TDG V2.2 12-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571466.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 10W-30 (SL/CF) Netherlands NL 140002783873 EHS V1.7 05-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571465.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 10W-30 (SL/CF) Netherlands EN 140002783873 EHS V1.7 05-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A2",
+      "organisation": "ACEA",
+      "spec": "A2"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA B2",
+      "organisation": "ACEA",
+      "spec": "B2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 has been formulated with cleansing technology. It works harder to protect than ordinary motor oils by continuously preventing dirt and sludge build-up and reduce engine noise.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

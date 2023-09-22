@@ -1,0 +1,83 @@
+{
+  "id": "001A0903",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "AeroShell Grease 33",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c772bc5b-bfc7-422b-8bd4-6982630a9971.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 33 EN TDG V1.2 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02522473.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 Canada FR 140006579500 EHS V4.0 09-FEB-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02522453.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 Canada EN 140006579500 EHS V4.0 09-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/966195a1-e639-47f2-8ac5-c0ff54564ca6.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 33 Canada FR TDG V1.2 02-Jan-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/e2e2dc02-4ceb-4619-a3d7-e1155b105a54.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 33 Canada EN TDG V1.2 29-May-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Boeing BMS 3-33C",
+      "organisation": "Boeing",
+      "spec": "BMS 3-33C"
+    },
+    {
+      "name": "MIL-PRF-23827C Type I",
+      "organisation": "MIL",
+      "spec": "PRF-23827C Type I"
+    },
+    {
+      "name": "Airbus AIMS 09-06-002",
+      "organisation": "Airbus",
+      "spec": "AIMS 09-06-002"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-302",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-302"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

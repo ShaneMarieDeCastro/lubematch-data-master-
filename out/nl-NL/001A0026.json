@@ -1,0 +1,89 @@
+{
+  "id": "001A0026",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Advance Ultra 2T",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Motorfiets",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "motorbikes",
+    "motorcycles",
+    "off highway",
+    "two stroke"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a99f11a1-90bd-4746-901c-754e86a12707.pdf",
+      "type": "GTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) EN TDG V1.6 18-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02548729.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Netherlands NL 140002783873 EHS V2.11 07-APR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/20d9dc64-5f31-4acd-a2da-d5304befe7e8.pdf",
+      "type": "LTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Netherlands NL TDG V1.6 20-Jan-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02548728.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Netherlands EN 140002783873 EHS V2.11 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0026_002WKZ_EURO",
+      "name": "Fles 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550053583",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FD",
+      "organisation": "JASO",
+      "spec": "FD"
+    },
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    },
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Het is een combinatie van polyisobutyleen en Shell XHVI synthetische basisoliën vermengd met bewezen additieven om ongeëvenaarde prestaties in alle 2-takt motoren te bieden, zelfs wanneer deze zijn onderworpen aan de meest extreme omstandigheden.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_2T_1L_600059316.png",
+  "valueRecord": [],
+  "commerce": null
+}

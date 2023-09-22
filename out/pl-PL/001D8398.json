@@ -1,0 +1,96 @@
+{
+  "id": "001D8398",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Refrigeration Oil S4 FR-V 32",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Oleje do sprężarek chłodniczych",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "hydraulic system",
+    "industrial",
+    "long life",
+    "open compressor",
+    "pump gear",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/aa181670-f8f3-4795-b520-8289b69d1441.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 32 EN TDG V2.5 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574667.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 32 Poland EN 140003791557 EHS V2.10 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574666.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 32 Poland PL 140003791557 EHS V2.10 15-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/2d87e8e6-6244-4e47-89d6-2a3c22c56873.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-V 32 Poland PL TDG V2.5 30-Sep-2020",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8398_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550025699",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    },
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V to syntetyczny olej do sprężarek chłodniczych na bazie alkilobenzenu.\nZapewnia uniwersalne zastosowanie smarownicze do większości sprężarek chłodniczych i jest kompatybilny ze wszystkimi typami ziębników, poza ziębnikami typu HFC.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

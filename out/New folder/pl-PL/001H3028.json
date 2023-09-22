@@ -1,0 +1,73 @@
+{
+  "id": "001H3028",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AR-L 0W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ee2fa3ea-0453-4bff-818c-f4cd3d7cd4d2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L 0W-40 (RN17 RSA) EN TDG V1.4 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503445.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-40 (RN17 RSA) Poland PL 140003791557 EHS V1.1 10-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/21b9119e-c6b7-405f-b5b2-96b284d8a49f.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L 0W-40 (RN17 RSA) Poland PL TDG V1.4 21-Feb-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503342.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-40 (RN17 RSA) Poland EN 140003791557 EHS V1.1 10-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Renault RSA",
+      "organisation": "Renault",
+      "spec": "RSA"
+    },
+    {
+      "name": "Renault RN 17",
+      "organisation": "Renault",
+      "spec": "RN 17"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Opracowany, aby sprostać wysokim wymaganiom wysokowydajnych silników benzynowych i Diesel w samochodach osobowych, w tym silników w sportowych modelach Renault.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

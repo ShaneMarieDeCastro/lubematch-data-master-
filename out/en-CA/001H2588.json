@@ -1,0 +1,202 @@
+{
+  "id": "001H2588",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Rimula R6 LME Plus 5W-30",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f84b2feb-262b-4cfb-bbed-dc7d010efe99.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) EN TDG V1.7 24-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/2f63f59a-fa2a-418c-95f6-f16d36de9bc3.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Canada EN TDG V1.7 24-Aug-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02414496.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Canada FR 140006579500 EHS V1.0 26-APR-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02414495.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Canada EN 140006579500 EHS V1.0 26-APR-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Deutz DQC IV-18 LA",
+      "organisation": "Deutz",
+      "spec": "DQC IV-18 LA"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "MTU Category 3.1",
+      "organisation": "MTU",
+      "spec": "Category 3.1"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Scania LDF-4",
+      "organisation": "Scania",
+      "spec": "LDF-4"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "ACEA E11",
+      "organisation": "ACEA",
+      "spec": "E11"
+    },
+    {
+      "name": "MB DTFR 15C120",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C120"
+    },
+    {
+      "name": "MB DTFR 15C110",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C110"
+    },
+    {
+      "name": "MAN M 3677",
+      "organisation": "MAN",
+      "spec": "M 3677"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Fully synthetic oil featuring \"Low-SAPS\" additive technology to provide protective power and deliver fuel economy savings.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

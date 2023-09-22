@@ -1,0 +1,132 @@
+{
+  "id": "001D8294",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Spirax S1 ATF TASA",
+  "description": "Quality Type A Suffix A Automatic Transmission and Hydraulic Fluid",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "bearing",
+    "gearbox",
+    "gm type a suffix a",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "industrial torque convertor",
+    "manual sequential",
+    "marine",
+    "mobile",
+    "non shiftable",
+    "offroad",
+    "offshore",
+    "older passenger car",
+    "plain",
+    "power steering",
+    "powershift",
+    "powershift torque convertors",
+    "pump gear",
+    "screw pump",
+    "semi automatic",
+    "stern tube seal",
+    "torque converters",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S1_ATF_TASA_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S1 ATF TASA English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/52a83acd-1ab0-4011-9894-f201483e83be.pdf",
+      "type": "LTDS",
+      "name": "Spirax S1 ATF TASA United Kingdom EN TDG V1.1 11-Jul-2014",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621269.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF TASA United Kingdom EN 140002340634 EHS V1.5 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors Type A Suffix A - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Type A Suffix A - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Type 'A' Suffix 'A'",
+      "organisation": "General Motors",
+      "spec": "Type 'A' Suffix 'A'"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell S1 ATF TASA is a high quality automotive transmission, power steering and hydraulic oil mainly used for heavy-duty vehicles working in an 'off-road' environment.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "157"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "880"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "170"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027786_Shell_Spirax_S1_ATF_TASA_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

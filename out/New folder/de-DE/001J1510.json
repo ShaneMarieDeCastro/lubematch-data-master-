@@ -1,0 +1,61 @@
+{
+  "id": "001J1510",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell HD5 Fleet 10W-40",
+  "description": "Low Emissions Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0fddb0c7-d061-44d0-841d-c0b53781619d.pdf",
+      "type": "GTDS",
+      "name": "Shell HD5 Fleet 10W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599838.PDF",
+      "type": "LMSDS",
+      "name": "Shell HD5 Fleet 10W-40 Germany EN 140001492039 EHS V1.3 16-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599585.PDF",
+      "type": "LMSDS",
+      "name": "Shell HD5 Fleet 10W-40 Germany DE 140001492039 EHS V1.3 16-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Protective power enhances oil performance to deliver responsive protection, resulting in maintenance saving and long oil drain capability.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "001C1350",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Barrier Fluid",
+  "description": "Synthetic Seal Oil",
+  "family": "Generic Products (Lubricants)",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d97af592-9935-4add-8420-c92d58b1ea45.pdf",
+      "type": "GTDS",
+      "name": "Shell Barrier Fluid EN TDG V1.2 15-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562899.PDF",
+      "type": "LMSDS",
+      "name": "Shell Barrier Fluid United States EN 140002686046 EHS V7.1 01-MAR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/ff48e824-d985-419b-9b10-0fca2658ed9f.pdf",
+      "type": "LTDS",
+      "name": "Shell Barrier Fluid United States EN TDG V1.2 22-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C1350_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022330",
+      "margin": "2.4096995155451",
+      "packShot": ""
+    },
+    {
+      "code": "001C1350_002VOP_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H Y (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550022296",
+      "margin": "2.75801616446883",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Barrier Fluid is a premium high viscosity index synthetic Fluid for use as a barrier or buffer Fluid in various seals where the Fluid must lubricate and dissipate the heat from the seal area.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

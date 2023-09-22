@@ -1,0 +1,73 @@
+{
+  "id": "001F8472",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Morlina S2 BL 22",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Lager & Umlauföle",
+  "category": "Lager & Umlauföle",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28e18feb-8dae-4f84-9ca3-7de5dc6e4fd4.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 22 (2016) EN TDG V1.2 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02615401.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) Germany DE 140001492039 EHS V2.4 11-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02615400.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) Germany EN 140001492039 EHS V2.4 11-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/52840ed8-fc6d-45f4-ac18-8ba7daa42a5b.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 22 (2016) Germany DE TDG V1.2 02-Sep-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8472_002VSH_A18H",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550055980",
+      "margin": "1.71702367109019",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 22 besteht aus speziellen niedrigviskosen, mineralölbasierten Grundölen, gemischt mit zinkfreien Additiven, um eine verbesserte Leistung in den Hochgeschwindigkeitsspindeln von Werkzeugmaschinen zu erzielen.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

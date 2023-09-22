@@ -1,0 +1,84 @@
+{
+  "id": "001D7867",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Air Tool Oil S2 A 320",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": "",
+  "category": "Rockdrill and Pneumatic Tool Lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/cbe96ffa-96ac-4a07-8531-a31d0c190a3a.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 320 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/f9895e9a-7b0c-47a1-99c1-046e0f7154d3.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 320 Canada FR TDG V2.2 11-Sep-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289469.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 320 Canada FR 140006579500 EHS V1.9 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/7ff49944-2161-46c2-8030-df09062f2761.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 320 Canada EN TDG V2.2 10-Sep-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289470.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 320 Canada EN 140006579500 EHS V1.8 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7867_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026754",
+      "margin": "0.964169108720339",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    },
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool S2 A has been developed to meet the special lubrication requirements of pneumatic tools, including percussion type pneumatic tools subjected to the most severe conditions. They are designed to maintain high oil film strength and effectively lubricate even the most demanding requirements of pneumatic drill impact mechanisms as well as providing excellent mist lubrication of general purpose air tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

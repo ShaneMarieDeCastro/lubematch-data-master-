@@ -1,0 +1,89 @@
+{
+  "id": "001A0026",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Advance Ultra 2T",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Huiles moteur - Motocyclette",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "motorbikes",
+    "motorcycles",
+    "off highway",
+    "two stroke"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a99f11a1-90bd-4746-901c-754e86a12707.pdf",
+      "type": "GTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) EN TDG V1.6 18-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/383e57cd-c089-43ad-9ccd-6502a404af8e.pdf",
+      "type": "LTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) France FR TDG V1.6 20-Jan-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549351.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) France EN 140003182031 EHS V2.11 07-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549350.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) France FR 140003182031 EHS V2.11 07-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0026_002WKZ_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550053583",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    },
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    },
+    {
+      "name": "JASO FD",
+      "organisation": "JASO",
+      "spec": "FD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Il s'agit d'une combinaison de polyisobutène et d'huiles de base synthétique Shell XHVI mélangées à des additifs éprouvés donnant des performances inégalées aux moteurs 2 temps, même lorsque ceux-ci sont soumis aux conditions les plus extrêmes.    \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_2T_1L_600059316.png",
+  "valueRecord": [],
+  "commerce": null
+}

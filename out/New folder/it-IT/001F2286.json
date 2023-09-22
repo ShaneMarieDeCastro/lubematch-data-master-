@@ -1,0 +1,99 @@
+{
+  "id": "001F2286",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix Ultra Professional AF 5W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/413d0fcb-66a7-456c-9dbc-e75cbb0c75ab.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/60a4d26c-f7b8-4061-a4b7-488eb1fa9c81.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) Italy IT TDG V1.5 03-Mar-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498881.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) Italy EN 140007645406 EHS V1.2 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498882.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-20 (SN A1/B1 M2C-948B) Italy IT 140007645406 EHS V1.2 06-DEC-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2286_002WX1_EURO",
+      "name": "Bottiglia 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550056802",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "Ford WSS-M2C948-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C948-B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Sviluppato per soddisfare gli esigenti requisiti di particolari motori a benzina ad elevate prestazioni, tra cui quelli Ford \"Ecoboost\".",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-20_AF_5L_600061116.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "001A0903",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "AeroShell Grease 33",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "Lubrificanti per l'aviazione",
+  "category": "Grassi per l'automotive",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c772bc5b-bfc7-422b-8bd4-6982630a9971.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 33 EN TDG V1.2 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551215.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 Italy EN 140007645406 EHS V5.9 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551216.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 Italy IT 140007645406 EHS V5.9 11-APR-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Airbus AIMS 09-06-002",
+      "organisation": "Airbus",
+      "spec": "AIMS 09-06-002"
+    },
+    {
+      "name": "MIL-PRF-23827C Type I",
+      "organisation": "MIL",
+      "spec": "PRF-23827C Type I"
+    },
+    {
+      "name": "Boeing BMS 3-33C",
+      "organisation": "Boeing",
+      "spec": "BMS 3-33C"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-302",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-302"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

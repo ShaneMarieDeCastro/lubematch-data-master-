@@ -1,0 +1,55 @@
+{
+  "id": "001B1094",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Synthetic Blend 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6d515641-baf7-46ac-bb64-794881b68695.pdf",
+      "type": "GTDS",
+      "name": "Pzl SUV Synthetic Blend 15W-40 (CI-4/SL) EN TDG V1.2 03-May-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562436.PDF",
+      "type": "LMSDS",
+      "name": "Pzl SUV Synthetic Blend 15W-40 (CI-4/SL) United States EN 140002686046 EHS V2.5 26-OCT-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "PENNZOIL^®^ SUV SYNTHETIC BLEND motor oil meets or exceeds warranty requirements for many diesel engines when API CI-4, SAE 15W-40 motor oil is recommended.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

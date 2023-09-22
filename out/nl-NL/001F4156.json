@@ -1,0 +1,205 @@
+{
+  "id": "001F4156",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Catenex T 125 K",
+  "description": "High quality paraffinic process oil",
+  "family": "Catenex",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Procesoliën-paraffinisch",
+  "applicationKeys": [
+    "paraffinic"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/65936b9a-3684-4285-8f85-b3cd8cc4d606.pdf",
+      "type": "GTDS",
+      "name": "Catenex T 125 K EN TDG V1.6 22-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614457.PDF",
+      "type": "LMSDS",
+      "name": "Catenex T 125 K Netherlands EN 140002783873 EHS V1.3 11-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614458.PDF",
+      "type": "LMSDS",
+      "name": "Catenex T 125 K Netherlands NL 140002783873 EHS V1.3 11-JUL-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Catenex T are highly refined hydrotreated paraffinic process oils, which are virtually colourless and sulphur free. These oils are highly saturated, free of aromatics and polar compounds. Catenex T Oils are nearly odourless and are recommended for use in process oil applications where colour stability, low volatility and low sulphur levels are required. These highly refined oils are ideal for use as process oils in rubber, elastomer, plastic, adhesive and numerous other manufacturing processes.",
+  "physicalCharacteristics": [
+    {
+      "property": "Colour",
+      "method": "ISO 2049",
+      "uom": "",
+      "units": "maximum",
+      "value": "0.5"
+    },
+    {
+      "property": "Colour (Saybolt)",
+      "method": "DIN 51411",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "+30"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "852"
+    },
+    {
+      "property": "Refractive Index",
+      "method": "ASTM D1218",
+      "uom": "@20°C",
+      "units": "",
+      "value": "1.468"
+    },
+    {
+      "property": "Flashpoint (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "229"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@20°C",
+      "units": "mm²/s",
+      "value": "80"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "30"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.3"
+    },
+    {
+      "property": "Dynamic Viscosity",
+      "method": "Calculated",
+      "uom": "@20°C",
+      "units": "mPa.s",
+      "value": "67"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "DIN ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "106"
+    },
+    {
+      "property": "Carbon Type Distribution : C/A (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "0"
+    },
+    {
+      "property": "Carbon Type Distribution : C/N (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "29"
+    },
+    {
+      "property": "Carbon Type Distribution : C/P (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "71"
+    },
+    {
+      "property": "Refractive Intercept",
+      "method": "DIN 51378",
+      "uom": "",
+      "units": "",
+      "value": "1.044"
+    },
+    {
+      "property": "Viscosity Gravity Constant (VGC)",
+      "method": "DIN 51378",
+      "uom": "",
+      "units": "",
+      "value": "0.794"
+    },
+    {
+      "property": "Sulphur",
+      "method": "ISO 14596",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": "5"
+    },
+    {
+      "property": "PCA Content (DMSO Method)",
+      "method": "IP 346",
+      "uom": "",
+      "units": "%m/m maximum",
+      "value": "3.0"
+    },
+    {
+      "property": "Aniline Point",
+      "method": "ASTM D611",
+      "uom": "",
+      "units": "°C",
+      "value": "112"
+    },
+    {
+      "property": "Noack Volatility",
+      "method": "ASTM D5800",
+      "uom": "1h/250°C",
+      "units": "%m",
+      "value": "12"
+    },
+    {
+      "property": "Evaporation Loss",
+      "method": "ASTM D972",
+      "uom": "22h/107°C",
+      "units": "%m",
+      "value": "0.3"
+    },
+    {
+      "property": "Purity Requirements for Technical White Oil",
+      "method": "FDA 178.3620(b)",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

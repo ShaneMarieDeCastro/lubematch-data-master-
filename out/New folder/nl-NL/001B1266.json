@@ -1,0 +1,72 @@
+{
+  "id": "001B1266",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Antifreeze Concentrate",
+  "description": "Antifreeze fluid",
+  "family": "Antifreeze",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Koelvloeistof / Antivries - Concentraat ",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Antifreeze_Concentrate.pdf",
+      "type": "GTDS",
+      "name": "Antifreeze Concentrate English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140002105272_C9A.pdf",
+      "type": "LTDS",
+      "name": "Antifreeze Concentrate Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481054.PDF",
+      "type": "LMSDS",
+      "name": "Antifreeze Concentrate Netherlands EN 140002783873 EHS V2.3 19-JAN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481053.PDF",
+      "type": "LMSDS",
+      "name": "Antifreeze Concentrate Netherlands NL 140002783873 EHS V2.3 19-JAN-2021",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "BS 6580",
+      "organisation": "BS",
+      "spec": "6580"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "AFNOR R15-601",
+      "organisation": "AFNOR",
+      "spec": "R15-601"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

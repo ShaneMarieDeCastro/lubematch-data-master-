@@ -1,0 +1,231 @@
+{
+  "id": "001G1636",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Rimula R5 LE 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - vehículo pesado",
+  "applicationKeys": [
+    "bio gas",
+    "cars",
+    "diesel",
+    "engine",
+    "fuel",
+    "heavy duty",
+    "manual",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "synchronised",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a675cdd2-78bd-48ca-bb73-148fee2a830f.pdf",
+      "type": "GTDS",
+      "name": "Rimula R5 LE 10W-30 (CK-4) EN TDG V1.8 08-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/4342ff93-ad0c-4afc-910f-c4783c60bce1.pdf",
+      "type": "LTDS",
+      "name": "Rimula R5 LE 10W-30 (CK-4) Spain ES TDG V1.8 10-Sep-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02639370.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LE 10W-30 (CK-4) Spain EN 140003966322 EHS V1.13 29-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02638684.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LE 10W-30 (CK-4) Spain ES 140003966322 EHS V1.13 29-AUG-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1636_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550047175",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1636_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550047310",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1636_002VNG_A246",
+      "name": "Cubo 20 L Plastic O/H w/lid Helix Blue (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Cubo",
+      "materialCode": "550047311",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Deutz DQC III-18 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-18 LA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R5 LE incluye tecnología de aditivos con bajo contenido en cenizas \"Low - SAPS \" para aumentar la compatibilidad con los últimos sistemas de tratamiento de gases de escape al tiempo que ofrece un ahorro de combustible. La protección de todas las partes se aumenta aún más mediante el uso de aceites base de tecnología sintética para ofrecer un ahorro de combustible sin comprometer la durabilidad del motor.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R5-LE-10_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

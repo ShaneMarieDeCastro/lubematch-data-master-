@@ -1,0 +1,120 @@
+{
+  "id": "001F7071",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Omala Wind Oil F 320",
+  "description": "Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "bearings",
+    "circulating and splash lubricated systems",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "flender foam test",
+    "gearbox",
+    "high performance",
+    "industrial",
+    "industrial gears",
+    "lead free",
+    "micropitting",
+    "outstanding thermal stability",
+    "oxidation stability",
+    "steel gear transmissions",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fbae8468-578f-44a3-9463-7a6cb192fdf1.pdf",
+      "type": "GTDS",
+      "name": "Omala F Wind 320 EN TDG V3.4 03-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637467.PDF",
+      "type": "LMSDS",
+      "name": "Omala F Wind 320 India EN 140006501563 EHS V1.2 09-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7071_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550045224",
+      "margin": "0.34524334367743",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "25"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.903"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "IP 34",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "202"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "001C8217",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX5 G 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/b8144aaf-654e-40ab-9232-1432f772c77a.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 G 15W-40 (SL/CF A2) EN TDG V2.1 14-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319217.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 G 15W-40 (SL/CF A2) Turkey TR 140003791542 EHS V1.12 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/1dd66612-b32d-4b61-a162-c22379b8b73b.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 G 15W-40 (SL/CF A2) Turkey TR TDG V2.1 19-Nov-2018",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319307.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 G 15W-40 (SL/CF A2) Turkey EN 140003791542 EHS V1.12 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A2",
+      "organisation": "ACEA",
+      "spec": "A2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 G özel  temizleme teknolojisi ile formüle edilmiştir. Kurum ve tortu birikimini önleyerek sıradan motor yağlarına oranla daha fazla koruma sağlar ve motor gürültüsünü azaltır.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

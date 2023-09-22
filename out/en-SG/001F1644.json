@@ -1,0 +1,92 @@
+{
+  "id": "001F1644",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Alexia S6",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "light fuel",
+    "marine",
+    "medium speed"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/9fbf3c58-3423-4856-945a-12e00db2001a.pdf",
+      "type": "GTDS",
+      "name": "Alexia S6 EN TDG V1.4 07-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01610031.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S6 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1644_002VJV_A227",
+      "name": "IBC 1000 L Plastic W (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550040791",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1644_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550049118",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1644_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550040790",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia S6 has a BN of 100 and is an SAE50 oil cylinder lubricant. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVQQA0&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 113000,
+      "title": "Shell Alexia S6"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVVQA0&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 50000,
+      "title": "Shell Alexia S6"
+    }
+  ],
+  "commerce": null
+}

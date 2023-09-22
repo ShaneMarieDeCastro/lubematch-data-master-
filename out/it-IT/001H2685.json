@@ -1,0 +1,82 @@
+{
+  "id": "001H2685",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Omala SG 220",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oli per ingranaggi industriali",
+  "category": "Oli per ingranaggi industriali",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/496fcc43-b9cf-4c16-90ea-b9b512943a95.pdf",
+      "type": "GTDS",
+      "name": "Omala SG 220 EN TDG V1.2 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611075.PDF",
+      "type": "LMSDS",
+      "name": "Omala SG 220 Italy IT 140007645406 EHS V1.2 05-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611076.PDF",
+      "type": "LMSDS",
+      "name": "Omala SG 220 Italy EN 140007645406 EHS V1.2 05-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2685_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550052332",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala SG oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

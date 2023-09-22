@@ -1,0 +1,60 @@
+{
+  "id": "001J1358",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix FuelSave 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c5be2b7c-1c77-4ec9-ac75-5577fdb3c9ab.pdf",
+      "type": "GTDS",
+      "name": "Helix FuelSave 5W-30 (SP A3/B4 ) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636890.PDF",
+      "type": "LMSDS",
+      "name": "Helix FuelSave 5W-30 (SP A3/B4 ) India EN 140006501563 EHS V1.0 16-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix FuelSave is fully synthetic motor oil expertly engineered to deliver enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,114 @@
+{
+  "id": "001F1233",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AB-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "mercedes benz"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/de84b355-495d-4a16-97ba-4adbbf433077.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AB-L 0W-30 (MB229.52) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02589000.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AB-L 0W-30 (MB229.52) Netherlands EN 140002783873 EHS V1.5 07-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02588999.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AB-L 0W-30 (MB229.52) Netherlands NL 140002783873 EHS V1.5 07-JUN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/be59ef13-a32b-4a11-aca6-ac35446f2fcb.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AB-L 0W-30 (MB229.52) Netherlands NL TDG V1.5 17-Nov-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1233_002XS4_A246",
+      "name": "Vaten 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vaten",
+      "materialCode": "550040712",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1233_002YAN_EURO",
+      "name": "Fles 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550055209",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "MB-Approval 229.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.52"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontwikkeld om aan de strenge eisen van hoog presterende motoren van Mercedes-Benz te voldoen. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550055209_Shell_Helix_Ult_Pro_AB-L_0W-30_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

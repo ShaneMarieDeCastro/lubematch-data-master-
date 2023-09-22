@@ -1,0 +1,187 @@
+{
+  "id": "901L3254",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix Ultra Racing 10W-60",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-60",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4519b847-cbea-4f6c-9b8c-50122134ec6f.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Racing 10W-60 (SN/CF A3/B4) EN TDG V3.4 26-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637373.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Racing 10W-60 (SN/CF A3/B4) India EN 140006501563 EHS V1.5 04-FEB-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/4fee9bc6-7696-425d-a4fe-be3d5692dcf6.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Racing 10W-60 (SN/CF A3/B4) India EN TDG V3.4 26-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L3254_002VSH_A0FF",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550013000",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "VW Standard 501.01",
+      "organisation": "VW",
+      "spec": "Standard 501.01"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including those requiring API SN or ACEA A3/B4.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "160.10"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "23.10"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "845.8"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "174"
+    },
+    {
+      "property": "MRV",
+      "method": "ASTM D4684",
+      "uom": "@-30°C",
+      "units": "cP",
+      "value": "35 900"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_10W-60_Racing_4L_600059086.png",
+  "valueRecord": [],
+  "commerce": null
+}

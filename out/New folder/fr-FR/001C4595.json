@@ -1,0 +1,127 @@
+{
+  "id": "001C4595",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Rimula R6 ME E4 5W-30",
+  "description": "Energy Saving - Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "biodiesel",
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "multi fuel",
+    "off highway",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cc1e2433-89a7-414d-bbef-ade86beb38ae.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 ME 5W-30 (E4/228.5) EN TDG V2.6 14-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02495355.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 ME E4 5W-30 (E4/228.5) France FR 140003182031 EHS V2.7 03-DEC-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02496101.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 ME E4 5W-30 (E4/228.5) France EN 140003182031 EHS V2.7 03-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/3bcdc183-d73a-415d-b06d-b3b886a32559.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 ME E4 5W-30 (E4/228.5) France FR TDG V2.6 21-Jan-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4595_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550040121",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MAN M 3277",
+      "organisation": "MAN",
+      "spec": "M 3277"
+    },
+    {
+      "name": "MB-Approval 228.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.5"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "ACEA E4",
+      "organisation": "ACEA",
+      "spec": "E4"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Iveco Standard TFE - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "Standard TFE - Meets the requirements"
+    },
+    {
+      "name": "MTU Category 3",
+      "organisation": "MTU",
+      "spec": "Category 3"
+    },
+    {
+      "name": "Scania LDF-3",
+      "organisation": "Scania",
+      "spec": "LDF-3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 ME E4 procure un niveau de protection élevé qui s'adapte continuellement aux conditions de conduite. Son pouvoir de protection est amélioré  qui permet des économies de carburant sans compromettre la fiabilité. Shell Rimula R6 ME E4 permet une extension des périodicités de vidange tout en garantissant une excellent niveau de protection contre l'usure induite par les suies et les dépôts éventuels qui peuvent apparaître sur le piston et le moteur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R6-ME-5_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

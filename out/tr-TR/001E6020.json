@@ -1,0 +1,56 @@
+{
+  "id": "001E6020",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "AeroShell Calibrating Fluid 2 (US)",
+  "description": "Special kerosine for aircraft fuel system calibration",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/649bb5a7-5afd-4381-a0e0-17b2ea6e6884.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Calibrating Fluid 2 (US) EN TDG V1.2 13-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02475192.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Calibrating Fluid 2 (US) Turkey TR 140003791542 EHS V1.6 10-NOV-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02475193.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Calibrating Fluid 2 (US) Turkey EN 140003791542 EHS V1.6 10-NOV-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-7024G Type II",
+      "organisation": "MIL",
+      "spec": "PRF-7024G Type II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Calibrating Fluid 2 is composed of Specially Run Stoddard Solvent and is used for calibrating aircraft fuel system components.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

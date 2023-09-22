@@ -1,0 +1,88 @@
+{
+  "id": "001I5769",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix HYBRID 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ed189fb5-d327-4834-a317-f72f90d7196a.pdf",
+      "type": "GTDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) EN TDG V1.1 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556094.PDF",
+      "type": "LMSDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Italy EN 140007645406 EHS V1.2 16-AUG-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/c242cd3a-a33d-4bfa-8a95-e2598e461052.pdf",
+      "type": "LTDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Italy IT TDG V1.1 07-Sep-2021",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556095.PDF",
+      "type": "LMSDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Italy IT 140007645406 EHS V1.2 16-AUG-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5769_002YAN_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550056722",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5769_002XI2_A246",
+      "name": "Bottiglia 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550056726",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HYBRID è appositamente formulato per i moderni motori a benzina ad alta efficienza presenti nei veicoli ibridi.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

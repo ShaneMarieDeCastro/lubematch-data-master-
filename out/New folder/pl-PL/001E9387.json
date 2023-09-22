@@ -1,0 +1,134 @@
+{
+  "id": "001E9387",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dc8ed8b7-067e-4e25-84f9-52f4e5be477b.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) EN TDG V1.7 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573937.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Poland PL 140003791557 EHS V1.6 11-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/0431e8cb-688a-47fd-b7a9-1d68b791e79c.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Poland PL TDG V1.7 17-Feb-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573834.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Poland EN 140003791557 EHS V1.6 11-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9387_002VSI_A246",
+      "name": "Mała beczka 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "l",
+      "pack": "Mała beczka",
+      "materialCode": "550040537",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9387_002W2L_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046650",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9387_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046288",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9387_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550040265",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C913-C",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "Ford WSS-M2C913-D",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-D"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5003 - Meets the requirements",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5003 - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C913-C - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C - Meets the requirements"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Zaprojektowany tak, by spełniał bardzo wysokie wymagania niektórych wysokoobciążonych silników, w szczególności silników marki Ford oraz innych wymagających stosowania olejów o klasie jakości wg. ACEA A5/B5.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AF_5L_600061213.png",
+  "valueRecord": [],
+  "commerce": null
+}

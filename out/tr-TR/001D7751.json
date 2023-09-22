@@ -1,0 +1,276 @@
+{
+  "id": "001D7751",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Tellus S2 V 68",
+  "description": "Industrial Hydraulic Fluid for wide temperature range\n",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "aviation turbines",
+    "axle",
+    "ball",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "cranes",
+    "diesel",
+    "differential",
+    "engine",
+    "excavators",
+    "final drive",
+    "fixed",
+    "gas turbines",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "hv",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "journal",
+    "low temperature",
+    "marine",
+    "marine hydraulic",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "mobile equipment",
+    "natural gas",
+    "off highway",
+    "offshore",
+    "plain",
+    "precision",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "stern tube seal",
+    "tandem drive",
+    "thrust",
+    "transmissions",
+    "turbine",
+    "variable",
+    "versatile",
+    "water",
+    "wide temperature range",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/54226a49-23d5-4f3d-8842-3be0a0a50d93.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 V 68 EN TDG V3.7 11-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/d0912297-e192-40a8-8449-8ff2de9fb10c.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 V 68 Turkey TR TDG V3.7 19-Nov-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02560709.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 V 68 Turkey TR 140003791542 EHS V1.8 25-APR-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02560710.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 V 68 Turkey EN 140003791542 EHS V1.8 25-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7751_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550026238",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Denison HF-0",
+      "organisation": "Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "Bosch RD 90220-01/04.11",
+      "organisation": "Bosch",
+      "spec": "RD 90220-01/04.11"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 AM",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 AM"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "Denison HF-1 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-1 - Meets performance requirements"
+    },
+    {
+      "name": "GB 111181-1-94 HV",
+      "organisation": "GB",
+      "spec": "111181-1-94 HV"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-69",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-69"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694 - Meets performance requirements",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694 - Meets performance requirements"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-69 - Meets performance requirements",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-69 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ASTM D6158-05 HV",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HV"
+    },
+    {
+      "name": "Denison HF-0 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-0 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-2 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-2 - Meets performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 V, mekanik stres altında ve geniş sıcaklık aralıklarında mükemmel viskozite kontrolü sağlayan Shell'in patentli eşsiz teknolojisinin kullanıldığı yüksek performanslı hidrolik yağlarıdır.Geniş ortam ve çalışma sıcaklıklarının söz konusu olduğu uygulamalarda ve mobil ekipmanlarda üstün koruma ve performans sağlar.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "68"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HV"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@-20°C",
+      "units": "cSt",
+      "value": "-"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "10.5"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "142"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "877"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "225"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "Dielectric Strength*",
+      "method": "ASTM D877",
+      "uom": "",
+      "units": "kV minimum",
+      "value": "30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

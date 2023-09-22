@@ -1,0 +1,99 @@
+{
+  "id": "001C7848",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Advance Premium Snowmobile Oil",
+  "description": "TC-W3, 2 stroke outboard motor oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Huiles moteur - Autres",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Generic Grade",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/14a4f62a-b276-4de4-b195-67dd3ac0ed58.pdf",
+      "type": "GTDS",
+      "name": "Advance Premium Snowmobile Oil EN TDG V1.2 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/61478ecc-1449-4978-a5d0-780b32e16502.pdf",
+      "type": "LTDS",
+      "name": "Advance Premium Snowmobile Oil Canada EN TDG V1.2 25-Oct-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291187.PDF",
+      "type": "LMSDS",
+      "name": "Advance Premium Snowmobile Oil Canada EN 140006579500 EHS V10.7 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/9d66bdc1-4805-4bc9-9b24-8331c8776f98.pdf",
+      "type": "LTDS",
+      "name": "Advance Premium Snowmobile Oil Canada FR TDG V1.2 31-Oct-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291181.PDF",
+      "type": "LMSDS",
+      "name": "Advance Premium Snowmobile Oil Canada FR 140006579500 EHS V12.7 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C7848_002XLH_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550045899",
+      "margin": "1.3712210831188",
+      "packShot": ""
+    },
+    {
+      "code": "001C7848_002XR8_A0IK",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550050181",
+      "margin": "1.55095804121134",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FC - Meets smoke emission standard",
+      "organisation": "JASO",
+      "spec": "FC - Meets smoke emission standard"
+    },
+    {
+      "name": "NMMA TC-W3",
+      "organisation": "NMMA",
+      "spec": "TC-W3"
+    },
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile pour motoneige Shell Advance^® Premium est une huile haute performance à 2 temps à faible émission de fumée pour les moteurs à essence 2 temps prémélangés et injectés. Répondant aux exigences de l'API TC, NMMA TC-W3 et JASO FC, cette huile peut être utilisée dans tous les moteurs à essence 2 temps exigeant des performances telles que les moteurs refroidis à l'air et à l'eau et les équipements autres que les motoneiges. véhicules (ATVs et motos hors route).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2A-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

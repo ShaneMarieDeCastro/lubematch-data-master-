@@ -1,0 +1,67 @@
+{
+  "id": "001F4367",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell D971",
+  "description": "Automatic transmission fluid for Mercedes-Benz passenger car automatic transmissions",
+  "family": "Daimler FFO",
+  "parentCategory": "Fluidos de transmisión",
+  "category": "Fluidos para transmisión automática",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_D971_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell D971 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02451708.PDF",
+      "type": "LMSDS",
+      "name": "Shell D971 Spain ES 140003966322 EHS V1.6 16-SEP-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02451705.PDF",
+      "type": "LMSDS",
+      "name": "Shell D971 Spain EN 140003966322 EHS V1.6 16-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/0009ee18-2b1d-46b9-93be-d36fe53e266b.pdf",
+      "type": "LTDS",
+      "name": "Shell D971 Spain ES TDG V3.2 23-Jan-2020",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4367_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550043000",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell D971 es un lubricante formulado con tecnología premium para las  transmisiones automáticas de última generación Mercedes-benz con 9 velocidades (9G-Tronic).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

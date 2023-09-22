@@ -1,0 +1,87 @@
+{
+  "id": "001I6566",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Coolant Longlife Concentrate",
+  "description": "Premium extended life antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Refrigerante/Antigelo - Concentrato",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8a924f5b-706b-4504-b75b-b7d6bff27d49.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Concentrate (Mediterranean) EN TDG V1.6 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612657.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Concentrate (Mediterranean) Italy IT 140007645406 EHS V2.1 06-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612660.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Concentrate (Mediterranean) Italy EN 140007645406 EHS V2.1 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/a0a9b809-99ef-4843-8031-558d854f1e44.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Longlife Concentrate (Mediterranean) Italy IT TDG V1.6 04-Apr-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I6566_002VWL_A863",
+      "name": "Bottiglia 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550061759",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6566_002VJW_A863",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550061757",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6566_002VSH_A863",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550061758",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

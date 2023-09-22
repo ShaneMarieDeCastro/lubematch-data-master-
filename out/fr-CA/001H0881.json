@@ -1,0 +1,129 @@
+{
+  "id": "001H0881",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella Gas Truck 0W-20",
+  "description": "Fully Synthetic Gas Truck Motor Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/524488ae-e09a-43fe-bd4f-784572fd66f3.pdf",
+      "type": "GTDS",
+      "name": "Rotella Gas Truck 0W-20 (SN-GF/5 dexos1) EN TDG V1.3 15-Dec-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/0e04fa95-d2f2-44c0-9991-bd117013bacf.pdf",
+      "type": "LTDS",
+      "name": "Rotella Gas Truck 0W-20 (SN-GF/5 dexos1) Canada EN TDG V1.3 15-Dec-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/1f4eaf99-7622-4bb4-bf77-8464118bb307.pdf",
+      "type": "LTDS",
+      "name": "Rotella Gas Truck 0W-20 (SN-GF/5 dexos1) Canada FR TDG V1.3 28-Jan-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290616.PDF",
+      "type": "LMSDS",
+      "name": "Rotella Gas Truck 0W-20 (SN-GF/5 dexos1) Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290617.PDF",
+      "type": "LMSDS",
+      "name": "Rotella Gas Truck 0W-20 (SN-GF/5 dexos1) Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0881_002XMC_CHEP",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550052201",
+      "margin": "1.27666568466233",
+      "packShot": ""
+    },
+    {
+      "code": "001H0881_002XMC_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550050259",
+      "margin": "3.52869998613993",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    },
+    {
+      "name": "Ford WSS-M2C947-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-B1"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La présentation de l'huile de moteur entièrement synthétique Shell Rotella Gas Truck des fabricants de l'huile de moteur à usage intensif Shell Rotella, leader de l'huile de moteur diesel depuis plus de 40 ans. Shell Rotella connaît les moteurs de camion et l’huile de moteur entièrement synthétique Shell Truck Gas Truck fournit une protection contre l’usure extrême et les températures extrêmes pour protéger le moteur de votre camion.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,124 @@
+{
+  "id": "001D8559",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Tactic EMV Gadus S3 T220 2",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Tactic",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automatic lubricator",
+    "electric motors",
+    "ep",
+    "extreme pressure",
+    "general engineering",
+    "high load",
+    "high temperature",
+    "hot strip mills",
+    "industrial",
+    "multipurpose",
+    "paper",
+    "paper mill bearings",
+    "plain bearings",
+    "polyurea",
+    "premium",
+    "roller bearings",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008147434_201407310456.pdf",
+      "type": "GTDS",
+      "name": "Tactic EMV Gadus S3 T220 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563464.PDF",
+      "type": "LMSDS",
+      "name": "Tactic EMV Gadus S3 T220 2 United States EN 140002686046 EHS V3.0 21-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Diurea"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Cone Penetration Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "280"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pumpability Long Distance",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

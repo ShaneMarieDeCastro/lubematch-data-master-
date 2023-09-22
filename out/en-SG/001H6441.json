@@ -1,0 +1,55 @@
+{
+  "id": "001H6441",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Turbo S4 GX 32 (Fine)",
+  "description": "Industrial Steam, Gas and Combined Cycle Turbine Lubricant",
+  "family": "Turbo",
+  "parentCategory": null,
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e0b23fe7-f20a-4741-b58b-16af3981025f.pdf",
+      "type": "GTDS",
+      "name": "Turbo S4 GX 32 (Fine) EN TDG V1.2 11-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579635.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 GX 32 (Fine) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H6441_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550054318",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Turbo S4 GX 32 is based on Gas-to-Liquid (GTL) technology and has been developed to meet the demands of the latest high efficiency turbine systems. Designed to offer outstanding, long term performance under the most severe operating conditions Shell Turbo S4 GX 32 will minimise wear, deposit and sludge formation even under cyclic peak loading conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

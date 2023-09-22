@@ -1,0 +1,453 @@
+{
+  "id": "001F7541",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "AeroShell Fluid 41 (EU)",
+  "description": "Mineral hydraulic fluid for aircraft.",
+  "family": "AeroShell",
+  "parentCategory": "Środki smarne dla lotnictwa",
+  "category": "Oleje hydrauliczne (dla lotnictwa)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1cc219bc-172b-42eb-bf9d-d74d22151b34.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 41 (EU) EN TDG V1.4 23-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02537228.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 41 (EU) Poland EN 140003791557 EHS V5.0 08-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02537227.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 41 (EU) Poland PL 140003791557 EHS V5.0 08-MAR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/a9c03d72-0252-45aa-9a1d-639b06e36902.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 41 (EU) Poland PL TDG V1.4 23-Jul-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OM-15",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-15"
+    },
+    {
+      "name": "MIL-PRF-5606J",
+      "organisation": "MIL",
+      "spec": "PRF-5606J"
+    },
+    {
+      "name": "DEF STAN 91-48",
+      "organisation": "DEF STAN",
+      "spec": "91-48"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-104",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-104"
+    },
+    {
+      "name": "Joint Service Designation OM-18",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-18"
+    },
+    {
+      "name": "MIL-PRF-5606H",
+      "organisation": "MIL",
+      "spec": "PRF-5606H"
+    },
+    {
+      "name": "NATO H-515",
+      "organisation": "NATO",
+      "spec": "H-515"
+    },
+    {
+      "name": "NATO H-520",
+      "organisation": "NATO",
+      "spec": "H-520"
+    },
+    {
+      "name": "DCSEA 415/A",
+      "organisation": "DCSEA",
+      "spec": "415/A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 41 jest barwiony na czerwono.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "4.90 minimum"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "13.2 minimum"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@–40°C",
+      "units": "mm²/s",
+      "value": "600 maximum"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@–54°C",
+      "units": "mm²/s",
+      "value": "2 500 maximum"
+    },
+    {
+      "property": "Flashpoint",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "82 minimum"
+    },
+    {
+      "property": "Pour point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–60 maximum"
+    },
+    {
+      "property": "Total acid number",
+      "method": "ASTM D664",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.2 maximum"
+    },
+    {
+      "property": "Evaporation loss 6 hrs",
+      "method": "ASTM D972",
+      "uom": "@71°C",
+      "units": "%m",
+      "value": "20 maximum"
+    },
+    {
+      "property": "Water content",
+      "method": "ASTM D6304",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "100 maximum"
+    },
+    {
+      "property": "Relative density",
+      "method": "ASTM D4052",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "Report"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "Red"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "5 to 15 μm",
+      "value": "8 000 maximum"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "16 to 25 μm",
+      "value": "1425 maximum"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "26 to 50 μm",
+      "value": "253 maximum"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "51 to 100 μm",
+      "value": "45 maximum"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "over 100 μm",
+      "value": "8 maximum"
+    },
+    {
+      "property": "Copper corrosion",
+      "method": "ASTM D130",
+      "uom": "",
+      "units": "",
+      "value": "2e maximum"
+    },
+    {
+      "property": "Steel on steel wear, scar diam",
+      "method": "ASTM D4172",
+      "uom": "",
+      "units": "mm",
+      "value": "1.0 maximum"
+    },
+    {
+      "property": "Rubber swell, L rubber 168hrs",
+      "method": "ASTM D4289",
+      "uom": "",
+      "units": "%",
+      "value": "19.0 to 30.0"
+    },
+    {
+      "property": "Low temperature stability 72 hrs",
+      "method": "FED-STD-791-3458",
+      "uom": "@–54°C",
+      "units": "",
+      "value": "Must Pass"
+    },
+    {
+      "property": "Gravimetric analysis",
+      "method": "ASTM D4898",
+      "uom": "",
+      "units": "mg/100mL",
+      "value": "1.0 maximum"
+    },
+    {
+      "property": "Foaming tendency",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "",
+      "value": "Must Pass"
+    },
+    {
+      "property": "Barium content",
+      "method": "ASTM D5185",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "10 maximum"
+    },
+    {
+      "property": "Particle Count",
+      "method": "SAE AS4059",
+      "uom": "",
+      "units": "Number",
+      "value": "5"
+    },
+    {
+      "property": "Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.30"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "14.3"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@–40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "ASTM D445",
+      "uom": "@–54°C",
+      "units": "mm²/s",
+      "value": "2 200"
+    },
+    {
+      "property": "Flashpoint",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "95"
+    },
+    {
+      "property": "Pour point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–60 maximum"
+    },
+    {
+      "property": "Total acid number",
+      "method": "ASTM D664",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.02"
+    },
+    {
+      "property": "Evaporation loss 6 hrs",
+      "method": "ASTM D972",
+      "uom": "@71°C",
+      "units": "%m",
+      "value": "15.4"
+    },
+    {
+      "property": "Water content",
+      "method": "ASTM D6304",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "75 maximum"
+    },
+    {
+      "property": "Relative density",
+      "method": "ASTM D4052",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "0.873"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "Red"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "5 to 15 μm",
+      "value": "1 000"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "16 to 25 μm",
+      "value": "1 000 maximum"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "26 to 50 μm",
+      "value": "150 maximum"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "51 to 100 μm",
+      "value": "20 maximum"
+    },
+    {
+      "property": "Particulate contamination, number of particles per 100 ml in size range",
+      "method": "FED-STD-791-3012",
+      "uom": "",
+      "units": "over 100 μm",
+      "value": "5 maximum"
+    },
+    {
+      "property": "Copper corrosion",
+      "method": "ASTM D130",
+      "uom": "",
+      "units": "",
+      "value": "2b"
+    },
+    {
+      "property": "Steel on steel wear, scar diam",
+      "method": "ASTM D4172",
+      "uom": "",
+      "units": "mm",
+      "value": "0.6"
+    },
+    {
+      "property": "Rubber swell, L rubber 168hrs",
+      "method": "ASTM D4289",
+      "uom": "",
+      "units": "%",
+      "value": "Passes"
+    },
+    {
+      "property": "Low temperature stability 72 hrs",
+      "method": "FED-STD-791-3458",
+      "uom": "@–54°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Gravimetric analysis",
+      "method": "ASTM D4898",
+      "uom": "",
+      "units": "mg/100mL",
+      "value": "0.2"
+    },
+    {
+      "property": "Foaming tendency",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Barium content",
+      "method": "ASTM D5185",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "Nil"
+    },
+    {
+      "property": "Particle Count",
+      "method": "SAE AS4059",
+      "uom": "",
+      "units": "Number",
+      "value": "5 maximum"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

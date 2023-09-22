@@ -1,0 +1,282 @@
+{
+  "id": "001F8875",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T6 5W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bio gas",
+    "brakes",
+    "cars",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "lng",
+    "low speed",
+    "lpg",
+    "manual",
+    "marine",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "powershift",
+    "pump vane",
+    "stationary",
+    "synchronised",
+    "tandem drive",
+    "transmissions",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/41601c7d-f34e-49a7-8fa5-bad287287d75.pdf",
+      "type": "GTDS",
+      "name": "Rotella T6 5W-40 (CK-4) EN TDG V1.6 13-Sep-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563041.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 5W-40 (CK-4) United States EN 140002686046 EHS V2.1 28-JUL-2020",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/df38ac57-3c2e-4f19-9c42-80b6c504c289.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 5W-40 (CK-4) United States EN TDG V1.6 13-Sep-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8875_002XLS_A0II",
+      "name": "Bottle 1 Gal Americas Tool Plastic Pearl Blue (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550045347",
+      "margin": "2.21246297086327",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550046218",
+      "margin": "2.40642851689024",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550046219",
+      "margin": "2.20099804739075",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550047504",
+      "margin": "1.86372394871383",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002XOE_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic Pearl Blue for US Rotella (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550049479",
+      "margin": "1.39785969329325",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010133",
+      "margin": "1.54710316833118",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002VON_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H W (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550046217",
+      "margin": "2.11987793914652",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002XJS_A0II",
+      "name": "Bottle 2.5 Gal Local (F Style) Plastic Pearl Blue for US Rotella (2)",
+      "size": "2.5",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550046215",
+      "margin": "2.00693842565279",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Allison TES-439",
+      "organisation": "Allison",
+      "spec": "TES-439"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "JASO MA",
+      "organisation": "JASO",
+      "spec": "MA"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^®^ T6 full synthetic heavy duty engine oil with Triple Protection Plus^TM^ technology has been enhanced with fully synthetic base oil plus advanced additive technology to provide protection against wear, deposits and oil breakdown PLUS better low temperature flow and better fuel economy performance*.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiZIQA0&field=Attachment__Name__s",
+      "family": "Rotella",
+      "savings": 49500,
+      "title": "Shell Rotella T5 10W-30"
+    }
+  ],
+  "commerce": null
+}

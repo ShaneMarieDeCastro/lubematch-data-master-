@@ -1,0 +1,172 @@
+{
+  "id": "001D8252",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Spirax S4 CX 50",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission Oils Other",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "construction",
+    "diesel",
+    "differential",
+    "disc",
+    "engine",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "intermediate axle",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "offroad",
+    "offroad hydraulic",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "on highway",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "semi manual",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "wet brake",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S4_CX_50_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 50 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-MY/4ce42dd8-eaf7-4f72-9c36-9bbd5fc33345.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 50 Malaysia EN TDG V2.1 11-Mar-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02207504.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 50 Malaysia MS 140001435555 EHS V1.6 24-DEC-2020",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02207528.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 50 Malaysia EN 140001435555 EHS V1.6 24-DEC-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8252_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024919",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 50 is designed to provide operators with trouble free operation and maximum reliability for the lifetime of the equipment. Spirax S4 CX 50 meets the demanding requirements of modern transmission, final drive, and oil immersed brakes fitted to heavy-duty off-highway equipment.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "50"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "217.4"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "19"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "910"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "205"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

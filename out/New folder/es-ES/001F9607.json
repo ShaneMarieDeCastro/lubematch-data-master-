@@ -1,0 +1,138 @@
+{
+  "id": "001F9607",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix HX8 ECT 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8546887e-ab63-45bb-8ef0-356a217f554a.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) EN TDG V2.7 31-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/es/070f9bf3-bdb7-42ee-8a3d-2d2c21eb8129.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Spain ES TDG V2.7 15-Dec-2017",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02502188.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Spain ES 140003966322 EHS V1.2 08-DEC-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02502187.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Spain EN 140003966322 EHS V1.2 08-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9607_002WL0_EURO",
+      "name": "Botella 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550048140",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002X0G_EURO",
+      "name": "Botella 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550048100",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550048047",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550048056",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Lubricante formulado con bajo contenido en cenizas, (\"low ash\"), adecuado para mantener limpios los filtros de partículas diésel, contribuyendo así a un óptimo rendimiento del motor. Ayuda a reducir la fricción para favorecer el ahorro de combustible.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX8_5W-30_ECT_5L_600048380.png",
+  "valueRecord": [],
+  "commerce": null
+}

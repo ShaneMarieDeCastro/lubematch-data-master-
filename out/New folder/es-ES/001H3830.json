@@ -1,0 +1,67 @@
+{
+  "id": "001H3830",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Alexia 100",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": "Lubricantes marinos",
+  "category": "Aceites de motor - Cilindro y sistema de lubricación",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6b83a79d-3f13-4e15-8185-c8af9cd6aa79.pdf",
+      "type": "GTDS",
+      "name": "Alexia 100 EN TDG V1.2 13-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533506.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 100 Spain EN 140003966322 EHS V1.6 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/b35492b3-b93c-43a4-8969-1867045bfcf0.pdf",
+      "type": "LTDS",
+      "name": "Alexia 100 Spain ES TDG V1.2 09-Jul-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533507.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 100 Spain ES 140003966322 EHS V1.6 02-MAR-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3830_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550052440",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 100 es un lubricante de cilindros, Grado SAE 50 y de TBN 100, diseñado para su uso en motores diésel de baja velocidad de dos tiempos que funcionan bajo condiciones de estrés extremo. Proporciona protección adicional en motores que requieren un producto de alto rendimiento y es adecuado para su uso con motores que queman combustible residual con altos niveles de azufre ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

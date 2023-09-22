@@ -1,0 +1,61 @@
+{
+  "id": "001C8832",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell 2T",
+  "description": "Motorcycle oil for 2 Stroke engines",
+  "family": "2T",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8b5f3dc6-7ba5-44a4-918d-8957a51a4db3.pdf",
+      "type": "GTDS",
+      "name": "Shell 2T (FA) (undyed solvent free) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02081250.PDF",
+      "type": "LMSDS",
+      "name": "Shell 2T (FA) (undyed solvent free) Philippines EN 140001435525 EHS V1.4 23-MAR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/1b16fe8d-721b-4a76-bba7-6afe55aac92e.pdf",
+      "type": "LTDS",
+      "name": "Shell 2T (FA) (undyed solvent free) Philippines EN TDG V1.0 09-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C8832_002XK9_A1P3",
+      "name": "Bottle 0.2 L Local Plastic Shell Yellow (12)",
+      "size": "0.2",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550042820",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Based on a high viscosity index mineral oil, it contains carefully selected additives to provide long and trouble-free performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

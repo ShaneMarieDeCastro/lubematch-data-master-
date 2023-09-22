@@ -1,0 +1,156 @@
+{
+  "id": "001D8307",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Spirax S6 ATF ZM",
+  "description": "Premium Heavy Duty Transmission Oil for ZF Long Drain",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "buses",
+    "disc",
+    "extended drain",
+    "extended life",
+    "gearbox",
+    "heavy duty",
+    "heavy duty atf",
+    "heavy truck",
+    "hydraulic system",
+    "industrial",
+    "low temperature",
+    "manual",
+    "manual sequential",
+    "pump gear",
+    "synchronised",
+    "transmissions",
+    "trucks",
+    "wet brake",
+    "zf ecomat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7262879e-2382-4618-8fa3-27b484daf46e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF ZM EN TDG V2.4 20-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/9979909b-df50-488b-88ac-0081a9d7f724.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF ZM Turkey TR TDG V2.4 23-Sep-2019",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02446732.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF ZM Turkey EN 140003791542 EHS V2.7 19-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02446733.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF ZM Turkey TR 140003791542 EHS V2.7 19-SEP-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 14E",
+      "organisation": "ZF",
+      "spec": "TE-ML 14E"
+    },
+    {
+      "name": "ZF TE-ML 16N",
+      "organisation": "ZF",
+      "spec": "TE-ML 16N"
+    },
+    {
+      "name": "ZF TE-ML 16Q",
+      "organisation": "ZF",
+      "spec": "TE-ML 16Q"
+    },
+    {
+      "name": "ZF TE-ML 20F",
+      "organisation": "ZF",
+      "spec": "TE-ML 20F"
+    },
+    {
+      "name": "MAN 339 Type Z13",
+      "organisation": "MAN",
+      "spec": "339 Type Z13"
+    },
+    {
+      "name": "MAN 339 Type Z4",
+      "organisation": "MAN",
+      "spec": "339 Type Z4"
+    },
+    {
+      "name": "ZF TE-ML 4D",
+      "organisation": "ZF",
+      "spec": "TE-ML 4D"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF ZM, yeni nesil ZF-Ecomat- ve ZF-Ecolife- transmisyonların bütün gereksinimlerini karşılamak üzere ZF ile ortak olarak geliştirilmiş yüksek performanslı tam sentetik ağır hizmet transmisyon yağıdır. Spirax S6 ATF ZM, en ağır çalışma koşullarında bile yüksek performans sağlar ve yağ değişim aralıklarını uzatır.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "61.8"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "10.2"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "153"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "843"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-51"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s6_atf_zm_153.png",
+  "valueRecord": [],
+  "commerce": null
+}

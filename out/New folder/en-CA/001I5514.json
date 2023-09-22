@@ -1,0 +1,73 @@
+{
+  "id": "001I5514",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe VM 46",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Vegetable",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/834de865-69a5-445c-b48d-78f0c7954fb6.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe VM 46 EN TDG V1.2 01-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289726.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe VM 46 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/287bc9d5-5314-4794-a9ec-cf6816a2a715.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe VM 46 Canada EN TDG V1.2 01-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/7431d542-a45d-4cf5-b36b-15dbea374331.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe VM 46 Canada FR TDG V1.2 01-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290881.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe VM 46 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5514_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057366",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

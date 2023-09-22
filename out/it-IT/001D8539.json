@@ -1,0 +1,82 @@
+{
+  "id": "001D8539",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S3 Wirerope A",
+  "description": "Premium Wire Cable Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi EP a base di olio minerale",
+  "applicationKeys": [
+    "arctic environment",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy load",
+    "high load",
+    "industrial",
+    "lithium calcium complex",
+    "marine",
+    "premium",
+    "rov",
+    "rov cable",
+    "salt water",
+    "tropical environment",
+    "water resistance",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_Wirerope_A_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 Wirerope A English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612651.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Wirerope A Italy EN 140007645406 EHS V3.2 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612652.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Wirerope A Italy IT 140007645406 EHS V3.2 06-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/88b472d1-d744-44b8-b68c-00a3cfe213fc.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 Wirerope A Italy IT TDG V2.1 05-Jul-2017",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8539_002VTA_A1P5",
+      "name": "Fusto 180 kg O/H Grease with liner R/Ytop (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fusto",
+      "materialCode": "550028241",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 Wirerope A è un grasso al litio complesso formulato con olio minerale di elevata viscosità con inibitori antiossidanti ed anticorrosivi. La speciale formulazione assicura una capacità di sopportazione dei carichi eccezionale grazie ad un agente ispessente contenente componenti EP ed antiusura. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

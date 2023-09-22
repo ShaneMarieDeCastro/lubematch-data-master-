@@ -1,0 +1,130 @@
+{
+  "id": "001D8285",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Spirax S3 AS 80W-140",
+  "description": "High performance, GL-5 axle oil for Scania and ZF",
+  "family": "Spirax",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Manuele Transmissie- en Versnellingsbakolie",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "heavy duty",
+    "heavy truck",
+    "manual",
+    "manual transmission",
+    "off highway",
+    "offroad",
+    "passenger car",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S3_AS_80W-140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 AS 80W-140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576697.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AS 80W-140 Netherlands EN 140002783873 EHS V3.5 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576696.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AS 80W-140 Netherlands NL 140002783873 EHS V3.5 23-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/ddff3d4d-768d-46ac-9dc7-1d968e29ac38.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 AS 80W-140 Netherlands NL TDG V3.3 07-Feb-2017",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8285_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027929",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "ZF TE-ML 12E",
+      "organisation": "ZF",
+      "spec": "TE-ML 12E"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 16C",
+      "organisation": "ZF",
+      "spec": "TE-ML 16C"
+    },
+    {
+      "name": "ZF TE-ML 05A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 AS 80W-140 is ontwikkeld voor een zo breed mogelijk toepassingsgebied in automotive overbrengingen die onder zware omstandigheden worden ingezet. Het beschikt over een hoogwaardige additievenpakket en zorgvuldig gekozen basisoliën, wat langere verversingsintervallen probleemloos mogelijk maakt. Shell Spirax S3 AS 80W-140 kan zowel in ongesynchroniseerde alsook in gesynchroniseerde versnellingsbakken worden toegepast waar gebruik van een API GL-5 of MT-1 olie aanbevolen wordt. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

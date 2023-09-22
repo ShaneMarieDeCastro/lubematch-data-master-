@@ -1,0 +1,131 @@
+{
+  "id": "001A9054",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Sirius X 40",
+  "description": "Very High Performance Lubricants for high speed super high performance marine diesel engines (SHPD engines)",
+  "family": "Sirius",
+  "parentCategory": "Industriemotorenöle",
+  "category": "Motoröle - trunk piston engine",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "multi fuel",
+    "off highway",
+    "stationary",
+    "stern tube seal"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139848_201407240552.pdf",
+      "type": "GTDS",
+      "name": "Sirius X 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533540.PDF",
+      "type": "LMSDS",
+      "name": "Sirius X 40 Germany EN 140001492039 EHS V3.8 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533539.PDF",
+      "type": "LMSDS",
+      "name": "Sirius X 40 Germany DE 140001492039 EHS V3.8 02-MAR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MTU Category 2",
+      "organisation": "MTU",
+      "spec": "Category 2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Sirius X is especially suitable for the high power/weight units used in fast vessels and compact generator sets.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "139"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.890"
+    },
+    {
+      "property": "Flash Point CC",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "TBN-E",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "17"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% wt",
+      "value": "1.85"
+    },
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "40"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-sirius-x-135x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

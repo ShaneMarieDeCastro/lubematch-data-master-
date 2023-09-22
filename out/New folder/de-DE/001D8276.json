@@ -1,0 +1,176 @@
+{
+  "id": "001D8276",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S2 A 80W-90",
+  "description": "High quality, GL-5 axle oil",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "brakes",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "front axle",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "on highway",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "slew",
+    "stationary",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "wheel"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_A_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 A 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577895.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 80W-90 Germany DE 140001492039 EHS V2.11 23-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578239.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 80W-90 Germany EN 140001492039 EHS V2.11 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/6089c243-c995-4f9f-822b-6e7af71c1e83.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 A 80W-90 Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8276_002VNC_A246",
+      "name": "Eimer 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027904",
+      "margin": "1.14526162690261",
+      "packShot": ""
+    },
+    {
+      "code": "001D8276_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027903",
+      "margin": "0.855900688050513",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 A 80W-90 ist ein multifunktionales Achsgetriebeöl",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse",
+      "method": "SAE J 306",
+      "uom": "",
+      "units": "",
+      "value": "80W-90"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "146"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.7"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909 \\nDIN1\\nDIN2",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "904"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-27"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027904_Shell_Spirax_S2_A_80W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,276 @@
+{
+  "id": "001F8432",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Tellus S2 VX 32",
+  "description": "Industrial Hydraulic Fluid for wide temperature range",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "ball",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "fuel",
+    "gearbox",
+    "high performance",
+    "hv",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "low temperature",
+    "marine",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "roller tapered",
+    "rollers",
+    "screw pump",
+    "servo",
+    "variable",
+    "versatile",
+    "wide temperature range",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ba015987-a378-40bf-8db0-419d77cab804.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 VX 32 (2016) EN TDG V4.4 17-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/a4e013a9-0c0c-415d-b98e-f22f67951c39.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VX 32 (2016) Canada EN TDG V4.4 07-Oct-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02376510.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VX 32 (2016) Canada EN 140006579500 EHS V1.4 19-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/e38ed3b2-e32b-4da5-be1a-7a5b161ef802.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VX 32 (2016) Canada FR TDG V4.4 22-Nov-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02376609.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VX 32 (2016) Canada FR 140006579500 EHS V1.4 19-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8432_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500010030",
+      "margin": "0.159037262438479",
+      "packShot": ""
+    },
+    {
+      "code": "001F8432_002X4L_A1WJ",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550047502",
+      "margin": "0.582689087121195",
+      "packShot": ""
+    },
+    {
+      "code": "001F8432_002VOM_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550045506",
+      "margin": "0.654569516355833",
+      "packShot": ""
+    },
+    {
+      "code": "001F8432_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550045509",
+      "margin": "0.760637661968523",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Bosch RDE 90245",
+      "organisation": "Bosch",
+      "spec": "RDE 90245"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 AM",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 AM"
+    },
+    {
+      "name": "Parker Denison HF-2",
+      "organisation": "Parker Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-68",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-68"
+    },
+    {
+      "name": "ASTM D6158 HV",
+      "organisation": "ASTM",
+      "spec": "D6158 HV"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-68 - Meets performance requirements",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-68 - Meets performance requirements"
+    },
+    {
+      "name": "Parker Denison HF-1",
+      "organisation": "Parker Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "Parker Denison HF-0",
+      "organisation": "Parker Denison",
+      "spec": "HF-0"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les fluides Shell Tellus S2 VX sont des fluides hydrauliques de haute performance à base d’huiles du groupe II qui offrent une protection et des performances exceptionnelles dans une grande plage de température. Ils résistent à la dégradation due à la chaleur ou aux contraintes mécaniques et conviennent parfaitement à la plupart des équipements mobiles et aux autres systèmes soumis à des températures ambiantes ou d’exploitation très variables.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Fluid Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "HV"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@-20°C",
+      "units": "cSt",
+      "value": "1430"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "6.1"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "143"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.854"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "L0.5"
+    },
+    {
+      "property": "Water Separation",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "minutes",
+      "value": "20"
+    },
+    {
+      "property": "TOST life",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours minimum",
+      "value": "5000"
+    },
+    {
+      "property": "Shear Stability",
+      "method": "CEC L45-A-99",
+      "uom": "@100°C",
+      "units": "% loss",
+      "value": "10"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

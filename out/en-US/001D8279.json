@@ -1,0 +1,87 @@
+{
+  "id": "001D8279",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Spirax S2 ALS 80W-90",
+  "description": "High quality,  GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "final drive",
+    "heavy truck",
+    "hydraulic system",
+    "limited slip differentials",
+    "manual",
+    "non shiftable",
+    "off highway",
+    "passenger car",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "servo",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_ALS_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 ALS 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563249.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 80W-90 United States EN 140002686046 EHS V6.2 22-APR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/17b87d64-51dd-4219-be32-a846fba9c632.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 ALS 80W-90 United States EN TDG V1.1 17-Jun-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8279_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026945",
+      "margin": "2.38462748111773",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 ALS 80W-90 oil is blended for use in a wide variety of automotive axle units with limited slip differentials.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/montage_formula_shell.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,223 @@
+{
+  "id": "901L3254",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Racing 10W-60",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-60",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4519b847-cbea-4f6c-9b8c-50122134ec6f.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Racing 10W-60 (SN/CF A3/B4) EN TDG V3.4 26-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581000.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Racing 10W-60 (SN/CF A3/B4) Poland PL 140003791557 EHS V3.13 25-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580999.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Racing 10W-60 (SN/CF A3/B4) Poland EN 140003791557 EHS V2.13 25-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/65520942-7660-422a-9075-59a17886a838.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Racing 10W-60 (SN/CF A3/B4) Poland PL TDG V3.4 28-Jul-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L3254_002W2L_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046672",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "901L3254_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550040194",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "901L3254_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046314",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "901L3254_002VNF_A246",
+      "name": "Wiadro 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550040202",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 501.01",
+      "organisation": "VW",
+      "spec": "Standard 501.01"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spełnia wysokie wymagania dla wysokoobciążonych silników wymagających stosowania oleju spełniającego normę API SN lub ACEA A3/B4.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "160.10"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "23.10"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "845.8"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "174"
+    },
+    {
+      "property": "MRV",
+      "method": "ASTM D4684",
+      "uom": "@-30°C",
+      "units": "cP",
+      "value": "35 900"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550040202_Shell_Helix_Ult_Rac_10W-60_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

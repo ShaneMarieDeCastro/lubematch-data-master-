@@ -1,0 +1,120 @@
+{
+  "id": "001G3589",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AV-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7826d86b-652c-4684-9335-3aac3d92af30.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) EN TDG V1.5 29-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/2c40b13b-a5b7-4331-b0e5-e39c4ca46b5d.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) Poland PL TDG V1.5 29-Nov-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503461.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) Poland EN 140003791557 EHS V1.3 10-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503460.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) Poland PL 140003791557 EHS V1.3 10-DEC-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G3589_002VNF_A246",
+      "name": "Wiadro 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550047886",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3589_002YAN_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550048041",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3589_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550047887",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "VW Standard 509.00",
+      "organisation": "VW",
+      "spec": "Standard 509.00"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "VW Standard 508.00",
+      "organisation": "VW",
+      "spec": "Standard 508.00"
+    },
+    {
+      "name": "Porsche C20",
+      "organisation": "Porsche",
+      "spec": "C20"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Opracowany aby spełniał wysokie wymagania  wysokoobciążonych silników marek Audi i Volkswagen i Porsche.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550048041_Shell_Helix_Ultra_AV-L_0W-20_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

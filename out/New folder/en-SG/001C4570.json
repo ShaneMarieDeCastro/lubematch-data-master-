@@ -1,0 +1,122 @@
+{
+  "id": "001C4570",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Rimula R3 10W (CF)",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "axle",
+    "bio gas",
+    "brakes",
+    "diesel",
+    "engine",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "semi manual",
+    "servo",
+    "stationary",
+    "synchronised",
+    "torque converter",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0c2c0be6-6ac6-46fa-812d-bbabbc50e47b.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 10W (CF) EN TDG V2.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580002.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) Singapore EN 140001435547 EHS V1.8 03-NOV-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4570_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025501",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4570_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500003295",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4570_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550034701",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4570_002VNA_A227",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025239",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 oil adapts to driving needs to provide extra protection. Its active-detergent system keeps pistons and other engine parts clean, provides protection against wear for long engine life and against deposits for efficient performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R3-10W.png",
+  "valueRecord": [],
+  "commerce": null
+}

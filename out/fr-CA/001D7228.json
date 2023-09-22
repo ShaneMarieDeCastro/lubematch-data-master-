@@ -1,0 +1,154 @@
+{
+  "id": "001D7228",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "FormulaShell SAE 5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f207ecd6-0d9a-4f90-a044-c699a21729a8.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell 5W-20 EN TDG V1.4 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02409310.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 5W-20 Canada EN 140006579500 EHS V2.11 10-MAR-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d9abe0fc-bace-4a3c-a049-d454a7020eb4.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 5W-20 Canada EN TDG V1.4 05-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02409453.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 5W-20 Canada FR 140006579500 EHS V2.11 10-MAR-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cac36636-07a6-4e8d-85be-dbe8d2b52ff8.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 5W-20 Canada FR TDG V1.4 13-Dec-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7228_002XMG_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550045247",
+      "margin": "0.736690738753141",
+      "packShot": ""
+    },
+    {
+      "code": "001D7228_002XO4_A0IK",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550049470",
+      "margin": "0.74584500647483",
+      "packShot": ""
+    },
+    {
+      "code": "001D7228_002VIA_A0IK",
+      "name": "",
+      "size": "208",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550023687",
+      "margin": "0.508748074219061",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Ford WSS-M2C930-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C930-A - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "Ford WSS-M2C945-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A - Meets the requirements"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile moteur FormulaShell^® est formulée pour fournir une protection contre l'usure et aide à protéger contre la formation de boues, de vernis et de rouille",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

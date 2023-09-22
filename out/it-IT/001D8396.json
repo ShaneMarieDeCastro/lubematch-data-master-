@@ -1,0 +1,161 @@
+{
+  "id": "001D8396",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Refrigeration Oil S4 FR-F 68",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Altri lubrificanti industriali",
+  "category": "Oli per frigoriferi",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b9d2001-9183-4025-b31d-4e836a30935f.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 68 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575349.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 68 Italy EN 140007645406 EHS V1.4 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575364.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 68 Italy IT 140007645406 EHS V1.4 15-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/d2135810-229d-4960-b1ab-e24c375dd16c.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 68 Italy IT TDG V1.2 31-Jan-2020",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8396_002VO8_A1P5",
+      "name": "Secchio 20 L T/H Steel Shell Yellow (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550025710",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F è un lubrificante sintetico frigorifero a base di esteri di polioli. E’ stato sviluppato per l’impiego con R134a e altri refrigeranti HFC.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "68"
+    },
+    {
+      "property": "Refrigerator Oil Group",
+      "method": "DIN 51503",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "KD"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "66"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "8.8"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "991"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": ">230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Neutralisation Number",
+      "method": "ASTM D664 (TAN)",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "<0.06"
+    },
+    {
+      "property": "Characteristics when used with R134a - Floc-point",
+      "method": "DIN 51351",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "<-30"
+    },
+    {
+      "property": "Characteristics when used with R134a - Refrigerant Stability",
+      "method": "DIN 51393",
+      "uom": "@250°C",
+      "units": "NULL",
+      "value": ">96"
+    },
+    {
+      "property": "Miscibility",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Miscible over the whole range "
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

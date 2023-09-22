@@ -1,0 +1,93 @@
+{
+  "id": "001D8393",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Refrigeration Oil S4 FR-F 100",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "",
+  "category": "Huiles de réfrigérateur",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d126a3c-c396-40e9-9fd0-0ec7a7f95ee0.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 100 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575685.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 100 France FR 140003182031 EHS V1.4 16-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575683.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 100 France EN 140003182031 EHS V1.4 16-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/22be45c3-98dc-4ad2-82db-8949311f5dd1.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 100 France FR TDG V1.2 17-Oct-2019",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8393_002VO8_A1P5",
+      "name": "Sceau 20 L T/H Steel Shell Yellow (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550025728",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8393_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550025694",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F est une huile synthétique à base d'esters de polyol, destinée aux compresseurs frigorifiques. Ce lubrifiant est développé pour une utilisation avec des réfrigérants de type R134a et autres HFC.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

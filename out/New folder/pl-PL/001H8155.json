@@ -1,0 +1,87 @@
+{
+  "id": "001H8155",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S3 ALS 85W-90",
+  "description": "High performance, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Oleje do ręcznych skrzyń biegów i przekładni",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e708a554-072d-4b51-97cf-6ff5aa422003.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 ALS 85W-90 EN TDG V1.1 15-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02513808.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 Poland EN 140003791557 EHS V1.5 04-JAN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02513822.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 Poland PL 140003791557 EHS V1.5 04-JAN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/dd19a8be-6238-443d-ad8b-6717ff26a303.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 ALS 85W-90 Poland PL TDG V1.1 29-Sep-2020",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 16E",
+      "organisation": "ZF",
+      "spec": "TE-ML 16E"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 05C",
+      "organisation": "ZF",
+      "spec": "TE-ML 05C"
+    },
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    },
+    {
+      "name": "ZF TE-ML 21C",
+      "organisation": "ZF",
+      "spec": "TE-ML 21C"
+    },
+    {
+      "name": "ZF TE-ML 12C",
+      "organisation": "ZF",
+      "spec": "TE-ML 12C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 ALS 85W-90 jest olejem przekładniowym o szerokim zastosowaniu w wielu rodzajach układów różnicowych z limitowanym poślizgiem stosowanych w pojazdach włączając podzespoły Firmy ZF.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550060232_Shell_Spirax_S3_ALS_85W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

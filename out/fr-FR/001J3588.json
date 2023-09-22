@@ -1,0 +1,73 @@
+{
+  "id": "001J3588",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Rimula R7 Plus AI 0W-20",
+  "description": "Fully Synthetic Low HTHSV Heavy Duty Diesel Engine Oil (Iveco)",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/db5d1cfb-6039-4803-a23b-908950f70a0e.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 Plus AI 0W-20 EN TDG V1.4 13-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609607.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AI 0W-20 France EN 140003182031 EHS V2.3 04-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/b8708b1c-7ecc-4749-870f-c2ccffff007a.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 Plus AI 0W-20 France FR TDG V1.4 13-Jan-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609605.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AI 0W-20 France FR 140003182031 EHS V2.3 04-JUL-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J3588_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550067591",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Iveco 18-1804 TLV LS",
+      "organisation": "Iveco",
+      "spec": "TLV LS"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R7 Plus AI se caractérise par une technologie d'additifs \"Low SAPS\" haute performance et est conçue pour offrir une économie de carburant accrue, ainsi que des avantages en matière de reduction des emissions. La protection est renforcée grace à l'utilisation d'une huile de base à technologie de synthèse, qui réduit considérablement les frictions internes du moteur et qui permet un allongement des intervalles de maintenance. Convient aux moteurs de technologie récente.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

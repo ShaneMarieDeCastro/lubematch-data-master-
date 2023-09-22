@@ -1,0 +1,61 @@
+{
+  "id": "001M1746",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/241c9935-4910-4517-9969-4c7b7e7d157b.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil (CAN) EN TDG V1.0 06-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02468453.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil (CAN) Canada EN 140006579500 EHS V1.0 11-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02468438.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil (CAN) Canada FR 140006579500 EHS V1.0 11-OCT-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001M1746_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500015209",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "^1 ^Based ^on ^the ^latest ^industry ^standard",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

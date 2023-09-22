@@ -1,0 +1,82 @@
+{
+  "id": "001E7842",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Omala S3 Wind",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oleje do przekładni przemysłowych",
+  "category": "Oleje do przekładni przemysłowych",
+  "applicationKeys": [
+    "high cleanliness",
+    "industrial",
+    "low temperature",
+    "wind turbine transmission",
+    "wind turbines",
+    "yaw and pitch drive gearboxes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/bac1c508-5946-43fc-8d49-340880c813dd.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 Wind EN TDG V1.3 07-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604183.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 Wind Poland PL 140003791557 EHS V1.4 28-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604184.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 Wind Poland EN 140003791557 EHS V1.4 28-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/d6ec1f03-03ff-4889-9461-8da81fc523d5.pdf",
+      "type": "LTDS",
+      "name": "Omala S3 Wind Poland PL TDG V1.3 05-Jan-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "IEC 61400-4",
+      "organisation": "IEC",
+      "spec": "61400-4"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 Wind to przemysłowy olej przekładniowy zawierający mineralny olej bazowy. Zapewnia wysoką wydajność w przekładniach turbin wiatrowych. Jest on przeznaczony do wydajnej pracy w niskich temperaturach, zapewnia doskonałą ochronę przed zużyciem w warunkach dużych obciążeń i obciążeń udarowych, chroni przed mikropittingiem i oferuje wysoki poziom czystości. Nie jest zalecany do stosowania w systemach z precyzyjną filtracją ze względu na możliwość wystąpienia w układzie trwałej piany.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

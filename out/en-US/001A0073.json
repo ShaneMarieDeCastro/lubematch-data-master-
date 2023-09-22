@@ -1,0 +1,92 @@
+{
+  "id": "001A0073",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Oil 80",
+  "description": "Mineral lubricating oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Piston",
+  "applicationKeys": [
+    "aviation",
+    "cars",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "piston engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/aa9bfd38-d9cd-4cfd-a656-e9dbf371aa8c.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil 80 EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564125.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil 80 United States EN 140002686046 EHS V2.10 07-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/e66fbb4f-8789-4a0f-a657-659fa337d506.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil 80 United States EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0073_002VJ2_A1WJ",
+      "name": "Drum 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550041181",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0073_002XOH_AEP1",
+      "name": "Bottle 1 qt Americas Tool Plastic Shell Red Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550050831",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AIR 3560/D",
+      "organisation": "AIR",
+      "spec": "3560/D"
+    },
+    {
+      "name": "SAE J1966",
+      "organisation": "SAE",
+      "spec": "J1966"
+    },
+    {
+      "name": "Joint Service Designation OM-170",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-170"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell straight mineral oils are blended from selected high viscosity index base stocks. These oils do not contain additives except for a small quantity of pourpoint depressant (which is added when improved fluidity at very low temperature is required) and an anti-oxidant.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

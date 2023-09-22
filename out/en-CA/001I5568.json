@@ -1,0 +1,73 @@
+{
+  "id": "001I5568",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Corena PCF",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cebf52a6-10e0-47fa-999b-e53ad8877d6e.pdf",
+      "type": "GTDS",
+      "name": "Shell Corena PCF EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b752ef75-b2d9-497b-8fba-2e0ff0731a1e.pdf",
+      "type": "LTDS",
+      "name": "Shell Corena PCF Canada FR TDG V1.1 07-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/6a2df8a9-1d3d-4174-8c75-85b95e192903.pdf",
+      "type": "LTDS",
+      "name": "Shell Corena PCF Canada EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291373.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena PCF Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291374.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena PCF Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5568_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057425",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

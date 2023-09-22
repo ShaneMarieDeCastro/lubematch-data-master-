@@ -1,0 +1,128 @@
+{
+  "id": "001D8383",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gas Compressor Oil S3 PY 150",
+  "description": "Special Application Ethylene Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Kompressor und Vakuumpumpe",
+  "category": "Kompressor und Vakuumpumpe",
+  "applicationKeys": [
+    "ethylene",
+    "fda",
+    "food grade",
+    "hypercompressor",
+    "industrial",
+    "ldpe",
+    "pharmaceutical"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e1453c5e-8e08-47c8-9535-ab6f5e49e04e.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S3 PY 150 EN TDG V3.3 06-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/252cb905-26bc-4ff9-beb7-4f5ca85c508f.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S3 PY 150 Germany DE TDG V3.3 24-Oct-2019",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573080.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 150 Germany EN 140001492039 EHS V1.5 11-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573079.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 150 Germany DE 140001492039 EHS V1.5 11-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "FDA Regulation 21 CFR 178.3620",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3620"
+    },
+    {
+      "name": "European Regulation 10/2011",
+      "organisation": "European Regulation",
+      "spec": "10/2011"
+    },
+    {
+      "name": "FDA Regulation 21 CFR 178.3570",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3570"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S3 PY ist ein Spezialöl für die Verlustschmierung in Hyperkompressoren in der Kunststoffindustrie. Shell Compressor Oil S3 PY eignet sich für die Herstellung von Polyethylenen mit niedriger Dichte (LDPE), einschließlich spezieller Anwendungen für die Nahrungsmittelindustrie, Pharmazie und Kabelisolation sowie zur Herstellung von Ethylen-Vinylacetat (EVA). ",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D 1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "872"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D 92",
+      "uom": "NULL",
+      "units": "°C",
+      "value": ">240"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN DIN ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-6"
+    },
+    {
+      "property": "Sulfatasche",
+      "method": "DIN 51575",
+      "uom": "NULL",
+      "units": "% m",
+      "value": "<0.01"
+    },
+    {
+      "property": "Neutralisationszahl",
+      "method": "ASTM D 974",
+      "uom": "NULL",
+      "units": "mg KOH/g",
+      "value": "0.6"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

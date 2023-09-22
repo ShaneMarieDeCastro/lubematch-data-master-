@@ -1,0 +1,103 @@
+{
+  "id": "001I4308",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R7 AD 5W-30",
+  "description": "MB GPO Truck Motor Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/66d601ee-d3cc-471e-ac8d-1eba26dec612.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) EN TDG V1.4 21-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02633798.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Poland EN 140003791557 EHS V2.5 22-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/e77da034-9517-457b-aa8c-fb953dce9a7d.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Poland PL TDG V1.4 28-Jun-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02632886.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Poland PL 140003791557 EHS V2.5 22-AUG-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I4308_002VNF_A246",
+      "name": "Wiadro 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550062540",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I4308_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550062541",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API FA-4",
+      "organisation": "API",
+      "spec": "FA-4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Cummins CES 20087",
+      "organisation": "Cummins",
+      "spec": "CES 20087"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K223",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K223"
+    },
+    {
+      "name": "MB-Approval 228.61",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.61"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R7 AD to olej z wysokowydajnymi i skutecznymi dodatkami niskopopiołowymi \"Low-SAPS\" zapewniający zmniejszenie zużycia paliwa i obniżoną emisję spalin. Ochrona jest dodatkowo wzmocniona dzięki zastosowaniu syntetycznych olejów bazowych, które znacznie zmniejszają tarcie w silniku i zapewniają wydłużone okresy międzyobsługowe. Odpowiedni do najnowszych typów silników.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,212 @@
+{
+  "id": "001D8398",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Refrigeration Oil S4 FR-V 32",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Kältemaschinenöle",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "hydraulic system",
+    "industrial",
+    "long life",
+    "open compressor",
+    "pump gear",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/aa181670-f8f3-4795-b520-8289b69d1441.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 32 EN TDG V2.5 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575058.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 32 Germany EN 140001492039 EHS V3.9 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575059.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 32 Germany DE 140001492039 EHS V3.9 15-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/d24d879a-e43e-4c6b-8e98-4c0623576317.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-V 32 Germany DE TDG V2.5 26-Nov-2019",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8398_002VNF_A1P5",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550025698",
+      "margin": "2.92133325139682",
+      "packShot": ""
+    },
+    {
+      "code": "001D8398_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550025699",
+      "margin": "2.59999036287007",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V ist ein synthetisches Kältemaschinenöl auf Basis von Alkylbenzolen. Als universelles Produkt für die Anforderungen unterschiedlichster Kältekompressoren ist es mit den meisten Kühlmitteln kompatibel, außer HFC-Kühlmitteln.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO-Viskositätsklasse ",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "Kältemaschinenölgruppe",
+      "method": "DIN 51503",
+      "uom": "",
+      "units": "",
+      "value": "KAA, KC"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 40 °C",
+      "units": "mm²/s",
+      "value": "29"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "4,1"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@ 15 °C",
+      "units": "kg/m³",
+      "value": "870"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–45"
+    },
+    {
+      "property": "Neutralisationszahl",
+      "method": "ASTM D664 (TAN)",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "<0,04"
+    },
+    {
+      "property": "Flockpunkt (wenn es zusammen mit R12 verwendet wird)",
+      "method": "DIN 51351",
+      "uom": "",
+      "units": "°C",
+      "value": "<–50"
+    },
+    {
+      "property": "Kältemittelbeständigkeit (wenn es zusammen mit R12 verwendet wird)",
+      "method": "DIN 51393",
+      "uom": "@250 °C",
+      "units": "",
+      "value": ">96"
+    },
+    {
+      "property": "Flockpunkt (wenn es zusammen mit R22 verwendet wird)",
+      "method": "DIN 51351",
+      "uom": "",
+      "units": "°C",
+      "value": "<–50"
+    },
+    {
+      "property": "Kältemittelbeständigkeit (wenn es zusammen mit R22 verwendet wird)",
+      "method": "DIN 51393",
+      "uom": "@250 °C",
+      "units": "",
+      "value": ">96"
+    },
+    {
+      "property": "Mischbarkeit",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mischbar im typischen Temperat"
+    },
+    {
+      "property": "Flockpunkt (wenn es zusammen mit R290 verwendet wird)",
+      "method": "DIN 51351",
+      "uom": "",
+      "units": "°C",
+      "value": "<–50"
+    },
+    {
+      "property": "Kältemittelbeständigkeit (wenn es zusammen mit R290 verwendet wird)",
+      "method": "DIN 51393",
+      "uom": "@250 °C",
+      "units": "",
+      "value": ">96"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

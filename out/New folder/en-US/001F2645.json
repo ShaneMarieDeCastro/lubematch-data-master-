@@ -1,0 +1,200 @@
+{
+  "id": "001F2645",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Morlina S4 B 220",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "long life",
+    "low temperature",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3ec27178-ca04-4581-b98f-1a93ae4239f9.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 220 (2014) EN TDG V4.8 11-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563496.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 220 (2014) United States EN 140002686046 EHS V1.7 30-APR-2018",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/268be132-b06d-4091-8451-b7aa307d55a9.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 220 (2014) United States EN TDG V4.8 16-Jun-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2645_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550042914",
+      "margin": "1.98725355516484",
+      "packShot": ""
+    },
+    {
+      "code": "001F2645_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011272",
+      "margin": "0.527083999969978",
+      "packShot": ""
+    },
+    {
+      "code": "001F2645_002XD6_A1WJ",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550042915",
+      "margin": "1.95541775457938",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B oils are high performance synthetic bearing and circulation lubricants, manufactured with high performance base fluids. They offer outstanding lubrication performance, including improved energy efficiency, filterability, and long service life even under challenging operating conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3488",
+      "uom": "",
+      "units": "",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "28"
+    },
+    {
+      "property": "Viscosity Index (VI)",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "164"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592 ",
+      "uom": "",
+      "units": "°C",
+      "value": "275"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-45"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "852"
+    },
+    {
+      "property": "Foam Test, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam '@0/10 mins",
+      "value": "10/0"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2 A/8.3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "12"
+    },
+    {
+      "property": "Water Seperability",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "minutes maximum",
+      "value": "20"
+    },
+    {
+      "property": "Oxidation Control Test: RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes minimum",
+      "value": "1750"
+    },
+    {
+      "property": "Oxidation Control Test: TOST",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours",
+      "value": "10 000"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,178 @@
+{
+  "id": "001D7786",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Corena S4 R 46",
+  "description": "Advanced Synthetic Rotary  Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compresor y bomba de vacío.",
+  "category": "Compresor y bomba de vacío.",
+  "applicationKeys": [
+    "abb turbochargers",
+    "air compressor",
+    "ball",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "combined cycle",
+    "diesel",
+    "engine",
+    "gearbox",
+    "high temperature",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "mobile",
+    "natural gas",
+    "oil flooded",
+    "oil injected",
+    "plain",
+    "pump gear",
+    "pump vane",
+    "rollers",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane",
+    "stationary",
+    "thrust",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e05b1282-8509-4c84-ac55-9995f8ea334f.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 R 46 EN TDG V2.6 11-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/889eeafd-9dc1-4670-b724-530663bd4bc9.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 R 46 Spain ES TDG V2.6 14-Jun-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572772.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 46 Spain EN 140003966322 EHS V2.9 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572771.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 46 Spain ES 140003966322 EHS V2.9 04-MAY-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 R es un lubricante sintético avanzado que incorpora un sistema único de aditivos y aceites base de alto rendimiento específicamente seleccionados para la lubricación de  compresores de aire rotativos. Está formulado para ofrecer el más alto rendimiento en compresores de aire rotativos de paletas y de tornillo. Utiliza una avanzada combinación de aditivos para proporcionar un gran rendimiento y proteger los compresores que soportan presiones superiores a 25 bar y temperaturas de descarga superiores a 100°C, con intervalos de mantenimiento del aceite de hasta 12.000 horas. Shell Corena S4 R también es perfectamente adecuado en aplicaciones en las que es necesario un lubricante sintético de altas prestaciones para rodamientos y sistemas de circulación en la industria en general. ",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "46"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "46"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "135"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "843"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-48"
+    },
+    {
+      "property": "Air Release",
+      "method": "ASTM D3427",
+      "uom": "",
+      "units": "minutes",
+      "value": "2"
+    },
+    {
+      "property": "RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes minimum",
+      "value": "2100"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@54°C",
+      "units": "minutes",
+      "value": "10"
+    },
+    {
+      "property": "FZG Test",
+      "method": "CEC-L-07-A-95",
+      "uom": "",
+      "units": "LS Fail",
+      "value": "12"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_r.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000InOZQA0&field=Attachment__Name__s",
+      "family": "Corena",
+      "savings": 34000,
+      "title": "Shell Corena S4 R 46"
+    }
+  ],
+  "commerce": null
+}

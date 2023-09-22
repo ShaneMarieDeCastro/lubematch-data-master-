@@ -1,0 +1,81 @@
+{
+  "id": "001H5093",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T1 50",
+  "description": "High Quality Straight Grade Heavy Duty Diesel Engine Oil ",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/10321bab-3ba0-4022-8e43-0520ce49a6b4.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 50 (CF/SL) EN TDG V1.1 20-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563721.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 50 (CF/SL) United States EN 140002686046 EHS V1.1 12-NOV-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5093_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550054469",
+      "margin": "1.82587808204292",
+      "packShot": ""
+    },
+    {
+      "code": "001H5093_002VOM_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550054470",
+      "margin": "1.58581545775116",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T1 oils use performance additives to fight engine wear and prevent deposits, providing reliable lubrication.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

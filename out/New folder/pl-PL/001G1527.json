@@ -1,0 +1,152 @@
+{
+  "id": "001G1527",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Argina S3 30",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": "Oleje silnikowe przemysłowe",
+  "category": "Oleje silnikowe - silniki tłokowe",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy fuel",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "off highway",
+    "reduction gears",
+    "stationary",
+    "stern tube seal",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/de347900-3969-409a-846e-a7f37048298c.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S3 30 EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444403.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S3 30 Poland PL 140003791557 EHS V1.3 21-SEP-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444402.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S3 30 Poland EN 140003791557 EHS V1.3 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/abdee4dd-1b2c-4e31-82c8-72b7563ca822.pdf",
+      "type": "LTDS",
+      "name": "Shell Argina S3 30 Poland PL TDG V1.9 21-May-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1527_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550046671",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S3 30 to wielofunkcyjny środek smarny do skrzyń korbowych do wysokowydajnych, średnioobrotowych silników wysokoprężnych pracujących na paliwach pozostałościowych. Liczba kwasowa oleju Shell Argina S3 30 wynosi 30. Jest on przeznaczony do umiarkowanych warunków pracy.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "105"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.85"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "101"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "905"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Base Number",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "30"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% m/m",
+      "value": "3.8"
+    },
+    {
+      "property": "Load Carrying Capacity (FZG Gear Machine) ",
+      "method": "ISO 14635-1 A/8.3/90",
+      "uom": "",
+      "units": "Failure load stage",
+      "value": "11"
+    },
+    {
+      "property": "SAE grade (viscosity class)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

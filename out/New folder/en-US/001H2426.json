@@ -1,0 +1,77 @@
+{
+  "id": "001H2426",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Paper Machine Oil S2 M 320",
+  "description": "Paper Machine Circulating Oils",
+  "family": "Paper Machine",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "circulation",
+    "circulation system"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/cdc142b6-b140-4a8d-b09f-9f0c9d939292.pdf",
+      "type": "GTDS",
+      "name": "Paper Machine Oil S2 M 320 EN TDG V1.2 12-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563590.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S2 M 320 United States EN 140002686046 EHS V1.0 04-MAR-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2426_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011436",
+      "margin": "0.967989503442909",
+      "packShot": ""
+    },
+    {
+      "code": "001H2426_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550052215",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51354-2",
+      "organisation": "DIN",
+      "spec": "51354-2"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Paper Machine Oil S2 M is a high performance oil designed to provide excellent all round protection for the diverse needs and conditions found in paper machines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

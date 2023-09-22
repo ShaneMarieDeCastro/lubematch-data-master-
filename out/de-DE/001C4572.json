@@ -1,0 +1,211 @@
+{
+  "id": "001C4572",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Rimula R3+ 30",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "ball",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "fixed",
+    "front axle",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "manual",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "on highway",
+    "plain",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "rotary vane",
+    "servo",
+    "slew",
+    "stationary",
+    "stern tube seal",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "vacuum pumps",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b11ecdcc-b4da-43f8-ad55-12e7fa6ba77a.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3+ 30 (CF/228.0) EN TDG V1.5 29-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557780.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3+ 30 (CF/228.0) Germany DE 140001492039 EHS V2.15 20-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557781.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3+ 30 (CF/228.0) Germany EN 140001492039 EHS V2.15 20-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/6cc1ad82-bb10-4230-9023-3f5b513226e3.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3+ 30 (CF/228.0) Germany DE TDG V1.5 01-Aug-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4572_002VNA_A246",
+      "name": "Eimer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550033221",
+      "margin": "1.21375150745019",
+      "packShot": ""
+    },
+    {
+      "code": "001C4572_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550061112",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4572_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550031958",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 228.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "228"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MAN 270",
+      "organisation": "MAN",
+      "spec": "270"
+    },
+    {
+      "name": "MTU Category 1",
+      "organisation": "MTU",
+      "spec": "Category 1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 Öl passt sich den Bedürfnissen beim Fahren mit zusätzlichem Schutz an. Aktiv wirkende Reinigungsadditive halten den Kolben und andere Motorteile sauber, schützen vor Verschleiß und sorgen damit für eine hohe Motorlebensdauer und einen effizienten Betrieb.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "93"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "11"
+    },
+    {
+      "property": "Dynamische Viskosität",
+      "method": "ASTM D 5293",
+      "uom": "@–25 °C",
+      "units": "mPa s",
+      "value": "-"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D 2270",
+      "uom": "",
+      "units": "",
+      "value": "103"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D 4052",
+      "uom": "@15 °C",
+      "units": "kg/l",
+      "value": "0,89"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "242"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

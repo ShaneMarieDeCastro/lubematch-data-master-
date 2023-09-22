@@ -1,0 +1,184 @@
+{
+  "id": "001D8388",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Heat Transfer Oil S2",
+  "description": "High Performance Heat transfer fluid",
+  "family": "Heat Transfer",
+  "parentCategory": null,
+  "category": "Heat Transfer Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "electrical",
+    "electrical fluid",
+    "engine",
+    "fuel",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "pump gear",
+    "pump valve",
+    "roller tapered",
+    "rollers",
+    "screw pump",
+    "servo",
+    "stationary",
+    "steam",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "urban",
+    "wire rod mill"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bde6673e-c872-4515-92b5-d5aaa1a70726.pdf",
+      "type": "GTDS",
+      "name": "Heat Transfer Oil S2 EN TDG V1.5 23-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562315.PDF",
+      "type": "LMSDS",
+      "name": "Heat Transfer Oil S2 United States EN 140002686046 EHS V1.6 12-AUG-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51522",
+      "organisation": "DIN",
+      "spec": "51522"
+    },
+    {
+      "name": "ISO 6743-12",
+      "organisation": "ISO",
+      "spec": "6743-12"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Heat Transfer Oil S2 is based on carefully selected, highly refined mineral oils chosen for their ability to provide superior performance in indirect closed fluid heat transfer systems.",
+  "physicalCharacteristics": [
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@20°C",
+      "units": "kg/m³",
+      "value": "857"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ISO 2719",
+      "uom": "",
+      "units": "°C",
+      "value": "208"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-12"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "29"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.1"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@200°C",
+      "units": "mm²/s",
+      "value": "1.4"
+    },
+    {
+      "property": "Initial Boiling Point",
+      "method": "ASTM D2887",
+      "uom": "",
+      "units": "°C",
+      "value": "330"
+    },
+    {
+      "property": "Autoignition temperature",
+      "method": "DIN 51794",
+      "uom": "",
+      "units": "°C",
+      "value": "332"
+    },
+    {
+      "property": "Neutralisation Value",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "<0.2"
+    },
+    {
+      "property": "Ash (Oxide)",
+      "method": "ISO 6245",
+      "uom": "",
+      "units": "% m/m",
+      "value": "<0.01"
+    },
+    {
+      "property": "Carbon Residue (Conradson)",
+      "method": "ISO 10370",
+      "uom": "",
+      "units": "% m/m",
+      "value": "<0.01"
+    },
+    {
+      "property": "Copper Corrosion (3 hrs/100°C)",
+      "method": "ISO 2160",
+      "uom": "",
+      "units": "",
+      "value": "Class 1"
+    },
+    {
+      "property": "Coefficient of Thermal Expansion",
+      "method": "",
+      "uom": "1/°C",
+      "units": "",
+      "value": "0.0008"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

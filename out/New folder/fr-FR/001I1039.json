@@ -1,0 +1,73 @@
+{
+  "id": "001I1039",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra Professional AT-L 0W-30",
+  "description": "Passenger Car Engine Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "cars",
+    "fiat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/11a7bebf-90d7-4817-b52f-b6533219182d.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AT-L 0W-30 (C2 Fiat 9.55535-GS1,9.55535-DS1) EN TDG V1.1 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511230.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 0W-30 (C2 Fiat 9.55535-GS1,9.55535-DS1) France FR 140003182031 EHS V1.2 28-DEC-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511229.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 0W-30 (C2 Fiat 9.55535-GS1,9.55535-DS1) France EN 140003182031 EHS V1.2 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/98fcad83-f3f0-4daa-9bca-bc6515cbe403.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AT-L 0W-30 (C2 Fiat 9.55535-GS1,9.55535-DS1) France FR TDG V1.1 17-Nov-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "Fiat 9.55535-DS1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-DS1 - Meets the requirements"
+    },
+    {
+      "name": "Fiat 9.55535-GS1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-GS1 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Conçue pour répondre aux exigences de certains moteurs à haute performance, y compris ceux de Fiat et ceux où une huile ACEA C2 est recommandée. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

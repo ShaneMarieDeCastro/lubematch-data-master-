@@ -1,0 +1,56 @@
+{
+  "id": "001I5566",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Air Compressor Oil S2 R 32",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "rotary vane",
+    "screw"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/911bff5a-0790-4494-8749-91432e2ff059.pdf",
+      "type": "GTDS",
+      "name": "Shell Air Compressor Oil S2 R 32 EN TDG V1.2 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563904.PDF",
+      "type": "LMSDS",
+      "name": "Shell Air Compressor Oil S2 R 32 United States EN 140002686046 EHS V1.1 12-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5566_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057423",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Air Compressor Oil S2 R 32 is a lubricant manufactured from a special high pressure hydrotreated base oil and a combination of zinc free additives that make it ideal for rotary screw air compressor applications.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

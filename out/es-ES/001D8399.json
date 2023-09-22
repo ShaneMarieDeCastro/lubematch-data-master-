@@ -1,0 +1,106 @@
+{
+  "id": "001D8399",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Refrigeration Oil S4 FR-V 46",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Otros lubricantes industriales",
+  "category": "Aceites para compresores frigoríficos",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "industrial",
+    "long life",
+    "open compressor",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor",
+    "turbine",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/03da63b4-6645-4846-83fb-10554d7500fd.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 EN TDG V2.4 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575185.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Spain EN 140003966322 EHS V1.11 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/4b6c1398-a637-4c09-bd22-a191c754a23b.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Spain ES TDG V2.4 09-Jun-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575186.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Spain ES 140003966322 EHS V1.11 15-MAY-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8399_002VNF_A1P5",
+      "name": "Cubo 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Cubo",
+      "materialCode": "550025701",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8399_002VSH_A1P5",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550025700",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V es un lubricante sintético formulado con base de alquilbenceno. Ofrece una solución universal de lubricación para la mayoría de compresores frigoríficos y es compatible con todos los líquidos refrigerantes de uso común, con excepción de los refrigerantes de hidrofluorocarbono (HFC's).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,94 @@
+{
+  "id": "001F9576",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Tellus S2 VK 22",
+  "description": "Industrial Hydraulic Fluid for wide temperature range",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "low temperature",
+    "versatile"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c10f8898-a502-434d-90a1-9f9210ec453f.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 VK 22 (2016) EN TDG V1.6 24-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291559.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VK 22 (2016) Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291558.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VK 22 (2016) Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cd738247-9877-4e08-bdad-3ea0a3c65b98.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VK 22 (2016) Canada FR TDG V1.6 27-Aug-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/25786a38-3110-47c7-b9dc-393af1b97355.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VK 22 (2016) Canada EN TDG V1.6 24-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9576_002VOM_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550046071",
+      "margin": "0.834295763710675",
+      "packShot": ""
+    },
+    {
+      "code": "001F9576_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550046070",
+      "margin": "0.91592902376619",
+      "packShot": ""
+    },
+    {
+      "code": "001F9576_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010084",
+      "margin": "0.672802148060758",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 VK fluids are high performance hydraulic fluids designed to provide excellent viscosity control under severe mechanical stress and, with an extra high viscosity index, these oils can help provide outstanding protection and performance in most mobile equipment and other applications subjected to wide ranges of ambient or operating temperatures found in colder climates.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

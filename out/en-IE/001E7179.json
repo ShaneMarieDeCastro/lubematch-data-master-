@@ -1,0 +1,67 @@
+{
+  "id": "001E7179",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Mysella S3 N 30",
+  "description": " Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "gas",
+    "landfill",
+    "lng",
+    "low ash",
+    "lpg",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S3_N_30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 N 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592821.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 Ireland EN 140007731156 EHS V1.8 13-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7179_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007711",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 N satisfies the new generation of stationary gas engines designed to meet the emerging legislation limiting emissions of NOx, and those which employ the latest 'lean' or 'clean' burn technology.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-mysella-s3-n-135x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

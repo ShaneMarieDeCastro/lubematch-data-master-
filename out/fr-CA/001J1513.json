@@ -1,0 +1,61 @@
+{
+  "id": "001J1513",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Fire-Resistant Hydraulic Fluid HFB",
+  "description": "Hydraulic Oil Emulsion",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "110",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7161ba6d-c7b9-4506-ab4e-fe2f1e6ac9fd.pdf",
+      "type": "GTDS",
+      "name": "Shell Fire-Resistant Hydraulic Fluid HFB EN TDG V1.0 16-Nov-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291402.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fire-Resistant Hydraulic Fluid HFB Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291401.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fire-Resistant Hydraulic Fluid HFB Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J1513_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550060810",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

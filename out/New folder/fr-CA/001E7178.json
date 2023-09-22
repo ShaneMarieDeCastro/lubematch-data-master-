@@ -1,0 +1,101 @@
+{
+  "id": "001E7178",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Mysella S2 Z 40",
+  "description": "Zero Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Moteur à gaz stationnaire",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "diesel",
+    "engine",
+    "gas",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "landfill",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S2_Z_40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 Z 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561791.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 40 Canada EN 140006579500 EHS V1.5 27-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/8d145f4a-8294-4ec6-8210-07e43b327998.pdf",
+      "type": "LTDS",
+      "name": "Mysella S2 Z 40 Canada FR TDG V2.2 04-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561790.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 40 Canada FR 140006579500 EHS V1.5 27-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/3253f2cd-97f9-4791-a11c-f97b559db2e4.pdf",
+      "type": "LTDS",
+      "name": "Mysella S2 Z 40 Canada EN TDG V2.2 14-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7178_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550036571",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7178_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500007790",
+      "margin": "0.460575893087934",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 Z est un lubrifiant à usage intensif destiné aux moteurs à gaz naturel haute performance qui nécessitent un produit «sans cendres». Utilisant une technologie sans cendres, Shell Mysella minimise l'usure du moteur, les dépôts dans les chambres de combustion et les orifices d'échappement et l'augmentation de la viscosité en service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

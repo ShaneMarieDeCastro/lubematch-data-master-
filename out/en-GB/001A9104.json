@@ -1,0 +1,66 @@
+{
+  "id": "001A9104",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Advance Racing M 30",
+  "description": "Go-Kart 2-stroke",
+  "family": "Advance",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Vegetable",
+  "fluidSubType": "Vegetable",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/19a43890-852d-4595-8393-1f34156e7fc4.pdf",
+      "type": "GTDS",
+      "name": "Advance Racing M 30 EN TDG V2.1 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590909.PDF",
+      "type": "LMSDS",
+      "name": "Advance Racing M 30 United Kingdom EN 140002340634 EHS V4.0 20-JUL-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/025d3ac2-13e3-4e36-af95-21c1cda1e6f9.pdf",
+      "type": "LTDS",
+      "name": "Advance Racing M 30 United Kingdom EN TDG V2.1 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "FIM",
+      "organisation": "FIM",
+      "spec": ""
+    },
+    {
+      "name": "SAE J300 30",
+      "organisation": "SAE",
+      "spec": "J300 30"
+    },
+    {
+      "name": "FIA-CIK",
+      "organisation": "FIA-CIK",
+      "spec": "CIK"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance Racing M is a race proven technology (kart sport world championship).",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

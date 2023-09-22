@@ -1,0 +1,77 @@
+{
+  "id": "001F1403",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Platinum ATF+4",
+  "description": "Premium Chrylser Service Fill ATF",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Platinum_ATF_4_(Chrysler_MS-9602)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Platinum ATF+4 (Chrysler MS-9602) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/eead9017-9de5-42fe-879d-06c64574c454.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum ATF+4 (Chrysler MS-9602) United States EN TDG V1.0 04-Dec-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563058.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum ATF+4 (Chrysler MS-9602) United States EN 140002686046 EHS V2.1 08-AUG-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1403_002V78_A0II",
+      "name": "Bottle 1 Quart Rect PZL Plat (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550042074",
+      "margin": "0.965787971560383",
+      "packShot": ""
+    },
+    {
+      "code": "001F1403_002VIX_A1WJ",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550042073",
+      "margin": "1.78307061082583",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 9602",
+      "organisation": "Chrysler",
+      "spec": "MS 9602"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

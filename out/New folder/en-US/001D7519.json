@@ -1,0 +1,72 @@
+{
+  "id": "001D7519",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil SAE 10W-40 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4df06d66-2fae-49a0-ba4b-41872164f747.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 10W-40 Motor Oil (SN) EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/c7b94f7f-8454-4794-a5fe-7782bffa8eb4.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 10W-40 Motor Oil (SN) United States EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562699.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 10W-40 Motor Oil (SN) United States EN 140002686046 EHS V2.1 23-APR-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7519_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550045213",
+      "margin": "0.90494397535638",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^l® Motor Oil with Active Cleansing Technology. Helps prevent dirt and contaminants from turning into performance robbing deposits. Because at Pennzoil^® we know, a cleaner engine is better protected and responsive. It meets or exceeds the engine protection required by API SN, and is specially formulated to provide proven wear protection.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

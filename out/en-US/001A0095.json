@@ -1,0 +1,133 @@
+{
+  "id": "001A0095",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Alexia 50",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "heavy fuel",
+    "low speed",
+    "manual",
+    "marine",
+    "medium speed",
+    "stationary",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/97271a3b-e7c7-4ba3-9680-a68129e6e784.pdf",
+      "type": "GTDS",
+      "name": "Alexia 50 EN TDG V1.2 30-Jun-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563366.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 50 United States EN 140002686046 EHS V7.1 31-MAR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/69ae9ab4-d362-4c9f-8868-b51e140f89cf.pdf",
+      "type": "LTDS",
+      "name": "Alexia 50 United States EN TDG V1.2 05-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 50 has a BN of 70 and is a SAE50 cylinder oil.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "225"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "18.5"
+    },
+    {
+      "property": "Viscosity Index (min)",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "95"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.932"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "205"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C maximum",
+      "value": "-6"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "70"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% wt",
+      "value": "8.7"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiWuQAK&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 12420,
+      "title": "Shell Alexia 50"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVuQAK&field=Attachment__Name__shttps://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVuQAK&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 17300,
+      "title": "Shell Alexia 50"
+    }
+  ],
+  "commerce": null
+}

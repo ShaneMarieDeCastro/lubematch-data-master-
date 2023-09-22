@@ -1,0 +1,164 @@
+{
+  "id": "001D8305",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S6 ATF A295",
+  "description": "Synthetic Extended Drain Heavy Duty Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "axle",
+    "bearing",
+    "buses",
+    "diesel",
+    "differential",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "fuel efficiency",
+    "gearbox",
+    "heavy duty",
+    "heavy duty atf",
+    "hydraulic system",
+    "industrial",
+    "low temperature",
+    "manual",
+    "manual sequential",
+    "mobile",
+    "off highway",
+    "powershift",
+    "pump gear",
+    "pump vane",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "semi manual",
+    "synchronised",
+    "tandem drive",
+    "torque converter",
+    "transfer case",
+    "transmissions",
+    "trucks",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/200fad9b-7fed-4a21-a8cb-7afd0cdc944c.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF A295 EN TDG V5.3 16-Jun-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/0e70cd31-d8cc-4b05-b6e6-33d384652f96.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF A295 France FR TDG V5.3 16-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578692.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A295 France EN 140003182031 EHS V6.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578691.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A295 France FR 140003182031 EHS V6.2 23-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8305_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550036622",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8305_002VNF_A246",
+      "name": "Sceau 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550036842",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Allison TES-468",
+      "organisation": "Allison",
+      "spec": "TES-468"
+    },
+    {
+      "name": "ZF TE-ML 14C - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14C - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 339 Type Z3 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "339 Type Z3 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Voith DIWA transmissions - Suitable for use in applications which require",
+      "organisation": "Voith",
+      "spec": "DIWA transmissions - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 14A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14A - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.91 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.91 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 14B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14B - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar AT-1 - Suitable for use in applications which require",
+      "organisation": "Caterpillar",
+      "spec": "AT-1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron III - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron III - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison TES-295",
+      "organisation": "Allison",
+      "spec": "TES-295"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La Shell Spirax S6 ATF A295 est une huile entièrement synthétique conçue spécifiquemet pour les transmissions automatiques de marque Allison où un lubrifiant répondant à la norme Allison TES 295 est exigé. La Spirax S6 ATF A295 permet de prolonger les intervalles d'entretien et demeure stable même dans des conditions d'exploitation sévères. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550036842_Shell_Spirax_S6_ATF_A295_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

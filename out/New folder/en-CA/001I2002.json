@@ -1,0 +1,207 @@
+{
+  "id": "001I2002",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Turbo S4 X 46",
+  "description": "Industrial Steam, Gas and Combined Cycle Turbine Lubricant",
+  "family": "Turbo",
+  "parentCategory": "",
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b02254bf-1983-45ed-b528-dd44f9a296b2.pdf",
+      "type": "GTDS",
+      "name": "Turbo S4 X 46 EN TDG V1.5 27-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544175.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 X 46 Canada FR 140006579500 EHS V2.0 24-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544174.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 X 46 Canada EN 140006579500 EHS V2.0 24-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I2002_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550061849",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I2002_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550061848",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Electric GEK 107395A",
+      "organisation": "General Electric",
+      "spec": "GEK 107395A"
+    },
+    {
+      "name": "MHI MS04-MA-CL001 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL001 - Meets the requirements"
+    },
+    {
+      "name": "DIN 51515-2 L-TG",
+      "organisation": "DIN",
+      "spec": "51515-2 L-TG"
+    },
+    {
+      "name": "Alstom HTGD 90 117 V0001 AA",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117 V0001 AA"
+    },
+    {
+      "name": "General Electric GEK 32568K",
+      "organisation": "General Electric",
+      "spec": "GEK 32568K"
+    },
+    {
+      "name": "DIN 51524-1 HL",
+      "organisation": "DIN",
+      "spec": "51524-1 HL"
+    },
+    {
+      "name": "Dresser Rand 003-406-001 Type III",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001 Type III"
+    },
+    {
+      "name": "GE Oil and Gas ITN52220.04",
+      "organisation": "GE Oil and Gas",
+      "spec": "ITN52220.04"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "Siemens TLV 9013 04",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 04"
+    },
+    {
+      "name": "ASTM D4304-13 Type III",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type III"
+    },
+    {
+      "name": "Siemens TLV 9013 05",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 05"
+    },
+    {
+      "name": "ISO 8068:2006 L-TGB",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGB"
+    },
+    {
+      "name": "MAN D and T SE TED 10000494596",
+      "organisation": "MAN",
+      "spec": "D and T SE TED 10000494596"
+    },
+    {
+      "name": "Solar ES 9-224Y Class II",
+      "organisation": "Solar",
+      "spec": "ES 9-224Y Class II"
+    },
+    {
+      "name": "MHI MS04-MA-CL005 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL005 - Meets the requirements"
+    },
+    {
+      "name": "MHI MS04-MA-CL002 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL002 - Meets the requirements"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "General Electric GEK 120498",
+      "organisation": "General Electric",
+      "spec": "GEK 120498"
+    },
+    {
+      "name": "General Electric GEK 28143B",
+      "organisation": "General Electric",
+      "spec": "GEK 28143B"
+    },
+    {
+      "name": "General Electric GEK 46506E",
+      "organisation": "General Electric",
+      "spec": "GEK 46506E"
+    },
+    {
+      "name": "Dresser Rand 003-406-001 Type I",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001 Type I"
+    },
+    {
+      "name": "GB 11120-2011 L-TGA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TGA"
+    },
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    },
+    {
+      "name": "GB 11120-2011 L-TGSB",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TGSB"
+    },
+    {
+      "name": "ISO 8068:2006 L-TGSB",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGSB"
+    },
+    {
+      "name": "Elliot Turbo-machinery X-18-0004 - Meets the requirements",
+      "organisation": "Elliot Turbo-machinery",
+      "spec": "X-18-0004 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo S4 X 46 is based on Gas-to-Liquid (GTL) technology and has been developed to meet the demands of the latest high efficiency turbine systems. Designed to offer outstanding, long term performance under the most severe operating conditions Shell Turbo S4 X 46 will minimise deposit and sludge formation even under cyclic peak loading conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

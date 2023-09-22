@@ -1,0 +1,133 @@
+{
+  "id": "001H2216",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix HX7 10W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cace9aa7-2cb3-42d2-ac36-92eb9e42ab79.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) EN TDG V1.2 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/c6a9d854-6988-48c9-ada0-dcadcf095f98.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) France FR TDG V1.2 17-Nov-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576542.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) France EN 140003182031 EHS V1.4 18-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576541.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) France FR 140003182031 EHS V1.4 18-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2216_002XI2_A246",
+      "name": "Bouteille 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550054630",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2216_002WPC_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550053738",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "VW Standard 501.01",
+      "organisation": "VW",
+      "spec": "Standard 501.01"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 aide à maintenir le moteur propre et lui permet de fonctionner de manière efficace en empêchant la formation des boues et des dépôts. Adaptée à une grande variété de véhicules utilisés dans des conditions de fonctionnement les plus diverses.  ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-helix-hx7-10w40-1l"
+}

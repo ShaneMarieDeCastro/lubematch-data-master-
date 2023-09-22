@@ -1,0 +1,87 @@
+{
+  "id": "001D7860",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Omala S4 WE 680",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industrial gear oils",
+  "category": "Industrial gear oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "journal",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "off highway",
+    "pag",
+    "reduction gears",
+    "splash lubricated bearings",
+    "transmissions",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/adf1d5e9-77c9-46c6-9551-9a3cd3867a17.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 680 EN TDG V4.3 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543322.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 680 United Kingdom EN 140002340634 EHS V2.8 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/a1a75d94-6860-4438-8acb-ad9fc22566a8.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 680 United Kingdom EN TDG V4.3 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7860_002VNX_A1P5",
+      "name": "Pail 20 L Tinplate German Cuboid W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550043651",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE is an advanced synthetic heavy duty industrial worm drive gear oil formulated using specially selected polyalkylene glycol base fluids and additives.  It offers outstanding lubrication performance under severe operating conditions, including improved energy efficiency, long service life and high resistance to micro-pitting.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,94 @@
+{
+  "id": "001F8469",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Morlina S3 BA 680",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "bearing",
+    "industrial",
+    "light load",
+    "plain bearings",
+    "reciprocating gas compressors",
+    "steel mill",
+    "super demulsibility",
+    "water separation",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2982781f-367e-4a3c-a4a9-28ee2b536e26.pdf",
+      "type": "GTDS",
+      "name": "Morlina S3 BA 680 (2016) EN TDG V2.5 06-Feb-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481170.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S3 BA 680 (2016) Netherlands EN 140002783873 EHS V1.1 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481171.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S3 BA 680 (2016) Netherlands NL 140002783873 EHS V1.1 21-SEP-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "ISO 12925-1 CKB",
+      "organisation": "ISO",
+      "spec": "12925-1 CKB"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 2.5",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 2.5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S3 BA oils are premium quality rust & oxidation inhibited lubricating oils providing excellent lubrication in MORGOIL^®^ bearing & steel mill circulating systems. They are designed to have appropriate viscosity/temperature characteristics, low foaming tendencies and excellent water separation properties. In addition, they protect equipment against corrosion and oil oxidation resulting in long service life. Meets the requirements of the Morgan and Danieli for super demulsibility applications.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

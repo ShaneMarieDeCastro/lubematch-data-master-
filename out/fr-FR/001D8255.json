@@ -1,0 +1,124 @@
+{
+  "id": "001D8255",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S6 CXME 10W-40",
+  "description": "Premium Synthetic Technology Multifunction Oil for Off-Highway Vehicles",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Autres huiles de transmission",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bio gas",
+    "diesel",
+    "differential",
+    "differentials",
+    "engine",
+    "final drive",
+    "front axle",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic drives",
+    "intermediate axle",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "offroad",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "power steering",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "pump piston",
+    "pump vane",
+    "reduction gears",
+    "semi manual",
+    "slew",
+    "stationary",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor",
+    "transfer boxes",
+    "transfer case",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/046f7073-67cc-4863-89c4-06ec3ad15da4.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 CXME 10W-40 EN TDG V1.4 25-Jan-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/c35a360d-49a7-46d1-976f-ed53467b98b8.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 CXME 10W-40 France FR TDG V1.4 16-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534165.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 CXME 10W-40 France FR 140003182031 EHS V2.6 02-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534164.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 CXME 10W-40 France EN 140003182031 EHS V2.6 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8255_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027969",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar TO-4M",
+      "organisation": "Caterpillar",
+      "spec": "TO-4M"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La Spirax S6 CXME 10W-40 est conçue pour assurer aux exploitants un fonctionnement sans ennui et une fiabilité maximale pendant la durée de vie de leurs matériels. La Spirax S6 CXME 10W-40 satisfait aux exigences rigoureuses des transmissions modernes, des réductions finales, des freins à bain d'huile et des systèmes hydrauliques des matériels circulant hors route (travaux publics, génie civil, mines, carrières..) dans tous les climats. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "001I5569",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Stern Tube Lubricant Concentrate",
+  "description": "Special Purpose Hydraulic Fluid - Concentrate",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cc8cca7d-7970-4fb1-953c-51b954b61236.pdf",
+      "type": "GTDS",
+      "name": "Shell Stern Tube Lubricant Concentrate EN TDG V1.2 21-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02523158.PDF",
+      "type": "LMSDS",
+      "name": "Shell Stern Tube Lubricant Concentrate Canada EN 140006579500 EHS V2.0 16-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02523159.PDF",
+      "type": "LMSDS",
+      "name": "Shell Stern Tube Lubricant Concentrate Canada FR 140006579500 EHS V2.0 16-FEB-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/90eb13ca-9f01-4677-9541-f4075cca5603.pdf",
+      "type": "LTDS",
+      "name": "Shell Stern Tube Lubricant Concentrate Canada FR TDG V1.2 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/1b635260-73e8-4a7e-b6fb-c5235fcfbefd.pdf",
+      "type": "LTDS",
+      "name": "Shell Stern Tube Lubricant Concentrate Canada EN TDG V1.2 21-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5569_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057426",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

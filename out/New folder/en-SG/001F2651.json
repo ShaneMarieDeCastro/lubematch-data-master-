@@ -1,0 +1,146 @@
+{
+  "id": "001F2651",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Helix Ultra ECT C2/C3 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ae9fd33f-65c5-4766-8bbe-7fd623de14ea.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C2/C3 0W-30 (C2/C3 VW504/507 MB 229.52) EN TDG V2.0 27-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579743.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C2/C3 0W-30 (C2/C3 VW504/507 MB 229.52) Singapore EN 140001435547 EHS V1.3 23-MAR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2651_002XRR_A709",
+      "name": "Bottle 1 L Wishbone Plastic Burnt Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052527",
+      "margin": "1.61817809485136",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_002XRS_A709",
+      "name": "Bottle 4 L Wishbone Plastic Burnt Gold (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053030",
+      "margin": "2.30791767286515",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550045069",
+      "margin": "1.41974724539562",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.52"
+    },
+    {
+      "name": "Fiat 9.55535-GS1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-GS1 - Meets the requirements"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Fiat 9.55535-DS1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-DS1 - Meets the requirements"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Porsche C30",
+      "organisation": "Porsche",
+      "spec": "C30"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C2/C3 features its most advanced emissions-compatible technology that helps to keep diesel particulate filters clean to help maintain engine performance.  It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_0W-30_ECT-C2-C3_5L_600053814.png",
+  "valueRecord": [],
+  "commerce": null
+}

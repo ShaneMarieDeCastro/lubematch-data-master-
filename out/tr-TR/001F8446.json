@@ -1,0 +1,94 @@
+{
+  "id": "001F8446",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Corena S3 RX 46",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "gtl",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0e292504-d3f8-4815-9a9d-e9ed1a31ffa4.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 RX 46 (2017) EN TDG V1.2 28-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592572.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Turkey EN 140003791542 EHS V1.9 13-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592573.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Turkey TR 140003791542 EHS V1.9 13-JUN-2023",
+      "language": "TR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/a88166fe-6b78-4dd6-a8b9-98b558618002.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 RX 46 (2017) Turkey TR TDG V1.2 14-Oct-2020",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8446_002VNK_A246",
+      "name": "Kova 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550050020",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8446_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550050021",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RX, Shell’in gelişmiş Gas-to-Liquids (GTL) baz yağı teknolojisi ve gelişmiş yüksek performanslı katıkların birleşimiyle üretilen yüksek kaliteli hava kompresörü yağıdır. Belirli koşullar altında 6,000 ila 8,000 saatler civarında yağ değişim aralıklarına sahip kompresörlerde mükemmel koruma  ve yüksek performans için tasarlanmıştır",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

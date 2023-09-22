@@ -1,0 +1,251 @@
+{
+  "id": "001F8878",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T5 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "automatic",
+    "aviation",
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "brakes",
+    "cars",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "light fuel",
+    "lng",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "pump piston",
+    "stationary",
+    "tandem drive",
+    "transmissions",
+    "two stroke",
+    "urban",
+    "variable"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e0b0c997-0c67-480e-a0ae-d318ebe9c795.pdf",
+      "type": "GTDS",
+      "name": "Rotella T5 10W-30 (CK-4) EN TDG V1.8 15-Dec-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290753.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 10W-30 (CK-4) Canada FR 140006579500 EHS V2.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/2eb413f5-aa60-4f76-9e8e-8a3cfa69ad35.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 10W-30 (CK-4) Canada FR TDG V1.8 28-Jan-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/7f2a5f00-acdb-4cce-b4aa-be3cf9caf8b1.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 10W-30 (CK-4) Canada EN TDG V1.8 15-Dec-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289945.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 10W-30 (CK-4) Canada EN 140006579500 EHS V2.2 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8878_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550045131",
+      "margin": "0.809622663551902",
+      "packShot": ""
+    },
+    {
+      "code": "001F8878_002XLY_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550045018",
+      "margin": "0.920163967770117",
+      "packShot": ""
+    },
+    {
+      "code": "001F8878_002XEK_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550045019",
+      "margin": "0.708482225432051",
+      "packShot": ""
+    },
+    {
+      "code": "001F8878_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500010047",
+      "margin": "0.538253688493262",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Deutz DQC III-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-10 LA"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile moteur Shell ROTELLA^® T5 pour usage intensif avec technologie Triple Protection Plus™ a été améliorée avec des huiles de base synthétiques de première qualité et une technologie d'additifs avancée pour protéger contre l'usure, les dépôts et la dégradation de l'huile, PLUS un meilleur débit à basse température et une meilleure économie de carburant.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

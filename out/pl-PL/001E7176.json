@@ -1,0 +1,81 @@
+{
+  "id": "001E7176",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Mysella S2 Z 15W-40",
+  "description": "Zero Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Oleje silnikowe przemysłowe",
+  "category": "Oleje silnikowe - stacjonarne silniki gazowe",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "hydraulic system",
+    "natural gas",
+    "pump gear",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S2_Z_15W-40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 Z 15W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603972.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 15W-40 Poland EN 140003791557 EHS V2.3 28-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/a4bef389-79e5-45d7-8aae-4945b6333529.pdf",
+      "type": "LTDS",
+      "name": "Mysella S2 Z 15W-40 Poland PL TDG V2.2 20-Jul-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604155.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 15W-40 Poland PL 140003791557 EHS V2.3 28-JUN-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7176_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550035902",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 Z to wysoko wydajny olej od zaawansowanych silników gazowych, które wymagają zastosowania bezpopiołowych produktów olejowych. Stosowanie oleju Shell Mysella S2 Z minimalizuje zużycie silnika, zmniejsza powstawanie osadów w komorze spalania i w otworach wylotowych oraz zapobiega podwyższaniu lepkości oleju.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Inn5QAC&field=Attachment__Name__s",
+      "family": "Mysella",
+      "savings": 25000,
+      "title": "Shell Mysella S2 Z 15W-40"
+    }
+  ],
+  "commerce": null
+}

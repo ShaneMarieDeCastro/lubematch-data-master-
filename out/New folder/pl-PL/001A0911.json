@@ -1,0 +1,225 @@
+{
+  "id": "001A0911",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "AeroShell Fluid S.8350",
+  "description": "Mineral lubricating oil for helicopter transmissions",
+  "family": "AeroShell",
+  "parentCategory": "Środki smarne dla lotnictwa",
+  "category": "Oleje przekłądniowe (lotnictwo)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/eaef2607-d982-4c7c-b2ef-f9e6fca5e0b2.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid S.8350 EN TDG V1.3 28-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550038.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid S.8350 Poland PL 140003791557 EHS V4.9 11-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550039.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid S.8350 Poland EN 140003791557 EHS V3.9 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OEP-215",
+      "organisation": "Joint Service Designation",
+      "spec": "OEP-215"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid S.8350 is an SAE 90 extreme pressure gearbox oil",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "-"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "-"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "16.26 to 17.42"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "85 min"
+    },
+    {
+      "property": "Flash point (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "177 min"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-18 max"
+    },
+    {
+      "property": "Total acid number",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.2"
+    },
+    {
+      "property": "Density",
+      "method": "NULL",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "-"
+    },
+    {
+      "property": "Evaporation loss",
+      "method": "",
+      "uom": "@150°C",
+      "units": "",
+      "value": "5 max"
+    },
+    {
+      "property": "Precipitation loss",
+      "method": "",
+      "uom": "",
+      "units": "ml",
+      "value": "0.05 max"
+    },
+    {
+      "property": "Copper corrosion",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Foaming sequence I, II, III",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "182"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "17.0"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "97"
+    },
+    {
+      "property": "Flash point (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "228"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Total acid number",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.15"
+    },
+    {
+      "property": "Density",
+      "method": "NULL",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.895"
+    },
+    {
+      "property": "Evaporation loss",
+      "method": "",
+      "uom": "@150°C",
+      "units": "",
+      "value": "3.0"
+    },
+    {
+      "property": "Precipitation loss",
+      "method": "",
+      "uom": "",
+      "units": "ml",
+      "value": "0.01"
+    },
+    {
+      "property": "Copper corrosion",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    },
+    {
+      "property": "Foaming sequence I, II, III",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

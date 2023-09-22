@@ -1,0 +1,84 @@
+{
+  "id": "001D5427",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T1 10W",
+  "description": "High Quality Straight Grade Heavy Duty Diesel Engine Oil ",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "automatic",
+    "brakes",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "manual sequential",
+    "mobile",
+    "on highway",
+    "pump gear",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008308065_201505050428.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 10W (CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/389cdcbe-005f-4537-9a97-60c80b0e08c5.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 10W (CF) Canada FR TDG V2.1 22-May-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291185.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 10W (CF) Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289508.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 10W (CF) Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/1e959dea-b03b-47a1-90cc-b3e50205b23d.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 10W (CF) Canada EN TDG V2.1 25-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Vickers 35VQ25",
+      "organisation": "Vickers",
+      "spec": "35VQ25"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles de protection sous tension Rotella de Shell^®^ T1 utilisent des additifs de performance bien éprouvés pour lutter contre l'usure des moteurs et prévenir les dépôts, fournissant des performances lubrification et cohérentes. Convient pour une utilisation journalière dans les moteurs plus anciens turbo et non turbocompressés.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

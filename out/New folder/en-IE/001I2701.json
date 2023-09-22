@@ -1,0 +1,75 @@
+{
+  "id": "001I2701",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix Ultra ECT MULTI 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/81bc6949-cc30-4fec-a2e9-7fa04fcd9adf.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) EN TDG V1.4 03-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556088.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Ireland EN 140007731156 EHS V1.2 11-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT MULTI 5W-30 features its most advanced emissions-compatible technology that helps to keep diesel particulate filters clean to help maintain engine performance.  It meets the requirements from multi leading OEMs.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550058341_Shell_Helix_Ult_ECT_MULT_5W-30_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

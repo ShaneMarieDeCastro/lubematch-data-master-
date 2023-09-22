@@ -1,0 +1,73 @@
+{
+  "id": "001F3259",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra Professional AP-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "psa"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e1e9214e-1cb5-4313-a0cf-e4d9f237e712.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319048.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Turkey TR 140003791542 EHS V1.4 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/d9b8cd2c-0436-4fa8-a2f1-d189563f1ba9.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Turkey TR TDG V1.5 30-Nov-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319050.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Turkey EN 140003791542 EHS V1.4 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "PSA B71 2312",
+      "organisation": "PSA",
+      "spec": "B71 2312"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Peugeot, Citroen ve ACEA C2 sınıfı motor yağı talep edilen diğer yüksek performans araçlarının gereksinimlerini karşılamak üzere tasarlanmıştır.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_0W-30_AP-L_5L_600047345.png",
+  "valueRecord": [],
+  "commerce": null
+}

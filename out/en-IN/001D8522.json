@@ -1,0 +1,132 @@
+{
+  "id": "001D8522",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Gadus S1 V220 2",
+  "description": "Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "cement",
+    "ep",
+    "extreme pressure",
+    "general engineering",
+    "lithium",
+    "lithium based",
+    "moderate duty",
+    "multipurpose",
+    "plain bearings",
+    "roller bearings",
+    "rolling bearing",
+    "steel",
+    "versatile"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ef801d38-ac2c-4092-8d66-0d30e1d1b685.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V220 2 EN TDG V2.6 31-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/ba4b7343-a996-4adc-8e60-cfe8d2b8a56d.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V220 2 India EN TDG V2.6 31-Mar-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637244.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V220 2 India EN 140006501563 EHS V1.7 22-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8522_002VH7_A1W8",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550031267",
+      "margin": "0.46007933840984",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Dark brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "18"
+    },
+    {
+      "property": "Cone Penetration, worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": ">180"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "001M2690",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Fleet NX 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c39af29d-eb8a-43d2-94d4-19a374068804.pdf",
+      "type": "GTDS",
+      "name": "Shell Fleet NX 15W40 (CK-4) (India) EN TDG V1.2 25-Apr-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578702.PDF",
+      "type": "LMSDS",
+      "name": "Shell Fleet NX 15W40 (CK-4) (India) India EN 140006501563 EHS V1.0 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Fleet NX 15W 40 use “Low-SAPS” additive technology to protect low emission engines under severe conditions. It delivers improvements in wear and deposit control, resistance to breakdown under high temperatures compared to previous oil.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

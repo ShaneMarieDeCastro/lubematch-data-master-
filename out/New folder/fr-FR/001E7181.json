@@ -1,0 +1,170 @@
+{
+  "id": "001E7181",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Mysella S3 N 40",
+  "description": "Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Moteur à gaz stationnaire",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "circulation",
+    "circulation system",
+    "cng",
+    "combined cycle",
+    "diaphragm",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "gas",
+    "gas turbines",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "industrial",
+    "landfill",
+    "light fuel",
+    "lng",
+    "low ash",
+    "lpg",
+    "manual sequential",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "plain",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "tandem drive",
+    "transmissions",
+    "turbine",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c4875350-f84d-4888-843c-4ce58db6a3f2.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 N 40 EN TDG V4.2 19-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487593.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 40 France EN 140003182031 EHS V1.6 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487592.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 40 France FR 140003182031 EHS V1.6 21-SEP-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/25527891-15d1-486a-b003-b23b9570597e.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 N 40 France FR TDG V4.2 28-Dec-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7181_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550035930",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 N répond aux exigences des moteurs stationnaires à gaz conçus pour répondre aux nouvelles normes en termes d'émissions de NOx et plus particulièrement ceux qui utilisent les dernières technologies en matière de mélange pauvre pour atteindre cet objectif.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "135"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.5"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "890"
+    },
+    {
+      "property": "Flash Point, closed cup",
+      "method": "ASTM D93A",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896",
+      "uom": "mg",
+      "units": "KOH/g",
+      "value": "5"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ISO 3987",
+      "uom": "NULL",
+      "units": "%wt",
+      "value": "0.45"
+    },
+    {
+      "property": "Phosphorus",
+      "method": "ASTM D4047",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-mysella-s3-n-135x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

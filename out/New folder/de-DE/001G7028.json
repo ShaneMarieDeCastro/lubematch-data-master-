@@ -1,0 +1,124 @@
+{
+  "id": "001G7028",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Hydraulic S1 V 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Hydrauliköle",
+  "category": "Hydrauliköle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/eed8dfc3-f5e4-40fc-8ab8-0d3af86f9c0a.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 V 68 EN TDG V1.3 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/9009f8e3-55d1-4b58-b5d5-7f48b8144745.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 V 68 Germany DE TDG V1.3 04-Aug-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02585637.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 68 Germany DE 140001492039 EHS V1.3 31-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02585638.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 68 Germany EN 140001492039 EHS V1.3 31-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 V 68 ist eine hochwertige Hydraulikflüssigkeit, die in den meisten industriellen und mobilen Anwendungen kosteneffektiven und zuverlässigen Schutz und bessere Leistung bietet.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse",
+      "method": "DIN 51519",
+      "uom": "",
+      "units": "",
+      "value": "68"
+    },
+    {
+      "property": "ISO Flüssigkeitstyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "HV"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "10,7"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "140"
+    },
+    {
+      "property": "Dichte",
+      "method": "DIN 51757  ",
+      "uom": "@15 °C",
+      "units": "kg/l",
+      "value": "0,881"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,134 @@
+{
+  "id": "001G0570",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix HX8 Professional AG 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "gm"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dd8df411-d428-448d-9459-9424b2d4e379.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SP/GF-6A meet dexos1gen2) EN TDG V3.3 30-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613509.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Poland PL 140003791557 EHS V1.5 07-JUL-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/441cf264-90dc-4701-8fb5-0ce708118bd9.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Poland PL TDG V3.3 04-Jul-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612998.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Poland EN 140003791557 EHS V1.5 07-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0570_002WL0_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550054287",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0570_002X0G_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550054289",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0570_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550048138",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "Ford WSS M2C961-A1",
+      "organisation": "Ford",
+      "spec": "WSS M2C961-A1"
+    },
+    {
+      "name": "VW Norm VWC 53034",
+      "organisation": "VW",
+      "spec": "Norm VWC 53034"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 13340",
+      "organisation": "Chrysler",
+      "spec": "MS 13340"
+    },
+    {
+      "name": "Opel OV 040 1547 - G30",
+      "organisation": "Opel",
+      "spec": "OV 040 1547 - G30"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Zaprojektowany aby spełniał wysokie wymagania wysokoobciążonych silników, w tym wymogi  samochodów koncernu General Motors, Opel/Vauxhall i innych  wymagających olejów spełniających normy API SP lub ILSAC GF-6A.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

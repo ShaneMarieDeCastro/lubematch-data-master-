@@ -1,0 +1,77 @@
+{
+  "id": "001D8554",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Gadus S1 V160D 2",
+  "description": "Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "ep",
+    "extended drain",
+    "extreme pressure",
+    "general chassis",
+    "heavy duty",
+    "lithium based",
+    "multipurpose",
+    "relubrication",
+    "roller bearings",
+    "rolling bearing",
+    "severe conditions",
+    "severe service",
+    "solid lubricant",
+    "trucks",
+    "versatile",
+    "wheel"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/964625c3-3b90-411a-875b-1b33f1750a7a.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V160D 2 EN TDG V1.3 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594613.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160D 2 Turkey EN 140003791542 EHS V1.2 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594614.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160D 2 Turkey TR 140003791542 EHS V1.2 14-JUN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford ESA-M1C75-B",
+      "organisation": "Ford",
+      "spec": "ESA-M1C75-B"
+    },
+    {
+      "name": "Mack MG-C",
+      "organisation": "Mack",
+      "spec": "MG-C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S1 V160D is an NLGI Grade 2 lithium 12-hydroxystearate thickened grease containing 1% molybdenum disulfide and a special polymer. It was developed in conjunction with two major manufacturers (Mack and Ford). It is specially formulated for heavy-duty, severe service in trucks and other automotive applications where extended lubrication intervals are desired, along with excellent lubrication and protective qualities.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

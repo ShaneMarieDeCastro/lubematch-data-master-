@@ -1,0 +1,73 @@
+{
+  "id": "001I5565",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Centrifugal Compressor Fluid 25",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "25",
+  "viscosityType": "ISO",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f02be3ea-4dfe-412f-b8f3-6062254b8eb4.pdf",
+      "type": "GTDS",
+      "name": "Shell Centrifugal Compressor Fluid 25 EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290326.PDF",
+      "type": "LMSDS",
+      "name": "Shell Centrifugal Compressor Fluid 25 Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cd843f2d-35d7-4034-8d69-2c1576280242.pdf",
+      "type": "LTDS",
+      "name": "Shell Centrifugal Compressor Fluid 25 Canada FR TDG V1.1 07-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290328.PDF",
+      "type": "LMSDS",
+      "name": "Shell Centrifugal Compressor Fluid 25 Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/122aa46d-5ee8-43e7-8123-e4911d466742.pdf",
+      "type": "LTDS",
+      "name": "Shell Centrifugal Compressor Fluid 25 Canada EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5565_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057422",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

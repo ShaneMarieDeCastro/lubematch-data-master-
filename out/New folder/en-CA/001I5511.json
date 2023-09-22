@@ -1,0 +1,73 @@
+{
+  "id": "001I5511",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe EAL 46",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cb9fb8c7-fb3a-4f42-80f8-1ded08ccf878.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe EAL 46 EN TDG V1.0 21-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b1ae2447-ba56-4f46-a948-a87e04e048ae.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe EAL 46 Canada FR TDG V1.0 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/e29a72f2-3f67-4210-9ef6-74c91030f3b7.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe EAL 46 Canada EN TDG V1.0 21-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290883.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe EAL 46 Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290884.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe EAL 46 Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5511_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057359",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe EAL 46 is a high-performance, environmentally acceptable hydraulic fluid. Shell EcoSafe EAL 46 is produced from biodegradable base stocks and can replace traditional mineral oil hydraulic fluid in in systems with little to no equipment modifications and minimal downtime to provide outstanding performance across a wide range of conditions. Shell EcoSafe EAL 46 fluids can be relied on to provide optimal performance in a wide range of outdoor climates, across a wide temperature operating window.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,96 @@
+{
+  "id": "001D1795",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R5 LM 10W-40",
+  "description": "Low Emissions Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "bio gas",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "multi fuel",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fcbfe1f4-53a0-4514-9b31-6249ad939a34.pdf",
+      "type": "GTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) EN TDG V1.5 28-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561358.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Netherlands EN 140002783873 EHS V2.6 26-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/96272743-3583-41bf-9091-6ecac5abecd0.pdf",
+      "type": "LTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Netherlands NL TDG V1.5 02-Aug-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561357.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Netherlands NL 140002783873 EHS V2.6 26-APR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D1795_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550029381",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R5 LM bevat Shell's exclusieve \"Low-SAPS\" additieven technologie. De beschermende eigenschappen verhogen de prestaties van de olie en bieden een continue bescherming met als resultaat brandstofbesparing en verlengde olieverversingsintervallen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R5-LM-10_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

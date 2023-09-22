@@ -1,0 +1,138 @@
+{
+  "id": "001A0694",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Turbo Oil GT 32",
+  "description": "Special Purpose Synthetic Gas Turbine oil",
+  "family": "Turbo",
+  "parentCategory": "Turbineoliën",
+  "category": "Turbineoliën",
+  "applicationKeys": [
+    "aero derivative",
+    "circulation",
+    "circulation system",
+    "combined cycle",
+    "gas",
+    "gas turbines",
+    "governor oil",
+    "group iii",
+    "heavy duty",
+    "heavy duty gas turbine",
+    "hydraulic system",
+    "industrial",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "servo",
+    "severe conditions",
+    "steam",
+    "tost life 8000 hours",
+    "turbine",
+    "turbocharger",
+    "turbocompressors"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/9cdfaf02-0c43-4563-af46-b9f020ff8001.pdf",
+      "type": "GTDS",
+      "name": "Turbo GT 32 EN TDG V2.2 08-Mar-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482478.PDF",
+      "type": "LMSDS",
+      "name": "Turbo GT 32 Netherlands NL 140002783873 EHS V2.0 04-MAY-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482477.PDF",
+      "type": "LMSDS",
+      "name": "Turbo GT 32 Netherlands EN 140002783873 EHS V2.0 04-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/69e1b6ad-32d6-44f4-b5cb-d48824a887dd.pdf",
+      "type": "LTDS",
+      "name": "Turbo GT 32 Netherlands NL TDG V2.2 09-Mar-2017",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Electric GEK 32568J",
+      "organisation": "General Electric",
+      "spec": "GEK 32568J"
+    },
+    {
+      "name": "General Electric GEK 28143B",
+      "organisation": "General Electric",
+      "spec": "GEK 28143B"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "Solar ES 9-224Y Class II",
+      "organisation": "Solar",
+      "spec": "ES 9-224Y Class II"
+    },
+    {
+      "name": "Elliot Turbo-machinery X-18-0004 - Meets the requirements",
+      "organisation": "Elliot Turbo-machinery",
+      "spec": "X-18-0004 - Meets the requirements"
+    },
+    {
+      "name": "Alstom HTGD 90 117 V0001 AA",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117 V0001 AA"
+    },
+    {
+      "name": "Alstom HTGD 90 117",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117"
+    },
+    {
+      "name": "Siemens TLV 9013 04",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 04"
+    },
+    {
+      "name": "Siemens TLV 9013 05",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 05"
+    },
+    {
+      "name": "ASTM D4304-06a Type III",
+      "organisation": "ASTM",
+      "spec": "D4304-06a Type III"
+    },
+    {
+      "name": "General Electric GEK 107395A",
+      "organisation": "General Electric",
+      "spec": "GEK 107395A"
+    },
+    {
+      "name": "DIN 51515-2 L-TG",
+      "organisation": "DIN",
+      "spec": "51515-2 L-TG"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo GT 32 is ontwikkeld voor de meest zware bedrijfsomstandigheden die voorkomen in moderne \"heavy duty\" industriële gasturbines. Shell Turbo GT 32 is samengesteld op basis van een Group III basisoliën waardoor sommige fysische eigenschappen zich significant onderscheiden ten opzichte van conventionele turbine oliën.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

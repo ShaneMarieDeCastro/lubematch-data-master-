@@ -1,0 +1,94 @@
+{
+  "id": "001F8446",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Corena S3 RX 46",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "air compressor",
+    "gtl",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0e292504-d3f8-4815-9a9d-e9ed1a31ffa4.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 RX 46 (2017) EN TDG V1.2 28-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592500.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Netherlands NL 140002783873 EHS V1.8 13-JUN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/2e6a4cc2-b7f1-4b24-8831-f6865ebcccfb.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 RX 46 (2017) Netherlands NL TDG V1.2 02-Oct-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592499.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 46 (2017) Netherlands EN 140002783873 EHS V1.8 13-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8446_002VNK_A246",
+      "name": "Emmer 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550050020",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8446_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550050021",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RX is een premium synthetische olie voor luchtcompressoren gebaseerd op Shell gevanceerde 'Gas-to-Liquid' (GTL) technologie en uit geselecteerde additieven om uitstekende bescherming en prestaties te garanderen van compressoren met olieverversingsintervallen van 6.000 uren en tot 8.000 uren onder bepaalde omstandigheden.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

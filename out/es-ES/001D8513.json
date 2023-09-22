@@ -1,0 +1,181 @@
+{
+  "id": "001D8513",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Gadus S3 Repair",
+  "description": "Premium Open Gear Running In Grease Containing Solid Lubricants",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas para engranajes abiertos",
+  "applicationKeys": [
+    "aluminium complex",
+    "cement",
+    "ep",
+    "extreme pressure",
+    "grinding mills",
+    "industrial",
+    "mining",
+    "open gears",
+    "power station",
+    "premium",
+    "rotary dryer",
+    "rotary kiln",
+    "running in",
+    "semifluid",
+    "solid lubricant",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1d29841c-7734-41d6-ba6b-4cf539837147.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 Repair EN TDG V2.2 28-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607748.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Repair Spain EN 140003966322 EHS V3.2 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607747.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Repair Spain ES 140003966322 EHS V3.2 03-JUL-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/323d979d-d33a-4085-a79d-78b6471d2e6b.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 Repair Spain ES TDG V2.2 07-Jul-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8513_002VH7_A1P5",
+      "name": "Bidón 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Bidón",
+      "materialCode": "550028220",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "El producto ha sido químicamente diseñado para propiciar un rodaje ó puesta a punto progresivo y suave de los engranajes, reduciendo la rugosidad de las superficies en contacto en engranajes abiertos nuevos o ligeramente dañados. ",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "00"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Aluminium Complex "
+    },
+    {
+      "property": "Texture",
+      "method": "Visual",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Tacky"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Part Synthetic"
+    },
+    {
+      "property": "Density",
+      "method": "Gardener Method",
+      "uom": "@15.5°C",
+      "units": "kg/m³",
+      "value": "1"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "520"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "32"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "400-430"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Copper Strip Corrosion (3 hrs)",
+      "method": "",
+      "uom": "@100°C",
+      "units": "",
+      "value": "1b"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "N",
+      "value": "8000"
+    },
+    {
+      "property": "Low Temperature Pumpability (Lincoln Ventmeter)",
+      "method": "NULL",
+      "uom": "@400 psi",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "Rust Test",
+      "method": "ASTM D1743",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

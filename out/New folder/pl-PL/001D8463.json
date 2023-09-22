@@ -1,0 +1,155 @@
+{
+  "id": "001D8463",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S2 V100 2",
+  "description": "High Performance Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne bez dodatków EP",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "electric motor bearings",
+    "electric motors",
+    "general industrial lubrication",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium hydroxystearate",
+    "multipurpose",
+    "plain",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "sealed bearings",
+    "shock load",
+    "water pump bearings",
+    "wide range of operating conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541808.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 2 Poland EN 140003791557 EHS V3.12 21-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/0679536e-02da-4901-ba57-7a28f31ef72b.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V100 2 Poland PL TDG V1.1 08-Jun-2018",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541809.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 2 Poland PL 140003791557 EHS V4.12 21-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8463_002VGF_EURO",
+      "name": "Tuba 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550053534",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8463_002XD7_A246",
+      "name": "Wiadro 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028032",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8463_002VH7_A246",
+      "name": "Beczka 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Beczka",
+      "materialCode": "550028033",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V100 2 to uniwersalny smar zagęszczony hydroksystearynianem litu zawierający dodatki przeciwzużyciowe, antyutleniające oraz zapobiegające rdzewieniu. ",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium hydroxystearate"
+    },
+    {
+      "property": "Base Oil (Type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

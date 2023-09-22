@@ -1,0 +1,61 @@
+{
+  "id": "001I5474",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe S3 DU 100",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b9143f66-bc63-4198-a1e1-d9e49b2b07f4.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S3 DU 100 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562735.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 100 United States EN 140002686046 EHS V1.3 24-SEP-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/b7962290-da6a-47a6-ae31-f097363af44b.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 100 United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5474_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057082",
+      "margin": "3.5400182393607",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe S3 DU 100 is a synthetic fire-resistant hydraulic fluid, based on very high VI, polyalkylene glycol (PAG) base stocks, coupled with a proven ashless additive package. Shell EcoSafe S3 DU 100 has been designed to minimize fluid degradation and thus extend fluid changeout intervals under even the most severe operating conditions. Shell EcoSafe S3 DU 100 provides the performance properties demanded by today’s high-performance hydraulic systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

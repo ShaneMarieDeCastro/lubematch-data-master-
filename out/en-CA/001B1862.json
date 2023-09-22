@@ -1,0 +1,81 @@
+{
+  "id": "001B1862",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Power Steering Fluid",
+  "description": "General purpose power steering fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Other Specialities",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Power_Steering_Fluid.pdf",
+      "type": "GTDS",
+      "name": "Power Steering Fluid English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289519.PDF",
+      "type": "LMSDS",
+      "name": "Power Steering Fluid Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289518.PDF",
+      "type": "LMSDS",
+      "name": "Power Steering Fluid Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors GM 9985010",
+      "organisation": "General Motors",
+      "spec": "GM 9985010"
+    },
+    {
+      "name": "TMS 6810",
+      "organisation": "TMS",
+      "spec": "6810"
+    },
+    {
+      "name": "VW Standard TL 570.26",
+      "organisation": "VW",
+      "spec": "Standard TL 570.26"
+    },
+    {
+      "name": "Ford ESW-M2C128-C",
+      "organisation": "Ford",
+      "spec": "ESW-M2C128-C"
+    },
+    {
+      "name": "Ford ESW-M2C128-D",
+      "organisation": "Ford",
+      "spec": "ESW-M2C128-D"
+    },
+    {
+      "name": "Daimler Chrysler MS 5931",
+      "organisation": "Daimler Chrysler",
+      "spec": "MS 5931"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

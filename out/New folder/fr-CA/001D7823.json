@@ -1,0 +1,114 @@
+{
+  "id": "001D7823",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Morlina S3 BA 460",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "gearbox",
+    "industrial",
+    "light load",
+    "morgoil",
+    "plain",
+    "plain bearings",
+    "reciprocating gas compressors",
+    "steel mill",
+    "super demulsibility",
+    "trunnion",
+    "water separation",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S3_BA_460_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S3 BA 460 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/e0d48b4f-b9b2-4368-8bb5-5acc4b94d94d.pdf",
+      "type": "LTDS",
+      "name": "Morlina S3 BA 460 Canada EN TDG V2.1 23-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/63036eee-8c88-4171-95b8-d47eec8c2191.pdf",
+      "type": "LTDS",
+      "name": "Morlina S3 BA 460 Canada FR TDG V2.1 30-May-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291130.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S3 BA 460 Canada FR 140006579500 EHS V1.8 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291131.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S3 BA 460 Canada EN 140006579500 EHS V1.7 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 2.5",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 2.5"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles Shell Morlina S3 BA sont des huiles lubrifiantes de qualité supérieure, protégées contre la rouille et l'oxydation, qui assurent une excellente lubrification des systèmes de circulation MORGOIL® et des aciéries. Ils sont conçus pour avoir des caractéristiques de viscosité / température appropriées, de faibles tendances à la formation de mousse et d'excellentes propriétés de séparation de l'eau. En outre, ils protègent les équipements contre la corrosion et l'oxydation de l'huile, ce qui se traduit par une longue durée de vie. Répond aux exigences de la Morgan et Danieli pour les applications de super-désémulsibilité.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Di4lQAC&field=Attachment__Name__s",
+      "family": "Morlina",
+      "savings": 850000,
+      "title": "Shell Morlina S3 BA 460"
+    }
+  ],
+  "commerce": null
+}

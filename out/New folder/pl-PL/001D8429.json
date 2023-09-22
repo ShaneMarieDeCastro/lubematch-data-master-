@@ -1,0 +1,153 @@
+{
+  "id": "001D8429",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S3 V460D 2",
+  "description": "Premium Multipurpose Heavy Duty Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne z dodatkami EP",
+  "applicationKeys": [
+    "bearing",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "heavy duty",
+    "heavy load",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "mining",
+    "moly",
+    "multipurpose",
+    "plain",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "shock load",
+    "slow",
+    "slow moving",
+    "solid lubricant",
+    "steel",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f617ed24-2aa7-4d8e-b9d1-f8b5639d5306.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V460D 2 EN TDG V2.6 01-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02520306.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V460D 2 Poland PL 140003791557 EHS V3.5 01-FEB-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/bc0b62b8-b54d-4fd3-885d-3c22e2a62876.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V460D 2 Poland PL TDG V2.6 12-Jul-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02520305.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V460D 2 Poland EN 140003791557 EHS V3.5 01-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8429_002VH7_A246",
+      "name": "Beczka 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Beczka",
+      "materialCode": "550025254",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V460D to wysokowydajne, odporne na wysoką temperaturę smary przeznaczony do pracy w wolnoobrotowych, wysokoobciążonych łożyskach narażonych na obciążenia udarowe. Formulacja oparta jest na oleju mineralnym o wysokim wskaźniku lepkości oraz zagęszczaczu litowokompleksowym. Zawiera dodatki zapewniające znakomite właściwości wysokotemperaturowe, odporność na utlenianie i korozję oraz dodatki stałe zapewniające odporność na obciążenia udarowe.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium complex"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "31"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": ">240"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg",
+      "value": "620"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

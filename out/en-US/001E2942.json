@@ -1,0 +1,101 @@
+{
+  "id": "001E2942",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State Synthetic Blend SAE 5W-30 Motor Oil",
+  "description": "Passenger car motor oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/20091bfa-0026-4d24-83e0-df215969f470.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Synthetic Blend SAE 5W-30 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/dee38a77-3860-4beb-bd31-4bdb3bf30240.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Synthetic Blend SAE 5W-30 Motor Oil United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564162.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Synthetic Blend SAE 5W-30 Motor Oil United States EN 140002686046 EHS V1.8 24-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "General Motors dexos1",
+      "organisation": "General Motors",
+      "spec": "dexos1"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "Ford WSS-M2C946-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C946-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Whether driving your vehicle in stop-and-go traffic or pulling heavy loads, hard-working vehicles experience stress that can break down oil and lead to friction-related wear. Quaker State Synthetic Blend motor oil is specially formulated to resist breakdown and deliver optimal performance. It is also dexos1™ Gen 2 approved for use in all GM vehicles with gasoline engines and protects modern turbocharged engines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

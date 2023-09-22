@@ -1,0 +1,109 @@
+{
+  "id": "001G3715",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Spirax S6 CFD ME 60",
+  "description": "Premium performance off-highway final drive and axle oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Autres huiles de transmission",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "60",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/06e10b1a-e605-40b7-8af9-e54c7ec70895.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 CFD ME 60 EN TDG V1.0 23-Dec-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/411f9c1c-ed2e-4b45-91ab-719cf807fd91.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 CFD ME 60 Canada FR TDG V1.0 25-Jan-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290066.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 CFD ME 60 Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290065.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 CFD ME 60 Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/347a198f-b802-4826-92d9-b8aaf60c820d.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 CFD ME 60 Canada EN TDG V1.0 10-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G3715_002XD6_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550048531",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3715_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550048530",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3715_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550061749",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3715_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500010681",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar FD-1",
+      "organisation": "Caterpillar",
+      "spec": "FD-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 CFD ME 60 est une huile spécialement conçue pour les systèmes de transmission aux roues et les essieux. Elle offre une protection nettement améliorée aux engrenages et aux paliers dans les engrenages coniques, les différentiels et les systèmes de transmission aux roues et les essieux. Elle est conforme à la norme FD-1 de Caterpillar pour les systèmes de transmission aux roues et les essieux conforme à la norme (FDAO). Spirax S6 CFD ME 60 a été mise au point pour une utilisation continue dans des températures ambiantes extrêmes dans les véhicules hors route.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "001F8470",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Morlina S2 BL 5",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d74f6e1a-750d-441e-bc60-8092ebdf1658.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 5 (2016) EN TDG V1.1 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482252.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 5 (2016) Netherlands NL 140002783873 EHS V1.7 11-OCT-2022",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/7727d80c-a893-433a-b505-be5f55f82e4c.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 5 (2016) Netherlands NL TDG V1.1 01-Dec-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482251.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 5 (2016) Netherlands EN 140002783873 EHS V1.7 11-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8470_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550055973",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8470_002VNA_A664",
+      "name": "Emmer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550055971",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-62",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-62"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL 5 is een olie met lage viscositeit samengesteld uit 'Gas-to-Liquid' (GTL) technologie en zinkvrije additieven voor een betrouwbare bescherming te bieden van spindels van metaalbewerkingsmachines met hoge en zeer hoge snelheden. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

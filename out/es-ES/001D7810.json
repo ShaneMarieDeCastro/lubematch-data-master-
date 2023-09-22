@@ -1,0 +1,212 @@
+{
+  "id": "001D7810",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Morlina S2 B 150",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Aceites circulantes y para rodamientos",
+  "category": "Aceites circulantes y para rodamientos",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "combined cycle",
+    "enclosed gear",
+    "engine",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "liquid ring",
+    "low load",
+    "machine circulation systems",
+    "marine",
+    "marine reversing gears",
+    "natural gas",
+    "off highway",
+    "oil lubricated bearings",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "rollneck bearings",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "stationary",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "water",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/64d3754d-ce4f-4153-a505-831440444932.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 150 EN TDG V2.3 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572448.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 150 Spain ES 140003966322 EHS V1.7 04-MAY-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/4ebab57a-76d1-43a6-850c-379d1633f1a1.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 150 Spain ES TDG V2.3 31-Mar-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572447.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 150 Spain EN 140003966322 EHS V1.7 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7810_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550026379",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B son aceites de alto rendimiento formulados para ofrecer una protección excepcional contra la oxidación y una gran capacidad de separación del agua para la mayoría de aplicaciones de rodamientos industriales y sistemas de circulación, así como en otras aplicaciones industriales que no requieren aceites con propiedades de extrema presión (EP). Estos aceites satisfacen los requerimientos de las normas de Morgan Construction Company y Danieli para los aceites de rodamientos comunes.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "887"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "95"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "262"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-15"
+    },
+    {
+      "property": "Rust, Distilled Water",
+      "method": "ASTM D665A",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Emulsion Test - @82°C (Unless specified by *)",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "Mins",
+      "value": "20"
+    },
+    {
+      "property": "Oxidation Control Test : TOST",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "Hrs",
+      "value": "1 300+"
+    },
+    {
+      "property": "Oxidation Control Test : RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "Mins",
+      "value": "200+"
+    },
+    {
+      "property": "Foam Test, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam at 0/10 mins",
+      "value": "10/0"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

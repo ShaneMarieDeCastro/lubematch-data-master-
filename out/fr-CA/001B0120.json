@@ -1,0 +1,80 @@
+{
+  "id": "001B0120",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Alvania Grease EPD",
+  "description": "High Performance Extreme Pressure Railroad Roller Bearing Grease",
+  "family": "Alvania",
+  "parentCategory": null,
+  "category": "Graisses de boîte d’essieu et de traction",
+  "applicationKeys": [
+    "ep",
+    "extreme pressure",
+    "railroad",
+    "roller bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/19bc7005-ceda-4d1d-8f66-fdb1cc400531.pdf",
+      "type": "GTDS",
+      "name": "Alvania EPD EN TDG V1.2 14-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290123.PDF",
+      "type": "LMSDS",
+      "name": "Alvania EPD Canada FR 140006579500 EHS V7.13 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290153.PDF",
+      "type": "LMSDS",
+      "name": "Alvania EPD Canada EN 140006579500 EHS V7.13 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0120_002VH7_A1WJ",
+      "name": "",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550024014",
+      "margin": "1.89597473144531",
+      "packShot": ""
+    },
+    {
+      "code": "001B0120_002X83_A1WJ",
+      "name": "",
+      "size": "825",
+      "uom": "kg",
+      "pack": "Vrac ",
+      "materialCode": "550024015",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AAR M-942-92",
+      "organisation": "AAR",
+      "spec": "M-942-92"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Alvania Grease EPD is a long-life railroad grease with extreme pressure additives to provide higher load carrying capacity. This grease meets the requirements of AAR M-942-latest revision and NSW SRA L343-84.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

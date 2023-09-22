@@ -1,0 +1,82 @@
+{
+  "id": "001G0276",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil High Mileage 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4ade3e8e-bfdf-42e1-b874-2bf961528509.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SN) EN TDG V1.3 11-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/b1d306c7-b47d-427e-bd90-a185b078d941.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SN) United States EN TDG V1.3 11-Jul-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563935.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SN) United States EN 140002686046 EHS V1.2 03-FEB-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0276_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550045205",
+      "margin": "1.49364683638669",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Redesigned for modern turbocharged engines - API SN PLUS, API SN-Resource Conserving and all previous categories.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

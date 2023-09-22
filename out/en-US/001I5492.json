@@ -1,0 +1,55 @@
+{
+  "id": "001I5492",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Corena E15 46",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4035708c-c54f-4832-8aed-63d18c830805.pdf",
+      "type": "GTDS",
+      "name": "Shell Corena E15 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563971.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena E15 46 United States EN 140002686046 EHS V1.0 15-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5492_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057334",
+      "margin": "2.01544083691424",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Corena E15 46 is a rotary screw air compressor manufactured from a special high pressure hydrotreated base oil to enhance demulsibility performance, extended drain intervals, and anti-wear properties.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

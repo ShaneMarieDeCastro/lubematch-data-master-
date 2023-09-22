@@ -1,0 +1,154 @@
+{
+  "id": "001D8438",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S3 V100 2",
+  "description": "Premium Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "air blowers",
+    "electric motor bearings",
+    "electric motors",
+    "high speed",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "low speed",
+    "multipurpose",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621004.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 Germany DE 140001492039 EHS V5.1 20-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/4c59b411-115f-4bb0-bcb8-f711a823d63c.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V100 2 Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621005.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 Germany EN 140001492039 EHS V5.1 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8438_002VGF_A310",
+      "name": "Kartusche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550028072",
+      "margin": "3.86052622534477",
+      "packShot": ""
+    },
+    {
+      "code": "001D8438_002VME_A246",
+      "name": "Eimer 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028075",
+      "margin": "2.06166670057509",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V100 Schmierfett  ist vor allem geeignet für Lager mit hohen Temperaturen, niedrigen und hohen Geschwindigkeiten und bei Anwesenheit von Feuchtigkeit.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI-Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Hellbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithiumkomplex"
+    },
+    {
+      "property": "Grundöltyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71/ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71/ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "11,3"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50/ASTM D217",
+      "uom": "@25 °C",
+      "units": "0,1 mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pumpbarkeit über lange Distanz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "angemessen"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

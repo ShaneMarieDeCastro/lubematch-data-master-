@@ -1,0 +1,158 @@
+{
+  "id": "001G0251",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Helix HX8 ECT 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b3d823d3-7ef9-4ab7-a829-210f0869987e.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) EN TDG V3.2 31-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613655.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) France EN 140003182031 EHS V1.3 07-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613656.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) France FR 140003182031 EHS V1.3 07-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/9cd4151f-e5bd-4782-8a63-53d053aed5e5.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT 5W-40 (C3 + OEMS) France FR TDG V3.1 01-Dec-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0251_002WL0_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550047772",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0251_002VSI_A246",
+      "name": "Tonneau 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Tonneau",
+      "materialCode": "550046688",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0251_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550046687",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0251_002X0G_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550046689",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "Fiat 9.55535-S2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S2 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 ECT utilise une technologie avancée compatible avec les systèmes de dépollution aidant à maintenir la propreté des filtres à particule et donc aussi le niveau de performance du moteur.  Participe à la réduction des frictions internes du moteur permettant des économies de carburant.  \n \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046689_Shell_Helix_HX8_ECT_5W-40_5L_en.png",
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-helix-hx8-ect-5w40-5l"
+}

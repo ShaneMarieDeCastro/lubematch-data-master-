@@ -1,0 +1,64 @@
+{
+  "id": "001D8503",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S2 U1000D 2",
+  "description": "High Performance Heavy Duty Plain Bearing Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses non EP à base d’huile minérale",
+  "applicationKeys": [
+    "bearing",
+    "clay",
+    "moly",
+    "sugar mill"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_U1000D_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 U1000D 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595030.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U1000D 2 France EN 140003182031 EHS V1.4 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595029.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U1000D 2 France FR 140003182031 EHS V1.4 14-JUN-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8503_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550044099",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 U1000D Greases will lubricate satisfactorily and give good service life at operating temperatures up to 200°C. They are especially useful where heavy wear has occurred or access is difficult.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

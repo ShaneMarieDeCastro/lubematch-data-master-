@@ -1,0 +1,155 @@
+{
+  "id": "001D8427",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S3 V460 1.5",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "bearing",
+    "cement",
+    "chemical industry",
+    "continuous casting",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy load",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "mining",
+    "multipurpose",
+    "paper",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "severe conditions",
+    "severe load",
+    "slow",
+    "slow moving",
+    "steel",
+    "water resistance",
+    "workroll bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V460_1.5_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V460 1.5 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/e1a2d5d5-5a56-422c-9ee3-49c7fb9ddd1f.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V460 1.5 Germany DE TDG V1.2 19-Mar-2019",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595125.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V460 1.5 Germany DE 140001492039 EHS V4.4 14-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595124.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V460 1.5 Germany EN 140001492039 EHS V4.4 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8427_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550026595",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V460 Schmierfett ist besonders geeignet für langsam laufende, hoch belastete Lager bei hohen Betriebstemperaturen.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI-Klasse",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "1,5"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Hellbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithiumkomplex"
+    },
+    {
+      "property": "Grundöl-Typ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71/ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71/ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "31"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50/ASTM D217",
+      "uom": "@25 °C",
+      "units": "0,1 mm",
+      "value": "305"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pumpbarkeit in langen Leitungen",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Gut"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

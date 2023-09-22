@@ -1,0 +1,158 @@
+{
+  "id": "001F1652",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella ELC Nitrite Free Pre-Diluted 50/50",
+  "description": "Long-Life antifreeze/coolant pre-diluted",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Diluted",
+  "applicationKeys": [
+    "cooling",
+    "cooling system"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e5b4b21c-5419-4aa7-9e14-76476eb82128.pdf",
+      "type": "GTDS",
+      "name": "Rotella ELC Nitrite Free Pre-Diluted 50/50 EN TDG V1.8 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563380.PDF",
+      "type": "LMSDS",
+      "name": "Rotella ELC Nitrite Free Pre-Diluted 50/50 United States EN 140002686046 EHS V4.0 16-JUL-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/8ee40edf-336b-44ff-9c29-de12e8af6c43.pdf",
+      "type": "LTDS",
+      "name": "Rotella ELC Nitrite Free Pre-Diluted 50/50 United States EN TDG V1.8 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1652_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009280",
+      "margin": "0.436330810462919",
+      "packShot": ""
+    },
+    {
+      "code": "001F1652_002V2N_A0II",
+      "name": "Bottle 1 Gal Rotella W (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550041810",
+      "margin": "0.623197124679135",
+      "packShot": ""
+    },
+    {
+      "code": "001F1652_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550048229",
+      "margin": "0.55229039627054",
+      "packShot": ""
+    },
+    {
+      "code": "001F1652_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550041811",
+      "margin": "0.443864421676767",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar EC-1",
+      "organisation": "Caterpillar",
+      "spec": "EC-1"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "Navistar MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)",
+      "organisation": "Navistar",
+      "spec": "MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "General Motors GM 6277M",
+      "organisation": "General Motors",
+      "spec": "GM 6277M"
+    },
+    {
+      "name": "TMC RP 364",
+      "organisation": "TMC RP",
+      "spec": "364"
+    },
+    {
+      "name": "Ford WSS-M97B44-D",
+      "organisation": "Ford",
+      "spec": "WSS-M97B44-D"
+    },
+    {
+      "name": "ASTM D6210",
+      "organisation": "ASTM",
+      "spec": "D6210"
+    },
+    {
+      "name": "Cummins CES 14439",
+      "organisation": "Cummins",
+      "spec": "CES 14439"
+    },
+    {
+      "name": "Volvo TSI 184-001",
+      "organisation": "Volvo",
+      "spec": "TSI 184-001"
+    },
+    {
+      "name": "MTU MTL 5048",
+      "organisation": "MTU",
+      "spec": "MTL 5048"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K217",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K217"
+    },
+    {
+      "name": "TMC RP 329",
+      "organisation": "TMC RP",
+      "spec": "329"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^® ELC Nitrite Free (NF) Pre-Diluted 50/50 antifreeze/coolant is an ethylene glycol-based coolant that contains the proven Shell ROTELLA^® ELC OAT technology for extended life operation up to 1,200,000 miles in Class 8 over the road operation. Also, exceptional long life is expected for all other applications, such as diesel, gasoline, and natural gas engine powered vehicles along with light duty passenger cars and pick-up trucks with proper maintenance. Nitrite free formulation provides improved protection of aluminum components in modern engines including brazed aluminum heat exchangers and meets many of the newest OEM specifications. ROTELLA^® ELC NF Pre-Diluted 50/50 is pre-diluted and ready to use. It requires no further dilution.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

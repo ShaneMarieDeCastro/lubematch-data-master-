@@ -1,0 +1,62 @@
+{
+  "id": "001D7865",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Air Tool Oil S2 A 32",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": null,
+  "category": "Rockdrill and Pneumatic Tool Lubricants",
+  "applicationKeys": [
+    "hydraulic system",
+    "hydraulics"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4b7b449a-4668-4aa1-aec8-0ddd4ac08e83.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 32 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592577.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 32 Turkey EN 140003791542 EHS V1.0 13-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592578.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 32 Turkey TR 140003791542 EHS V1.0 13-JUN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    },
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool Oil S2 A has been developed to meet the special lubrication requirements of pneumatic tools, including percussion type pneumatic tools subjected to the most arduous conditions.  They are designed to maintain high oil film strength and effectively lubricate even the most demanding requirements of pneumatic drill impact mechanisms as well as providing excellent mist lubrication of general purpose air tools.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

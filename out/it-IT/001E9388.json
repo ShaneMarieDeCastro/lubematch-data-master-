@@ -1,0 +1,73 @@
+{
+  "id": "001E9388",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix Ultra Professional AF-L 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f6269cd7-71db-42dc-b264-d88a1f9b3f57.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) EN TDG V1.1 11-Oct-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02539607.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Italy IT 140007645406 EHS V2.5 13-MAR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02539608.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Italy EN 140007645406 EHS V2.5 13-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/9101d436-1e64-4f5f-bed8-087d3c7dc0a0.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Italy IT TDG V1.1 21-Mar-2017",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR.03.5005",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5005"
+    },
+    {
+      "name": "ACEA C1",
+      "organisation": "ACEA",
+      "spec": "C1"
+    },
+    {
+      "name": "Ford WSS-M2C934-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C934-B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formulato per soddisfare i severi requisiti dei motori ad alte prestazioni Ford, Jaguar, Mazda e ove richiesta la specifica ACEA C1.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AF-L_5L_600058637.png",
+  "valueRecord": [],
+  "commerce": null
+}

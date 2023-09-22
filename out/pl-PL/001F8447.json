@@ -1,0 +1,84 @@
+{
+  "id": "001F8447",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Corena S3 RX 68",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Sprężarki i pompy próżniowe",
+  "category": "Sprężarki i pompy próżniowe",
+  "applicationKeys": [
+    "air compressor",
+    "gtl",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/35299710-a507-43dc-985a-f681c4f0cb12.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 RX 68 (2017) EN TDG V1.1 08-Nov-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02593699.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 68 (2017) Poland PL 140003791557 EHS V1.7 14-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/a21b9205-333c-468f-a5d4-c985ec0e79eb.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 RX 68 (2017) Poland PL TDG V1.1 10-Aug-2018",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02593700.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 68 (2017) Poland EN 140003791557 EHS V1.7 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8447_002VNK_A246",
+      "name": "Wiadro 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550050022",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RX to wysokiej jakości syntetyczny olej sprężarkowy zawierający olej bazowy otrzymany w technologii Gas-to-Liquid (GTL) oraz zaawansowany pakiet dodatków. Zapewnia doskonałą ochronę oraz znakomite własciwości smarne w kompresorach umożliwiając osiągnięcie interwału wymiany 6.000 godzin, w niektórych warunkach może on być wydłużony aż do 8.000 h.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

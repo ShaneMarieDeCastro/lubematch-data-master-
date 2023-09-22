@@ -1,0 +1,86 @@
+{
+  "id": "001H8669",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T4 NG Plus 10W-30",
+  "description": "LNG/CNG Heavy Duty Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/87b4e058-b94b-4620-8f41-99cf53e44d34.pdf",
+      "type": "GTDS",
+      "name": "Rotella T4 NG Plus 10W-30 (CK-4) EN TDG V1.1 10-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/405727fb-9edf-4592-8071-cf8d1c3edb8d.pdf",
+      "type": "LTDS",
+      "name": "Rotella T4 NG Plus 10W-30 (CK-4) United States EN TDG V1.1 10-Jun-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562507.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T4 NG Plus 10W-30 (CK-4) United States EN 140002686046 EHS V1.0 25-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Cummins CES 20092",
+      "organisation": "Cummins",
+      "spec": "CES 20092"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^® T4 NG Plus oil is specially formulated to provide hard working protection under the full range of pressures & temperatures in natural gas engines. Suitable for mobile vehicles operating with 100% LNG/CNG fuel as well as Diesel and Gasoline powered engine.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "001G6099",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S6 ATF D971",
+  "description": "Automatic transmission fluid for Mercedes-Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "ATF - Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e18a9d59-95f6-4f7e-b29e-aa598d9fbbcd.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF D971 EN TDG V1.2 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610760.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF D971 Germany EN 140001492039 EHS V1.3 05-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/7d326bd8-7444-44c9-a385-58ed18ef7420.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF D971 Germany DE TDG V1.2 13-Apr-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610761.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF D971 Germany DE 140001492039 EHS V1.3 05-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G6099_002W21_A823",
+      "name": "Flasche 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550058247",
+      "margin": "7.57310891151428",
+      "packShot": ""
+    },
+    {
+      "code": "001G6099_002VNF_A246",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550059554",
+      "margin": "4.06077005671759",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.17",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.17"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF D971 ist ein hochentwickeltes Automatikgetriebeöl für die neueste Generation der 9-Gang-Automatikgetriebe (9G-Tronic) von Mercedes-Benz. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

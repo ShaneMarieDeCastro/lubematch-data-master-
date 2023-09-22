@@ -1,0 +1,152 @@
+{
+  "id": "001D8536",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S2 A320 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne z dodatkami EP",
+  "applicationKeys": [
+    "arduous conditions",
+    "bearing",
+    "calcium based",
+    "cranes",
+    "davits",
+    "ep",
+    "extreme pressure",
+    "general open gear",
+    "general wire rope",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "open gears",
+    "plain bearings",
+    "rollers",
+    "severe conditions",
+    "stern tube bearings",
+    "water",
+    "water tolerant",
+    "winches",
+    "windlass",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f4a02365-ce7f-47f9-a9b0-cccf951fb375.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 A320 2 EN TDG V3.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611501.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 A320 2 Poland EN 140003791557 EHS V2.13 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/de6c1729-d229-4225-9190-59336d3242b0.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 A320 2 Poland PL TDG V3.2 28-Oct-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611500.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 A320 2 Poland PL 140003791557 EHS V2.13 06-JUL-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8536_002XD7_A246",
+      "name": "Wiadro 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028061",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 A320 jest smarem o gładkiej teksturze zagęszczonym mydłem wapniowym przeznaczonym do zastosowań przemysłowych i morskich wymagających dobrych właściwości przeciwzatarciowych w umiarkowanych temperaturach. ",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Calcium"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral Oil"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "16.5"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "85"
+    },
+    {
+      "property": "Pumpability, Long Distances",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

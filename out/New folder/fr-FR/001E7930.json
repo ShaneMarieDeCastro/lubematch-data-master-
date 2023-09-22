@@ -1,0 +1,67 @@
+{
+  "id": "001E7930",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix HX3 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX3_15W-40_(SL_CF)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 15W-40 (SL/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_France_Shell_Helix_HX3_15W-40_(SL_CF)_(fr)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix HX3 15W-40 (SL/CF) France French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02509475.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 15W-40 (SL/CF) France FR 140003182031 EHS V1.4 27-DEC-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02509474.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 15W-40 (SL/CF) France EN 140003182031 EHS V1.4 27-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX 3 permet une protection fiable des moteurs anciens, à haut kilométrage. Il prévient la formation de boues et réduit le niveau d'usure. Convient particulièrement pour des moteurs  devant être homologués API SL/CF.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

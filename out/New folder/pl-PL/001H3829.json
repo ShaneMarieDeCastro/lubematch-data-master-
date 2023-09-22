@@ -1,0 +1,106 @@
+{
+  "id": "001H3829",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Alexia 70",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": "Środki smarne dla branży morskiej",
+  "category": "Oleje silnikowe - smary cylindrowe i systemowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b6f75de4-15ac-4bb7-930d-145be175c77f.pdf",
+      "type": "GTDS",
+      "name": "Alexia 70 EN TDG V1.1 13-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/da145b73-77bb-4a6a-83e2-9740d531ae76.pdf",
+      "type": "LTDS",
+      "name": "Alexia 70 Poland PL TDG V1.1 28-May-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535113.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 70 Poland EN 140003791557 EHS V1.7 03-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535114.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 70 Poland PL 140003791557 EHS V1.7 03-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 70 jest cylindrowym środkiem smarnym przeznaczonym do stosowania w dwusuwowych, niskoobrotowych silnikach wysokoprężnych spalających olej pozostałościowy. Jest to środek smarny  o liczbie zasadowej 70 i lepkości 50 wg. SAE, którego formulacja oparta jest na sprawdzonej i niezawodnej technologii.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Index",
+      "method": "DIN ISO 2909",
+      "uom": "",
+      "units": "minimum",
+      "value": "95"
+    },
+    {
+      "property": "Density",
+      "method": "DIN EN ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "932"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C maximum",
+      "value": "-6"
+    },
+    {
+      "property": "BN",
+      "method": "ISO 3771",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "70"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "Calculated Sulphated Ash",
+      "uom": "",
+      "units": "% wt",
+      "value": "9"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "18.5"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "001D9606",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell DCT-M1",
+  "description": "MB Double clutch fluid factory fill fluid",
+  "family": "Daimler FFO",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139848_201407240915.pdf",
+      "type": "GTDS",
+      "name": "Shell DCT-M1 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319920.PDF",
+      "type": "LMSDS",
+      "name": "Shell DCT-M1 Turkey TR 140003791542 EHS V1.3 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319895.PDF",
+      "type": "LMSDS",
+      "name": "Shell DCT-M1 Turkey EN 140003791542 EHS V1.3 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.21",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.21"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell DCT-M1 combines advanced DCT additive technology and high shear stability with excellent wet clutch friction stability.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

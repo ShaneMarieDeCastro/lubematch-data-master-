@@ -1,0 +1,77 @@
+{
+  "id": "001I5605",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Naturelle S2 Hydraulic Fluid 46",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cf6cff70-29e4-4028-bd33-0eb4d78915a5.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 46 EN TDG V2.0 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/0a913fec-2e28-4b9f-b308-6b9b593e59b8.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 46 United States EN TDG V2.0 30-Sep-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562499.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 46 United States EN 140002686046 EHS V1.5 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5605_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550060211",
+      "margin": "3.30071901125077",
+      "packShot": ""
+    },
+    {
+      "code": "001I5605_002XXW_A1P5",
+      "name": "Pail 20 L Tight Head Plastic Helix Grey with PCR (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550060213",
+      "margin": "12.45625",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S2 Hydraulic Fluid is an advanced hydraulic fluid for use in hydraulic and power transmission systems. Readily biodegradable with low ecotoxicity, Shell Naturelle S2 Hydraulic Fluid is particularly suited for use in environmentally sensitive areas. Fully synthetic esters, blended with ashless additives, provide Shell Naturelle S2 Hydraulic Fluid with an excellent blend of lubrication performance and environmental acceptability.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

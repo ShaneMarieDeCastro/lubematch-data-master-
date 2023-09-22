@@ -1,0 +1,111 @@
+{
+  "id": "001H3829",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Alexia 70",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b6f75de4-15ac-4bb7-930d-145be175c77f.pdf",
+      "type": "GTDS",
+      "name": "Alexia 70 EN TDG V1.1 13-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541332.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 70 Turkey EN 140003791542 EHS V1.6 20-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541333.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 70 Turkey TR 140003791542 EHS V1.6 20-MAR-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3829_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550052329",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 70 is a cylinder lubricant designed for use in two stroke low speed diesel engines using residual fuel oil. It is a BN 70 and SAE 50 lubricant, formulated with proven and reliable technology.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Index",
+      "method": "DIN ISO 2909",
+      "uom": "",
+      "units": "minimum",
+      "value": "95"
+    },
+    {
+      "property": "Density",
+      "method": "DIN EN ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "932"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C maximum",
+      "value": "-6"
+    },
+    {
+      "property": "BN",
+      "method": "ISO 3771",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "70"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "Calculated Sulphated Ash",
+      "uom": "",
+      "units": "% wt",
+      "value": "9"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "18.5"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

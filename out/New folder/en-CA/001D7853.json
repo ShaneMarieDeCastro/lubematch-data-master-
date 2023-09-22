@@ -1,0 +1,203 @@
+{
+  "id": "001D7853",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Omala S4 GX 460",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed gear",
+    "ep",
+    "extra long life",
+    "extreme performance",
+    "extreme pressure",
+    "final drive",
+    "fuel",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "non shiftable",
+    "off highway",
+    "pao",
+    "plain",
+    "pump gear",
+    "reduction gears",
+    "roller cylindrical",
+    "rollers",
+    "slew",
+    "splash lubricated bearings",
+    "swing drive",
+    "system efficiency",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6dfb5ee6-4446-458a-9a2c-367528bf51f7.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GX 460 EN TDG V4.6 30-Oct-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02529178.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GX 460 Canada FR 140006579500 EHS V1.7 27-FEB-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/a0a35a39-2d58-41ad-a7b8-54a5315476f2.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GX 460 Canada FR TDG V4.6 30-Oct-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02529179.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GX 460 Canada EN 140006579500 EHS V1.6 27-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/e3b0232a-ebd3-469d-afff-28cccd83609e.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GX 460 Canada EN TDG V4.6 30-Oct-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "David Brown S1.53.106",
+      "organisation": "David Brown",
+      "spec": "S1.53.106"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GX is an advanced synthetic heavy duty industrial gear oil offering outstanding lubrication performance under severe operating conditions, including reduced friction, long service life and high resistance to micro-pitting for optimal gear protection.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104 ",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "462.5"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104 ",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "50"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "170"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592 ",
+      "uom": "",
+      "units": "°C",
+      "value": "264"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-36"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "879"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "-"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/8,3/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">14"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/16,6/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">14"
+    },
+    {
+      "property": "Timken OK Load",
+      "method": "ASTM D2782",
+      "uom": "",
+      "units": "lbs",
+      "value": ">85"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

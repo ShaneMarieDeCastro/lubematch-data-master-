@@ -1,0 +1,62 @@
+{
+  "id": "001I5304",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S2 OGH 1000",
+  "description": "High Performance Open Gear Lubricant",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses d’engrenage ouvertes",
+  "applicationKeys": [
+    "high temperature",
+    "open gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ca0275df-fb43-436a-8169-20df2949a4ef.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGH 1000 EN TDG V1.1 06-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612581.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 1000 France EN 140003182031 EHS V2.2 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612582.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 1000 France FR 140003182031 EHS V2.2 06-JUL-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5304_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550056777",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "The product is designed to be sprayed onto the gears.\nShell Gadus S2 OGH 1000 grease is based on an Aluminum Complex thickener dispersed in a high viscosity base oil containing graphite.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

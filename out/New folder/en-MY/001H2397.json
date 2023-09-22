@@ -1,0 +1,97 @@
+{
+  "id": "001H2397",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix HX8 SN PLUS 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/5bf64650-28df-47f1-8c35-98e0fd8268e6.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 SN PLUS 0W-20 (SNPLUS GF-5) EN TDG V1.0 25-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02267067.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 SN PLUS 0W-20 (SNPLUS GF-5) Malaysia MS 140001435555 EHS V1.4 23-MAR-2021",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02267064.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 SN PLUS 0W-20 (SNPLUS GF-5) Malaysia EN 140001435555 EHS V1.4 23-MAR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2397_002WL0_A04U",
+      "name": "Bottle 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052185",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2397_002WML_A04U",
+      "name": "Bottle 4 L Wishbone Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052186",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 SN PLUS works hard to offer a high level of protection and cleansing for modern gasoline engines. It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

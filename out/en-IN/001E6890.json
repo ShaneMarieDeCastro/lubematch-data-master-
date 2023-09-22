@@ -1,0 +1,182 @@
+{
+  "id": "001E6890",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Gadus S4 OGT",
+  "description": "Premium Open Gear and Wire Rope Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Open Gear Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cf590193-5283-4978-93d5-257a6ba8f6dd.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 OGT EN TDG V4.0 26-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637524.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 OGT India EN 140006501563 EHS V4.1 09-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E6890_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550037672",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E6890_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550034670",
+      "margin": "0.990069519100176",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Bucyrus International SD 4713",
+      "organisation": "Bucyrus International",
+      "spec": "SD 4713"
+    },
+    {
+      "name": "P&H 464",
+      "organisation": "P&H",
+      "spec": "464"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 OGT is primarly designed for use in very heavy applications and operations under hot ambient conditions, in mining equipment, shovels, draglines and excavators in open cut operations.  \nShell Gadus S4 OGT is based on Aluminium Complex soap thickener and high viscosity semi-synthetic base oil containing enhanced extreme pressure and antiwear chemistry.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0"
+    },
+    {
+      "property": "Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Al Complex"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Semi-synthetic"
+    },
+    {
+      "property": "Solid Lubricant",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Yes"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt minimum",
+      "value": "50 000"
+    },
+    {
+      "property": "Cone Penetration",
+      "method": "ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "355 to 385"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kg",
+      "value": "800"
+    },
+    {
+      "property": "Four Ball Wear Scar",
+      "method": "ASTM D2266",
+      "uom": "",
+      "units": "mm maximum",
+      "value": "0.7"
+    },
+    {
+      "property": "Four Ball Load Wear Index (LWI)",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kg minimum",
+      "value": "120"
+    },
+    {
+      "property": "Flash Point of base fluid",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "150"
+    },
+    {
+      "property": "Rust Test",
+      "method": "ASTM D1743",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Copper Strip",
+      "method": "ASTM D4048",
+      "uom": "3h @ 100°C",
+      "units": "",
+      "value": "1b"
+    },
+    {
+      "property": "Pumpability, Lincoln Ventmeter",
+      "method": "Time to vent from 1800 psi to less than or equal to 600 psi",
+      "uom": "@-7°C",
+      "units": "seconds maximum",
+      "value": "30"
+    },
+    {
+      "property": "Flow Pressure",
+      "method": "DIN 51805",
+      "uom": "@-10°C",
+      "units": "mbar maximum",
+      "value": "1 400"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

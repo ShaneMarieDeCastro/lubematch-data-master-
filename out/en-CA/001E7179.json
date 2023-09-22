@@ -1,0 +1,95 @@
+{
+  "id": "001E7179",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Mysella S3 N 30",
+  "description": " Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "gas",
+    "landfill",
+    "lng",
+    "low ash",
+    "lpg",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S3_N_30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 N 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/273b5687-7ce6-4176-89f0-5d74d86e1e06.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 N 30 Canada FR TDG V3.3 04-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289789.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 Canada EN 140006579500 EHS V1.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290408.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 Canada FR 140006579500 EHS V1.6 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Shell_Mysella_S3_N_30_(en-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 N 30 Canada English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7179_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007711",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7179_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550036524",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 N satisfies the new generation of stationary gas engines designed to meet the emerging legislation limiting emissions of NOx, and those which employ the latest 'lean' or 'clean' burn technology.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

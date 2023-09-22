@@ -1,0 +1,98 @@
+{
+  "id": "001D8269",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S4 G 75W-80",
+  "description": "High Performance PSA Manual Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-80",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1363e7e2-e31a-497e-a744-2ad56f6eaf81.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 G 75W-80 EN TDG V1.2 08-May-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578698.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-80 France EN 140003182031 EHS V2.3 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/a8e5c446-75ef-4627-b1d6-ccab80e8def5.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 G 75W-80 France FR TDG V1.2 09-May-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578697.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-80 France FR 140003182031 EHS V2.3 23-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8269_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027991",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8269_002WL0_A892",
+      "name": "Bouteille 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550065679",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8269_002VND_A246",
+      "name": "Sceau 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027992",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "PSA B71 2315",
+      "organisation": "PSA",
+      "spec": "B71 2315"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La Shell Spirax S4 G 75w80 est une huile extrême pression utilisée dans les transmissions manuelles.\n Elle a été développée pour répondre plus particulièrement aux exigences requises par PSA.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027992_Shell_Spirax_S4_G_75W-80_20L_en.png",
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-spirax-s4-g-75w80-1l"
+}

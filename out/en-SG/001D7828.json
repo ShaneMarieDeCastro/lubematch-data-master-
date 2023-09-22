@@ -1,0 +1,156 @@
+{
+  "id": "001D7828",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Morlina S4 B 320",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "long life",
+    "low temperature",
+    "pump gear",
+    "rollers",
+    "urban",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/50910dfb-4323-4c14-b81d-c88aae060142.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 320 EN TDG V3.5 13-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580324.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 320 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7828_002VNF_A1MO",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550029005",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKS",
+      "organisation": "ISO",
+      "spec": "12925-1 CKS"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B oils are high performance synthetic bearing and circulation lubricants, based on high performance base fluids.  They offer outstanding lubrication performance under severe operating conditions, including improved energy efficiency and long service life even in severe operating conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "33.8"
+    },
+    {
+      "property": "Viscosity Index (VI)",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "148"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592 ",
+      "uom": "",
+      "units": "°C",
+      "value": "270"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-45"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "853"
+    },
+    {
+      "property": "Emulsion Test",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "mins",
+      "value": "20"
+    },
+    {
+      "property": "Foam Test, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam '@0/10 mins",
+      "value": "0/0"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2 A/8.3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

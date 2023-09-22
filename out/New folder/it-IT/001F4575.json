@@ -1,0 +1,120 @@
+{
+  "id": "001F4575",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Morlina S2 BA 100",
+  "description": "Special Application Bearing & Circulating Oil",
+  "family": "Morlina",
+  "parentCategory": "Oli di circolazione e per cuscinetti",
+  "category": "Oli circolanti e per cuscinetti",
+  "applicationKeys": [
+    "bearing",
+    "bearing and circulating",
+    "enclosed gear",
+    "finishing mill",
+    "fzg",
+    "fzg 12",
+    "high speed wire",
+    "industrial",
+    "low load",
+    "morgan notwist systems",
+    "no twist",
+    "rod mill",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/762095f2-7d80-4b11-b6fc-c3e6a07ee97c.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BA 100 (2014) EN TDG V2.7 10-Aug-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/8a82dad4-a38f-4873-9776-b647ce57fc83.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BA 100 (2014) Italy IT TDG V2.7 03-Apr-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02521494.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BA 100 (2014) Italy EN 140007645406 EHS V1.8 02-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02521495.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BA 100 (2014) Italy IT 140007645406 EHS V1.8 02-FEB-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4575_002VSH_A1P5",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550045061",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "ISO 12925-1 CKB",
+      "organisation": "ISO",
+      "spec": "12925-1 CKB"
+    },
+    {
+      "name": "Danieli Type 21-24 N 0.000.001 BVG No-Twist Stand Block Lubricant",
+      "organisation": "Danieli",
+      "spec": "Type 21-24 N 0.000.001 BVG No-Twist Stand Block Lubricant"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "SEB 18 12 26 CLP",
+      "organisation": "SEB",
+      "spec": "18 12 26 CLP"
+    },
+    {
+      "name": "Morgan MMC40003",
+      "organisation": "Morgan",
+      "spec": "MMC40003"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BA sono oli ad elevate prestazioni formulati per fornire un'eccellente lubrificazione e protezione dei cuscinetti e dei sistemi di circolazione per le applicazioni più sfidanti come quelli che si trovano nelle acciaierie, specialmente nei laminatoi Morgan \"No-Twist\"^® . Morlina S2 BA incontra i requisiti degli OEM come Morgan e Danieli.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,193 @@
+{
+  "id": "001D8284",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S3 AD 80W-90",
+  "description": "High performance, GL-5 axle oil for Mercedes Benz",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Trasmissione manuale e oli ingranaggi",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "differentials",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "fuel",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "high performance",
+    "industrial",
+    "manual",
+    "manual transmission",
+    "off highway",
+    "passenger car",
+    "powershift",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e0a55520-40f3-44e0-8982-5fc825fffe2c.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 AD 80W-90 EN TDG V3.8 21-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578877.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AD 80W-90 Italy EN 140007645406 EHS V3.4 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/4221fe7f-e718-4e50-a772-a7c19292b649.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 AD 80W-90 Italy IT TDG V3.8 02-Mar-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578878.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AD 80W-90 Italy IT 140007645406 EHS V3.4 23-MAY-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 235.20",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.2"
+    },
+    {
+      "name": "MAN 342 Type M3 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "342 Type M3 - Suitable for use in applications which require"
+    },
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "MB-Approval 235.20 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.20 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 12M",
+      "organisation": "ZF",
+      "spec": "TE-ML 12M"
+    },
+    {
+      "name": "ZF TE-ML 19B",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B"
+    },
+    {
+      "name": "ZF TE-ML 12M - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12M - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 17B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 19B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B - Suitable for use in applications which require"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 16B",
+      "organisation": "ZF",
+      "spec": "TE-ML 16B"
+    },
+    {
+      "name": "ZF TE-ML 12L",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L"
+    },
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "ZF TE-ML 05A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "ZF TE-ML 12L - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ZF TE-ML 17B",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B"
+    },
+    {
+      "name": "ZF TE-ML 16B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 16B - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 342 Type M3",
+      "organisation": "MAN",
+      "spec": "342 Type M3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 AD 80W-90 è un lubrificante per prestazioni severe formulato con additivi multifunzionali che conferiscono al prodotto ottime proprietà antiusura, antiruggine e di resistenza all’ossidazione. E’ adatto per cambi che presentano condizioni di carico-velocità di estrema severità, come riduttori a ruote dentate o elicoidali a bassa e media velocità, ingranaggi conici a spirale ed assali ipoidi e consente intervalli estesi di cambio.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

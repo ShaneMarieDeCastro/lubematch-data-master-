@@ -1,0 +1,93 @@
+{
+  "id": "001D7860",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Omala S4 WE 680",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriële tandwielkastoliën",
+  "category": "Industriële tandwielkastoliën",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "journal",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "off highway",
+    "pag",
+    "reduction gears",
+    "splash lubricated bearings",
+    "transmissions",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/adf1d5e9-77c9-46c6-9551-9a3cd3867a17.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 680 EN TDG V4.3 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02524718.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 680 Netherlands EN 140002783873 EHS V1.9 20-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02524694.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 680 Netherlands NL 140002783873 EHS V1.9 20-FEB-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/911d47e8-dc0d-42a8-81a3-81396f930038.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 680 Netherlands NL TDG V4.3 18-Jan-2018",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7860_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027188",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE is een geavanceerde synthetische tandwielkastolie voor zwaar belaste wormwieloverbrengingen geformuleerd met specifiek geselecteerde basisoliën op  polyalkyleenglycolbasis en additieven. Shell Omala S4 WE levert een uitstekende smering en bescherming onder zware omstandigheden, energiebesparing, zeer lange standtijden en een uitstekende bescherming tegen micro-pitting.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [],
+  "commerce": null
+}

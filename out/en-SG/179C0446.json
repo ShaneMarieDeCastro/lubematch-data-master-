@@ -1,0 +1,147 @@
+{
+  "id": "179C0446",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Super Marine 15W-40",
+  "description": "High Speed Diesel Engine Oil for Marine Vessels",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "off highway",
+    "stationary"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/51b74110-bba3-4a74-ab3a-89e63f4fd4a7.pdf",
+      "type": "GTDS",
+      "name": "Super Marine 15W-40 EN TDG V1.2 08-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579815.PDF",
+      "type": "LMSDS",
+      "name": "Super Marine 15W-40 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "179C0446_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550032759",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar 1K - Meets the requirements",
+      "organisation": "Caterpillar",
+      "spec": "1K - Meets the requirements"
+    },
+    {
+      "name": "MB-Approval 228.1",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.1"
+    },
+    {
+      "name": "MAN 271",
+      "organisation": "MAN",
+      "spec": "271"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Volvo VDS",
+      "organisation": "Volvo",
+      "spec": "VDS"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Super Marine Oils are premium quality high performance engine lubricants designed to meet the demanding requirements of a very wide range of high speed marine diesel engines operating under all conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "15W-40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "104"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.3"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "141"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.89"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "226"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    },
+    {
+      "property": "Dynamic Viscosity",
+      "method": "ASTM D5293",
+      "uom": "@-20°C",
+      "units": "mPas",
+      "value": "6 600"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

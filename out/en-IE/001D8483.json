@@ -1,0 +1,115 @@
+{
+  "id": "001D8483",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Gadus S2 U460L 2",
+  "description": "High Performance Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "bearings",
+    "bentonite",
+    "clay",
+    "heavy duty",
+    "heavy load",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "low load",
+    "slow",
+    "slow speed"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4981fb1e-b657-46b4-bcd7-c714669e089c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 U460L 2 EN TDG V1.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594707.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 Ireland EN 140007731156 EHS V2.7 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8483_002XD7_A246",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550028052",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "The base oil component in Shell Gadus S2 U460L Grease is a high quality, solvent refined, high viscosity mineral oil with excellent oxidation and evaporation resistance. Oxidation stability is also improved by the addition of a special high temperature oxidation inhibitor.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Inorganic (clay)"
+    },
+    {
+      "property": "Base Oil (Type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "35"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

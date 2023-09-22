@@ -1,0 +1,164 @@
+{
+  "id": "001D7527",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Platinum SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3d83caa8-c915-4ba9-9511-b88c4d1d467a.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A dexos1) EN TDG V2.4 09-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/c1afe73e-f667-4549-966a-3712e000c86e.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A dexos1) Canada EN TDG V2.4 09-Feb-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/c7e40ba6-822a-419b-9d80-c1f6ec2b12c3.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A dexos1) Canada FR TDG V2.4 09-Feb-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02276177.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum 0W-20 Full Synthetic Motor Oil (SN/GF-5) Canada EN 140006579500 EHS V1.9 08-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02277196.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum 0W-20 Full Synthetic Motor Oil (SN/GF-5) Canada FR 140006579500 EHS V1.9 08-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7527_002XLH_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550046554",
+      "margin": "2.22226031554994",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_002XN6_A0IK",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550036422",
+      "margin": "2.28857607131108",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550036473",
+      "margin": "1.90810219767842",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500007960",
+      "margin": "2.61579239510155",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_002X4L_A1WJ",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550048220",
+      "margin": "2.86250050080128",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C947-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-B1"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "Honda/ Acura HTO-06",
+      "organisation": "Honda/ Acura",
+      "spec": "HTO-06"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Platinum^® avec la technologie PurePlus™ est une première huile moteur entièrement synthétique à base de gaz naturel et conçue pour une PROTECTION COMPLÈTE pour des performances de moteur optimales. Formulé pour les moteurs turbo modernes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

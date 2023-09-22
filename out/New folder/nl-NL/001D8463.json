@@ -1,0 +1,155 @@
+{
+  "id": "001D8463",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S2 V100 2",
+  "description": "High Performance Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie zonder 'EP' additieven",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "electric motor bearings",
+    "electric motors",
+    "general industrial lubrication",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium hydroxystearate",
+    "multipurpose",
+    "plain",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "sealed bearings",
+    "shock load",
+    "water pump bearings",
+    "wide range of operating conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541871.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 2 Netherlands EN 140002783873 EHS V3.8 21-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541872.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 2 Netherlands NL 140002783873 EHS V3.8 21-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/f202ba18-00c8-4839-8311-3b32c657cf97.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V100 2 Netherlands NL TDG V1.1 27-Mar-2017",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8463_002VH7_A246",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028033",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8463_002XD7_A246",
+      "name": "Emmer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028032",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8463_002VGF_EURO",
+      "name": "Cartridge 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550053534",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V100 2 is een multifunctioneel vet ontwikkeld op basis van een nieuwe lithium hydroxystearate verdikkingsmiddel met additieven die uitstekende anti-slijtage, oxidatiestabiliteit en anti-roest eigenschappen bevatten.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium hydroxystearate"
+    },
+    {
+      "property": "Base Oil (Type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

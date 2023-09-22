@@ -1,0 +1,67 @@
+{
+  "id": "001G6105",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Spirax S6 ATF 134ME",
+  "description": "Automatic transmission fluid for Mercedes Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/710b5ebb-af96-4e5f-ba13-c46843677d9e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF 134ME EN TDG V1.3 06-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02437756.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME Turkey EN 140003791542 EHS V1.2 22-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02437755.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME Turkey TR 140003791542 EHS V1.2 22-SEP-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G6105_002W21_A1HY",
+      "name": "Şişe 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550059926",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.15",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.15"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF 134ME is a premium technology automatic transmission fluid for the latest generation of Mercedes-Benz 7-speed automatic transmissions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

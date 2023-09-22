@@ -1,0 +1,50 @@
+{
+  "id": "001A0065",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "AeroShell Grease 7",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6ae9df16-e5d0-448a-b312-38230cd7dc02.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 7 EN TDG V1.5 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636896.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 7 India EN 140006501563 EHS V1.6 15-MAR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-23827C Type II",
+      "organisation": "MIL",
+      "spec": "PRF-23827C Type II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

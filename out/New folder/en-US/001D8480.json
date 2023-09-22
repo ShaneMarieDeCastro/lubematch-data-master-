@@ -1,0 +1,85 @@
+{
+  "id": "001D8480",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell GadusRail S1 Curve Rail 1",
+  "description": "Curve Rail Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b9057c4c-ce34-41d3-b5ff-424e3539c573.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S1 Curve Rail 1 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562856.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S1 Curve Rail 1 United States EN 140002686046 EHS V1.3 30-OCT-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8480_002XZC_NAMD",
+      "name": "Intermediate Bulk Containers 1550 KG Local Steel not specified (1)",
+      "size": "1550",
+      "uom": "kg",
+      "pack": "IBC",
+      "materialCode": "550057432",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8480_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006140",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8480_002XD7_NAMD",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550054672",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8480_002X83_NAMD",
+      "name": "Intermediate Bulk Containers 825 kg Local (Fluid Bag) Fabric White (1)",
+      "size": "825",
+      "uom": "kg",
+      "pack": "IBC",
+      "materialCode": "550054671",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell GadusRail S1 Curve Rail 1 grease is designed to be dispensed by rail lubricators located at critical points along the railway tracks to ensure reliable lubrication and reduce wheel wear.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

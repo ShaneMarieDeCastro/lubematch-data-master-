@@ -1,0 +1,50 @@
+{
+  "id": "001E9250",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix HX5 Diesel 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX5_Diesel_15W-40_(CI-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix HX5 Diesel 15W-40 (CI-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02507439.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 Diesel 15W-40 (CI-4) Philippines EN 140001435525 EHS V1.1 14-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 Diesel is designed to provide consistent light-duty diesel engine performance. It works hard to help protect against harmful soot deposits and wear by helping to control the oil thickness.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

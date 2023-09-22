@@ -1,0 +1,149 @@
+{
+  "id": "001D7514",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil High Mileage SAE 5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2181c5a2-04a1-4557-b6a5-1ec45ef47325.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil High Mileage 5W-20 Motor Oil (SP/GF-6A) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/154f883c-1b4f-4bea-b069-431332854bca.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 5W-20 Motor Oil (SP/GF-6A) Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02425589.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 5W-20 Motor Oil (SP/GF-6A) Canada FR 140006579500 EHS V1.10 04-JUL-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02425588.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 5W-20 Motor Oil (SP/GF-6A) Canada EN 140006579500 EHS V1.10 04-JUL-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/5bf6e75d-bc5e-4d0d-bdcc-59b59e024006.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 5W-20 Motor Oil (SP/GF-6A) Canada English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7514_002V75_A0IK",
+      "name": "Bottle 1 Quart Rect PZL C (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550023794",
+      "margin": "1.86159185047028",
+      "packShot": ""
+    },
+    {
+      "code": "001D7514_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005452",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7514_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550023649",
+      "margin": "0.879286750841267",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A - Meets the requirements"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® High Mileage Motor Oil a synthetic blend formula with Active Cleansing Technology. It is specially formulated to help stop leaks from seals and reduced oil consumption in worn engines. Because at Pennzoil we know, a cleaner, well sealed engine is better protected and responsive. It meets or exceeds the engine protection required by API SP and is specially formulated to provide protection for older vehicles or with 120 000 km.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

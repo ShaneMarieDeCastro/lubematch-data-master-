@@ -1,0 +1,73 @@
+{
+  "id": "001F8472",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Morlina S2 BL 22",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oli di circolazione e per cuscinetti",
+  "category": "Oli circolanti e per cuscinetti",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28e18feb-8dae-4f84-9ca3-7de5dc6e4fd4.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 22 (2016) EN TDG V1.2 23-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/66934c94-378e-4e1e-952e-2db1a262b266.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 22 (2016) Italy IT TDG V1.2 07-Sep-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02616027.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) Italy EN 140007645406 EHS V2.4 11-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02616028.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 (2016) Italy IT 140007645406 EHS V2.4 11-JUL-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8472_002VSH_A18H",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550055980",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL sono oli a bassa viscosità che impiegano la speciale tecnologia Gas-to-Liquid e sono formulati con additivi senza zinco, per garantire eccellenti prestazioni nei mandrini ad alta velocità delle macchine utensili.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

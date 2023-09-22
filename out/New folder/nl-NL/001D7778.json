@@ -1,0 +1,97 @@
+{
+  "id": "001D7778",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Corena S2 P 68",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "air compressor",
+    "breathing air compressor",
+    "high pressure",
+    "hydraulic system",
+    "industrial",
+    "piston",
+    "pump gear",
+    "pump piston",
+    "reciprocating",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2346aea9-f05a-413d-8283-592dde0dfc98.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 68 EN TDG V2.5 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/c24694cf-e774-479e-bd9e-f83978132e26.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 P 68 Netherlands NL TDG V2.5 01-Oct-2019",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571349.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Netherlands EN 140002783873 EHS V2.8 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571350.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Netherlands NL 140002783873 EHS V2.8 04-MAY-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7778_002VNA_A246",
+      "name": "Emmer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550026293",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7778_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550026195",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    },
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P is een hoogwaardige olie voor de smering van hoge druk zuigercompressoren. Het is met name geschikt voor het smeren van perslucht zuigercompressoren, waarbij afvoertemperaturen tot 220°C bereikt worden.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

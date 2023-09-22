@@ -1,0 +1,75 @@
+{
+  "id": "001D8302",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax S4 ATF MSP",
+  "description": "Synthetic Technology Ford SP Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "atf",
+    "automatic transmissions",
+    "pickup"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S4_ATF_MSP_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 ATF MSP English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Spirax_S4_ATF_MSP-fr.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 ATF MSP Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_00348100.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 ATF MSP Canada FR 140006579500  EHS V1.2 31/12/2011",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_00348101.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 ATF MSP Canada EN 140006579500  EHS V1.1 31/12/2011",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Shell_Spirax_S4_ATF_MSP_(en-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 ATF MSP Canada English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford Type D - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Type D - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford Mercon SP - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon SP - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Based on a balance of mineral and synthetic base fluids, Shell Spirax S4 ATF MSP provides excellent automatic transmission fluid performance, allowing filled for life lubrication even under the most severe conditions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,212 @@
+{
+  "id": "001F0922",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S6 ATF VM Plus",
+  "description": "Premium Synthetic Technology Voith Long Drain Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "ATF - Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "axle",
+    "buses",
+    "differential",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "heavy truck",
+    "hydraulic system",
+    "low temperature",
+    "manual",
+    "manual sequential",
+    "mobile",
+    "synchronised",
+    "tandem drive",
+    "transmissions",
+    "voith",
+    "voith turbo transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff2e4ddb-ceab-46f6-9894-73299ace1397.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF VM Plus EN TDG V2.5 16-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597006.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF VM Plus Germany EN 140001492039 EHS V2.6 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/f81b8970-00ef-452e-b54c-6bbffc63db5b.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF VM Plus Germany DE TDG V2.5 17-Apr-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596993.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF VM Plus Germany DE 140001492039 EHS V2.6 14-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0922_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550040072",
+      "margin": "3.03397089115412",
+      "packShot": ""
+    },
+    {
+      "code": "001F0922_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550047991",
+      "margin": "2.15268193359375",
+      "packShot": ""
+    },
+    {
+      "code": "001F0922_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500008856",
+      "margin": "3.09417608388279",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 14B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 16L",
+      "organisation": "ZF",
+      "spec": "TE-ML 16L"
+    },
+    {
+      "name": "ZF TE-ML 03D - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 03D - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 04D - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 04D - Suitable for use in applications which require"
+    },
+    {
+      "name": "Voith 55.6336",
+      "organisation": "Voith",
+      "spec": "55.6336"
+    },
+    {
+      "name": "ZF TE-ML 04D",
+      "organisation": "ZF",
+      "spec": "TE-ML 04D"
+    },
+    {
+      "name": "ZF TE-ML 17C",
+      "organisation": "ZF",
+      "spec": "TE-ML 17C"
+    },
+    {
+      "name": "ZF TE-ML 14B",
+      "organisation": "ZF",
+      "spec": "TE-ML 14B"
+    },
+    {
+      "name": "ZF TE-ML 17C - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17C - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 238.22",
+      "organisation": "Mercedes-Benz",
+      "spec": "238.22"
+    },
+    {
+      "name": "ZF TE-ML 09 - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 09 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF VM Plus ist ein Premium-Hochleistungs-Automatikgetriebeöl, speziell entwickelt für Voith-Turbogetriebe. Es wird für verlängerte Ölwechselintervalle bis 180.000 km in DIWA.6 und DIWA.5 Getrieben empfohlen. Gleichzeitig ist es für den Einsatz in DIWA.3E und älteren DIWA Getrieben für einen verlängerten Ölwechsel bis 120.000 km geeignet.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 40 °C",
+      "units": "mm²/s",
+      "value": "32,7"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "7,0"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "183"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@ 15 °C",
+      "units": "kg/m³",
+      "value": "850"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "222"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "– 48"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiPlQAK&field=Attachment__Name__s",
+      "family": "Spirax",
+      "savings": 50000,
+      "title": "Shell Spirax S6 ATF VM Plus"
+    }
+  ],
+  "commerce": null
+}

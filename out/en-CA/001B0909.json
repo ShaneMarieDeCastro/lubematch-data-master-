@@ -1,0 +1,128 @@
+{
+  "id": "001B0909",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Rhodina Grease BBZ",
+  "description": "Special Purpose Blade Bearing Grease",
+  "family": "Rhodina",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "blade bearing"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4c25bfe2-816b-4a37-8855-4a5c0f7d7ff0.pdf",
+      "type": "GTDS",
+      "name": "Rhodina BBZ EN TDG V1.1 22-Feb-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543743.PDF",
+      "type": "LMSDS",
+      "name": "Rhodina BBZ Canada EN 140006579500 EHS V3.0 23-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543744.PDF",
+      "type": "LMSDS",
+      "name": "Rhodina BBZ Canada FR 140006579500 EHS V3.0 23-MAR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0909_002VT9_A0H5",
+      "name": "Drum 170 kg O/H Grease with liner R/Ytop (1) WL",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550012763",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B0909_002VT7_A0P0",
+      "name": "Cartridge 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550023938",
+      "margin": "15.3535847961587",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Rhodina Grease BBZ is specifically designed for high demanding outdoor applications, in particular when protection against false brinelling and fretting corrosion is required – even at very low temperatures.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1.5"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Calcium"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Part Synthetic"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "13"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "3"
+    },
+    {
+      "property": "Cone Penetration Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1 mm",
+      "value": "300"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "145"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

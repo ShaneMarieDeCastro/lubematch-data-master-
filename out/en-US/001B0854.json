@@ -1,0 +1,81 @@
+{
+  "id": "001B0854",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil ATF Type F",
+  "description": "ATF fluid",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic transmissions",
+    "industrial",
+    "passenger car",
+    "transaxle"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_ATF_Type_F_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl ATF Type F English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/f762a54b-e6a2-48f4-9d75-1d067111b399.pdf",
+      "type": "LTDS",
+      "name": "Pzl ATF Type F United States EN TDG V1.1 27-Jan-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562676.PDF",
+      "type": "LMSDS",
+      "name": "Pzl ATF Type F United States EN 140002686046 EHS V4.0 27-JUN-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0854_002XOI_A1WJ",
+      "name": "Bottle 1 qt Americas Tool Plastic Shell Yellow Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550049545",
+      "margin": "1.58341134961367",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford (service fill) M2C33G - Meets the requirements",
+      "organisation": "Ford (service fill)",
+      "spec": "M2C33G - Meets the requirements"
+    },
+    {
+      "name": "Ford (service fill) M2C33F - Meets the requirements",
+      "organisation": "Ford (service fill)",
+      "spec": "M2C33F - Meets the requirements"
+    },
+    {
+      "name": "Ford SQM-2C 9007-AA - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "SQM-2C 9007-AA - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

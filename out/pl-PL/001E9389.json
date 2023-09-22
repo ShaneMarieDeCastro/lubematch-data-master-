@@ -1,0 +1,124 @@
+{
+  "id": "001E9389",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AG 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "cars",
+    "gm"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6d65cc9a-5462-4901-bed9-cf101d6d81cf.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AG 5W-30 (meet dexos 2) EN TDG V1.8 10-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/0b93a825-288e-4a7a-ba18-321902a757d5.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Poland PL TDG V1.8 22-May-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603644.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Poland EN 140003791557 EHS V1.5 27-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603648.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AG 5W-30 (dexos 2) Poland PL 140003791557 EHS V1.5 27-JUN-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9389_002VSI_A246",
+      "name": "Mała beczka 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "l",
+      "pack": "Mała beczka",
+      "materialCode": "550040685",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002W2L_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046653",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550040209",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9389_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046300",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Zaprojektowany aby spełniał bardzo wysokie wymagania dla wysokoobciążonych silników marek General-Motors, Opel/Vauxhall oraz innych, które wymagają stosowanie olejów w klasie API SN lub ACEA C3. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AG_5L_600061211.png",
+  "valueRecord": [],
+  "commerce": null
+}

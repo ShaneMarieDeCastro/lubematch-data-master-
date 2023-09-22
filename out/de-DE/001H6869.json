@@ -1,0 +1,114 @@
+{
+  "id": "001H6869",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra Professional AJ-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/279c6de0-28fb-4a85-9982-9d28fd496ea7.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) EN TDG V1.2 07-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619333.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) Germany DE 140001492039 EHS V1.2 06-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619334.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) Germany EN 140001492039 EHS V1.2 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/dcefb949-5c80-478a-ad9c-396171148776.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) Germany DE TDG V1.2 19-Oct-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H6869_002W21_A0YO",
+      "name": "Flasche 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550062255",
+      "margin": "1.29326494651982",
+      "packShot": ""
+    },
+    {
+      "code": "001H6869_002XS4_A246",
+      "name": "Fässer 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550059447",
+      "margin": "0.940972315637689",
+      "packShot": ""
+    },
+    {
+      "code": "001H6869_002WX1_A0YO",
+      "name": "Flasche 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550062256",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H6869_002XI2_A246",
+      "name": "Flasche 20 L JerryDose Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550060230",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C1",
+      "organisation": "ACEA",
+      "spec": "C1"
+    },
+    {
+      "name": "Ford WSS-M2C934-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C934-B"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5005",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5005"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Erfüllt die anspruchsvollen Anforderungen bestimmter Hochleistungsmotoren von Jaguar Land Rover sowie jener, die ACEA C1 benötigen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

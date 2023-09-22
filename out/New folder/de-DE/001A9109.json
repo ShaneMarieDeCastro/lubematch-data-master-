@@ -1,0 +1,105 @@
+{
+  "id": "001A9109",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Advance VSX 2 (FC/EGD)",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Motorrad",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/39b8e8eb-4aa9-4e8e-835e-06f284414e42.pdf",
+      "type": "GTDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) EN TDG V1.4 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552292.PDF",
+      "type": "LMSDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) Germany DE 140001492039 EHS V2.6 12-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552291.PDF",
+      "type": "LMSDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) Germany EN 140001492039 EHS V2.6 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/b4d1af2e-3c60-4399-bdf6-a11cd2c9e953.pdf",
+      "type": "LTDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) Germany DE TDG V1.4 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9109_002WKZ_EURO",
+      "name": "Flasche 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550053703",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FC - Meets smoke emission standard",
+      "organisation": "JASO",
+      "spec": "FC - Meets smoke emission standard"
+    },
+    {
+      "name": "JASO FC",
+      "organisation": "JASO",
+      "spec": "FC"
+    },
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance VSX 2 ist ein Motorenöl auf Basis der Synthesetechnologie, welches speziell für einen hervorragenden Schutz des Motors und eine hervorragende Leistung in 2-Takt-Motorrad-Motoren ausgelegt ist. Es garantiert einen hohen Schutz gegen Ablagerungen im Abgassystem und minimiert den Auspuffqualm. Shell Advance VSX 2 ist geeignet für alle Öl-Einspritz- und Vormischsysteme und übertrifft die Anforderungen der führenden Hersteller. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "7,0"
+    },
+    {
+      "property": "Flammpunkt PMCC",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "70"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–20"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_VSX_2T_1L_600059313.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,112 @@
+{
+  "id": "001G7231",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix High Mileage 10W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/74084549-b2f0-4def-a80b-2201d107a90e.pdf",
+      "type": "GTDS",
+      "name": "Helix High Mileage 10W-40 (SN/CF A3/B3) EN TDG V1.2 04-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02403350.PDF",
+      "type": "LMSDS",
+      "name": "Helix High Mileage 10W-40 (SN/CF A3/B3) Malaysia EN 140001435555 EHS V1.4 01-FEB-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02403351.PDF",
+      "type": "LMSDS",
+      "name": "Helix High Mileage 10W-40 (SN/CF A3/B3) Malaysia MS 140001435555 EHS V1.4 01-FEB-2022",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G7231_002W22_A04U",
+      "name": "Bottle 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051634",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G7231_002W2M_A04U",
+      "name": "Bottle 4 L Wishbone Plastic Helix Blue (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051635",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix High Mileage helps protect high mileage engines from the formation of sludge and engine deposits. It contains anti-wear additives to help slow down wear and seal conditioning agents to help stop oil leakage.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

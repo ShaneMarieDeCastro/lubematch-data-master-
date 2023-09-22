@@ -1,0 +1,96 @@
+{
+  "id": "001F4577",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Morlina S2 BA 150",
+  "description": "Special Application Bearing & Circulating Oil",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "bearing",
+    "bearing and circulating",
+    "enclosed gear",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "low load",
+    "morgan notwist systems",
+    "rod mill",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ae827ee2-d7ea-4067-9e7b-4a71dca6ca9c.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BA 150 (2014) EN TDG V2.7 10-Aug-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488230.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BA 150 (2014) France EN 140003182031 EHS V1.5 14-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488231.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BA 150 (2014) France FR 140003182031 EHS V1.5 14-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/f6977d07-0617-493f-aa08-6fa498c1fc95.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BA 150 (2014) France FR TDG V2.7 17-Feb-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "ISO 12925-1 CKB",
+      "organisation": "ISO",
+      "spec": "12925-1 CKB"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "Morgan MMC40009",
+      "organisation": "Morgan",
+      "spec": "MMC40009"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BA sont des huiles de hautes performances conçues pour fournir une excellente lubrification et une protection exceptionnelle à la plupart des applications industrielles sévères de roulements ou de mouvements en Sidérurgie, en particulier les systèmes No-Twist^®^ Rod Mill. Elles répondent aux spécifications des constructeurs tels que Morgan et Danieli. \n",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

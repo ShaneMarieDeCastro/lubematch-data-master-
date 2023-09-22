@@ -1,0 +1,106 @@
+{
+  "id": "001D8399",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Refrigeration Oil S4 FR-V 46",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Oliën voor koelcompressoren",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "industrial",
+    "long life",
+    "open compressor",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor",
+    "turbine",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/03da63b4-6645-4846-83fb-10554d7500fd.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 EN TDG V2.4 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574747.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Netherlands EN 140002783873 EHS V1.11 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574746.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Netherlands NL 140002783873 EHS V1.11 15-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/4dd2c3be-bba4-4df9-b407-8b2f8e8624cd.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-V 46 Netherlands NL TDG V2.4 22-Oct-2019",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8399_002VNF_A1P5",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550025701",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8399_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550025700",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V is een synthetische olie voor koelcompressoren op basis van alkylbenzenen. Het biedt een universele oplossing voor de smeervereisten van de meeste koelcompressoren en is compatibel met alle gangbare oliën voor koelcompressoren, met uitzondering van HFC's.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

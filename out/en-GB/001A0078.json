@@ -1,0 +1,199 @@
+{
+  "id": "001A0078",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "AeroShell SSF",
+  "description": "Mineral shock-absorber fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "Aviation lubricants",
+  "category": "Aviation lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_AeroShell_SSF_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "AeroShell SSF English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590892.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell SSF United Kingdom EN 140002340634 EHS V5.0 08-JUL-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "AeroShell Shock Strut Fluid (SSF) is a mineral hydraulic fluid (MIL-PRF-6083) to which additional additives have been added to improve the extreme pressure characteristics and the fluid’s natural lubricity. The lubricity agent provides a stable thin film layer to the metal surfaces at mild operating conditions. When severe conditions exist (landing/touchdown), the extreme pressure additive supplies the load carrying needed at the metal-to-metal surfaces to prevent the occurrence of such phenomena as “ladder cracking” and “slip stiction” of the piston component of the landing gear. AeroShell SSF is AeroShell Fluid 71 plus additives.",
+  "physicalCharacteristics": [
+    {
+      "property": "Base hydraulic fluid specification",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "MIL-PRF-6083F"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "14.5"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@ -40°C",
+      "units": "mm²/s",
+      "value": "560"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@ -54°C",
+      "units": "mm²/s",
+      "value": "2640"
+    },
+    {
+      "property": "Flashpoint",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "108"
+    },
+    {
+      "property": "Neutralisation number",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "2.6"
+    },
+    {
+      "property": "Evaporation (22 hrs)",
+      "method": "NULL",
+      "uom": "@ 99°C",
+      "units": "%",
+      "value": "65"
+    },
+    {
+      "property": "Relative Density",
+      "method": "NULL",
+      "uom": "@ 15.6/15.6°C",
+      "units": "NULL",
+      "value": "0.882"
+    },
+    {
+      "property": "Pour Point",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-62"
+    },
+    {
+      "property": "Foaming Seq I, Foam/collapse time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "sec",
+      "value": "30/30"
+    },
+    {
+      "property": "Foaming Seq II, Foam/collapse time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "sec",
+      "value": "20/10"
+    },
+    {
+      "property": "Foaming Seq III, Foam/collapse time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "sec",
+      "value": "30/30"
+    },
+    {
+      "property": "Corrosiveness and oxidation stability (168 hrs) Metal weight change - Copper",
+      "method": "",
+      "uom": "@ 121°C",
+      "units": "mg/cm²",
+      "value": "0.002"
+    },
+    {
+      "property": "Corrosiveness and oxidation stability (168 hrs) Metal weight change - Aluminium",
+      "method": "",
+      "uom": "@ 121°C",
+      "units": "mg/cm²",
+      "value": "0"
+    },
+    {
+      "property": "Corrosiveness and oxidation stability (168 hrs) Metal weight change - Steel",
+      "method": "",
+      "uom": "@ 121°C",
+      "units": "mg/cm²",
+      "value": "0"
+    },
+    {
+      "property": "Corrosiveness and oxidation stability (168 hrs) Metal weight change - Magnesium",
+      "method": "",
+      "uom": "@ 121°C",
+      "units": "mg/cm²",
+      "value": "0.002"
+    },
+    {
+      "property": "Corrosiveness and oxidation stability (168 hrs) Metal weight change - Cadmium",
+      "method": "",
+      "uom": "@ 121°C",
+      "units": "mg/cm²",
+      "value": "0"
+    },
+    {
+      "property": "Fluid properties - change in viscosity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "%",
+      "value": "+15"
+    },
+    {
+      "property": "Fluid properties - change in acid number",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "+0.5"
+    },
+    {
+      "property": "Fluid properties - insolubles",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1.0 mg/100 ml"
+    },
+    {
+      "property": "4-ball wear, scar diam",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mm",
+      "value": "0.43"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Yellow"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

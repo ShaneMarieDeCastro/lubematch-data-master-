@@ -1,0 +1,123 @@
+{
+  "id": "001F8437",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Tellus S2 MX 22",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "better system efficiency",
+    "extended life",
+    "extreme performance",
+    "factory applications",
+    "high tost",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "manufacturing",
+    "marine",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "pump gear",
+    "pump piston",
+    "pump vane",
+    "variable",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/09a4793b-f1d6-41ee-810a-619a8d78c380.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MX 22 (2016) EN TDG V4.2 29-Jan-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488547.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 22 (2016) France FR 140003182031 EHS V2.1 21-SEP-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488548.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 22 (2016) France EN 140003182031 EHS V2.1 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/d62ead34-73c5-44c8-8709-1122eb19991c.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MX 22 (2016) France FR TDG V4.2 05-Feb-2019",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8437_002VNA_A246",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550045733",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8437_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550045732",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "MB-Approval 341.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "341"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 MX sont des fluides hydrauliques hautes performances formulés avec des huiles de base de groupe II afin d'offrir une protection et des performances exceptionnelles à la plupart des installations industrielles et de nombreux équipements mobiles. Ils résistent aux dégradations par la chaleur ou le stress mécanique et aident à prévenir la formation de dépôts nuisibles qui peuvent diminuer l'efficacité de votre système hydraulique. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

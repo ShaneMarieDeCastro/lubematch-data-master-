@@ -1,0 +1,140 @@
+{
+  "id": "001F4014",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Advance 4T Ultra Scooter 5W-40 (SN/MB)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "four stroke",
+    "motorbikes",
+    "motorcycles",
+    "scooters"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/820d53d7-6388-48e4-a905-8434b2295519.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T Ultra Scooter 5W-40 (SN/MB) EN TDG V1.3 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02358481.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Ultra Scooter 5W-40 (SN/MB) Philippines EN 140001435525 EHS V1.5 12-JUL-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/8fcd52be-a220-45cf-a290-077240485cc6.pdf",
+      "type": "LTDS",
+      "name": "Advance 4T Ultra Scooter 5W-40 (SN/MB) Philippines EN TDG V1.3 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4014_002W21_A709",
+      "name": "Bottle 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045616",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4014_002W21_A411",
+      "name": "Bottle 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550043111",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "JASO MB",
+      "organisation": "JASO",
+      "spec": "MB"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Scooter is also commonly referred to as “Automatic gear bike” or “Scooter-matic”.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity grade",
+      "method": "SAE J300",
+      "uom": "",
+      "units": "",
+      "value": "5W-40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "85.5"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "13.9"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "167"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "850"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-39"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_Scooter_5W-40_4T_1L.png",
+  "valueRecord": [],
+  "commerce": null
+}

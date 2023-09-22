@@ -1,0 +1,95 @@
+{
+  "id": "001A0896",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Caprinus XR 20W-40",
+  "description": "Railroad diesel engine oil",
+  "family": "Caprinus",
+  "parentCategory": null,
+  "category": "Huiles moteur - Rail",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "locomotive",
+    "off highway",
+    "railroad",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d90bd1c1-a86d-4eca-a9b6-b1b871ae945c.pdf",
+      "type": "GTDS",
+      "name": "Caprinus XR 20W-40 EN TDG V1.1 31-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290246.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 20W-40 Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/7c47eee4-ba48-4855-a5ae-01f0f81f9bd6.pdf",
+      "type": "LTDS",
+      "name": "Caprinus XR 20W-40 Canada EN TDG V1.1 31-Mar-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290247.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 20W-40 Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0896_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550059520",
+      "margin": "0.407850260416667",
+      "packShot": ""
+    },
+    {
+      "code": "001A0896_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500003001",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "LMOA Generation 5",
+      "organisation": "LMOA",
+      "spec": "Generation 5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The performance of Shell Caprinus XR has been demonstrated in highly rated North American railroad operation subject to the most severe operating conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

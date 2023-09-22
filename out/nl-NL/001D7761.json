@@ -1,0 +1,188 @@
+{
+  "id": "001D7761",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Tellus S3 M 100",
+  "description": "Premium Zinc-Free Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Hydraulische vloeistoffen",
+  "category": "Hydraulische vloeistoffen",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "circulation",
+    "circulation system",
+    "extended life",
+    "factory applications",
+    "fixed",
+    "gearbox",
+    "high load",
+    "high tost",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "low toxicity",
+    "manufacturing",
+    "mobile",
+    "mobile equipment",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "servo",
+    "severe duty",
+    "stationary",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/cfb287fb-2838-4637-a604-9fa00c16752d.pdf",
+      "type": "GTDS",
+      "name": "Tellus S3 M 100 EN TDG V4.3 17-Nov-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542678.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S3 M 100 Netherlands EN 140002783873 EHS V1.6 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542774.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S3 M 100 Netherlands NL 140002783873 EHS V1.6 22-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/db498efc-3c3f-430b-91ac-929cf3541f16.pdf",
+      "type": "LTDS",
+      "name": "Tellus S3 M 100 Netherlands NL TDG V4.3 05-Sep-2016",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7761_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027135",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7761_002VNK_A246",
+      "name": "Emmer 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550027136",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 M",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 M"
+    },
+    {
+      "name": "ASTM D6158 HM",
+      "organisation": "ASTM",
+      "spec": "D6158 HM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S3 M hydraulische vloeistoffen zijn hoogwaardige oliën die gebruik maken van Shell's exclusieve zink-vrije technologie en bieden een uitzonderlijke bescherming en prestatie in de meeste industriële en mobiele toepassingen. Ze weerstaan hoge temperaturen en mechanische stress en helpen zo schadelijke afzettingen te voorkomen die invloed hebben op de levensduur van de hydraulische installatie. ",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "ISO 6743-4",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@0°C",
+      "units": "cSt",
+      "value": "1750"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11.4"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "875"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

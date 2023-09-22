@@ -1,0 +1,73 @@
+{
+  "id": "001G4838",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra Professional AT-L 5W-30",
+  "description": "Passenger Car Engine Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "fiat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/80ca024a-3619-474b-bb21-1acf18721c75.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) EN TDG V1.4 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319829.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) Turkey EN 140003791542 EHS V1.2 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/f6e3b886-8900-4c19-9887-868a517e671c.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) Turkey TR TDG V1.4 09-May-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319002.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) Turkey TR 140003791542 EHS V1.2 11-MAY-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Fiat 9.55535-S1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S1 - Meets the requirements"
+    },
+    {
+      "name": "Iveco 18-1811 Sp-SC1 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "18-1811 Sp-SC1 - Meets the requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Fiat marka araçlar ve ACEA C2 talep edilen diğer yüksek performanslı araçların gereksinimlerini karşılamak üzere tasarlanmıştır.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AT-L_1L_600039970.png",
+  "valueRecord": [],
+  "commerce": null
+}

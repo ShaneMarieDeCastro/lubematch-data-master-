@@ -1,0 +1,97 @@
+{
+  "id": "001J0929",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Coolant Extra Ready to Use",
+  "description": "Hybrid antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Koelvloeistof / Antivries - Concentraat ",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d7b6d00-472b-43a6-aa24-cc82488d9f7b.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/8b559feb-9d86-4f99-9a38-d41e8ef8ef0f.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) Netherlands NL TDG V1.4 07-Jul-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570507.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) Netherlands NL 140002783873 EHS V2.0 04-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570508.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) Netherlands EN 140002783873 EHS V2.0 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0929_002YBD_A863",
+      "name": "Fles 1 L Local Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550061799",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0929_002YBF_A863",
+      "name": "Fles 4 L Local Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550061800",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0929_002VSH_A863",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550061797",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0929_002VWL_A863",
+      "name": "Fles 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550061798",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

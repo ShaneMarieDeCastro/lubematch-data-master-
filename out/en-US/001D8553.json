@@ -1,0 +1,94 @@
+{
+  "id": "001D8553",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S3 V1000A 2",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "bearing",
+    "cold rolling",
+    "continuous casting",
+    "ep",
+    "extreme load",
+    "extreme pressure",
+    "heavy duty",
+    "hot rolling",
+    "hydraulic system",
+    "industrial",
+    "lithium",
+    "lithium calcium",
+    "low speed",
+    "multipurpose",
+    "premium",
+    "pump vane",
+    "roller tapered",
+    "sliding bearing",
+    "slow",
+    "slow running",
+    "swivel bearing",
+    "versatile",
+    "water resistance",
+    "water tolerant"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V1000A_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V1000A 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/664d60ef-c3a2-43aa-b013-95dfce24de7d.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V1000A 2 United States EN TDG V1.1 24-Dec-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563444.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V1000A 2 United States EN 140002686046 EHS V4.0 17-JUL-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8553_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550028203",
+      "margin": "4.95084672461274",
+      "packShot": ""
+    },
+    {
+      "code": "001D8553_002VKN_A1WJ",
+      "name": "Keg 50 kg O/H Steel + Liner Shell Red, Shell Yellow(1) WL",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550034500",
+      "margin": "9.70921573712276",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V1000A Greases are lithium-calcium greases based on high viscous mineral oils, containing antioxidants, rust inhibitors, EP and AW additives. The greases have excellent adhesion and water resistance, extreme load carrying capacity and excellent mechanical stability in the presence of water or emulsion.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

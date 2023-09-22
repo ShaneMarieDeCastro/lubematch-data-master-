@@ -1,0 +1,144 @@
+{
+  "id": "001B0909",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Rhodina Grease BBZ",
+  "description": "Special Purpose Blade Bearing Grease",
+  "family": "Rhodina",
+  "parentCategory": "Grassi",
+  "category": "Grassi non-EP a base di olio minerale",
+  "applicationKeys": [
+    "blade bearing"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4c25bfe2-816b-4a37-8855-4a5c0f7d7ff0.pdf",
+      "type": "GTDS",
+      "name": "Rhodina BBZ EN TDG V1.1 22-Feb-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543705.PDF",
+      "type": "LMSDS",
+      "name": "Rhodina BBZ Italy IT 140007645406 EHS V3.12 23-MAR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/897b72c2-093d-4813-a7a7-a196a92cdce7.pdf",
+      "type": "LTDS",
+      "name": "Rhodina BBZ Italy IT TDG V1.1 20-Jun-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543704.PDF",
+      "type": "LMSDS",
+      "name": "Rhodina BBZ Italy EN 140007645406 EHS V3.12 23-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0909_002XEC_A1P5",
+      "name": "Secchio 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550034440",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B0909_002YAF_A854",
+      "name": "Cartucce 5 KG Local (Accordion) Plastic Transparent (2)",
+      "size": "5",
+      "uom": "kg",
+      "pack": "Cartucce",
+      "materialCode": "550060914",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B0909_002VT7_EURO",
+      "name": "Cartuccia 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Cartuccia",
+      "materialCode": "550050004",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Rhodina Grease BBZ è specificamente formulato per applicazioni severe all'aperto, in particolare dove si richiede protezione dal false brinelling e dal fretting - anche a temperature molto basse.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1.5"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Calcium"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Part Synthetic"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "13"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "3"
+    },
+    {
+      "property": "Cone Penetration Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1 mm",
+      "value": "300"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "145"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

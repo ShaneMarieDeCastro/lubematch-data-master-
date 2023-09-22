@@ -1,0 +1,196 @@
+{
+  "id": "001D8276",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S2 A 80W-90",
+  "description": "High quality, GL-5 axle oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "brakes",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "front axle",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "on highway",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "slew",
+    "stationary",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "wheel"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_A_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 A 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578366.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 80W-90 France FR 140003182031 EHS V2.11 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/8afacf59-e0e4-4cb5-843f-16ee9bbc3b4b.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 A 80W-90 France FR TDG V1.1 16-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578369.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 80W-90 France EN 140003182031 EHS V2.11 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8276_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027903",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8276_002VNC_A246",
+      "name": "Sceau 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027904",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8276_002W1Y_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550056384",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8276_002WTH_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Shell Red (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550047671",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 A 80W-90 a été formulée pour être utilisée dans un grand nombre d'essieux travaillant dans des conditions difficiles.  \n",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80W-90"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "146"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.7"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "904"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-27"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027904_Shell_Spirax_S2_A_80W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-spirax-s2-a-80w90-1l"
+}

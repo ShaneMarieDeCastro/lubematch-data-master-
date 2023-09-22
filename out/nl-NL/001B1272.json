@@ -1,0 +1,92 @@
+{
+  "id": "001B1272",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "GlycoShell Longlife Concentrate",
+  "description": "Antifreeze fluid",
+  "family": "GlycoShell",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Koelvloeistof / Antivries - Concentraat ",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140002255194_966.pdf",
+      "type": "GTDS",
+      "name": "English GlycoShell Long-Life Concentrate",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140002385856_22D6.pdf",
+      "type": "LTDS",
+      "name": "GlycoShell Longlife Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481591.PDF",
+      "type": "LMSDS",
+      "name": "GlycoShell Long-Life Concentrate Netherlands EN 140002783873 EHS V2.1 24-JUN-2013",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481594.PDF",
+      "type": "LMSDS",
+      "name": "GlycoShell Long-Life Concentrate Netherlands NL 140002783873 EHS V2.1 24-JUN-2013",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Mercedes-Benz DBL 7700.02",
+      "organisation": "Mercedes-Benz",
+      "spec": "DBL 7700.02"
+    },
+    {
+      "name": "Scania 0-89 1027 GT EN",
+      "organisation": "Scania",
+      "spec": "0-89 1027 GT EN"
+    },
+    {
+      "name": "MAN 324 Type SNF",
+      "organisation": "MAN",
+      "spec": "324 Type SNF"
+    },
+    {
+      "name": "General Motors GM 6277",
+      "organisation": "General Motors",
+      "spec": "GM 6277"
+    },
+    {
+      "name": "MTU MTL 5048",
+      "organisation": "MTU",
+      "spec": "MTL 5048"
+    },
+    {
+      "name": "VAG TL 774-F",
+      "organisation": "VAG",
+      "spec": "TL 774-F"
+    },
+    {
+      "name": "Ford WSS-M97B44-D",
+      "organisation": "Ford",
+      "spec": "WSS-M97B44-D"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

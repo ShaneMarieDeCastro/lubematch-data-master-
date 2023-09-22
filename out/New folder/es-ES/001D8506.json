@@ -1,0 +1,78 @@
+{
+  "id": "001D8506",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Gadus S2 OGH 0/00",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas para engranajes abiertos",
+  "applicationKeys": [
+    "clay",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "kiln gears",
+    "open gears",
+    "rotary cement kiln",
+    "rotary cement kiln gears",
+    "smectite",
+    "solid lubricant",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0/00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c583389f-234b-4edc-8d66-d6e5dceb201f.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGH 0/00 EN TDG V1.2 04-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02455310.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Spain EN 140003966322 EHS V1.4 26-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/d56bd2f3-1563-45d1-be69-286e88eb8a63.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OGH 0/00 Spain ES TDG V1.2 10-May-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02455311.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Spain ES 140003966322 EHS V1.4 26-SEP-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8506_002VH7_A246",
+      "name": "Bidón 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Bidón",
+      "materialCode": "550028076",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Las grasas Shell Gadus S2 OGH están formuladas empleando un espesante inorgánico no jabonoso disperso en un aceite base de alta viscosidad que contiene grafito.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

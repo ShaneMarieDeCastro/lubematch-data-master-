@@ -1,0 +1,62 @@
+{
+  "id": "901L0678",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell LHM-S",
+  "description": "Hydraulic oil purchased from Fuchs for Citroen vehicles and brake fluid applications",
+  "family": "Hydraulic",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Andere specialiteiten",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_LHM-S_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "LHM-S English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581015.PDF",
+      "type": "LMSDS",
+      "name": "LHM-S Netherlands NL 140002783873 EHS V3.7 25-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/8016bceb-855b-4db2-9cbf-9e60551ecbae.pdf",
+      "type": "LTDS",
+      "name": "LHM-S Netherlands NL TDG V1.1 13-Aug-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581014.PDF",
+      "type": "LMSDS",
+      "name": "LHM-S Netherlands EN 140002783873 EHS V3.7 25-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "PSA B71 2710",
+      "organisation": "PSA",
+      "spec": "B71 2710"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

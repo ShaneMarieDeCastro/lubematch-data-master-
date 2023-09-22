@@ -1,0 +1,80 @@
+{
+  "id": "001D8447",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell GadusRail S3 AAR AL 1.5",
+  "description": "Premium Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses non EP à base d’huile minérale",
+  "applicationKeys": [
+    "american railroad",
+    "axle",
+    "double stacked container cars",
+    "heavy load",
+    "lithium calcium",
+    "plain bearings",
+    "premium",
+    "rail",
+    "rail axle",
+    "rail journal bearings",
+    "railroad",
+    "railroad axle box",
+    "railroad axle journal bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/928a64f8-9421-4402-87ef-fec062ea84fc.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 AAR AL 1.5 EN TDG V1.5 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02526023.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 AAR AL 1.5 Canada EN 140006579500 EHS V2.0 21-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02526024.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 AAR AL 1.5 Canada FR 140006579500 EHS V2.0 21-FEB-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8447_002XF1_NAMD",
+      "name": "",
+      "size": "1000",
+      "uom": "kg",
+      "pack": "Vrac ",
+      "materialCode": "550063959",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AAR M-942-2012",
+      "organisation": "AAR",
+      "spec": "M-942-2012"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The high quality additive system is designed specifically for the grease to be used in railroad axle journal roller bearings, which are designed not to be lubricated in the field, including those in the newer, more heavily loaded double stacked container cars. The additive system also promotes superior protection against oxidation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

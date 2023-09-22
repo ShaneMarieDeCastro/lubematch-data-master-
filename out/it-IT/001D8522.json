@@ -1,0 +1,168 @@
+{
+  "id": "001D8522",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S1 V220 2",
+  "description": "Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi EP a base di olio minerale",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "cement",
+    "ep",
+    "extreme pressure",
+    "general engineering",
+    "lithium",
+    "lithium based",
+    "moderate duty",
+    "multipurpose",
+    "plain bearings",
+    "roller bearings",
+    "rolling bearing",
+    "steel",
+    "versatile"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ef801d38-ac2c-4092-8d66-0d30e1d1b685.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V220 2 EN TDG V2.6 31-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543376.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V220 2 Italy EN 140007645406 EHS V1.8 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543375.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V220 2 Italy IT 140007645406 EHS V1.8 22-MAR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/f3eb3c22-8dcd-4c05-977e-53f9f5a369b5.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V220 2 Italy IT TDG V2.6 31-Mar-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8522_002XD7_A246",
+      "name": "Secchio 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550028090",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8522_002VGF_EURO",
+      "name": "Cartuccia 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartuccia",
+      "materialCode": "550050090",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8522_002XM9_EURO",
+      "name": "Cartuccia 0.4 kg Local (Cartridge Lube shuttle) Plastic White (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartuccia",
+      "materialCode": "550053080",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8522_002VH7_A246",
+      "name": "Fusto 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fusto",
+      "materialCode": "550028048",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Dark brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "18"
+    },
+    {
+      "property": "Cone Penetration, worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": ">180"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

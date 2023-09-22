@@ -1,0 +1,185 @@
+{
+  "id": "001D7871",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Paper Machine Oil S3 M 150",
+  "description": "Paper Machine Circulating Oils",
+  "family": "Paper Machine",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "servo",
+    "variable"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/7d0e450b-1c3b-4ffa-ae2e-d4dd072e3fd4.pdf",
+      "type": "GTDS",
+      "name": "Paper Machine Oil S3 M 150 EN TDG V2.2 11-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/38c27521-33dc-4a83-8237-ad2b4e6cc3c8.pdf",
+      "type": "LTDS",
+      "name": "Paper Machine Oil S3 M 150 United States EN TDG V2.2 05-May-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563704.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S3 M 150 United States EN 140002686046 EHS V3.1 29-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7871_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026778",
+      "margin": "1.36960236799957",
+      "packShot": ""
+    },
+    {
+      "code": "001D7871_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006029",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51354-2",
+      "organisation": "DIN",
+      "spec": "51354-2"
+    },
+    {
+      "name": "Voith VN 108",
+      "organisation": "Voith",
+      "spec": "VN 108"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Paper Machine Oils S3 M are high performance Oils based on modern ashless additive technology. They are designed to provide excellent all round protection for the diverse needs and conditions found in modern Paper machines. They meet the requirements of Metso, SKF and Voith systems.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.8"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "890"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Demulsibility Separation Time",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "mins",
+      "value": "10"
+    },
+    {
+      "property": "Rust Test, Synthetic Sea Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Oxidation Life (TOST)",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hrs",
+      "value": "3364"
+    },
+    {
+      "property": "Timken, OK Load",
+      "method": "ASTM D2782",
+      "uom": "",
+      "units": "lbs",
+      "value": "50"
+    },
+    {
+      "property": "Foam Test, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam at 0/10 mins",
+      "value": "0/0"
+    },
+    {
+      "property": "FZG Load Stage",
+      "method": "ASTM D5182",
+      "uom": "",
+      "units": "",
+      "value": "12 Pass"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

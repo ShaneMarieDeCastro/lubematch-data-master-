@@ -1,0 +1,143 @@
+{
+  "id": "001D8294",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Spirax S1 ATF TASA",
+  "description": "Quality Type A Suffix A Automatic Transmission and Hydraulic Fluid",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "bearing",
+    "gearbox",
+    "gm type a suffix a",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "industrial torque convertor",
+    "manual sequential",
+    "marine",
+    "mobile",
+    "non shiftable",
+    "offroad",
+    "offshore",
+    "older passenger car",
+    "plain",
+    "power steering",
+    "powershift",
+    "powershift torque convertors",
+    "pump gear",
+    "screw pump",
+    "semi automatic",
+    "stern tube seal",
+    "torque converters",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S1_ATF_TASA_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S1 ATF TASA English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/4a7d0c24-a921-4efb-b369-bdae8981023c.pdf",
+      "type": "LTDS",
+      "name": "Spirax S1 ATF TASA United States EN TDG V1.1 08-Dec-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562325.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF TASA United States EN 140002686046 EHS V1.4 13-APR-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8294_002VNE_A246",
+      "name": "Pail 20 L Plastic O/H W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027786",
+      "margin": "1.76643935015632",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors Type A Suffix A - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Type A Suffix A - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Type 'A' Suffix 'A'",
+      "organisation": "General Motors",
+      "spec": "Type 'A' Suffix 'A'"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell S1 ATF TASA is a high quality automotive transmission, power steering and hydraulic oil mainly used for heavy-duty vehicles working in an 'off-road' environment.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "157"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "880"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "170"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,115 @@
+{
+  "id": "001D8427",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S3 V460 1.5",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "bearing",
+    "cement",
+    "chemical industry",
+    "continuous casting",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy load",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "mining",
+    "multipurpose",
+    "paper",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "severe conditions",
+    "severe load",
+    "slow",
+    "slow moving",
+    "steel",
+    "water resistance",
+    "workroll bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V460_1.5_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V460 1.5 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/6517cb88-876a-4ff6-8eb0-4610b09fe3c6.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V460 1.5 United States EN TDG V1.2 24-Dec-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562582.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V460 1.5 United States EN 140002686046 EHS V6.0 22-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8427_002VKN_A1WJ",
+      "name": "Keg 50 kg O/H Steel + Liner Shell Red, Shell Yellow(1) WL",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550026863",
+      "margin": "2.22198953914088",
+      "packShot": ""
+    },
+    {
+      "code": "001D8427_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550027708",
+      "margin": "1.99120057225512",
+      "packShot": ""
+    },
+    {
+      "code": "001D8427_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005991",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8427_002XL3_NAMD",
+      "name": "Cartridges 0.4 kg Local (Fiber Grease) Composite Multi-coloured (10)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridges",
+      "materialCode": "550059492",
+      "margin": "2.76774997711182",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V460 Greases are especially suitable for slow moving, heavy-duty bearings operating at high temperature and under severe load.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

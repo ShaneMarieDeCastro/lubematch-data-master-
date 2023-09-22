@@ -1,0 +1,94 @@
+{
+  "id": "001D7756",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Tellus S2 VA 46",
+  "description": "Industrial Detergent Hydraulic Fluid for wide temperature range\n",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "aviation turbines",
+    "fixed",
+    "fuel",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "servo",
+    "transmissions",
+    "turbine",
+    "variable",
+    "versatile",
+    "water resistance"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/60dc89ba-4646-4cea-953d-ce210a8a29c8.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 VA 46 EN TDG V1.8 31-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562714.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VA 46 United States EN 140002686046 EHS V1.4 13-FEB-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7756_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027113",
+      "margin": "2.4339393985075",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "ASTM D6158 HV",
+      "organisation": "ASTM",
+      "spec": "D6158 HV"
+    },
+    {
+      "name": "DIN 51524-3 HVLPD",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLPD"
+    },
+    {
+      "name": "Bosch RD 90220-01/04.11",
+      "organisation": "Bosch",
+      "spec": "RD 90220-01/04.11"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 VA is a high performance detergent-based hydraulic fluid for use where emusifiable fluids are preferred. Using proven zinc-based anti-wear technology it provides proven performance in applications such as construction or mobile applications where contamination by water, cleanliness or control of solid contaminants is important in conjunction with a wide range of operating temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

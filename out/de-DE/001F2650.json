@@ -1,0 +1,205 @@
+{
+  "id": "001F2650",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra Professional AV-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/23334cba-e7f5-4eb7-89b6-60d5d61d3ca2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AV-L 0W-30 (C3 VW 504/507) EN TDG V1.8 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617623.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 0W-30 (C3 VW 504/507) Germany DE 140001492039 EHS V1.6 13-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/d7fe6d25-64cd-43fe-9109-c29da4f6c731.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AV-L 0W-30 (C3 VW 504/507) Germany DE TDG V1.8 25-Oct-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617622.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 0W-30 (C3 VW 504/507) Germany EN 140001492039 EHS V1.6 13-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2650_002VNF_A246",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550041876",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_002XN7_EURO",
+      "name": "Flasche 20 L Local EcoPack PET Flasche 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "EcoPack",
+      "materialCode": "550048372",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_002YAN_A0YO",
+      "name": "Flasche 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550041874",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500009250",
+      "margin": "0.845266352118453",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_002XS4_A246",
+      "name": "Fässer 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550041875",
+      "margin": "0.794321924239703",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_002VSI_A246",
+      "name": "Fass 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550041872",
+      "margin": "1.09304947794101",
+      "packShot": ""
+    },
+    {
+      "code": "001F2650_002YAP_A0YO",
+      "name": "Flasche 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550041873",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Porsche C30",
+      "organisation": "Porsche",
+      "spec": "C30"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Erfüllt die anspruchsvollen Anforderungen bestimmter Hochleistungsmotoren insbesondere von Audi,Volkswagen und Porsche.",
+  "physicalCharacteristics": [
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "",
+      "units": "kg/m³",
+      "value": "838,0"
+    },
+    {
+      "property": "Flammpunkt",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "226"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–51"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "58,70"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "11,90"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "204"
+    },
+    {
+      "property": "Dynamische Viskosität (MRV) ",
+      "method": "ASTM D4684",
+      "uom": "@–40 °C",
+      "units": "cP",
+      "value": "18 900"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550041874_Shell_Helix_Ult_Pro_AV-L_0W-30_1L_de.png",
+  "valueRecord": [],
+  "commerce": null
+}

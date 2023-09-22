@@ -1,0 +1,94 @@
+{
+  "id": "001E9392",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix Ultra Professional AR-L 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/40d1e374-7ff9-42f4-a63f-87db3d99145c.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L 5W-30 (C4 Renault) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498714.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 5W-30 (C4 Renault) Italy EN 140007645406 EHS V1.7 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/5a16f02f-7d37-4860-983c-ea0606c56304.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L 5W-30 (C4 Renault) Italy IT TDG V1.5 06-Dec-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498715.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 5W-30 (C4 Renault) Italy IT 140007645406 EHS V1.7 06-DEC-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9392_002W21_A10E",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550040544",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9392_002XS4_A246",
+      "name": "Fusti 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusti",
+      "materialCode": "550040210",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Renault RN 0720",
+      "organisation": "Renault",
+      "spec": "RN 0720"
+    },
+    {
+      "name": "ACEA C4",
+      "organisation": "ACEA",
+      "spec": "C4"
+    },
+    {
+      "name": "MB-Approval 226.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formulato per soddisfare i severi requisiti di alcuni motori diesel ad alte prestazioni inclusi i motori Renault e ove richiesta la specifica ACEA C4.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AR-L_5L_600061210.png",
+  "valueRecord": [],
+  "commerce": null
+}

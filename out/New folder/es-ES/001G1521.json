@@ -1,0 +1,71 @@
+{
+  "id": "001G1521",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Argina S2 30",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": "Aceites de motor industriales",
+  "category": "Aceites de motor - Motor de pistón",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "light fuel",
+    "marine",
+    "medium speed"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ec8daae1-01db-4bba-b2fe-de300219a4fb.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S2 30 EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450812.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S2 30 Spain EN 140003966322 EHS V1.4 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/95ef1438-84a3-408a-bf03-27911c304cc7.pdf",
+      "type": "LTDS",
+      "name": "Shell Argina S2 30 Spain ES TDG V1.9 09-Sep-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450813.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S2 30 Spain ES 140003966322 EHS V1.4 21-SEP-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1521_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550054531",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S2 30 es un lubricante para motores diésel de velocidad media de alto rendimiento que funcionan con combustibles o fueles residuales, mezclados o destilados. Shell Argina S2 30 tiene un TBN de 20 y está diseñado para condiciones de trabajo con bajo estrés del aceite.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

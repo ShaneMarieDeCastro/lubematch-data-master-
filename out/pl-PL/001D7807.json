@@ -1,0 +1,108 @@
+{
+  "id": "001D7807",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Morlina S2 B 46",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oleje obiegowe i łożyskowe",
+  "category": "Oleje łożyskowe i obiegowe",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "fixed",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "low load",
+    "machine circulation systems",
+    "oil lubricated bearings",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "rollers",
+    "rollneck bearings",
+    "turbine",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S2_B_46_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S2 B 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/a685482f-fb98-4232-9dc0-4a9e53e91ce7.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 46 Poland PL TDG V2.1 01-Jun-2018",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571251.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 46 Poland EN 140003791557 EHS V1.7 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571252.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 46 Poland PL 140003791557 EHS V1.7 04-MAY-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7807_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550026381",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B to najwyższej jakości oleje wykazujące doskonałą odporność na utlenianie oraz doskonałą sepearację wody. Są przeznaczone do stosowania w układach obiegowych oraz do smarowania łożysk w większości instalacji  przemysłowych. Mogą być również stosowane, gdy nie wymaga się stosowania olejów z dodatkami przeciwzatarciowymi (EP). Spełniają specyfikacje Firm Morgan Construction jak i Danieli jako oleje łożyskowe.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,508 @@
+{
+  "id": "001E7844",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Synthetic Multi-Vehicle ATF",
+  "description": "Premium Synthetic Technology Multi-Vehicle Automatic Transmission Fluid",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "atf",
+    "automatic transmissions",
+    "heavy duty",
+    "heavy duty atf",
+    "hydraulics",
+    "low temperature",
+    "multiple oem",
+    "multivehicle atf",
+    "passenger car",
+    "power steering",
+    "trucks"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Synthetic_Multi-Vehicle_ATF_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Synthetic Multi-Vehicle ATF English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140007538979_201305021819.pdf",
+      "type": "LTDS",
+      "name": "Pzl Synthetic Multi-Vehicle ATF Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289775.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Synthetic Multi-Vehicle ATF Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140007507896_201302112210.pdf",
+      "type": "LTDS",
+      "name": "Pzl Synthetic Multi-Vehicle ATF Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289782.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Synthetic Multi-Vehicle ATF Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Hyundai SP II - Suitable for use in applications which require",
+      "organisation": "Hyundai",
+      "spec": "SP II - Suitable for use in applications which require"
+    },
+    {
+      "name": "Isuzu ATF III - Suitable for use in applications which require",
+      "organisation": "Isuzu",
+      "spec": "ATF III - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 04D - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 04D - Suitable for use in applications which require"
+    },
+    {
+      "name": "Audi G 055 025-A2 - Suitable for use in applications which require",
+      "organisation": "Audi",
+      "spec": "G 055 025-A2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Saab JWS 3309 5 speed automatics - Suitable for use in applications which require",
+      "organisation": "Saab",
+      "spec": "JWS 3309 5 speed automatics - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford Mercon - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon - Suitable for use in applications which require"
+    },
+    {
+      "name": "Fiat 9.55550 AV - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55550 AV - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 17C - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17C - Suitable for use in applications which require"
+    },
+    {
+      "name": "JASO 2A-02",
+      "organisation": "JASO",
+      "spec": "2A-02"
+    },
+    {
+      "name": "General Motors Dexron IID - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron IID - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford WSS-M2C166-H - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "WSS-M2C166-H - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 339 Type Z3 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "339 Type Z3 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford WSS-M2C202-B - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "WSS-M2C202-B - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.6 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.6 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Voith 55.6335.32 (G607 G1363) - Suitable for use in applications which require",
+      "organisation": "Voith",
+      "spec": "55.6335.32 (G607 G1363) - Suitable for use in applications which require"
+    },
+    {
+      "name": "Honda/ Acura Premium - Suitable for use in applications which require",
+      "organisation": "Honda/ Acura",
+      "spec": "Premium - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.9 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.9 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Voith DIWA 013S - Suitable for use in applications which require",
+      "organisation": "Voith",
+      "spec": "DIWA 013S - Suitable for use in applications which require"
+    },
+    {
+      "name": "BMW LA2634 - Suitable for use in applications which require",
+      "organisation": "BMW",
+      "spec": "LA2634 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Scion T-III - Suitable for use in applications which require",
+      "organisation": "Scion",
+      "spec": "T-III - Suitable for use in applications which require"
+    },
+    {
+      "name": "Mazda ATF M-111 - Suitable for use in applications which require",
+      "organisation": "Mazda",
+      "spec": "ATF M-111 - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.1 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "VW Standard TL 5612 - Suitable for use in applications which require",
+      "organisation": "VW",
+      "spec": "Standard TL 5612 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford WSS-M2C924-A - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "WSS-M2C924-A - Suitable for use in applications which require"
+    },
+    {
+      "name": "BMW ETL-7045E - Suitable for use in applications which require",
+      "organisation": "BMW",
+      "spec": "ETL-7045E - Suitable for use in applications which require"
+    },
+    {
+      "name": "Idemitsu K17 - Suitable for use in applications which require",
+      "organisation": "Idemitsu",
+      "spec": "K17 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Audi G 052 162-A1 - Suitable for use in applications which require",
+      "organisation": "Audi",
+      "spec": "G 052 162-A1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 339 Type V2 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "339 Type V2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 339 Type Z1 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "339 Type Z1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "BMW LT71141 - Suitable for use in applications which require",
+      "organisation": "BMW",
+      "spec": "LT71141 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Volvo 97340 - Suitable for use in applications which require",
+      "organisation": "Volvo",
+      "spec": "97340 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Toyota T II - Suitable for use in applications which require",
+      "organisation": "Toyota",
+      "spec": "T II - Suitable for use in applications which require"
+    },
+    {
+      "name": "Mini 83 2 0 402 42 - Suitable for use in applications which require",
+      "organisation": "Mini",
+      "spec": "83 2 0 402 42 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Nissan/Infiniti Matic-D - Suitable for use in applications which require",
+      "organisation": "Nissan/Infiniti",
+      "spec": "Matic-D - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Type A Suffix A - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Type A Suffix A - Suitable for use in applications which require"
+    },
+    {
+      "name": "Subaru ATF - Suitable for use in applications which require",
+      "organisation": "Subaru",
+      "spec": "ATF - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 14C - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14C - Suitable for use in applications which require"
+    },
+    {
+      "name": "JASO 1A",
+      "organisation": "JASO",
+      "spec": "1A"
+    },
+    {
+      "name": "Toyota T-III - Suitable for use in applications which require",
+      "organisation": "Toyota",
+      "spec": "T-III - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.7 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.7 - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron II - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron II - Suitable for use in applications which require"
+    },
+    {
+      "name": "Suzuki Dexron III - Suitable for use in applications which require",
+      "organisation": "Suzuki",
+      "spec": "Dexron III - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron IIIH - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron IIIH - Suitable for use in applications which require"
+    },
+    {
+      "name": "Nissan/Infiniti Matic-K - Suitable for use in applications which require",
+      "organisation": "Nissan/Infiniti",
+      "spec": "Matic-K - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 11A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 11A - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors/ Saturn 9986195 (JWS 3309) - Suitable for use in applications which require",
+      "organisation": "General Motors/ Saturn",
+      "spec": "9986195 (JWS 3309) - Suitable for use in applications which require"
+    },
+    {
+      "name": "Honda/ Acura ATF-Z1 - Suitable for use in applications which require",
+      "organisation": "Honda/ Acura",
+      "spec": "ATF-Z1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Texaco N402 - Suitable for use in applications which require",
+      "organisation": "Texaco",
+      "spec": "N402 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 09 - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 09 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 16L - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 16L - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 14A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14A - Suitable for use in applications which require"
+    },
+    {
+      "name": "Toyota/ Lexus T-IV - Suitable for use in applications which require",
+      "organisation": "Toyota/ Lexus",
+      "spec": "T-IV - Suitable for use in applications which require"
+    },
+    {
+      "name": "Porsche JWS 3309 (Cayenne) - Suitable for use in applications which require",
+      "organisation": "Porsche",
+      "spec": "JWS 3309 (Cayenne) - Suitable for use in applications which require"
+    },
+    {
+      "name": "Volvo 5 Speed Automatics - Suitable for use in applications which require",
+      "organisation": "Volvo",
+      "spec": "5 Speed Automatics - Suitable for use in applications which require"
+    },
+    {
+      "name": "Mitsubishi Diamond SP-II - Suitable for use in applications which require",
+      "organisation": "Mitsubishi",
+      "spec": "Diamond SP-II - Suitable for use in applications which require"
+    },
+    {
+      "name": "Isuzu Genuine - Suitable for use in applications which require",
+      "organisation": "Isuzu",
+      "spec": "Genuine - Suitable for use in applications which require"
+    },
+    {
+      "name": "Hyundai SP III - Suitable for use in applications which require",
+      "organisation": "Hyundai",
+      "spec": "SP III - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford WSS-M2C922-A1 - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "WSS-M2C922-A1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.5 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.5 - Suitable for use in applications which require"
+    },
+    {
+      "name": "VW G 055 25-A2 - Suitable for use in applications which require",
+      "organisation": "VW",
+      "spec": "G 055 25-A2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 339 Type V1 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "339 Type V1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.2 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford Mercon V - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon V - Suitable for use in applications which require"
+    },
+    {
+      "name": "Volvo 1273.41 - Suitable for use in applications which require",
+      "organisation": "Volvo",
+      "spec": "1273.41 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Kia ATF Red I-K - Suitable for use in applications which require",
+      "organisation": "Kia",
+      "spec": "ATF Red I-K - Suitable for use in applications which require"
+    },
+    {
+      "name": "Mazda ATF MV - Suitable for use in applications which require",
+      "organisation": "Mazda",
+      "spec": "ATF MV - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.10 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.10 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Scion T-IV - Suitable for use in applications which require",
+      "organisation": "Scion",
+      "spec": "T-IV - Suitable for use in applications which require"
+    },
+    {
+      "name": "Subaru ATF-HP - Suitable for use in applications which require",
+      "organisation": "Subaru",
+      "spec": "ATF-HP - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 02F - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 02F - Suitable for use in applications which require"
+    },
+    {
+      "name": "Kia SP II - Suitable for use in applications which require",
+      "organisation": "Kia",
+      "spec": "SP II - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford WSS-M2C138-CJ - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "WSS-M2C138-CJ - Suitable for use in applications which require"
+    },
+    {
+      "name": "Kia SP III - Suitable for use in applications which require",
+      "organisation": "Kia",
+      "spec": "SP III - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron III - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron III - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 03D - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 03D - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 14B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14B - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 339 Type Z2 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "339 Type Z2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "VW Standard TL 52162 - Suitable for use in applications which require",
+      "organisation": "VW",
+      "spec": "Standard TL 52162 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Texaco ETL-7045-E - Suitable for use in applications which require",
+      "organisation": "Texaco",
+      "spec": "ETL-7045-E - Suitable for use in applications which require"
+    },
+    {
+      "name": "Mitsubishi Diamond SP-III - Suitable for use in applications which require",
+      "organisation": "Mitsubishi",
+      "spec": "Diamond SP-III - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron IIIG - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron IIIG - Suitable for use in applications which require"
+    },
+    {
+      "name": "Scion T-II - Suitable for use in applications which require",
+      "organisation": "Scion",
+      "spec": "T-II - Suitable for use in applications which require"
+    },
+    {
+      "name": "Isuzu ATF II - Suitable for use in applications which require",
+      "organisation": "Isuzu",
+      "spec": "ATF II - Suitable for use in applications which require"
+    },
+    {
+      "name": "Aisin JWS 3309 - Suitable for use in applications which require",
+      "organisation": "Aisin",
+      "spec": "JWS 3309 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Volvo JWS 3309 - Suitable for use in applications which require",
+      "organisation": "Volvo",
+      "spec": "JWS 3309 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Premium performance, synthetic technology fluid designed to meet the needs of multiple vehicle types for service fill in automatic transmission service. PENNZOIL^® SYNTHETIC MULTI-VEHICLE ATF meets the needs of many Asian and North American designed automatic transmissions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

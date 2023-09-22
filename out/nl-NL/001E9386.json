@@ -1,0 +1,115 @@
+{
+  "id": "001E9386",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix HX7 Professional AV 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d6cbb3a5-3595-46d0-b5c1-e2141b371e8b.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) EN TDG V1.4 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/7450fc9e-be3d-45fc-a093-f260efa928ae.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Netherlands NL TDG V1.4 17-Nov-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603491.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Netherlands EN 140002783873 EHS V1.5 27-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603492.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Netherlands NL 140002783873 EHS V1.5 27-JUN-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9386_002WPC_EURO",
+      "name": "Fles 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046292",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550040412",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002W22_EURO",
+      "name": "Fles 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046311",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 505.01",
+      "organisation": "VW",
+      "spec": "Standard 505.01"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontwikkeld om aan de strenge eisen van hoog presterende motoren, waaronder Audi, Volkswagen en andere automerken te voldoen die de ACEA C3 specificatie vereisen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_HX7_Pro_AV_5W_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

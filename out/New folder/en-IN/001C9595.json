@@ -1,0 +1,112 @@
+{
+  "id": "001C9595",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix HX3 20W-50",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/71802b51-a8ab-4694-b59a-104ce4fff271.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 20W-50 (SG/CD) EN TDG V3.1 30-Aug-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02336755.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 20W-50 (SG/CD) India EN 140006501563 EHS V1.6 01-JUN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_Helix_HX3_20W-50_(SG_CD)_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix HX3 20W-50 (SG/CD) India English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C9595_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500004942",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9595_002WPF_A343",
+      "name": "Bottle 3 L Wishbone Plastic Shell Red (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031348",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9595_002W1Y_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031413",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9595_002XCT_A1W8",
+      "name": "Bottle 3.5 L Wishbone Plastic Shell Red (4)",
+      "size": "3.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031417",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9595_002XCT_A343",
+      "name": "Bottle 3.5 L Wishbone Plastic Shell Red (4)",
+      "size": "3.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031341",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CD",
+      "organisation": "API",
+      "spec": "CD"
+    },
+    {
+      "name": "API SG",
+      "organisation": "API",
+      "spec": "SG"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 has been formulated with cleansing technology to stop dirt and sludge building up and therefore help protect and prolong the life of the engine.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

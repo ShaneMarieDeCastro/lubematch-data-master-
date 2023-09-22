@@ -1,0 +1,99 @@
+{
+  "id": "001E3657",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T3 NG 15W-40",
+  "description": "High Performance dedicated CNG Heavy Duty Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rotella_T3_NG_15W-40_(2011)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Rotella T3 NG 15W-40 (2011) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/07e53e93-8f6b-428d-afab-d7febebc7df8.pdf",
+      "type": "LTDS",
+      "name": "Rotella T3 NG 15W-40 (2011) Canada FR TDG V1.1 10-Jan-2017",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/64c5ffec-c93a-4c5f-b4b8-e2cccbb61091.pdf",
+      "type": "LTDS",
+      "name": "Rotella T3 NG 15W-40 (2011) Canada EN TDG V1.1 25-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02408288.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T3 NG 15W-40 (2011) Canada FR 140006579500 EHS V1.4 07-MAR-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02408287.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T3 NG 15W-40 (2011) Canada EN 140006579500 EHS V1.4 07-MAR-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E3657_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550034770",
+      "margin": "0.80410826062611",
+      "packShot": ""
+    },
+    {
+      "code": "001E3657_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500007490",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Detroit Fluid Specification 93K216",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K216"
+    },
+    {
+      "name": "Cummins CES 20074",
+      "organisation": "Cummins",
+      "spec": "CES 20074"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T3 NG Protection Energisante^md oil utilise des combinaisons sur mesure d'additifs à haute performance afin de garantir que l'huile s’adapte et protège lorsqu’elle est soumise aux pressions et températures que l'on rencontre dans les moteurs alimentés au gaz naturel comprimé (GNC). L’huile Shell Rotella^®^ T3 NG convient aux applications pour véhicules mobiles comme les autobus et les camions équipés de moteurs conçus pour fonctionner à exclusivement au GNC ou au GNL.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

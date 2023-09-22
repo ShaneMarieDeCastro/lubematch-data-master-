@@ -1,0 +1,83 @@
+{
+  "id": "001A0914",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "AeroShell Grease 14",
+  "description": "Mineral grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9608ac24-bf32-4d2a-8938-1d92a2221391.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 14 EN TDG V1.3 02-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/ccda74fa-a5c8-4019-bf10-017c9f53c395.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 14 Canada EN TDG V1.3 02-Jun-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533123.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Canada FR 140006579500 EHS V2.0 02-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/711ad6c3-a1b3-4e36-923b-22c5fc92c1fe.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 14 Canada FR TDG V1.3 06-Jun-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533122.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Canada EN 140006579500 EHS V2.0 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation XG-284",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-284"
+    },
+    {
+      "name": "MIL-G-25537C",
+      "organisation": "MIL",
+      "spec": "G-25537C"
+    },
+    {
+      "name": "NATO G-366",
+      "organisation": "NATO",
+      "spec": "G-366"
+    },
+    {
+      "name": "DEF STAN 91-51",
+      "organisation": "DEF STAN",
+      "spec": "91-51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +75°C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

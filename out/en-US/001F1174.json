@@ -1,0 +1,203 @@
+{
+  "id": "001F1174",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Omala S2 GX 150",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "compatibility with seals and paints",
+    "enclosed gear",
+    "ep",
+    "extreme performance",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "high load",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "marine",
+    "marine reversing gears",
+    "micropitting",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "servo",
+    "siemens ag",
+    "slew",
+    "stern tube seal",
+    "swing drive",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d5582561-4144-4346-9cb0-290ba17dbbbb.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 150 EN TDG V2.0 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564071.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 150 United States EN 140002686046 EHS V1.9 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/e8cb8b76-1443-46a7-943e-4471e4b52468.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 150 United States EN TDG V2.0 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1174_002VOM_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550041743",
+      "margin": "1.63753441153419",
+      "packShot": ""
+    },
+    {
+      "code": "001F1174_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550041746",
+      "margin": "0.883971366593923",
+      "packShot": ""
+    },
+    {
+      "code": "001F1174_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009153",
+      "margin": "0.586357219038789",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AGMA EP 9005-EO2",
+      "organisation": "AGMA",
+      "spec": "EP 9005-EO2"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-77",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-77"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 GX oils are high quality extreme-pressure (EP) oils designed primarily for the lubrication of heavy duty industrial gearboxes. Their high load carrying capacity, protection against micropitting and compatibility with seals and paints, combine to offer excellent performance in enclosed gear applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "14.8"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "98"
+    },
+    {
+      "property": "Flash Point COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "Kg/m³",
+      "value": "897"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

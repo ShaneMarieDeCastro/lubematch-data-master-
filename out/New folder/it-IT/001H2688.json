@@ -1,0 +1,71 @@
+{
+  "id": "001H2688",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Omala SG 680",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oli per ingranaggi industriali",
+  "category": "Oli per ingranaggi industriali",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/33e36312-fc93-4cdf-9c5e-cfcaad1fcb1d.pdf",
+      "type": "GTDS",
+      "name": "Omala SG 680 EN TDG V1.2 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447357.PDF",
+      "type": "LMSDS",
+      "name": "Omala SG 680 Italy EN 140007645406 EHS V1.2 22-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450219.PDF",
+      "type": "LMSDS",
+      "name": "Omala SG 680 Italy IT 140007645406 EHS V1.2 22-SEP-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    },
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala SG oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

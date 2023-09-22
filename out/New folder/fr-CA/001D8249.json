@@ -1,0 +1,215 @@
+{
+  "id": "001D8249",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax S4 CX 10W",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Autres huiles de transmission",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "cng",
+    "construction",
+    "diesel",
+    "differential",
+    "disc",
+    "engine",
+    "final drive",
+    "fixed",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "lng",
+    "lpg",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "off highway",
+    "offroad",
+    "offroad hydraulic",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "screw pump",
+    "semi manual",
+    "servo",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "variable",
+    "wet brake"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S4_CX_10W_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 10W English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/0aa3d08c-6ac5-435c-b963-6b51b219fb65.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 10W Canada EN TDG V3.1 28-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02418484.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 10W Canada FR 140006579500 EHS V1.12 26-MAY-2022",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/cabc6436-a91f-43da-b9f1-36d45f9d7f0b.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 10W Canada FR TDG V3.1 15-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02418485.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 10W Canada EN 140006579500 EHS V1.11 26-MAY-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8249_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550026899",
+      "margin": "0.911402682864397",
+      "packShot": ""
+    },
+    {
+      "code": "001D8249_002XEK_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550026897",
+      "margin": "0.776421226292801",
+      "packShot": ""
+    },
+    {
+      "code": "001D8249_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500005680",
+      "margin": "0.135994188663945",
+      "packShot": ""
+    },
+    {
+      "code": "001D8249_002X4L_A1WJ",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550027679",
+      "margin": "0.861663845547327",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    },
+    {
+      "name": "ZF TE-ML 03C",
+      "organisation": "ZF",
+      "spec": "TE-ML 03C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 10W est conçu pour fournir aux opérateurs un fonctionnement sans problème et une fiabilité maximale pour la durée de vie de l'équipement. Spirax S4 CX 10W répond aux exigences exigeantes de la transmission moderne, des freins immergés dans l'huile et des systèmes hydrauliques équipant les équipements hors route à usage intensif.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "10W"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "36"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "884"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "200"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-36"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

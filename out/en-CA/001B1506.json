@@ -1,0 +1,129 @@
+{
+  "id": "001B1506",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Rotella ELC Concentrate",
+  "description": "Contains an unique extended life carboxylate inhibitor system and nitrite/molybdate as secondary inhibitors.  Contains no silicate, borate, nitrate or phosphate and requires no traditional SCA additions.",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/48315982-f6b0-4f5b-990a-fca12fd37abf.pdf",
+      "type": "GTDS",
+      "name": "Rotella ELC Concentrate EN TDG V1.2 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/5e1628f3-ff8c-4a1b-9993-ab2c266a16a3.pdf",
+      "type": "LTDS",
+      "name": "Rotella ELC Concentrate Canada EN TDG V1.2 28-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02359796.PDF",
+      "type": "LMSDS",
+      "name": "Rotella ELC Concentrate Canada EN 140006579500 EHS V2.0 16-JUL-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/f14dc68b-0945-445f-801e-66c19a219e9b.pdf",
+      "type": "LTDS",
+      "name": "Rotella ELC Concentrate Canada FR TDG V1.2 16-Jul-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02359861.PDF",
+      "type": "LMSDS",
+      "name": "Rotella ELC Concentrate Canada FR 140006579500 EHS V2.0 16-JUL-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1506_002V2M_A0IK",
+      "name": "Bottle 1 Gal Rotella Black (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550057732",
+      "margin": "0.12587477560664",
+      "packShot": ""
+    },
+    {
+      "code": "001B1506_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022521",
+      "margin": "0.138101633760544",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "Navistar MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)",
+      "organisation": "Navistar",
+      "spec": "MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)"
+    },
+    {
+      "name": "TMC RP 329",
+      "organisation": "TMC RP",
+      "spec": "329"
+    },
+    {
+      "name": "Caterpillar EC-1",
+      "organisation": "Caterpillar",
+      "spec": "EC-1"
+    },
+    {
+      "name": "TMC RP 338",
+      "organisation": "TMC RP",
+      "spec": "338"
+    },
+    {
+      "name": "ASTM D6210",
+      "organisation": "ASTM",
+      "spec": "D6210"
+    },
+    {
+      "name": "Detroit Diesel Corporation 7SE298",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "7SE298"
+    },
+    {
+      "name": "Cummins CES 14439",
+      "organisation": "Cummins",
+      "spec": "CES 14439"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella ELC Extended Life Coolant/ Antifreeze is a carboxylate based coolant for heavy duty diesel, gasoline and natural gas powered engines. Shell Rotella ELC contains ethylene glycol and nitrite and molybdate as secondary inhibitors. This product requires no traditional ELC Extender or supplemental coolant additive (SCA) additions and contains no silicate, borate, nitrate or phosphate. Shell Rotella ELC Extended Life Coolant meets all the requirements of ASTM D3306, D6210, CAT EC-1, TMC RP 329 and RP 338.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

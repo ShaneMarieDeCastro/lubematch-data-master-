@@ -1,0 +1,89 @@
+{
+  "id": "001C5319",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "AeroShell Oil Sport Plus 4",
+  "description": "Synthetic lubricating oil for aircraft piston engines (4-stroke)\n",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Engine Oils - Aviation/Piston",
+  "applicationKeys": [
+    "aviation",
+    "hydraulic system",
+    "hydraulics",
+    "piston engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1a1a182f-46b3-48ba-a046-879e4fde5ddc.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil Sport Plus 4 EN TDG V1.3 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559412.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil Sport Plus 4 Ireland EN 140009424789 EHS V1.10 23-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C5319_002XIY_A498",
+      "name": "Bottle 1 qt Local (Private Label) Plastic Shell Red (12)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550041125",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C5319_002W1Y_A498",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550041310",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Rotax RON 424",
+      "organisation": "Rotax",
+      "spec": "RON 424"
+    },
+    {
+      "name": "Rotax SI-912i-01",
+      "organisation": "Rotax",
+      "spec": "SI-912i-01"
+    },
+    {
+      "name": "Rotax SI-914-019",
+      "organisation": "Rotax",
+      "spec": "SI-914-019"
+    },
+    {
+      "name": "Rotax SI-0912-016",
+      "organisation": "Rotax",
+      "spec": "SI-0912-016"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Developed in conjunction with ROTAX^® ,  AeroShell Oil Sport Plus 4 is the first oil specifically developed for light sport aviation piston engines such as the ROTAX^® 912 & 914 series. A combination of low cylinder head temperature (compared with air cooled engines), low oil consumption and the engine internals requires a blend of high quality hydrocarbon base stocks, incorporating synthetic technology which allows full performance with different fuel types. This oil can be used in all climates.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

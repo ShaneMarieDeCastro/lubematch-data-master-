@@ -1,0 +1,67 @@
+{
+  "id": "001D8460",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell GadusRail S3 EU",
+  "description": "Premium Extreme Pressure Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base d’huile minérale",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ac4e91c4-07f4-45f3-a946-f55526e990cf.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 EU EN TDG V3.4 04-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607994.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EU France FR 140003182031 EHS V3.1 03-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607995.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EU France EN 140003182031 EHS V3.1 03-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8460_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550059270",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 a",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 a"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

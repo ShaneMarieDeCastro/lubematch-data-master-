@@ -1,0 +1,78 @@
+{
+  "id": "001D8390",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Naturelle Transformer Fluid S4 I",
+  "description": "Advanced synthetic electrical insulating fluid",
+  "family": "Naturelle",
+  "parentCategory": "Altri lubrificanti industriali",
+  "category": "Oli elettrici",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/98e20720-65db-4457-b880-f73b0c5bc864.pdf",
+      "type": "GTDS",
+      "name": "Naturelle Transformer Fluid S4 I EN TDG V1.3 06-Jan-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575341.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle Transformer Fluid S4 I Italy IT 140007645406 EHS V1.7 15-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/bdfcaefe-5b29-43ea-b6b1-871ccd47a093.pdf",
+      "type": "LTDS",
+      "name": "Naturelle Transformer Fluid S4 I Italy IT TDG V1.3 31-Jan-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575342.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle Transformer Fluid S4 I Italy EN 140007645406 EHS V1.7 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8390_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550025688",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 61039",
+      "organisation": "IEC",
+      "spec": "61039"
+    },
+    {
+      "name": "IEC 61099 T1",
+      "organisation": "IEC",
+      "spec": "61099 T1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle Transformer Fluid S4 I è un fluido dielettrico totalmente sintetico di elevate prestazioni formulato con esteri appositamente selezionati. Offre un'alta stabilità ossidativa e una buona rigidità dielettrica. Shell Naturelle Transformer Fluid S4 I è facilmente biodegradabile e possiede una bassa infiammabilità.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_Transformer_Fluid_S4_I.png",
+  "valueRecord": [],
+  "commerce": null
+}

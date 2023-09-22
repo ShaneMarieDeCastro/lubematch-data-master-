@@ -1,0 +1,139 @@
+{
+  "id": "001H0882",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Rotella Gas Truck 5W-20",
+  "description": "Fully Synthetic Gas Truck Motor Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "natural gas",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/df70effc-2640-4fd9-bb1d-a01a45294a5f.pdf",
+      "type": "GTDS",
+      "name": "Rotella Gas Truck 5W-20 (SN-GF/5 dexos1) EN TDG V1.3 15-Dec-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290812.PDF",
+      "type": "LMSDS",
+      "name": "Rotella Gas Truck 5W-20 (SN-GF/5 dexos1) Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/1b1f3890-7c2b-4e00-b8d1-000232ec3f08.pdf",
+      "type": "LTDS",
+      "name": "Rotella Gas Truck 5W-20 (SN-GF/5 dexos1) Canada EN TDG V1.3 15-Dec-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cd37d8dc-73f8-40f7-b745-03aa32672633.pdf",
+      "type": "LTDS",
+      "name": "Rotella Gas Truck 5W-20 (SN-GF/5 dexos1) Canada FR TDG V1.3 28-Jan-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290813.PDF",
+      "type": "LMSDS",
+      "name": "Rotella Gas Truck 5W-20 (SN-GF/5 dexos1) Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0882_002XMC_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550050313",
+      "margin": "2.66861333189339",
+      "packShot": ""
+    },
+    {
+      "code": "001H0882_002XMC_CHEP",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550052202",
+      "margin": "1.47736097188759",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La présentation de l'huile de moteur entièrement synthétique Shell Rotella Gas Truck des fabricants de l'huile de moteur à usage intensif Shell Rotella, leader de l'huile de moteur diesel depuis plus de 40 ans. Shell Rotella connaît les moteurs de camion et l’huile de moteur entièrement synthétique Shell Truck Gas Truck fournit une protection contre l’usure extrême et les températures extrêmes pour protéger le moteur de votre camion.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

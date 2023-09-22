@@ -1,0 +1,141 @@
+{
+  "id": "001D8424",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Gadus S3 V220C 1",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base d’huile minérale",
+  "applicationKeys": [
+    "automotive",
+    "automotive wheel bearings",
+    "axle",
+    "bearing",
+    "breakers",
+    "coloured",
+    "construction",
+    "continous casting",
+    "continuous casting",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "gearbox",
+    "heavy load",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "multipurpose",
+    "off highway",
+    "offroad",
+    "plain bearings",
+    "premium",
+    "quarries",
+    "quarry",
+    "reduction gears",
+    "roller bearings",
+    "roller conveyers",
+    "rollers",
+    "transmissions",
+    "trucks",
+    "vibrating sieves",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/7d9b7467-1d82-4a3c-966d-b5471755e626.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V220C 1 EN TDG V1.4 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02520716.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V220C 1 Canada FR 140006579500 EHS V5.2 01-FEB-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/d5fc250d-1329-4a6a-a20b-59d6da025285.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V220C 1 Canada FR TDG V1.4 18-Oct-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02520715.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V220C 1 Canada EN 140006579500 EHS V5.2 01-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/b8df2195-ff26-4633-b39b-7d296701f704.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V220C 1 Canada EN TDG V1.4 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8424_002VKN_A1WJ",
+      "name": "",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550026855",
+      "margin": "1.68197961913215",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_002XL3_A1WJ",
+      "name": "",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartouche ",
+      "materialCode": "550027557",
+      "margin": "1.73934969892163",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_002WWP_A1WJ",
+      "name": "",
+      "size": "208",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550026912",
+      "margin": "2.38215192408344",
+      "packShot": ""
+    },
+    {
+      "code": "001D8424_002XF1_NAMD",
+      "name": "",
+      "size": "1000",
+      "uom": "kg",
+      "pack": "Vrac ",
+      "materialCode": "550060688",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB-GC",
+      "organisation": "ASTM",
+      "spec": "D4950 LB-GC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les graisses V220C de Shell Gadus S3 sont des graisses polyvalentes de première qualité basées sur l'huile minérale à indice de viscosité élevée et un épaississant à savon complexe au lithium. Ils contiennent les derniers additifs pour offrir une excellente performance d'oxydation à haute température et d'autres additifs pour améliorer ses propriétés anti-oxydation, anti-usure et anti-corrosion. Les graisses V220C de Shell Gadus S3 conviennent particulièrement aux roulements fonctionnant à haute température et sous charge.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

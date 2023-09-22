@@ -1,0 +1,55 @@
+{
+  "id": "001J5126",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Immersion Cooling Fluid S3 X",
+  "description": "Stabilized hydrocarbon fluid based on Shell Gas-to-Liquid Technology (GTL).",
+  "family": "Immersion Cooling Fluid",
+  "parentCategory": "Other industrial lubricants",
+  "category": "Other industrial lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6d9cd39a-5e61-462e-9fb7-cdf166e60bf5.pdf",
+      "type": "GTDS",
+      "name": "Immersion Cooling Fluid S3 X EN TDG V1.7 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02639569.PDF",
+      "type": "LMSDS",
+      "name": "Immersion Cooling Fluid S3 X United Kingdom EN 140002340634 EHS V3.2 30-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J5126_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550069253",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

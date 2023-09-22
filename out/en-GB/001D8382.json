@@ -1,0 +1,56 @@
+{
+  "id": "001D8382",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gas Compressor Oil S3 PSN 220",
+  "description": "Special Applications Natural/Sour Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Compressor and Vacuum Pump",
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "gas compressors",
+    "industrial",
+    "natural gas",
+    "propane",
+    "reciprocating",
+    "sour gas",
+    "wet air"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S3_PSN_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S3 PSN 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/7bc85a95-68ef-48d4-af89-7a425de60bb5.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S3 PSN 220 United Kingdom EN TDG V4.2 19-Aug-2014",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590773.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PSN 220 United Kingdom EN 140002340634 EHS V3.1 19-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor S3 PSN is a high quality blend designed for the total loss lubrication of cylinders of high pressure reciprocating compressors used in severe, wet and/or sour, natural gas service.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

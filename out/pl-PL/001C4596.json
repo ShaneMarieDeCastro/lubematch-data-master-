@@ -1,0 +1,220 @@
+{
+  "id": "001C4596",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R6 LM 10W-40",
+  "description": "Low Emissions - Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    "aviation",
+    "axle",
+    "bio gas",
+    "biodiesel",
+    "cars",
+    "cng",
+    "cooling",
+    "cooling system",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "fuel",
+    "gas",
+    "gasoline",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "landfill",
+    "light fuel",
+    "lng",
+    "locomotive",
+    "low speed",
+    "lpg",
+    "manual",
+    "marine",
+    "medium speed",
+    "mobile",
+    "multi fuel",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "piston engine",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "sewage",
+    "stationary",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b11cbe4c-e332-4c3f-b234-943d86ceff08.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 LM 10W-40 (E7/228.51) EN TDG V5.3 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621548.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LM 10W-40 (E7/228.51) Poland PL 140003791557 EHS V3.8 21-JUL-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621549.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LM 10W-40 (E7/228.51) Poland EN 140003791557 EHS V2.8 21-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Poland_Shell_Rimula_R6_LM_10W-40_(E7_228.51)_(pl)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 LM 10W-40 (E7/228.51) Poland Polish",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "MAN M 3271-1",
+      "organisation": "MAN",
+      "spec": "M 3271-1"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "MTU Category 3.1",
+      "organisation": "MTU",
+      "spec": "Category 3.1"
+    },
+    {
+      "name": "Renault RLD-2",
+      "organisation": "Renault",
+      "spec": "RLD-2"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Volvo CNG",
+      "organisation": "Volvo",
+      "spec": "CNG"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "Cummins CES 20077",
+      "organisation": "Cummins",
+      "spec": "CES 20077"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "Iveco NG2 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "NG2 - Meets the requirements"
+    },
+    {
+      "name": "Mack EO-N",
+      "organisation": "Mack",
+      "spec": "EO-N"
+    },
+    {
+      "name": "MB-Approval 226.9",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.9"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Deutz DQC IV-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10 LA"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "Cummins CES 20072",
+      "organisation": "Cummins",
+      "spec": "CES 20072"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 LM oil features Shell exclusive \"Low-SAPS\" additive technology and a unique anti-wear system. Protective power is enhanced with synthetic base oil technology, resulting in long engine life and long oil life. Demonstrated in millions of km of performance, key benefits are; low emissions - helps control blockage of exhaust filters and traps, maintenance saving long drain capability, exceptional wear and cleanliness performance, versatility – for most brands of heavy duty diesel and natural gas engines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

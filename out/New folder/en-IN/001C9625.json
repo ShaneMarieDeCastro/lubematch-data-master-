@@ -1,0 +1,103 @@
+{
+  "id": "001C9625",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix HX5 AF 10W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/31a6386c-012a-4c93-a72c-53411094d26d.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 AF 10W-30 (SL/GF-3) EN TDG V2.1 18-Jun-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_Helix_HX5_AF_10W-30_(SL_GF-3)_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 AF 10W-30 (SL/GF-3) India English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01730033.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 AF 10W-30 (SL/GF-3) India EN 140006501563 EHS V1.3 01-FEB-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C9625_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550031290",
+      "margin": "0.503795027071325",
+      "packShot": ""
+    },
+    {
+      "code": "001C9625_002W2G_A1W8",
+      "name": "Bottle 4 L Wishbone Plastic Shell Yellow (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031396",
+      "margin": "0.787074818230369",
+      "packShot": ""
+    },
+    {
+      "code": "001C9625_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006659",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-3",
+      "organisation": "ILSAC",
+      "spec": "GF-3"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "Ford WSS-M2C923-A1 - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C923-A1 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 AF is the high performance engine oil designed specifically to meet the needs of all Ford gasoline and diesel engines without particulate filters requiring WSS M2C 923A1 performance lubricant.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Helix-HX5AF.png",
+  "valueRecord": [],
+  "commerce": null
+}

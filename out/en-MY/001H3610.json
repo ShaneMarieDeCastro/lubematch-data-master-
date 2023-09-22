@@ -1,0 +1,74 @@
+{
+  "id": "001H3610",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Advance 4T Long Ride 10W-50 (SN/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "four stroke",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a6cafc4e-0592-4e31-b7e9-1602ec2e94ec.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T Long Ride 10W-50 (SN/MA2) EN TDG V1.1 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01930540.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Long Ride 10W-50 (SN/MA2) Malaysia EN 140001435555 EHS V1.0 18-DEC-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01930499.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Long Ride 10W-50 (SN/MA2) Malaysia MS 140001435555 EHS V1.0 18-DEC-2019",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3610_002W1Z_A04U",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550055228",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Expertly engineered to protect your motorcycle engine up to 6 000 kms",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

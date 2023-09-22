@@ -1,0 +1,86 @@
+{
+  "id": "001A0059",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "AeroShell Grease 22",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/057be38e-1147-44f0-b8c1-00a277a57723.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 22 EN TDG V1.8 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02184799.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 22 Malaysia MS 140001435555 EHS V1.8 17-NOV-2020",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02184801.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 22 Malaysia EN 140001435555 EHS V1.8 17-NOV-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "NATO G-395",
+      "organisation": "NATO",
+      "spec": "G-395"
+    },
+    {
+      "name": "MIL-PRF-24508B",
+      "organisation": "MIL",
+      "spec": "PRF-24508B"
+    },
+    {
+      "name": "DCSEA 395/A",
+      "organisation": "DCSEA",
+      "spec": "395/A"
+    },
+    {
+      "name": "Joint Service Designation XG-293",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-293"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-301",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-301"
+    },
+    {
+      "name": "MIL-PRF-81322G",
+      "organisation": "MIL",
+      "spec": "PRF-81322G"
+    },
+    {
+      "name": "DEF STAN 91-52",
+      "organisation": "DEF STAN",
+      "spec": "91-52"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +177°C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/AeroShell-Grease-22.png",
+  "valueRecord": [],
+  "commerce": null
+}

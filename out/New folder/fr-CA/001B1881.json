@@ -1,0 +1,93 @@
+{
+  "id": "001B1881",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell SRS Grease 2000 Moly",
+  "description": "High Performance Multipurpose Grease Containing Solid Lubricants",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Graisses d’engrenage ouvertes",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/440e0800-a31e-45d9-b5d8-b8dad8d544fb.pdf",
+      "type": "GTDS",
+      "name": "SRS 2000 Grease Moly EN TDG V1.2 09-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/ead1b066-994d-42c4-924b-c436dd513440.pdf",
+      "type": "LTDS",
+      "name": "SRS 2000 Grease Moly Canada FR TDG V1.2 09-May-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/1b92c72e-0f94-4b35-a755-a0f7ca45b1af.pdf",
+      "type": "LTDS",
+      "name": "SRS 2000 Grease Moly Canada EN TDG V1.2 09-May-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291113.PDF",
+      "type": "LMSDS",
+      "name": "SRS 2000 Grease Moly Canada FR 140006579500 EHS V2.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289827.PDF",
+      "type": "LMSDS",
+      "name": "SRS 2000 Grease Moly Canada EN 140006579500 EHS V2.2 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1881_002VH7_A1WJ",
+      "name": "",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550041216",
+      "margin": "3.29726559625318",
+      "packShot": ""
+    },
+    {
+      "code": "001B1881_002WD5_A1WJ",
+      "name": "",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartouche ",
+      "materialCode": "550041222",
+      "margin": "2.05358091778695",
+      "packShot": ""
+    },
+    {
+      "code": "001B1881_002VKU_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550041221",
+      "margin": "2.34532279234787",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Le produit est enrichi d’additifs solides pour fournir une protection supplémentaire contre le chargement des chocs et faciliter le contact coulissant dans les applications de broches et de douilles.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

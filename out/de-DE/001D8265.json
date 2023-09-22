@@ -1,0 +1,105 @@
+{
+  "id": "001D8265",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S3 G 80W-90",
+  "description": "High Performance Manual Transmission and Gear Oil for MAN, ZF and other OEMs",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "off highway",
+    "on highway",
+    "reduction gears",
+    "semi automatic",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dba55b5e-9f07-4dd1-bd06-01fa0d6ddc5e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 G 80W-90 EN TDG V2.4 19-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578238.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W-90 Germany EN 140001492039 EHS V4.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578237.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W-90 Germany DE 140001492039 EHS V4.2 23-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 19A",
+      "organisation": "ZF",
+      "spec": "TE-ML 19A"
+    },
+    {
+      "name": "MAN 341 Type E2",
+      "organisation": "MAN",
+      "spec": "341 Type E2"
+    },
+    {
+      "name": "MAN 341 Type Z2",
+      "organisation": "MAN",
+      "spec": "341 Type Z2"
+    },
+    {
+      "name": "ZF TE-ML 02B",
+      "organisation": "ZF",
+      "spec": "TE-ML 02B"
+    },
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    },
+    {
+      "name": "ZF TE-ML 16A",
+      "organisation": "ZF",
+      "spec": "TE-ML 16A"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 G 80W-90 are long life gearbox oils designed to give new benefits based on improved levels of performance to meet the future requirements of gearboxes. Specially optimised mineral base oils and new additive technology improve lubrication of the drive train and potentially extend oil drain intervals.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

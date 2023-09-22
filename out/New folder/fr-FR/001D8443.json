@@ -1,0 +1,83 @@
+{
+  "id": "001D8443",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell GadusRail S3 EUDB",
+  "description": "Premium Extreme Pressure Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Graisses EP à base d’huile minérale",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3b5afd7e-1d0a-4fde-98e2-72512d42f8dd.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 EUDB EN TDG V4.2 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486487.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB France EN 140003182031 EHS V3.0 26-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/a83af8b9-bdf2-4c08-b2ad-cd249751a6eb.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S3 EUDB France FR TDG V4.2 16-Oct-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486483.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB France FR 140003182031 EHS V3.0 26-OCT-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8443_002VSL_A246",
+      "name": "Tonneau 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550028114",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8443_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550028106",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 a",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 a"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Graisse 'EP' extrême-pression hautes performances pour boîtes d'essieu ferroviaires fortement chargés à base d'épaississant de lithium pour des longs intervalles de re-lubrification.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

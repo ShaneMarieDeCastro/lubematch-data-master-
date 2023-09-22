@@ -1,0 +1,140 @@
+{
+  "id": "001D8285",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S3 AS 80W-140",
+  "description": "High performance, GL-5 axle oil for Scania and ZF",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "heavy duty",
+    "heavy truck",
+    "manual",
+    "manual transmission",
+    "off highway",
+    "offroad",
+    "passenger car",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S3_AS_80W-140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 AS 80W-140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578678.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AS 80W-140 France EN 140003182031 EHS V3.5 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578677.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AS 80W-140 France FR 140003182031 EHS V3.5 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/44eeb394-0dbe-4a93-b630-f927fa5cc167.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 AS 80W-140 France FR TDG V3.3 16-Feb-2017",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8285_002VNA_A246",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027976",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8285_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027929",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "ZF TE-ML 16C",
+      "organisation": "ZF",
+      "spec": "TE-ML 16C"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "ZF TE-ML 05A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 12E",
+      "organisation": "ZF",
+      "spec": "TE-ML 12E"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 AS 80W-140 est formulée pour être utilisée dans une grand variété d'essieux de véhicule pouvant travailler dans des condtions extrêmes. L'utilisation d'additifs \"haute performance\" et un choix judicieux des huiles de base permettent, dans certaines applications, un allongement des intervalles de vidange. La spirax S3 AS 80W-140 peut également être utilisée dans les boîtes de vitesses synchronisées ou non synchronisées de véhicules routiers lourds où une huile API GL-5 ou MT-1 est recommandée.  \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027976_Shell_Spirax_S3_AS_80W-140_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

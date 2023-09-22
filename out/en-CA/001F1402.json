@@ -1,0 +1,129 @@
+{
+  "id": "001F1402",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil Platinum LV Multi-Vehicle ATF",
+  "description": "Premium lower viscosity multi-vehicle ATF with OEM approvals",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "automatic transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1fff8132-d0c6-4426-9b29-7f8eb57d1af2.pdf",
+      "type": "GTDS",
+      "name": "Pzl Platinum LV MV ATF (DEXRON-VI MERCON LV JASO 1A) EN TDG V1.3 10-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289404.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum LV MV ATF (DEXRON-VI MERCON LV JASO 1A) Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/769a0851-eba8-478d-a446-979433b86496.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum LV MV ATF (DEXRON-VI MERCON LV JASO 1A) Canada FR TDG V1.3 10-Jun-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289403.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum LV MV ATF (DEXRON-VI MERCON LV JASO 1A) Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/1852350f-3b15-41fb-8565-1ca1f4519ead.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum LV MV ATF (DEXRON-VI MERCON LV JASO 1A) Canada EN TDG V1.3 10-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1402_002X67_A1WJ",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550041913",
+      "margin": "0.82508784208019",
+      "packShot": ""
+    },
+    {
+      "code": "001F1402_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009311",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1402_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550068539",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1402_002V78_A0IK",
+      "name": "Bottle 1 Quart Rect PZL Plat (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550041910",
+      "margin": "0.785569341217429",
+      "packShot": ""
+    },
+    {
+      "code": "001F1402_002VIZ_A1WJ",
+      "name": "Drum 55 Gal T/H PZL BYtop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550041914",
+      "margin": "0.621725543760227",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO 1A",
+      "organisation": "JASO",
+      "spec": "1A"
+    },
+    {
+      "name": "General Motors Dexron VI",
+      "organisation": "General Motors",
+      "spec": "Dexron VI"
+    },
+    {
+      "name": "Ford Mercon LV",
+      "organisation": "Ford",
+      "spec": "Mercon LV"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

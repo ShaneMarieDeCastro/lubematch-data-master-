@@ -1,0 +1,241 @@
+{
+  "id": "001G1637",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Rimula R5 LE 10W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "bio gas",
+    "biodiesel",
+    "brakes",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "lng",
+    "lpg",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "stationary",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d9a6012-21a7-4f2c-8c7e-4d4e68950268.pdf",
+      "type": "GTDS",
+      "name": "Rimula R5 LE 10W-40 (CK-4) EN TDG V2.1 12-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/8328237b-5d24-4622-8f63-b3058b8b36d9.pdf",
+      "type": "LTDS",
+      "name": "Rimula R5 LE 10W-40 (CK-4) France FR TDG V2.1 21-Apr-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609579.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LE 10W-40 (CK-4) France EN 140003182031 EHS V1.9 04-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609577.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LE 10W-40 (CK-4) France FR 140003182031 EHS V1.9 04-JUL-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1637_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550047209",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1637_002VJW_A246",
+      "name": "Réservoir 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550047208",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1637_002VNG_A246",
+      "name": "Sceau 20 L Plastic O/H w/lid Helix Blue (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550047312",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Renault VI RLD-3",
+      "organisation": "Renault",
+      "spec": "VI RLD-3"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "Deutz DQC III-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-10 LA"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Renault Trucks RLD-4",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-4"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R5 LE se caractérise par une technologie \"Low SAPS\" permettant des économies d'énergie. Son pouvoir de protection, amélioré par le recours à une technologie d'huile de bases synthétiques, accroît l'action des additifs pour un rendement axé sur l'économie de carburant et ce sans compromettre la fiabilité. \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R5-LE-10_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

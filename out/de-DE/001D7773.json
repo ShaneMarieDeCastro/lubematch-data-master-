@@ -1,0 +1,177 @@
+{
+  "id": "001D7773",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Tonna S3 M 32",
+  "description": "Premium Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Gleitbahnöle",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "factory applications",
+    "hydraulic system",
+    "hydraulics",
+    "manufacturing",
+    "pump piston",
+    "variable"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/52292ea4-7b79-497c-9f32-eaa0e0e148e0.pdf",
+      "type": "GTDS",
+      "name": "Tonna S3 M 32 EN TDG V2.4 14-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/b17a9438-3342-4522-a5fb-928f0baa90f8.pdf",
+      "type": "LTDS",
+      "name": "Tonna S3 M 32 Germany DE TDG V2.4 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544382.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 32 Germany EN 140001492039 EHS V2.1 24-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544383.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 32 Germany DE 140001492039 EHS V2.1 24-MAR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7773_002VNK_A246",
+      "name": "Eimer 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027227",
+      "margin": "1.38425476835718",
+      "packShot": ""
+    },
+    {
+      "code": "001D7773_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027218",
+      "margin": "1.25212064786889",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    },
+    {
+      "name": "ISO 6743-6 CKC",
+      "organisation": "ISO",
+      "spec": "6743-6 CKC"
+    },
+    {
+      "name": "ISO 6743-4 L-HG",
+      "organisation": "ISO",
+      "spec": "6743-4 L-HG"
+    },
+    {
+      "name": "ISO 11158 HG Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HG Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S3 M Öle wurden speziell für die Schmierung von Bettbahnen und Führungen von Werkzeugmaschinen entwickelt. Sie basieren auf hoch ausraffinierten Grundölen und enthalten Additive zur Verbesserung der Alterungsstabilität, des Korrosionsschutzes, des Haftvermögens und zur Verminderung des Ruckgleitens (Stick-Slip). Der Einsatz von Tonna S3 M Ölen wird besonders empfohlen für höchste Präzision bei geringen Gleitgeschwindigkeiten und kombinierten Schmiersystemen.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse (ISO VG)",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "32"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.4"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "870"
+    },
+    {
+      "property": "Flammpunkt (Cleveland Open Cup)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

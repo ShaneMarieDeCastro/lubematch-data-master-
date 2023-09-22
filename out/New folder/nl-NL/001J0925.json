@@ -1,0 +1,97 @@
+{
+  "id": "001J0925",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Coolant Longlife Plus Ready to Use",
+  "description": "Premium antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Koelvloeistof / Antivries - Concentraat ",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/75549c87-31d2-4031-9e3c-66cbb7f32a2d.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Plus Ready to Use (Europe) EN TDG V1.5 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/3fdd10fb-f451-4782-9ec8-03de7af633cd.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Longlife Plus Ready to Use (Europe) Netherlands NL TDG V1.5 07-Jul-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482551.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Plus Ready to Use (Europe) Netherlands NL 140002783873 EHS V2.0 08-NOV-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482552.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Plus Ready to Use (Europe) Netherlands EN 140002783873 EHS V2.0 08-NOV-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0925_002YBD_A863",
+      "name": "Fles 1 L Local Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550061785",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0925_002VSH_A863",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550061783",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0925_002VWL_A863",
+      "name": "Fles 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550061784",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0925_002YBF_A863",
+      "name": "Fles 4 L Local Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550061786",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

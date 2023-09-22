@@ -1,0 +1,87 @@
+{
+  "id": "001K0115",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Ultra SP 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2987e89f-6a5c-4f0d-ad9a-34dee88e3088.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra SP 5W-30 (SP/GF-6A dexos1 gen3) EN TDG V1.2 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575654.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 5W-30 (SP/GF-6A dexos1 gen3) Spain EN 140003966322 EHS V1.1 16-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/8a82c305-53d8-45d0-85b3-3c8b83917fad.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra SP 5W-30 (SP/GF-6A dexos1 gen3) Spain ES TDG V1.2 26-Jan-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575652.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 5W-30 (SP/GF-6A dexos1 gen3) Spain ES 140003966322 EHS V1.1 16-MAY-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "General Motors dexos1 Gen 3",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen 3"
+    },
+    {
+      "name": "Fiat 9.55535-CR1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-CR1 - Meets the requirements"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS M2C961-A1",
+      "organisation": "Ford",
+      "spec": "WSS M2C961-A1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Rediseñado para los modernos motores turboalimentados. Fabricado a partir del gas natural para ofrecer un rendimiento del motor más eficiente y duradero.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

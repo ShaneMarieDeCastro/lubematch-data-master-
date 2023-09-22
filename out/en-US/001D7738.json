@@ -1,0 +1,79 @@
+{
+  "id": "001D7738",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Morlina S2 BL 22",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "ashless",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "high speed",
+    "high speed spindles",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "machine bearing and circulating systems",
+    "mobile",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "screw pump",
+    "servo",
+    "variable",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f6b52ef2-66c8-4c40-a778-19c7d03ff849.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 22 EN TDG V1.3 25-May-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563468.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 22 United States EN 140002686046 EHS V2.1 04-SEP-2018",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/f48ed568-0f71-4a5e-ab30-944a24db4439.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 22 United States EN TDG V1.3 26-May-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-62",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-62"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL oils are special low viscosity, solvent refined mineral oils blended with zinc free additives, to provide extended performance in the high speed spindles of machine tools.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

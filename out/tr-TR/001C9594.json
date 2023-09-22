@@ -1,0 +1,61 @@
+{
+  "id": "001C9594",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX3 20W-50",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX3_(SJ_CF)_(en)_TDS_2_v2.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix HX3 20W-50 (SJ/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319320.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 20W-50 (SJ/CF) Turkey TR 140003791542 EHS V1.9 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319218.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 20W-50 (SJ/CF) Turkey EN 140003791542 EHS V1.9 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 has been formulated with cleansing technology to stop dirt and sludge building up and therefore help protect and prolong the life of the engine.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,167 @@
+{
+  "id": "001D8392",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Refrigeration Oil S2 FR-A 68",
+  "description": "Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": null,
+  "category": "Refrigerator Oils",
+  "applicationKeys": [
+    "bearing",
+    "commercial",
+    "cooling",
+    "cooling system",
+    "domestic",
+    "fixed",
+    "hermetic compressor",
+    "hydraulic system",
+    "industrial",
+    "open compressor",
+    "pump piston",
+    "r290",
+    "r717",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4d97b407-7917-4ede-b510-25d7f49ba344.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S2 FR-A 68 EN TDG V1.4 28-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580312.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 68 Singapore English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/a7951822-87bb-4770-a608-c47070185e29.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S2 FR-A 68 Singapore EN TDG V1.4 28-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8392_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024959",
+      "margin": "0.948934753140948",
+      "packShot": ""
+    },
+    {
+      "code": "001D8392_002VNA_A227",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550024983",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KE",
+      "organisation": "DIN",
+      "spec": "51503 KE"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S2 FR-A is a low miscibility compressor lubricant intended for use in refrigeration compressors using Ammonia  refrigerant.  It is formulated from specially refined paraffinic base oils in combination with additives selected to minimise system deposits and provide long service life.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "68"
+    },
+    {
+      "property": "Refrigerator Oil",
+      "method": "DIN 51503",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "KAA, KE"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "9"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "232"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "862"
+    },
+    {
+      "property": "Neutralisation Number",
+      "method": "ASTM D664 (TAN)",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "-"
+    },
+    {
+      "property": "Miscibility with R290",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Completely miscible with hydro"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DhpMQAS&field=Attachment__Name__s",
+      "family": "Refrigeration",
+      "savings": 19000,
+      "title": "Shell Refrigeration Oil S2 FR-A 68"
+    }
+  ],
+  "commerce": null
+}

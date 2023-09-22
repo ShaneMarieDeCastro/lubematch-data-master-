@@ -1,0 +1,73 @@
+{
+  "id": "001G6105",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Spirax S6 ATF 134ME",
+  "description": "Automatic transmission fluid for Mercedes Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Automatische transmissie oliën",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/710b5ebb-af96-4e5f-ba13-c46843677d9e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF 134ME EN TDG V1.3 06-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/1afde977-fc3b-4400-9762-9e622af3244e.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF 134ME Netherlands NL TDG V1.3 16-Jul-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482407.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME Netherlands NL 140002783873 EHS V1.2 22-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482406.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME Netherlands EN 140002783873 EHS V1.2 22-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G6105_002VNF_A246",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550059470",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.15",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.15"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF 134ME is een hoogwaardige transmissieolie voor laatste generaties Mercedes-Benz 7-speed automatische versnellingsbakken. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,209 @@
+{
+  "id": "001D8458",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S2 V220AD 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie met 'EP additieven",
+  "applicationKeys": [
+    "automotive",
+    "bearing",
+    "construction",
+    "ep",
+    "extreme pressure",
+    "fifth wheel",
+    "heavy duty",
+    "high performance",
+    "hostile condition",
+    "industrial",
+    "lithium",
+    "lithium calcium",
+    "marine",
+    "moly",
+    "multipurpose",
+    "offroad",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "shock load",
+    "solid lubricant",
+    "trucks",
+    "versatile",
+    "water tolerant",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/52dc60eb-f1b5-4a90-b05c-fc61c4559972.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220AD 2 EN TDG V2.3 15-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/a98aaddd-9900-46f9-a67f-fa5e4de7dbf7.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220AD 2 Netherlands NL TDG V2.4 23-Jun-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605464.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220AD 2 Netherlands EN 140002783873 EHS V2.11 29-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605468.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220AD 2 Netherlands NL 140002783873 EHS V2.11 29-JUN-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8458_002VSL_A246",
+      "name": "Vat 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028414",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8458_002VH7_A246",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550025256",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8458_002VGF_EURO",
+      "name": "Cartridge 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550050009",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8458_002XD7_A246",
+      "name": "Emmer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028111",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8458_002XM9_EURO",
+      "name": "Cartridge 0.4 kg Local (Cartridge Lube shuttle) Plastic White (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550053028",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220AD 2 is gebaseerd op hoogwaardige minerale olie met hoog viscositeitsindex en een gemende lithium/calcium indikker en bevat uitstekende 'Extreme Pressure', anti-oxidatie, anti-slijtage, anti-corrosie en adhesieve additieven. Het bevat eveneens vaste bestanddelen om weerstand te bieden tegen schokbelasting.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium/Calcium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "18"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "4 Ball Weld Load",
+      "method": "IP 239",
+      "uom": "",
+      "units": "Kg minimum",
+      "value": "315"
+    },
+    {
+      "property": "4 Ball Weld Load",
+      "method": "IP 239",
+      "uom": "",
+      "units": "Kg typical",
+      "value": "400"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DicxQAC&field=Attachment__Name__s",
+      "family": "Gadus",
+      "savings": 43000,
+      "title": "Shell Gadus S2 V220AD 2"
+    }
+  ],
+  "commerce": null
+}

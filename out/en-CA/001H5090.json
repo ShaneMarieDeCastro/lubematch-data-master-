@@ -1,0 +1,139 @@
+{
+  "id": "001H5090",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Rotella T1 30",
+  "description": "High Quality Straight Grade Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0fbeebe9-be09-4499-ba93-9af4c6856021.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 30 (CF/SL) EN TDG V1.1 20-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02429174.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 30 (CF/SL) Canada EN 140006579500 EHS V1.2 27-JUL-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/818ac2d2-3efe-4dcf-b7ea-b1f3df2e9027.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 30 (CF/SL) Canada EN TDG V1.1 20-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/d4aaf780-d2bb-47ba-b425-cace5f2f19fc.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 30 (CF/SL) Canada FR TDG V1.1 11-Dec-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02429175.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 30 (CF/SL) Canada FR 140006579500 EHS V1.2 27-JUL-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5090_002XLR_A0IK",
+      "name": "Bottle 5 L Americas Tool Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550054460",
+      "margin": "1.01104542664024",
+      "packShot": ""
+    },
+    {
+      "code": "001H5090_002VOM_CHEP",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550055981",
+      "margin": "0.235755331333271",
+      "packShot": ""
+    },
+    {
+      "code": "001H5090_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550054447",
+      "margin": "0.747608399174236",
+      "packShot": ""
+    },
+    {
+      "code": "001H5090_002XLR_CHEP",
+      "name": "Bottle 5 L Americas Tool Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550055982",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5090_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011770",
+      "margin": "0.696538194317999",
+      "packShot": ""
+    },
+    {
+      "code": "001H5090_002VOM_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550054448",
+      "margin": "0.703284011228309",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T1 oils use performance additives to fight engine wear and prevent deposits, providing reliable lubrication.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

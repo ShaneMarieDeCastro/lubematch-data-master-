@@ -1,0 +1,77 @@
+{
+  "id": "001A9053",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Sirius X 30",
+  "description": "Very High Performance Lubricants for high speed super high performance marine diesel engines (SHPD engines)",
+  "family": "Sirius",
+  "parentCategory": "Industriemotorenöle",
+  "category": "Motoröle - trunk piston engine",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139848_201407240554.pdf",
+      "type": "GTDS",
+      "name": "Sirius X 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533537.PDF",
+      "type": "LMSDS",
+      "name": "Sirius X 30 Germany DE 140001492039 EHS V3.7 02-MAR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533538.PDF",
+      "type": "LMSDS",
+      "name": "Sirius X 30 Germany EN 140001492039 EHS V3.7 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9053_002VSH_A18H",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550019114",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Sirius X is especially suitable for the high power/weight units used in fast vessels and compact generator sets.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-sirius-x-135x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

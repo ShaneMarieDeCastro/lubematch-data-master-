@@ -1,0 +1,162 @@
+{
+  "id": "001D8456",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Gadus S2 V220AC 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "chassis",
+    "coloured",
+    "construction",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy duty truck",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "light truck",
+    "lithium",
+    "lithium calcium",
+    "marine",
+    "multipurpose",
+    "passenger car",
+    "plain bearings",
+    "roller bearings",
+    "shock load",
+    "transmission joints",
+    "trucks",
+    "versatile",
+    "vibrating conditions",
+    "water resistance",
+    "water tolerant",
+    "water washout",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c428986b-86fb-49be-a2f3-ec94e1087846.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220AC 2 EN TDG V1.5 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637561.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220AC 2 India EN 140006501563 EHS V1.11 12-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8456_002XD7_A227",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550027055",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8456_002VH7_A1W8",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550031266",
+      "margin": "1.88340810694784",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB",
+      "organisation": "ASTM",
+      "spec": "D4950 LB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220AC greases are high quality multi-purpose greases based on high viscosity index mineral oil and a mixed lithium/calcium soap thickener. They contain extreme-pressure, anti-wear, anti-oxidation and anti-corrosion additives to enhance their performance in a wide range of applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Red"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium/Calcium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "18"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg minimum",
+      "value": "315"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

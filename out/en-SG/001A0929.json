@@ -1,0 +1,136 @@
+{
+  "id": "001A0929",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Omala Oil F 220",
+  "description": "Very High Performance Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bearings",
+    "circulating and splash lubricated systems",
+    "circulation",
+    "circulation system",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "high performance",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "industrial gears",
+    "journal",
+    "lead free",
+    "micropitting",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "outstanding thermal stability",
+    "oxidation stability",
+    "pump gear",
+    "reduction gears",
+    "slew",
+    "steel gear transmissions",
+    "swing drive",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Omala_Oil_F_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala F 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580457.PDF",
+      "type": "LMSDS",
+      "name": "Omala F 220 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0929_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550026407",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19.4"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.899"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "IP 34",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "199"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

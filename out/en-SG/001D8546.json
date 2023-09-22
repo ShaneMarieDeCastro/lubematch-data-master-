@@ -1,0 +1,79 @@
+{
+  "id": "001D8546",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Gadus S3 T220 2",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "bearing",
+    "electric motors",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "general engineering",
+    "high load",
+    "high temperature",
+    "hot strip mills",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "paper",
+    "paper mill bearings",
+    "plain bearings",
+    "polyurea",
+    "premium",
+    "roller bearings",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9fb7de9-5b4b-4fc2-be78-afeb3a96917c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T220 2 EN TDG V2.4 27-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/9d47d1a8-545c-4a0a-aaad-a7411e759041.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T220 2 Singapore EN TDG V2.4 27-Sep-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580621.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T220 2 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8546_002VME_A227",
+      "name": "Pail 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550030003",
+      "margin": "2.4498297908046",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

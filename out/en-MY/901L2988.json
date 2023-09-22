@@ -1,0 +1,61 @@
+{
+  "id": "901L2988",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Catenex Oil S 523",
+  "description": "Paraffinic process oil",
+  "family": "Catenex",
+  "parentCategory": null,
+  "category": "Process Oils-Paraf",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Catenex_S_523_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Catenex S 523 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574761.PDF",
+      "type": "LMSDS",
+      "name": "Catenex S 523 Malaysia MS 140001435555 EHS V1.6 15-MAY-2023",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574760.PDF",
+      "type": "LMSDS",
+      "name": "Catenex S 523 Malaysia EN 140001435555 EHS V1.6 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L2988_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500000039",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Catenex Oils S are paraffinic process oils manufactured via the solvent extraction process. They are general purpose process oils used as extender or carrier fluids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

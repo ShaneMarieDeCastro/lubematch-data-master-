@@ -1,0 +1,174 @@
+{
+  "id": "001F4155",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Spirax S4 AX 80W-90",
+  "description": "Heavy duty automotive gear oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "manual",
+    "manual unsynchronised",
+    "mobile",
+    "off highway",
+    "power steering",
+    "pump gear",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/65a43a04-3638-442b-bb23-d22e39f68d8c.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 AX 80W-90 EN TDG V1.7 08-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/74f5278e-e603-487e-8f50-80f7d0bfb4a6.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 AX 80W-90 Canada FR TDG V1.7 09-Jun-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290840.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AX 80W-90 Canada EN 140006579500 EHS V3.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/0604a06b-31cc-49c3-bf2a-267696df1fc1.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 AX 80W-90 Canada EN TDG V1.7 08-Jun-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290839.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AX 80W-90 Canada FR 140006579500 EHS V3.5 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4155_002VND_A1WJ",
+      "name": "Pail 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550043587",
+      "margin": "0.748820620410663",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_002VSH_A1WJ",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550043588",
+      "margin": "0.796993007756424",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_002VL5_A1WJ",
+      "name": "Keg 60 L O/H Steel Shell Yellow (1)",
+      "size": "60",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550043589",
+      "margin": "0.675576312938906",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_002XLY_A1WJ",
+      "name": "Bottle 5 L Americas Tool Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045369",
+      "margin": "0.850975569609175",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009746",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Mack GO-H",
+      "organisation": "Mack",
+      "spec": "GO-H"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "SAE J 2360",
+      "organisation": "SAE",
+      "spec": "J 2360"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 AX 80W-90 is an extreme-pressure (EP) automotive hypoid gear oil designed to exceed the latest performance standards for heavy duty, severe service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

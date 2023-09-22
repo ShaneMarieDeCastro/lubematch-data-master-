@@ -1,0 +1,126 @@
+{
+  "id": "001H0326",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T6 0W-40",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7787c524-80c0-41cf-8884-5a615feab24f.pdf",
+      "type": "GTDS",
+      "name": "Rotella T6 0W-40 (CK-4) EN TDG V1.1 16-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563202.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 0W-40 (CK-4) United States EN 140002686046 EHS V3.0 26-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0326_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550054525",
+      "margin": "2.99863649365929",
+      "packShot": ""
+    },
+    {
+      "code": "001H0326_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011754",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H0326_002XLS_A0II",
+      "name": "Bottle 1 Gal Americas Tool Plastic Pearl Blue (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550054527",
+      "margin": "1.3538856699885",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^®^ T6 full synthetic heavy duty engine oil with Triple Protection Plus™ technology has been enhanced with fully synthetic base oil plus advanced additive technology to provide protection against wear, deposits and oil breakdown PLUS better low temperature flow *.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

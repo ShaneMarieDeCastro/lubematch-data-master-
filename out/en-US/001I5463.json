@@ -1,0 +1,87 @@
+{
+  "id": "001I5463",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe Turbine Fluid S5 X 32",
+  "description": "Special Purpose Turbine Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/49142945-6609-4897-bbcd-ecf90e1f7e96.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 32 EN TDG V1.0 23-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563643.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 32 United States EN 140002686046 EHS V1.1 25-SEP-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/cb8f0b84-f77e-4ac2-848d-f57a314e92a3.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 32 United States EN TDG V1.0 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5463_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012328",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5463_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057303",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5463_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057302",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Electric GEK 32568K",
+      "organisation": "General Electric",
+      "spec": "GEK 32568K"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

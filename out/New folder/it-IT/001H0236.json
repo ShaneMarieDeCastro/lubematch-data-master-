@@ -1,0 +1,87 @@
+{
+  "id": "001H0236",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Mysella S6 N 40",
+  "description": "Premium, Long Life, Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Oli motore industriali",
+  "category": "Oli motore - Motore a gas stazionario",
+  "applicationKeys": [
+    "automatic",
+    "bio gas",
+    "engine",
+    "gas",
+    "landfill",
+    "low ash",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6961a376-8b32-40b6-b922-63e8593cc5be.pdf",
+      "type": "GTDS",
+      "name": "Mysella S6 N 40 EN TDG V2.4 16-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447366.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 Italy IT 140007645406 EHS V1.4 21-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447367.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 Italy EN 140007645406 EHS V1.4 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/ab41f38b-9615-4980-ac21-129450034553.pdf",
+      "type": "LTDS",
+      "name": "Mysella S6 N 40 Italy IT TDG V2.4 13-Feb-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0236_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550050636",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H0236_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550050635",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S6 N è un olio appositamente formulato per l'impiego in motori ad alte prestazioni, 4 tempi, ad accensione comandata, soprattutto nei motori con pistoni in acciaio. Una superiore pulizia del motore e intervalli di cambio olio prolungati vengono realizzati grazie ad una tecnologia di lubrificazione appositamente sviluppata.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

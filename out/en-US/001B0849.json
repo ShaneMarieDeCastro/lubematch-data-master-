@@ -1,0 +1,56 @@
+{
+  "id": "001B0849",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Power Steering Fluid",
+  "description": "Power steering fluid",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Other Specialities",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Power_Steering_Fluid_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Power Steering Fluid English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_States_Pzl_Power_Steering_Fluid_(en-US)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl Power Steering Fluid United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563507.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Power Steering Fluid United States EN 140002686046 EHS V3.4 31-DEC-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C128-D",
+      "organisation": "Ford",
+      "spec": "WSS-M2C128-D"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "001F1475",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Caprinus XR 40 (Fine)",
+  "description": "Railroad Diesel Engine Oil",
+  "family": "Caprinus",
+  "parentCategory": "",
+  "category": "Engine Oils - Rail",
+  "applicationKeys": [
+    "diesel",
+    "heavy duty",
+    "railroad"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bfd74b05-6fca-4a2b-ab6c-082ee739ba82.pdf",
+      "type": "GTDS",
+      "name": "Caprinus XR 40 (Fine) EN TDG V1.2 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/8ad5a92f-9722-4a37-95ac-b7b0c58f0a49.pdf",
+      "type": "LTDS",
+      "name": "Caprinus XR 40 (Fine) Singapore EN TDG V1.2 17-Jun-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579948.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 40 (Fine) Singapore EN 140001435547 EHS V1.4 23-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1475_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550042175",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The performance of Shell Caprinus XR has been demonstrated in highly rated North American railroad operation subject to the most severe operating conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

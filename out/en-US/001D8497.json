@@ -1,0 +1,168 @@
+{
+  "id": "001D8497",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S2 OG 85",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Open Gear Greases",
+  "applicationKeys": [
+    "bentone",
+    "clay",
+    "draglines",
+    "earth mover",
+    "ep",
+    "excavators",
+    "extreme pressure",
+    "grinding mills",
+    "heavily loaded open gears",
+    "heavy duty mining",
+    "heavy loaded open gear",
+    "industrial",
+    "intermittently immersed in salt water",
+    "mooring ropes",
+    "open gears",
+    "open to atmosphere",
+    "pivot bushings",
+    "pivot pins",
+    "plain bearings",
+    "reclaimers",
+    "salt water",
+    "ship loadeers",
+    "shovels",
+    "slow",
+    "slow moving gears",
+    "slow moving wire rope",
+    "solid lubricant",
+    "stackers",
+    "static wire ropes",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Grease (Semifluid)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/5e08df9a-5dfb-4b79-8ea6-8c06bd31d627.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OG 85 EN TDG V5.6 29-Oct-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562831.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OG 85 United States EN 140002686046 EHS V1.7 02-APR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/98b17a8c-ea32-409c-9154-20f6b323af56.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OG 85 United States EN TDG V5.6 24-Dec-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8497_002VUU_NAMD",
+      "name": "Drums 190 kg Open head Steel Shell Red, Shell Yellow (1)",
+      "size": "190",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550052218",
+      "margin": "4.30278156276376",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "They are a unique blend of high quality paraffinic mineral and synthetic base oils with carefully selected additives to provide optimum performance. Its balanced formulation allows the lubricant to stay soft and pliable over long periods, thus eliminating the build-up of lubricant in the roots of the gear teeth.",
+  "physicalCharacteristics": [
+    {
+      "property": "Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "85"
+    },
+    {
+      "property": "Base Oil Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "85"
+    },
+    {
+      "property": "Base Oil Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "1700"
+    },
+    {
+      "property": "Flash Point COC",
+      "method": "ASTM D92 / ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "min 130"
+    },
+    {
+      "property": "Four Ball Extreme Pressure Test, Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "N",
+      "value": "8000"
+    },
+    {
+      "property": "Four Ball Extreme Pressure Test, Scar Diameter",
+      "method": "ASTM D2266",
+      "uom": "",
+      "units": "mm",
+      "value": "max 0.68"
+    },
+    {
+      "property": "Timken, OK Load (without solids)",
+      "method": "ASTM D2509",
+      "uom": "",
+      "units": "lbs",
+      "value": "min 50"
+    },
+    {
+      "property": "Falex Continuous Load Failure",
+      "method": "ASTM D3233",
+      "uom": "",
+      "units": "N",
+      "value": "min 20450"
+    },
+    {
+      "property": "Copper Strip Corrosion",
+      "method": "ASTM D4048",
+      "uom": "rating",
+      "units": "",
+      "value": "1b max"
+    },
+    {
+      "property": "Rust Protection",
+      "method": "ASTM D1743",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Soap Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Clay"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

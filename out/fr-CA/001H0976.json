@@ -1,0 +1,124 @@
+{
+  "id": "001H0976",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Euro L SAE 5W-30 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/771d8daa-7329-4061-ab06-ab80b42c75ee.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Euro L SAE 5W-30 Fully Synthetic Motor Oil (SN C3 + OEMs - 2019) EN TDG V1.4 11-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290602.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Euro L SAE 5W-30 Fully Synthetic Motor Oil (SN C3 + OEMs - 2019) Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/0aeb6641-18dd-4257-aa99-a3340d630401.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Euro L SAE 5W-30 Fully Synthetic Motor Oil (SN C3 + OEMs - 2019) Canada FR TDG V1.4 29-Mar-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/14484da6-0780-4b0d-af10-df0f5d7ad08b.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Euro L SAE 5W-30 Fully Synthetic Motor Oil (SN C3 + OEMs - 2019) Canada EN TDG V1.4 11-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290601.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Euro L SAE 5W-30 Fully Synthetic Motor Oil (SN C3 + OEMs - 2019) Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0976_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550051122",
+      "margin": "2.7840844881632",
+      "packShot": ""
+    },
+    {
+      "code": "001H0976_002VIZ_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550051121",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H0976_002XO2_A0IK",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550051125",
+      "margin": "2.68332226618554",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "General Motors dexos2",
+      "organisation": "General Motors",
+      "spec": "dexos2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La technologie Pennzoil^® Euro L est spécialement formulée pour les moteurs diesel et est approuvée pour BMW LL-04, GM dexos2^® et Mercedes-Benz.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

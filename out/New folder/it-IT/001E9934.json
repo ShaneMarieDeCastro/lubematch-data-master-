@@ -1,0 +1,87 @@
+{
+  "id": "001E9934",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Naturelle S4 Gear Fluid 100",
+  "description": "Special Purpose Biodegradable Synthetic Industrial Gear and Bearing Oil",
+  "family": "Naturelle",
+  "parentCategory": "Oli per ingranaggi industriali",
+  "category": "Oli per ingranaggi industriali",
+  "applicationKeys": [
+    "axle",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "marine",
+    "mobile",
+    "off highway",
+    "reduction gears",
+    "stern tube seal",
+    "transmissions"
+  ],
+  "position": "Top",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/56316667-b837-41e7-8a42-eeb1343063a7.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Gear Fluid 100 EN TDG V1.4 14-Nov-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561035.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 100 Italy EN 140007645406 EHS V1.5 25-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/7b106616-71f2-4896-8e63-d3e326c0ac98.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Gear Fluid 100 Italy IT TDG V1.4 03-Feb-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561036.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 100 Italy IT 140007645406 EHS V1.5 25-APR-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "USA EPA VGP",
+      "organisation": "USA EPA",
+      "spec": "VGP"
+    },
+    {
+      "name": "ISO 14635-1",
+      "organisation": "ISO",
+      "spec": "14635-1"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 3448",
+      "organisation": "ISO",
+      "spec": "3448"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Gear Fluid è un fluido sintetico avanzato per applicazioni su ingranaggi, quali quelli di comando di propulsori ed eliche. Derivato da esteri completamente saturi, Shell Naturelle S4 Gear Fluid è formulato per offrire prestazioni superiori in impieghi gravosi pur essendo facilmente biodegradabile e a bassa ecotossicità. Shell Naturelle S4 Gear Fluid è un lubrificante ecosostenibile (Environmentally Acceptable Lubricant - EAL) secondo la normativa US EPA 2013 Vessel General Permit. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S4_Gear_Fluid_100_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

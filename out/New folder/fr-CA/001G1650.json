@@ -1,0 +1,159 @@
+{
+  "id": "001G1650",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Full Synthetic SAE 0W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7bfd2cb4-efa9-45d0-bc56-85f13ce2c76e.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Full Synthetic SAE 0W-20 Motor Oil EN TDG V2.1 09-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/10acf256-92fe-400f-91b2-8e61bfead23d.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 0W-20 Motor Oil Canada FR TDG V2.1 12-Sep-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290739.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 0W-20 Motor Oil Canada EN 140006579500 EHS V1.10 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/9ea99d72-2a63-43e4-9dc7-6173ba1f5fd2.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 0W-20 Motor Oil Canada EN TDG V2.1 09-Sep-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290740.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 0W-20 Motor Oil Canada FR 140006579500 EHS V1.10 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1650_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550046180",
+      "margin": "1.40449363772402",
+      "packShot": ""
+    },
+    {
+      "code": "001G1650_002V7F_A0IK",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550046177",
+      "margin": "2.12507117100371",
+      "packShot": ""
+    },
+    {
+      "code": "001G1650_002X4L_A1WJ",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550046179",
+      "margin": "1.91282002140925",
+      "packShot": ""
+    },
+    {
+      "code": "001G1650_002XLM_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550046182",
+      "margin": "2.23476604415381",
+      "packShot": ""
+    },
+    {
+      "code": "001G1650_002VJ1_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550046185",
+      "margin": "0.715203684564014",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C947-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-B1"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^ 1 ^ Basé ^ sur ^ la ^ dernière ^ norme ^ de l'industrie",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

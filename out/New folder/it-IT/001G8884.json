@@ -1,0 +1,89 @@
+{
+  "id": "001G8884",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Helix Ultra Professional AR-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/66d2fee1-e48c-41d0-8dbd-1ec2874858e1.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) EN TDG V1.1 12-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02470117.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) Italy EN 140007645406 EHS V1.2 29-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02470116.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) Italy IT 140007645406 EHS V1.2 29-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/dfff2142-f5fb-4e42-bc9a-8da5986b33ae.pdf",
+      "type": "LTDS",
+      "name": "Italy IT TDG V1.1 05-Feb-2019",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8884_002YAN_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550051981",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8884_002XS4_A246",
+      "name": "Fusti 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusti",
+      "materialCode": "550050917",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "Renault RN 17 FE",
+      "organisation": "Renault",
+      "spec": "RN 17 FE"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formulato per soddisfare i severi requisiti di alcuni motori diesel ad alte prestazioni inclusi i motori Renault e dove è richiesta la specifica ACEA C5.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550051981_Shell_Helix_Ult_Pro_AR-L_0W-20_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

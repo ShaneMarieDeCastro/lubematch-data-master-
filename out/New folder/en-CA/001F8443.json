@@ -1,0 +1,157 @@
+{
+  "id": "001F8443",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Tellus S4 VE 46",
+  "description": "Advanced Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "energy efficiency",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "pump gear",
+    "versatile"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6096718f-d3b3-4dea-89f6-df7c490391f8.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VE 46 EN TDG V1.5 23-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02389899.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VE 46 Canada EN 140006579500 EHS V1.4 22-NOV-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02389898.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VE 46 Canada FR 140006579500 EHS V1.4 22-NOV-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8443_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550054854",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8443_002XD6_NAMD",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550054480",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8443_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011622",
+      "margin": "1.15517857457592",
+      "packShot": ""
+    },
+    {
+      "code": "001F8443_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550054479",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JCMAS P 041:2004",
+      "organisation": "JCMAS",
+      "spec": "P 041:2004"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ASTM D6158-05 HV",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HV"
+    },
+    {
+      "name": "GB/T 33540.4-2017",
+      "organisation": "GB/T",
+      "spec": "33540.4-2017"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Bosch RDE 90245",
+      "organisation": "Bosch",
+      "spec": "RDE 90245"
+    },
+    {
+      "name": "GB 11118.1-2011 L-HV",
+      "organisation": "GB",
+      "spec": "11118.1-2011 L-HV"
+    },
+    {
+      "name": "GB 11118.1-2011 L-HS",
+      "organisation": "GB",
+      "spec": "11118.1-2011 L-HS"
+    },
+    {
+      "name": "Denison HF-0",
+      "organisation": "Denison",
+      "spec": "HF-0"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VE hydraulic fluids are based on Gas-to-liquid (GTL) technology and are designed for a broad range of stationary and mobile applications, with their extra-long oil life, wide operating temperature window, impactful energy efficiency, and robust equipment protection. Shell Tellus S4 VE enables customers to realise potential cost savings through longer equipment service life and lower maintenance costs.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

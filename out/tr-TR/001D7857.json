@@ -1,0 +1,169 @@
+{
+  "id": "001D7857",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Omala S4 WE 220",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diaphragm",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "fixed",
+    "fuel",
+    "gas turbines",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "non shiftable",
+    "off highway",
+    "pag",
+    "plain",
+    "powershift",
+    "pump",
+    "pump gear",
+    "pump piston",
+    "reduction gears",
+    "rollers",
+    "splash lubricated bearings",
+    "thrust",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "water pump",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0511d900-214e-48ab-a89b-047ad65ebb06.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 220 EN TDG V4.4 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573240.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 220 Turkey EN 140003791542 EHS V1.10 09-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/32109848-15f9-4d77-b0a7-ad8d4e9fcd55.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 220 Turkey TR TDG V4.4 10-Aug-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573242.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 220 Turkey TR 140003791542 EHS V1.10 09-MAY-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7857_002VSH_A1P5",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550027185",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE özel seçilmiş polialkilen glikol baz yağlar ve katkılar kullanılarak  geliştirilmiş  sentetik sonsuz dişli yağıdır. En zorlu çalışma koşullarında bile üstün yağlama performansı, gelişmiş enerji verimliliği, uzun kullanım ömrü ve karıncalanmaya(micro-pitting) karşı direnç performansı sağlar.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "222"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "34.4"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "203"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "",
+      "units": "°C",
+      "value": "278"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "1074"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2  A/8.3/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [],
+  "commerce": null
+}

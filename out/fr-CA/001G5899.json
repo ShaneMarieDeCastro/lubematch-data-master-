@@ -1,0 +1,101 @@
+{
+  "id": "001G5899",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Corena S5 R 46",
+  "description": "Advanced Synthetic Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "air compressor",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "pag",
+    "polyglycolester",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9d1d1480-57b0-44c4-a5d3-cea1ec67ed42.pdf",
+      "type": "GTDS",
+      "name": "Corena S5 R 46 EN TDG V1.1 24-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/31a9fa29-6474-490a-8976-f1b7ced9f832.pdf",
+      "type": "LTDS",
+      "name": "Corena S5 R 46 Canada FR TDG V1.1 09-Jun-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02589371.PDF",
+      "type": "LMSDS",
+      "name": "Corena S5 R 46 Canada EN 140006579500 EHS V2.1 09-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/fef56bef-fe71-45c0-b7bb-832a2c4c3dca.pdf",
+      "type": "LTDS",
+      "name": "Corena S5 R 46 Canada EN TDG V1.1 26-May-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02589370.PDF",
+      "type": "LMSDS",
+      "name": "Corena S5 R 46 Canada FR 140006579500 EHS V2.1 09-JUN-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5899_002XD6_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550050455",
+      "margin": "1.68220845529599",
+      "packShot": ""
+    },
+    {
+      "code": "001G5899_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550050454",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S5 R est un lubrifiant synthétique de premier plan à base de polyalkylèneglycol (PAG) et de la technologie ester conçu pour une utilisation dans les compresseurs d'air à vis rotatifs. Il permet de longs intervalles de vidange d'huile avec un fonctionnement sans vernis et constitue le produit de choix pour des opérations difficiles et sans précédent. C'est un excellent choix pour le service après-vente dans les cas où des lubrifiants de type polyglycol-ester sont déjà utilisés.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

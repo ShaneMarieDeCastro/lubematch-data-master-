@@ -1,0 +1,167 @@
+{
+  "id": "001E7180",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Mysella S3 S 40",
+  "description": "Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Industriemotorenöle",
+  "category": "Motoröle - stationärer Gasmotor",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gas",
+    "gas turbines",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "landfill",
+    "lng",
+    "lpg",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "sewage",
+    "stationary",
+    "turbine",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7c0563d8-cddc-4c81-bbfd-c849e3bb34b1.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 S 40 EN TDG V2.6 17-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533585.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 S 40 Germany EN 140001492039 EHS V1.11 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/b827831b-a7c6-4491-b90e-fb1e0e5ed91c.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 S 40 Germany DE TDG V2.6 17-Mar-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533584.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 S 40 Germany DE 140001492039 EHS V1.11 02-MAR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7180_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550035910",
+      "margin": "0.504207309870201",
+      "packShot": ""
+    },
+    {
+      "code": "001E7180_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550035843",
+      "margin": "0.541950000445048",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3271-4",
+      "organisation": "MAN",
+      "spec": "M 3271-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 S eignet sich für den Einsatz in der neuen Generation an stationären Gasmotoren, die entwickelt wurden zur Einhaltung der niedrigeren Emissionen für NOx und solche mit der neusten optimierten Verbrennungstechnologie.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse (ISO VG)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "40"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "135"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.5"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "894"
+    },
+    {
+      "property": "Flammpunkt, geschlossener Tiegel",
+      "method": "ASTM D93A",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN DIN DIN DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "Basenzahl",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "8.5"
+    },
+    {
+      "property": "Sulfatasche",
+      "method": "ISO 3987",
+      "uom": "",
+      "units": "%wt",
+      "value": "0.9"
+    },
+    {
+      "property": "Phosphorgehalt",
+      "method": "ASTM D4047",
+      "uom": "",
+      "units": "ppm",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-mysella-argina-group-220x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

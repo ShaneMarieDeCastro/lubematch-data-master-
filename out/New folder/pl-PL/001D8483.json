@@ -1,0 +1,147 @@
+{
+  "id": "001D8483",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S2 U460L 2",
+  "description": "High Performance Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne bez dodatków EP",
+  "applicationKeys": [
+    "bearings",
+    "bentonite",
+    "clay",
+    "heavy duty",
+    "heavy load",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "low load",
+    "slow",
+    "slow speed"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4981fb1e-b657-46b4-bcd7-c714669e089c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 U460L 2 EN TDG V1.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541196.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 Poland EN 140003791557 EHS V2.6 20-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/84a66f4c-54e0-4f75-8931-e8fa3fed166a.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 U460L 2 Poland PL TDG V1.2 23-Oct-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02541197.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 Poland PL 140003791557 EHS V3.6 20-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8483_002VGF_EURO",
+      "name": "Tuba 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550053536",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8483_002VH7_A246",
+      "name": "Beczka 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Beczka",
+      "materialCode": "550028045",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8483_002XD7_A246",
+      "name": "Wiadro 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028052",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "W smarze Shell Gadus S2 U460L zastosowany jest wysokiej jakości, głęboko rafinowany olej mineralny o wysokiej lepkości i doskonałej odporności na utlenianie i parowanie. Odporność na utlenianie jest dodatkowo wzmocniona dzięki dodatkowi specjalnego inhibitora utleniania w wysokich temperaturach.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Inorganic (clay)"
+    },
+    {
+      "property": "Base Oil (Type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "35"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

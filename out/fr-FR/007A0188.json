@@ -1,0 +1,76 @@
+{
+  "id": "007A0188",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "AeroShell Fluid 41 (EU)",
+  "description": "Mineral hydraulic fluid for aircraft.",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques (aviation)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/67717542-80eb-48d3-9d36-de019d902a6b.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 41 (EU 2023) EN TDG V1.0 05-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617137.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 41 (EU 2023) France FR 140003182031 EHS V1.1 12-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617054.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 41 (EU 2023) France EN 140003182031 EHS V1.1 12-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OM-15",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-15"
+    },
+    {
+      "name": "DEF STAN 91-48",
+      "organisation": "DEF STAN",
+      "spec": "91-48"
+    },
+    {
+      "name": "MIL-PRF-5606J",
+      "organisation": "MIL",
+      "spec": "PRF-5606J"
+    },
+    {
+      "name": "NATO H-520",
+      "organisation": "NATO",
+      "spec": "H-520"
+    },
+    {
+      "name": "DCSEA 415/A",
+      "organisation": "DCSEA",
+      "spec": "415/A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 41 is dyed red.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

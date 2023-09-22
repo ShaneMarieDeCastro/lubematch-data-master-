@@ -1,0 +1,78 @@
+{
+  "id": "001K3660",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra Professional AT-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f68e89eb-c8e5-411e-a295-1f072ca38a6a.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AT-L 0W-20 (Fiat 9.55535-DSX) EN TDG V1.1 08-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/061c2778-3d4b-4dfd-8623-749956f57011.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AT-L 0W-20 (Fiat 9.55535-DSX) Germany DE TDG V1.1 21-Dec-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587653.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 0W-20 (Fiat 9.55535-DSX) Germany EN 140001492039 EHS V1.2 05-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587654.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 0W-20 (Fiat 9.55535-DSX) Germany DE 140001492039 EHS V1.2 05-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001K3660_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550070530",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "Fiat 9.55535-DSX - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-DSX - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

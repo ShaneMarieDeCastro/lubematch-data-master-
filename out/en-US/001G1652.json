@@ -1,0 +1,132 @@
+{
+  "id": "001G1652",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/85c08cd3-2f5d-4a4c-a670-db1239355f13.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil EN TDG V1.9 26-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02629708.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil United States EN 140002686046 EHS V1.7 10-JUN-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/2aed65ac-5267-4cd9-85dd-49c6216b24de.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil United States EN TDG V1.9 26-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1652_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550046193",
+      "margin": "0.759905697912753",
+      "packShot": ""
+    },
+    {
+      "code": "001G1652_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010112",
+      "margin": "0.412458919522148",
+      "packShot": ""
+    },
+    {
+      "code": "001G1652_002VJ1_A1WJ",
+      "name": "Drum 55 Gal T/H QS Green Wtop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550046191",
+      "margin": "0.683509494295311",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "General Motors dexos1 Gen 3",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen 3"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "Ford WSS M2C961-A1",
+      "organisation": "Ford",
+      "spec": "WSS M2C961-A1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^1 ^Based ^on ^latest ^industry ^standard",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

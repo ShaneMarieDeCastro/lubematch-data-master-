@@ -1,0 +1,77 @@
+{
+  "id": "001H5439",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Ultra ECT C5 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/22c0a577-be42-4d6b-9c93-e1283e052ecb.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) EN TDG V1.2 14-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631599.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Spain ES 140003966322 EHS V1.4 17-AUG-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/cef22cbb-177d-4c91-8046-2e89e09508c1.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Spain ES TDG V1.2 19-Oct-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631598.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Spain EN 140003966322 EHS V1.4 17-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.71",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.71"
+    },
+    {
+      "name": "BMW Longlife-17 FE+",
+      "organisation": "BMW",
+      "spec": "Longlife-17 FE+"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C5 ha sido formulado con la tecnología más avanzada compatible con los sistemas de tratamiento de emisiones. Mantiene limpio el filtro de partículas para que el motor funcione a pleno rendimiento. Ayuda a reducir la fricción para mejorar el ahorro de combustible.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550056348_Shell_Helix_Ult_ECT_C5_0W-20_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

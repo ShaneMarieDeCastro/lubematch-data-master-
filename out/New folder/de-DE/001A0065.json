@@ -1,0 +1,67 @@
+{
+  "id": "001A0065",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "AeroShell Grease 7",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "Aviation Schmierstoffe ",
+  "category": "Schmierfette (Aviation)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6ae9df16-e5d0-448a-b312-38230cd7dc02.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 7 EN TDG V1.5 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555092.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 7 Germany EN 140001492039 EHS V3.10 17-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555097.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 7 Germany DE 140001492039 EHS V3.10 17-APR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0065_002XN4_A619",
+      "name": "Eimer 17 kg Open head Plastic HDPE Shell Red (1)",
+      "size": "17",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550043678",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-23827C Type II",
+      "organisation": "MIL",
+      "spec": "PRF-23827C Type II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

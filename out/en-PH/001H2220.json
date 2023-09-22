@@ -1,0 +1,107 @@
+{
+  "id": "001H2220",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix HX8 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/99d04091-7b3d-4931-b6ae-c7ef52bf1040.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) EN TDG V1.4 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01921094.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) Philippines English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/11fcc86b-b38f-4800-bf64-652e24037f8e.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) Philippines EN TDG V1.3 29-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2220_002WML_A753",
+      "name": "Bottle 4 L Wishbone Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051842",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Fiat 9.55535-M2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-M2 - Meets the requirements"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 synthetic motor oil works hard to help keep modern engines clean and protected. It helps to prevent the formation of harmful deposits that can lead to performance loss. Its excellent deposit protection is suitable for all OEM-recommended drain intervals.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX8_5W-40_4L_600052800.png",
+  "valueRecord": [],
+  "commerce": null
+}

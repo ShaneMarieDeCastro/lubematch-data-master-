@@ -1,0 +1,82 @@
+{
+  "id": "001A0914",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "AeroShell Grease 14",
+  "description": "Mineral grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Graisses d’aviation",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c6cba754-1bbf-44b5-8058-25cad8d03773.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 14 EN TDG V1.2 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550866.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 France EN 140003182031 EHS V1.14 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550867.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 France FR 140003182031 EHS V1.14 11-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0914_002XN5_A610",
+      "name": "Récipient without Closure 3 kg Open head Tinplate Shell Red (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Récipient",
+      "materialCode": "550043677",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation XG-284",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-284"
+    },
+    {
+      "name": "DEF STAN 91-51",
+      "organisation": "DEF STAN",
+      "spec": "91-51"
+    },
+    {
+      "name": "MIL-G-25537C",
+      "organisation": "MIL",
+      "spec": "G-25537C"
+    },
+    {
+      "name": "NATO G-366",
+      "organisation": "NATO",
+      "spec": "G-366"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +75°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

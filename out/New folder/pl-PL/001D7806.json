@@ -1,0 +1,108 @@
+{
+  "id": "001D7806",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Morlina S2 B 32",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oleje obiegowe i łożyskowe",
+  "category": "Oleje łożyskowe i obiegowe",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "mobile",
+    "oil lubricated bearings",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "rollneck bearings",
+    "servo",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S2_B_32_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S2 B 32 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02445417.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 32 Poland EN 140003791557 EHS V2.4 16-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02442348.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 32 Poland PL 140003791557 EHS V3.4 16-SEP-2022",
+      "language": "PL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/804aba13-df83-4493-b064-82e6f0904ae1.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 32 Poland PL TDG V2.1 01-Jun-2018",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7806_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550026377",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

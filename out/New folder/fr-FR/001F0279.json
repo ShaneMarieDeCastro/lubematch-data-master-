@@ -1,0 +1,98 @@
+{
+  "id": "001F0279",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra A5/B5 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_A5_B5_0W-30_(SL_A5_B5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/d8be44fa-e249-42ee-8d45-649bbaa29464.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) France French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498503.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) France FR 140003182031 EHS V1.5 06-DEC-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498502.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) France EN 140003182031 EHS V1.5 06-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0279_002XS4_A246",
+      "name": "Barils 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550040501",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F0279_002YAN_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Copper Gold (12) ",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550046659",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra utilise une technologie de nettoyage actif protégeant contre les dépôts et l'usure les moteurs les plus performants et leurs permettant ainsi de fonctionner à un rendement maximum. \nAide à diminuer le phénomène de friction afin d'améliorer l'économie de carburant.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046659_Shell_Helix_Ult_A5_B5-0W-30_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

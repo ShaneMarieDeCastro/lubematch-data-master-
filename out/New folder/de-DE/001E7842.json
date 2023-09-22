@@ -1,0 +1,107 @@
+{
+  "id": "001E7842",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Omala S3 Wind",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriegetriebeöle",
+  "category": "Industriegetriebeöle",
+  "applicationKeys": [
+    "high cleanliness",
+    "industrial",
+    "low temperature",
+    "wind turbine transmission",
+    "wind turbines",
+    "yaw and pitch drive gearboxes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/bac1c508-5946-43fc-8d49-340880c813dd.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 Wind EN TDG V1.3 07-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604812.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 Wind Germany EN 140001492039 EHS V1.4 28-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604813.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 Wind Germany DE 140001492039 EHS V1.4 28-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7842_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550056530",
+      "margin": "0.0844178620898172",
+      "packShot": ""
+    },
+    {
+      "code": "001E7842_002VJW_A1P5",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550056448",
+      "margin": "0.0912166659037272",
+      "packShot": ""
+    },
+    {
+      "code": "001E7842_002VNR_A1P5",
+      "name": "Eimer 20 L Plastic T/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550056449",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 61400-4",
+      "organisation": "IEC",
+      "spec": "61400-4"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 Wind is a mineral oil based industrial gear lubricant offering high performance in wind turbine gearbox applications. It has been specifically designed to efficiently operate in low temperatures, assures excellent wear protection under high loads and shock load conditions, guards against micropitting and offers a high level of cleanliness. Please consider that use in systems with fine filtration is not recommended/supported by Shell because sustained foam control performance is not assured.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

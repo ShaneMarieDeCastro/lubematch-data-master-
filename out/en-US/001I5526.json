@@ -1,0 +1,65 @@
+{
+  "id": "001I5526",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Biodegradable Hydraulic Fluid 22",
+  "description": "Biodegradable Water Soluble Hydraulic Fluid",
+  "family": "Naturelle",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Top",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bc92b893-d190-417d-bb2d-5e1ce46977ce.pdf",
+      "type": "GTDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 22 EN TDG V1.1 29-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563164.PDF",
+      "type": "LMSDS",
+      "name": "Shell Biodegradable Hydraulic Fluid 22 United States EN 140002686046 EHS V3.1 03-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5526_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057379",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5526_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057380",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Biodegradable Hydraulic Fluids are fully synthetic PAG (Polyalkylene Glycol) based, non-aqueous hydraulic fluids. These fluids are formulated from a high VI, fully synthetic base stock, coupled with a non-metallic additive package that provides the properties demanded by high-performance hydraulic systems. These fluids also have excellent low temperature properties and are resistant to oxidative and thermal degradation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

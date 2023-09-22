@@ -1,0 +1,85 @@
+{
+  "id": "001D7776",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Corena S2 R 46",
+  "description": "Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "",
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "air compressor",
+    "axle",
+    "bearing",
+    "bio gas",
+    "engine",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "mobile",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "oil flooded",
+    "oil injected",
+    "reduction gears",
+    "rollers",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "sliding vane",
+    "stationary",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b63d8917-0ea3-4ba7-8d66-9aba81ddac5b.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 R 46 EN TDG V1.5 17-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/97476260-78c9-4719-b670-f614b256ba17.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 R 46 France FR TDG V1.5 23-Sep-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559562.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 R 46 France FR 140003182031 EHS V1.6 24-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559564.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 R 46 France EN 140003182031 EHS V1.6 24-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3:2003",
+      "organisation": "ISO",
+      "spec": "6743-3:2003"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 R est une huile de haute qualité à propriétés détergentes destinée à la lubrification des compresseurs d'air rotatifs à palettes et à vis lubrifiées.  Elle est constituée d'additifs sélectionnés afin de garantir protection et performances aux compresseurs fonctionnant jusqu'à 15 bar, une température d’air refoulée de 100°C et avec un intervalle de vidanges jusqu'à 4000 heures.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

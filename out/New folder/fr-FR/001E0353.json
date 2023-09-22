@@ -1,0 +1,76 @@
+{
+  "id": "001E0353",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Brake and Clutch Fluid DOT 4 Ultra",
+  "description": "Brake Fluid",
+  "family": "Brake Fluids",
+  "parentCategory": "",
+  "category": "Fluides de frein (soins non reliés à l'automobile)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Brake_and_Clutch_Fluid_DOT_4_Ultra_(en)_TDS_v1.pdf",
+      "type": "GTDS",
+      "name": "Shell Brake and Clutch Fluid DOT 4 Ultra English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_00473176.PDF",
+      "type": "LMSDS",
+      "name": "Brake and Clutch Fluid DOT 4 Ultra France FR 140002684704 EHS V2.0 11/12/2012",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_00473177.PDF",
+      "type": "LMSDS",
+      "name": "Brake and Clutch Fluid DOT 4 Ultra France EN 140002684704 EHS V2.0 11/12/2012",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "FMVSS 116 DOT 4",
+      "organisation": "FMVSS",
+      "spec": "116 DOT 4"
+    },
+    {
+      "name": "AS/NZS 1960 Class 3",
+      "organisation": "AS/NZS",
+      "spec": "1960 Class 3"
+    },
+    {
+      "name": "ISO 4925-4",
+      "organisation": "ISO",
+      "spec": "4925-4"
+    },
+    {
+      "name": "JIS K 2233 Class 5",
+      "organisation": "JIS",
+      "spec": "K 2233 Class 5"
+    },
+    {
+      "name": "SAE J1704",
+      "organisation": "SAE",
+      "spec": "J1704"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Brake and Clutch Fluid DOT 4 Ultra is a very high boiling point brake system and hydraulic clutch fluid for systems requiring a FMVSS No. 116 DOT 4, ISO 4925 Class 4, or many other equivalent specifications in a borate ester (borate ester of polyglycol-ether) brake fluid.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "001H5091",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T1 Hydraulic 10W",
+  "description": "High Quality Hydraulic Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bb280ddf-7e2e-4601-9362-67df17f6f1a9.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 Hydraulic 10W EN TDG V1.0 05-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/342b41be-9168-440a-bb9b-7ca1a88247d5.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 Hydraulic 10W United States EN TDG V1.0 29-Jan-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563204.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 Hydraulic 10W United States EN 140002686046 EHS V1.0 05-JUN-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5091_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550054462",
+      "margin": "0.669911167440299",
+      "packShot": ""
+    },
+    {
+      "code": "001H5091_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011771",
+      "margin": "1.24084707472736",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Vickers 35VQ25",
+      "organisation": "Vickers",
+      "spec": "35VQ25"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T1 Hydraulic uses performance additives to  prevent wear providing reliable lubrication.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

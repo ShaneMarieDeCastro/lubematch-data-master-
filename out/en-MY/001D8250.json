@@ -1,0 +1,192 @@
+{
+  "id": "001D8250",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Spirax S4 CX 30",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Transmission Oils Other",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "clutch",
+    "construction",
+    "continuously variable",
+    "cooling",
+    "cooling system",
+    "diesel",
+    "differential",
+    "disc",
+    "engine",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "offroad",
+    "offroad hydraulic",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "on highway",
+    "plain",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "semi manual",
+    "servo",
+    "slew",
+    "spindle",
+    "spindle oil",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "variable",
+    "wet brake"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/995deaef-6bd3-4718-9b3c-c1bcbd86b5c1.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 30 EN TDG V2.3 23-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02207425.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 30 Malaysia MS 140001435555 EHS V1.6 24-DEC-2020",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02207505.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 30 Malaysia EN 140001435555 EHS V1.6 24-DEC-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-MY/df347f85-5c79-40a6-89f4-0b5ecdc9adb1.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 30 Malaysia EN TDG V2.3 23-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8250_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024986",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 03C",
+      "organisation": "ZF",
+      "spec": "TE-ML 03C"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    },
+    {
+      "name": "ZF TE-ML 07F",
+      "organisation": "ZF",
+      "spec": "TE-ML 07F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 30 is designed to provide operators with trouble free operation and maximum reliability for the lifetime of the equipment.  Spirax S4 CX meets the demanding requirements of modern transmission, final drive, oil immersed brake and hydraulic systems fitted to heavy-duty off-highway.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "30"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "93.9"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "10.9"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "899"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "205"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

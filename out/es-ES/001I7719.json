@@ -1,0 +1,76 @@
+{
+  "id": "001I7719",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix ECO 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/70e0e70a-6b33-4489-848e-8f6b2187cafc.pdf",
+      "type": "GTDS",
+      "name": "Helix ECO 5W-40 (SN) EN TDG V1.4 24-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02424981.PDF",
+      "type": "LMSDS",
+      "name": "Helix ECO 5W-40 (SN) Spain ES 140003966322 EHS V1.0 28-JUN-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02424982.PDF",
+      "type": "LMSDS",
+      "name": "Helix ECO 5W-40 (SN) Spain EN 140003966322 EHS V1.0 28-JUN-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix ECO (Engine Care & Optimisation) is fully synthetic motor oil designed to optimize the cost of the car maintenance.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

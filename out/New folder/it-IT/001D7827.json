@@ -1,0 +1,181 @@
+{
+  "id": "001D7827",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Morlina S4 B 220",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oli di circolazione e per cuscinetti",
+  "category": "Oli circolanti e per cuscinetti",
+  "applicationKeys": [
+    "air release",
+    "axle",
+    "ball",
+    "bearing",
+    "bearing and circulating",
+    "circulation",
+    "circulation system",
+    "cooling",
+    "cooling system",
+    "differential",
+    "extreme temperatures",
+    "final drive",
+    "fixed",
+    "fzg",
+    "fzg 12",
+    "gas turbines",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "long life",
+    "low temperature",
+    "momentum transfer",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller spherical",
+    "rollers",
+    "rotary vane",
+    "servo",
+    "tandem drive",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f3d1062f-586c-49e5-8497-bd70b62d4535.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 220 EN TDG V4.5 13-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572804.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 220 Italy IT 140007645406 EHS V1.4 04-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Italy_Shell_Morlina_S4_B_220_(it)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 220 Italy Italian",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571838.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 220 Italy EN 140007645406 EHS V1.4 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKS",
+      "organisation": "ISO",
+      "spec": "12925-1 CKS"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B oils are high performance synthetic bearing and circulation lubricants, based on high performance base fluids.  They offer outstanding lubrication performance under severe operating conditions, including improved energy efficiency and long service life even in severe operating conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "25.9"
+    },
+    {
+      "property": "Viscosity Index (VI)",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "149"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-48"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "848.4"
+    },
+    {
+      "property": "Emulsion Test",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "mins",
+      "value": "15"
+    },
+    {
+      "property": "Foam Test, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam '@0/10 mins",
+      "value": "0/0"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2 A/8.3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "12"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Di93QAC&field=Attachment__Name__s",
+      "family": "Morlina",
+      "savings": 161834,
+      "title": "Shell Morlina S4 B 220"
+    }
+  ],
+  "commerce": null
+}

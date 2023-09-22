@@ -1,0 +1,71 @@
+{
+  "id": "001A0079",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "AeroShell Turbine Oil 3",
+  "description": "Mineral lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "Aviation Schmierstoffe ",
+  "category": "Motoröle - Aviation/Turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/07d24f09-c2fa-4d75-ab6c-68e49b90dc27.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 3 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550759.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 3 Germany DE 140001492039 EHS V1.14 11-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550758.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 3 Germany EN 140001492039 EHS V1.14 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DEF STAN 91-99",
+      "organisation": "DEF STAN",
+      "spec": "91-99"
+    },
+    {
+      "name": "Joint Service Designation OM-11",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-11"
+    },
+    {
+      "name": "NATO O-135",
+      "organisation": "NATO",
+      "spec": "O-135"
+    },
+    {
+      "name": "AIR 3515/B",
+      "organisation": "AIR",
+      "spec": "3515/B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 3 is a 3 mm²/s mineral turbine oil blended from mineral base stocks to which an anti-corrosion additive has been added.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "001H2258",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a16319e5-6bf5-49d2-a4d2-ba67f7121bf5.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) EN TDG V1.0 20-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503350.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Poland EN 140003791557 EHS V1.9 10-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02503349.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Poland PL 140003791557 EHS V1.9 10-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/48683bfc-370f-4135-894a-3967a22c059f.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Poland PL TDG V1.0 24-May-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2258_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550052344",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Olej Shell Helix HX5 zapewnia stałą wydajność silnika. Zabezpiecza przed powstawaniem szlamów, co wpływa na zmniejszenie zużycia elementów silnika. Jest odpowiedni do stosowania w wielu pojazdach podczas ich codziennego użytkowania.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

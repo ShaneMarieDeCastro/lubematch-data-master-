@@ -1,0 +1,127 @@
+{
+  "id": "001E7479",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix HX5 10W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX5_10W-30_(SN_A3_B3)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix HX5 10W-30 (SN A3/B3) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_Helix_HX5_10W-30_(SN_A3_B3)_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 10W-30 (SN A3/B3) India English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636826.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 10W-30 (SN A3/B3) India EN 140006501563 EHS V1.6 24-APR-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7479_002W2G_A1W8",
+      "name": "Bottle 4 L Wishbone Plastic Shell Yellow (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550039935",
+      "margin": "1.01054804830681",
+      "packShot": ""
+    },
+    {
+      "code": "001E7479_002W2G_A699",
+      "name": "Bottle 4 L Wishbone Plastic Shell Yellow (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046801",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7479_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008352",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 is designed to help provide consistent engine performance. It works hard to help protect against engine sludge and reduce wear. It is suitable for a wide variety of vehicles for everyday driving conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/1L_Helix_HX5_10W_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

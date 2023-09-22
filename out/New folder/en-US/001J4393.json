@@ -1,0 +1,75 @@
+{
+  "id": "001J4393",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "ShellZone Multi-Vehicle Antifreeze/Coolant",
+  "description": "Light duty OAT coolant",
+  "family": "Generic Branded Antifreeze",
+  "parentCategory": "",
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f5cb3fff-e3e6-41b7-bab5-4e80205990b9.pdf",
+      "type": "GTDS",
+      "name": "ShellZone Multi-Vehicle Antifreeze/Coolant (2021) EN TDG V1.0 10-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564023.PDF",
+      "type": "LMSDS",
+      "name": "ShellZone Multi-Vehicle Antifreeze/Coolant (2021) United States EN 140002686046 EHS V1.0 24-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J4393_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550062810",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J4393_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500013348",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J4393_002V2V_A0II",
+      "name": "Bottle 1 Gal Local (F-Style) Plastic White (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550062799",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "ShellZone^® Multi-Vehicle Extended Life Antifreeze/Coolant is a premium quality antifreeze/coolant that has been tested to be compatible with all automotive and light duty truck antifreeze/coolant products available in the market today. When used in a flush and refill service of the cooling system, the product will provide 5 years, or 150,000 miles of service (whichever occurs first). ShellZone^® Multi-Vehicle Extended Life Antifreeze/Coolant not only guards against freezing and boil-over, it also provides critical protection against corrosion forming on system components, including aluminium.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

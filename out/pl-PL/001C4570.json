@@ -1,0 +1,114 @@
+{
+  "id": "001C4570",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R3 10W (CF)",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    "axle",
+    "bio gas",
+    "brakes",
+    "diesel",
+    "engine",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "semi manual",
+    "servo",
+    "stationary",
+    "synchronised",
+    "torque converter",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0c2c0be6-6ac6-46fa-812d-bbabbc50e47b.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 10W (CF) EN TDG V2.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/57246dc1-3389-42a9-9fb9-d0ecbf3b929b.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 10W (CF) Poland PL TDG V2.2 07-Sep-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557478.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) Poland PL 140003791557 EHS V3.12 20-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557477.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) Poland EN 140003791557 EHS V2.12 20-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4570_002VNA_A246",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550032225",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4570_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550032224",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Oleje Shell Rimula R3 dostosowują się do aktualnych potrzeb zapewniając dodatkową ochronę i utrzymując tłoki i inne części silnika w czystości. Zwiększają trwałość silnika dzięki zabezpieczeniu przed zużyciem oraz zapewniają efektywną pracę zapewniając ochrone przed tworzeniem sie szkodliwych osadów.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R3-10W.png",
+  "valueRecord": [],
+  "commerce": null
+}

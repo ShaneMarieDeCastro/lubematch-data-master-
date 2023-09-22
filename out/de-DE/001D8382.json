@@ -1,0 +1,67 @@
+{
+  "id": "001D8382",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gas Compressor Oil S3 PSN 220",
+  "description": "Special Applications Natural/Sour Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Kompressor und Vakuumpumpe",
+  "category": "Kompressor und Vakuumpumpe",
+  "applicationKeys": [
+    "gas compressors",
+    "industrial",
+    "natural gas",
+    "propane",
+    "reciprocating",
+    "sour gas",
+    "wet air"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S3_PSN_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S3 PSN 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556433.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PSN 220 Germany DE 140001492039 EHS V3.1 19-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556436.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PSN 220 Germany EN 140001492039 EHS V3.1 19-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8382_002VJ3_A1P5",
+      "name": "Fass 55 Gallone T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gallone",
+      "pack": "Fass",
+      "materialCode": "550042581",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor S3 PSN is a high quality blend designed for the total loss lubrication of cylinders of high pressure reciprocating compressors used in severe, wet and/or sour, natural gas service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

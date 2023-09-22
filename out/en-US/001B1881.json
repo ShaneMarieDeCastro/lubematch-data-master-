@@ -1,0 +1,81 @@
+{
+  "id": "001B1881",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell SRS Grease 2000 Moly",
+  "description": "High Performance Multipurpose Grease Containing Solid Lubricants",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Open Gear Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/440e0800-a31e-45d9-b5d8-b8dad8d544fb.pdf",
+      "type": "GTDS",
+      "name": "SRS 2000 Grease Moly EN TDG V1.2 09-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/3ab38a57-1d7f-4c14-8b38-c20f60683542.pdf",
+      "type": "LTDS",
+      "name": "SRS 2000 Grease Moly United States EN TDG V1.2 09-May-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563211.PDF",
+      "type": "LMSDS",
+      "name": "SRS 2000 Grease Moly United States EN 140002686046 EHS V2.2 13-MAY-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1881_002VH7_A1WJ",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550041216",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B1881_002WD5_A1WJ",
+      "name": "Cartridge 0.4 kg Local Plastic Multi-coloured (10)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550041222",
+      "margin": "1.75670525741212",
+      "packShot": ""
+    },
+    {
+      "code": "001B1881_002VKU_A1WJ",
+      "name": "Keg 55 kg O/H Steel Shell Yellow (1)",
+      "size": "55",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550041221",
+      "margin": "2.99317486803015",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "The product is fortified with solid additives to provide additional protection from shock loading and facilitate sliding contact in pin and bushing applications.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,173 @@
+{
+  "id": "001F1183",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Omala S2 GX 680",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oleje do przekładni przemysłowych",
+  "category": "Oleje do przekładni przemysłowych",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "compatibility with seals and paints",
+    "enclosed gear",
+    "ep",
+    "extreme performance",
+    "extreme pressure",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "marine",
+    "micropitting",
+    "rollers",
+    "siemens ag",
+    "trunnion",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2d21e6f2-eb56-4f51-98a9-9068129d78af.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 680 EN TDG V1.9 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587171.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 680 Poland EN 140003791557 EHS V2.2 05-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02587172.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 680 Poland PL 140003791557 EHS V2.2 05-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/a92929be-96aa-4af5-a387-24860c47e7b2.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 680 Poland PL TDG V1.9 21-Jul-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1183_002VNA_A246",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550041663",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-34",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-34"
+    },
+    {
+      "name": "AGMA EP 9005-EO2",
+      "organisation": "AGMA",
+      "spec": "EP 9005-EO2"
+    },
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 GX to wysokiej jakości olej przekładniowy z dodatkami przeciwzatarciowymi EP, przeznaczony do użycia w wysokoobciążonych przekładniach przemysłowych. Doskonałe właściwości przenoszenia obciążeń, ochrona przed mikropittingiem i kompatybilność z uszczelnieniami zapewniają doskonałą pracę przekładni zamkniętych.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "42.1"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Flash Point COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-9"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "Kg/m³",
+      "value": "912"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

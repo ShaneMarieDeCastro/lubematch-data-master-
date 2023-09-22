@@ -1,0 +1,148 @@
+{
+  "id": "001I1536",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra 0W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/21aab39c-4bd3-4abc-bed2-fc7a8fe31194.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra 0W-40 (SP A3/B4) EN TDG V1.0 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02506027.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra 0W-40 (SP A3/B4) Poland EN 140003791557 EHS V1.2 11-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02506028.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra 0W-40 (SP A3/B4) Poland PL 140003791557 EHS V1.2 11-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/6dbe580d-8231-41ac-b2dc-8ea2ae248565.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra 0W-40 (SP A3/B4) Poland PL TDG V1.0 20-Jan-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I1536_002YAO_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Copper Gold (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550065927",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I1536_002YAN_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550065926",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I1536_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550065924",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "MB-Approval 226.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.5"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra wykorzystuje technologię aktywnego oczyszczania zapewniając silnikom o wysokiej wydajności pracę z maksymalną wydajnością poprzez ochronę przed osadami, które zmiejszają moc silnika i zwiększają jego zużycie. Umożliwia to zmniejszenie tarcia w silniku zapewniając mniejsze zużycie paliwa.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

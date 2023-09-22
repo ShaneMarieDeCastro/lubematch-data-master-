@@ -1,0 +1,89 @@
+{
+  "id": "001D8384",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gas Compressor Oil S3 PY 220",
+  "description": "Special Application Ethylene Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "ethylene",
+    "fda",
+    "food grade",
+    "hypercompressor",
+    "industrial",
+    "ldpe",
+    "pharmaceutical"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fbf51261-c178-4cbb-a4b7-2e5bee2a1aaf.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S3 PY 220 EN TDG V2.3 06-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574057.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 220 Netherlands NL 140002783873 EHS V1.4 11-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574056.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 220 Netherlands EN 140002783873 EHS V1.4 11-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/988c81ac-feb9-4118-913d-a90a357eef51.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S3 PY 220 Netherlands NL TDG V2.3 07-Oct-2019",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8384_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027251",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "FDA Regulation 21 CFR 178.3570",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3570"
+    },
+    {
+      "name": "European Regulation 10/2011",
+      "organisation": "European Regulation",
+      "spec": "10/2011"
+    },
+    {
+      "name": "FDA Regulation 21 CFR 178.3620",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3620"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S3 PY smeermiddelen zijn samengesteld uit hoogwaardige synthetische oliën, bestemd voor de verloren smering van cilinders van hypercompressoren bij de fabricage van polyethyleen met lage dichtheid (LDPE) dat wordt gebruikt in speciale toepassingen zoals in voeding, farmaceutische producten, kabelisolatie en ethyleen-vinylacetaat (EVA). Lage doseringen en hoog kwalitatieve componenten zorgen voor een minimale impact op de productiekwaliteit van de afgewerkte polymeren.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

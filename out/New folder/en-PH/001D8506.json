@@ -1,0 +1,82 @@
+{
+  "id": "001D8506",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Gadus S2 OGH 0/00",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Open Gear Greases",
+  "applicationKeys": [
+    "clay",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "kiln gears",
+    "open gears",
+    "rotary cement kiln",
+    "rotary cement kiln gears",
+    "smectite",
+    "solid lubricant",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0/00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c583389f-234b-4edc-8d66-d6e5dceb201f.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGH 0/00 EN TDG V1.2 04-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/9ce94cd4-3ce4-4c73-877b-42135a28a279.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OGH 0/00 Philippines EN TDG V1.2 04-Apr-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580980.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Philippines EN 140001435525 EHS V1.3 25-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8506_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006071",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8506_002VH7_A1P5",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550044096",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 OGH greases are based upon an inorganic non-soap thickener dispersed in a high viscosity base oil containing graphite.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

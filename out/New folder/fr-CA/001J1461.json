@@ -1,0 +1,71 @@
+{
+  "id": "001J1461",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Gas Compressor Oil S4 PGI 100",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Gas Compressor",
+  "parentCategory": "",
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a5e01c33-499c-446e-a64b-59ac179bdcbb.pdf",
+      "type": "GTDS",
+      "name": "Shell Gas Compressor Oil S4 PGI 100 EN TDG V1.1 22-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02376581.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gas Compressor Oil S4 PGI 100 Canada FR 140006579500 EHS V1.1 15-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02376582.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gas Compressor Oil S4 PGI 100 Canada EN 140006579500 EHS V1.1 15-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J1461_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550060801",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J1461_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550060800",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 PGI 100 is a high performance, synthetic, natural gas compressor lubricant for use in rotary screw gas compressors demanding minimal hydrocarbon gas dilution of the compressor lubricant. This product is particularly well suited for propane/butane in refrigeration or unloading service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

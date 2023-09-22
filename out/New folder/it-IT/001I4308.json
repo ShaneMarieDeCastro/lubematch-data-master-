@@ -1,0 +1,103 @@
+{
+  "id": "001I4308",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Rimula R7 AD 5W-30",
+  "description": "MB GPO Truck Motor Oil",
+  "family": "Rimula",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - Trazione pesante",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/66d601ee-d3cc-471e-ac8d-1eba26dec612.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) EN TDG V1.4 21-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463692.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Italy IT 140007645406 EHS V2.0 20-OCT-2022",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/603d155a-e72a-4888-9ecb-2a2e8701d0e4.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Italy IT TDG V1.4 24-Jun-2021",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463691.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) Italy EN 140007645406 EHS V2.0 20-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I4308_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550062541",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I4308_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550068067",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 228.61",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.61"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K223",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K223"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API FA-4",
+      "organisation": "API",
+      "spec": "FA-4"
+    },
+    {
+      "name": "Cummins CES 20087",
+      "organisation": "Cummins",
+      "spec": "CES 20087"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R7 AD è caratterizzato da un efficiente pacchetto di additivi “Low-SAPS”, ad elevate prestazioni, formulato per fornire un migliore risparmio di carburante e per ridurre le emissioni. La protezione è migliorata grazie alla tecnologia sintetica che riduce significativamente l'attrito nel motore e aiuta ad estendere gli intervalli di cambio olio. Adatto per i  motori più recenti e moderni.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

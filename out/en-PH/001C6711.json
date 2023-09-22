@@ -1,0 +1,111 @@
+{
+  "id": "001C6711",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Rimula R1 30",
+  "description": "Reliable Lubrication - Monograde Heavy Duty Diesel Engine Oil\n",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "heavy duty",
+    "on highway",
+    "power steering",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2ebbbcdf-99c6-4498-800e-d54a5718eeb5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R1 30 (CC/SC) EN TDG V1.2 10-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/d863377c-21c3-4f77-b7a8-9270a72614e3.pdf",
+      "type": "LTDS",
+      "name": "Rimula R1 30 (CC/SC) Philippines EN TDG V1.2 10-Feb-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02364387.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R1 30 (CC/SC) Philippines English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C6711_002W2J_A685",
+      "name": "Bottle 4 L Wishbone Plastic White (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044569",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C6711_002VNE_A227",
+      "name": "Pail 20 L Plastic O/H W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550032894",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C6711_002W1Z_A685",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044568",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C6711_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500004871",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CC",
+      "organisation": "API",
+      "spec": "CC"
+    },
+    {
+      "name": "API SC",
+      "organisation": "API",
+      "spec": "SC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R1 oils use well-proven performance additives to fight wear providing reliable lubrication, consistent performance. Suitable for day to day use in non-turbocharged engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

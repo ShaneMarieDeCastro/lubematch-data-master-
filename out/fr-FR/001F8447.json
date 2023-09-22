@@ -1,0 +1,84 @@
+{
+  "id": "001F8447",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Corena S3 RX 68",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "air compressor",
+    "gtl",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/35299710-a507-43dc-985a-f681c4f0cb12.pdf",
+      "type": "GTDS",
+      "name": "Corena S3 RX 68 (2017) EN TDG V1.1 08-Nov-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597195.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 68 (2017) France EN 140003182031 EHS V1.7 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597196.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RX 68 (2017) France FR 140003182031 EHS V1.7 14-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/8d33b455-62df-4eff-9a62-ff5fcf6ec601.pdf",
+      "type": "LTDS",
+      "name": "Corena S3 RX 68 (2017) France FR TDG V1.1 02-Oct-2018",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8447_002VNK_A246",
+      "name": "Sceau 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550050022",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RX est une huile de synthèse de qualité supérieure pour compresseurs d'air rotatifs, formulée à partir de la technologie avancée de Shell Gas-to-Liquid (GTL) combinée à un système d'additifs de performance supérieure. Ce lubrifiant est conçu pour offrir une excellente protection et performance pour des compresseurs fonctionnant avec des intervalles de vidange de 6.000 heures et jusqu'à 8.000 heures sous certaines conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

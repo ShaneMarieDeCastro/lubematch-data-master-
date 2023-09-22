@@ -1,0 +1,65 @@
+{
+  "id": "001F0279",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix Ultra A5/B5 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_A5_B5_0W-30_(SL_A5_B5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592822.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Ireland EN 140007731156 EHS V1.5 13-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra uses unique active cleansing technology to help high-performance engines operate at maximum efficiency by helping to protect them from power-robbing deposits and wear.  It helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_0W-30_A5-B5_1L_600059289.png",
+  "valueRecord": [],
+  "commerce": null
+}

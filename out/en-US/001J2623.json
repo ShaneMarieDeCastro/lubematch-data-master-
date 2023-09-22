@@ -1,0 +1,101 @@
+{
+  "id": "001J2623",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Spirax S6 ATF A668",
+  "description": "Premium Extended Drain Heavy Duty Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c01fec74-219f-40b5-aeb4-9ade21d37c35.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF A668 EN TDG V1.3 09-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563872.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 United States EN 140002686046 EHS V3.1 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/16fb72df-bc00-45ee-ae32-8a83bfe37849.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF A668 United States EN TDG V1.3 09-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J2623_002XD6_NAMD",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550062007",
+      "margin": "3.04976922452863",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500013211",
+      "margin": "1.28039029670503",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550062005",
+      "margin": "2.64718955234578",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002XP1_NAMD",
+      "name": "Bottle 1 Gal Americas Tool Helix Grey (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550062008",
+      "margin": "3.56858446691552",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550062006",
+      "margin": "2.84605996338327",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

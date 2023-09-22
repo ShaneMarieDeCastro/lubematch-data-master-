@@ -1,0 +1,154 @@
+{
+  "id": "001G1652",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/85c08cd3-2f5d-4a4c-a670-db1239355f13.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil EN TDG V1.9 26-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/0c469520-6ba4-4121-8688-a3508ae07ff8.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil Canada FR TDG V1.9 26-Apr-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290771.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil Canada FR 140006579500 EHS V1.7 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290772.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil Canada EN 140006579500 EHS V1.7 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/4c547dde-233a-417c-8b99-6d86af77ef69.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil Canada EN TDG V1.9 26-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1652_002VJ1_A1WJ",
+      "name": "Drum 55 Gal T/H QS Green Wtop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550046191",
+      "margin": "1.02603376846738",
+      "packShot": ""
+    },
+    {
+      "code": "001G1652_002V7F_A0IK",
+      "name": "Bottle 1 Quart Rect QS G (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550046168",
+      "margin": "2.16189889268756",
+      "packShot": ""
+    },
+    {
+      "code": "001G1652_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550046193",
+      "margin": "1.4873211267383",
+      "packShot": ""
+    },
+    {
+      "code": "001G1652_002XLM_A0IK",
+      "name": "Bottle 5 L Americas Tool Plastic QS Green (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046195",
+      "margin": "2.12963777595973",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "General Motors dexos1 Gen 3",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen 3"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Ford WSS M2C961-A1",
+      "organisation": "Ford",
+      "spec": "WSS M2C961-A1"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^1 ^Based ^on ^latest ^industry ^standard",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

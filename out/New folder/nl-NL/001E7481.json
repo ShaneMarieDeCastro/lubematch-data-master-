@@ -1,0 +1,190 @@
+{
+  "id": "001E7481",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX5_15W-40_(SN_A3_B3)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix HX5 15W-40 (SN A3/B3) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497429.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN A3/B3) Netherlands NL 140002783873 EHS V1.8 06-DEC-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497430.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN A3/B3) Netherlands EN 140002783873 EHS V1.8 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/7dc87d18-356b-4fa3-941f-e26268d2588a.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 15W-40 (SN A3/B3) Netherlands NL TDG V2.0 03-Feb-2017",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7481_002W1X_EURO",
+      "name": "Fles 1 L Wishbone Plastic Shell Yellow (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046277",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7481_002VNR_A246",
+      "name": "Emmer 20 L Plastic T/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550039913",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7481_002WPE_EURO",
+      "name": "Fles 5 L Wishbone Plastic Shell Yellow (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046286",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 is ontworpen voor een consistente prestatie van uw motor. De Shell Helix HX5 beschermt uw motor tegen sludge en helpt slijtage te verminderen. Het is geschikt voor een breed scala aan voertuigen voor dagelijkse rijomstandigheden.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "15W-40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "106.00"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14.27"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "137"
+    },
+    {
+      "property": "MRV",
+      "method": "ASTM D4684",
+      "uom": "@-25°C",
+      "units": "cP",
+      "value": "17000"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "865.8"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "241"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-45"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/1L_Helix_HX5_15W_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

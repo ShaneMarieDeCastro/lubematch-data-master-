@@ -1,0 +1,81 @@
+{
+  "id": "001D7987",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Vacuum Pump Oil S2 R 100",
+  "description": "Special Application Rotary Vacuum Pump Oil",
+  "family": "Vacuum Pump",
+  "parentCategory": "Compresor y bomba de vacío.",
+  "category": "Compresor y bomba de vacío.",
+  "applicationKeys": [
+    "entrapment",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "momentum transfer",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ca260eb0-1495-4f98-a4dc-44b303ec21e6.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S2 R 100 EN TDG V2.4 07-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02469937.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 Spain EN 140003966322 EHS V1.7 02-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/7500d9ba-9f56-4ef6-bbf6-56f853e6ef7a.pdf",
+      "type": "LTDS",
+      "name": "Vacuum Pump Oil S2 R 100 Spain ES TDG V2.4 10-Dec-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02469936.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 Spain ES 140003966322 EHS V1.7 02-OCT-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7987_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550027223",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DVC",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DVC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S2 R 100 esta formulado a partir de aceites base altamente refinados y especialmente seleccionados para una efectiva  lubricación de las bombas de vacío rotativas al ofrecer una baja presión de vapor y protección de los componentes claves.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

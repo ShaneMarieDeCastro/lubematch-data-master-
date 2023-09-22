@@ -1,0 +1,106 @@
+{
+  "id": "001D7756",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Tellus S2 VA 46",
+  "description": "Industrial Detergent Hydraulic Fluid for wide temperature range\n",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "aviation turbines",
+    "fixed",
+    "fuel",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "servo",
+    "transmissions",
+    "turbine",
+    "variable",
+    "versatile",
+    "water resistance"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/60dc89ba-4646-4cea-953d-ce210a8a29c8.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 VA 46 EN TDG V1.8 31-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569824.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VA 46 France EN 140003182031 EHS V3.9 01-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569823.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VA 46 France FR 140003182031 EHS V3.9 01-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/86fdd322-52de-41ba-9917-916c77da9360.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VA 46 France FR TDG V1.8 03-May-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7756_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027113",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D6158 HV",
+      "organisation": "ASTM",
+      "spec": "D6158 HV"
+    },
+    {
+      "name": "Bosch RD 90220-01/04.11",
+      "organisation": "Bosch",
+      "spec": "RD 90220-01/04.11"
+    },
+    {
+      "name": "DIN 51524-3 HVLPD",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLPD"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 VA est une huile hydraulique aux propriétés détergentes/dispersantes très performantes, utilisée quand un fluide émulsifiable est préféré. Utilisant une additivation anti-usure à base de Zinc qui a fait ses preuves, Shell Tellus S2 VA est préconisé en construction ou dans des applications où la propreté, une faible contamination en eau et en matériaux solides sont importants, ainsi que lors d’un fonctionnement sur une large plage de températures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

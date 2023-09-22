@@ -1,0 +1,74 @@
+{
+  "id": "001H6113",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Advance 4T Fuel Save 10W-30 (SN/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "four stroke",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f16a2fee-e427-4d33-8607-0bc560d32d78.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T Fuel Save 10W-30 (SN/MA2) EN TDG V1.3 29-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/90720bb3-7ee3-47bf-a809-0e3519410a65.pdf",
+      "type": "LTDS",
+      "name": "Advance 4T Fuel Save 10W-30 (SN/MA2) Philippines EN TDG V1.2 27-Apr-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02198126.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Fuel Save 10W-30 (SN/MA2) Philippines English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H6113_002W1X_A753",
+      "name": "Bottle 1 L Wishbone Plastic Shell Yellow (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053758",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Expertly engineered to deliver on average 5 kms more per litre of fuel",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

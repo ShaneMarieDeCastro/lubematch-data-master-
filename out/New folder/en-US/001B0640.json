@@ -1,0 +1,73 @@
+{
+  "id": "001B0640",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Brake and Clutch Fluid DOT 3",
+  "description": "Brake fluid",
+  "family": "Brake Fluids",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    "brakes",
+    "clutch",
+    "hydraulic system",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Brake_and_Clutch_Fluid_DOT_3_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Brake and Clutch Fluid DOT 3 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_00833518.PDF",
+      "type": "LMSDS",
+      "name": "Brake and Clutch Fluid DOT 3 United States EN 140002686046 EHS V1.1 04/07/2014",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 4925-3",
+      "organisation": "ISO",
+      "spec": "4925-3"
+    },
+    {
+      "name": "FMVSS 116 DOT 3",
+      "organisation": "FMVSS",
+      "spec": "116 DOT 3"
+    },
+    {
+      "name": "SAE J1703",
+      "organisation": "SAE",
+      "spec": "J1703"
+    },
+    {
+      "name": "AS/NZS 1960 Class 1",
+      "organisation": "AS/NZS",
+      "spec": "1960 Class 1"
+    },
+    {
+      "name": "JIS K 2233 Class 3",
+      "organisation": "JIS",
+      "spec": "K 2233 Class 3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Brake and Clutch Fluid DOT 3 is a heavy duty brake system and hydraulic clutch fluid for systems requiring a FMVSS No 116 DOT 3, ISO 4925 Class 3, or many other equivalent specifications in a glycol (polyglycol-ether) brake fluid.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

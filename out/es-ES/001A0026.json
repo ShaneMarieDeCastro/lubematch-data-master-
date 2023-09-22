@@ -1,0 +1,89 @@
+{
+  "id": "001A0026",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Advance Ultra 2T",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - Motocicleta",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "motorbikes",
+    "motorcycles",
+    "off highway",
+    "two stroke"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a99f11a1-90bd-4746-901c-754e86a12707.pdf",
+      "type": "GTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) EN TDG V1.6 18-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549399.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Spain EN 140003966322 EHS V2.11 07-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549398.PDF",
+      "type": "LMSDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Spain ES 140003966322 EHS V2.11 07-APR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/cb59b466-f98a-4207-9176-39ec246f5a0d.pdf",
+      "type": "LTDS",
+      "name": "Advance Ultra 2T (FD/TC/EGD) Spain ES TDG V1.6 26-Jan-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0026_002WKZ_EURO",
+      "name": "Botella 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550053583",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    },
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    },
+    {
+      "name": "JASO FD",
+      "organisation": "JASO",
+      "spec": "FD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La combinación de aceites base HXVI de poliisobutilenos junto con aditivos especialmente seleccionados ofrece un rendimiento inigualable para los motores de 2 tiempos, incluso en aquellos sometidos a las condiciones más exigentes. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_2T_1L_600059316.png",
+  "valueRecord": [],
+  "commerce": null
+}

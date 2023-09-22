@@ -1,0 +1,81 @@
+{
+  "id": "001D7558",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Ultimate Durability SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8dd631b3-4f99-432b-8619-fcc6a1eed5be.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Ultimate Durability 0W-20 Full Synthetic Motor Oil (SN/GF-5) EN TDG V1.1 07-Apr-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290209.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Ultimate Durability 0W-20 Full Synthetic Motor Oil (SN/GF-5) Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290210.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Ultimate Durability 0W-20 Full Synthetic Motor Oil (SN/GF-5) Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "General Motors dexos1",
+      "organisation": "General Motors",
+      "spec": "dexos1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^3 ^Compared ^to ^Quaker ^State ^® ^Conventional",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,97 @@
+{
+  "id": "001A9306",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rotella DD+ 40",
+  "description": "Two-stroke heavy duty diesel engine oil",
+  "family": "Rotella",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "off highway",
+    "stationary",
+    "two stroke"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008581228_201605200734.pdf",
+      "type": "GTDS",
+      "name": "Rotella DD+ 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551709.PDF",
+      "type": "LMSDS",
+      "name": "Rotella DD+ 40 Poland EN 140003791557 EHS V3.6 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551710.PDF",
+      "type": "LMSDS",
+      "name": "Rotella DD+ 40 Poland PL 140003791557 EHS V3.6 12-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/217e318d-6450-44c1-920d-e8489fb78689.pdf",
+      "type": "LTDS",
+      "name": "Rotella DD+ 40 Poland PL TDG V1.1 25-May-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9306_002VSH_A18H",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550014621",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Detroit Diesel Corporation 7SE270 8810",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "7SE270 8810"
+    },
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella DD+ 40 to wysokiej jakości olej do wysokoobciążonych dwusuwowych silników Diesla produkowanych przez Detroit Diesel Corporation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

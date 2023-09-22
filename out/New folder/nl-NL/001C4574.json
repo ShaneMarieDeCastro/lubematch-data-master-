@@ -1,0 +1,73 @@
+{
+  "id": "001C4574",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R3 50",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rimula_R3_50_(CF)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 50 (CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481734.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 50 (CF) Netherlands NL 140002783873 EHS V2.2 01-AUG-2016",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140002402177_A68.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 50 (CF) Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481733.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 50 (CF) Netherlands EN 140002783873 EHS V2.2 01-AUG-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA E2",
+      "organisation": "ACEA",
+      "spec": "E2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 Energised Protection oils feature proven lubricant chemistry that adapts to your driving needs to provide extra protection whatever the demands of your engine or equipment. Featuring an active-detergent system to keep pistons and other engine parts clean, it provides protection against wear for long engine life and protection against deposits for efficient engine performance.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

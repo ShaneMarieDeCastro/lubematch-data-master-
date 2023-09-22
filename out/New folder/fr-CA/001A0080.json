@@ -1,0 +1,78 @@
+{
+  "id": "001A0080",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "AeroShell Turbine Oil 308",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Huiles moteur - Aviation/Turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d75c98bf-c837-4a19-a02c-72ea7861609b.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 308 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/01013da7-58a8-483a-9d37-83f68b7b8305.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 308 Canada EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/02f4edc0-a956-4158-a57d-2538bd6cbfe5.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 308 Canada FR TDG V1.3 04-Aug-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289453.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289454.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-7808L Type III",
+      "organisation": "MIL",
+      "spec": "PRF-7808L Type III"
+    },
+    {
+      "name": "NATO O-148",
+      "organisation": "NATO",
+      "spec": "O-148"
+    },
+    {
+      "name": "Joint Service Designation OX-9",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-9"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 308 est une huile d'ester synthétique de 3 mm² / s incorporant des additifs pour améliorer la résistance à l'oxydation et à la corrosion et minimiser l'usure.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

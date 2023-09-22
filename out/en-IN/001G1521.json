@@ -1,0 +1,59 @@
+{
+  "id": "001G1521",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Argina S2 30",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": null,
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "light fuel",
+    "marine",
+    "medium speed"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ec8daae1-01db-4bba-b2fe-de300219a4fb.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S2 30 EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637144.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S2 30 India EN 140006501563 EHS V1.1 08-MAR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1521_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550055033",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S2 30 is a multifunctional crankcase lubricant for highly rated medium-speed diesel engines operating on residual, blended or distillate fuels. Shell Argina S2 30 has a BN of 20 and is designed for conditions of low oil stress.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

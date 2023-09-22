@@ -1,0 +1,157 @@
+{
+  "id": "001D5436",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Rotella T5 10W-30",
+  "description": "Synthetic Technology Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "bio gas",
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "lng",
+    "low speed",
+    "lpg",
+    "marine",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power steering",
+    "stationary",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rotella_T5_10W-30_(CJ-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Rotella T5 10W-30 (CJ-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289513.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 10W-30 (CJ-4) Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/2a30c2aa-584c-47ef-89af-2a6fac9886e4.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 10W-30 (CJ-4) Canada FR TDG V2.1 12-Jul-2016",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291203.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 10W-30 (CJ-4) Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/86609581-3440-4500-987a-af4279b11579.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 10W-30 (CJ-4) Canada EN TDG V2.1 27-May-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Ford WSS-M2C171-E",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-E"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T5 Energised Protection™ oil features \"Low-SAPS\" additive technology for increased compatibility with the latest exhaust emissions control systems while delivering energy savings. Protective power is further enhanced through the use of synthetic base oil technology that increases additive activity to deliver fuel economy performance with no compromise in durability.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

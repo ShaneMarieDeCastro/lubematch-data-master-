@@ -1,0 +1,75 @@
+{
+  "id": "001A0870",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Naturelle Fluid HF-E 15",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Hydraulic Fluids",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "biodegradable",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "mobile",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "servo",
+    "synthetic",
+    "turbine",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ad457c92-28ec-4e2c-bc39-0d2f2a6dd3d6.pdf",
+      "type": "GTDS",
+      "name": "Naturelle HF-E 15 EN TDG V5.0 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551011.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 15 United Kingdom EN 140002340634 EHS V2.2 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/30e66a5c-2b98-4d5d-8c06-c7c41afc3e13.pdf",
+      "type": "LTDS",
+      "name": "Naturelle HF-E 15 United Kingdom EN TDG V5.0 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "VDMA 24568",
+      "organisation": "VDMA",
+      "spec": "24568"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle Fluid HF-E is an advanced hydraulic fluid for use in hydraulic and power transmission systems. It is readily biodegradable with a low ecotoxicity, and is particularly suited for use in environmentally sensitive areas. Fully synthetic esters, blended with ashless additives, provide Shell Naturelle Fluid HF-E with a superior blend of lubrication performance and environmental acceptability.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

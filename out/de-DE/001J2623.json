@@ -1,0 +1,81 @@
+{
+  "id": "001J2623",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S6 ATF A668",
+  "description": "Premium Extended Drain Heavy Duty Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "ATF - Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c01fec74-219f-40b5-aeb4-9ade21d37c35.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF A668 EN TDG V1.3 09-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02618954.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 Germany EN 140001492039 EHS V3.2 14-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02618955.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 Germany DE 140001492039 EHS V3.2 14-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J2623_002VNF_A246",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550062790",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550062791",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002XDV_SBLK",
+      "name": "No Packaging (SMALL BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500013694",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

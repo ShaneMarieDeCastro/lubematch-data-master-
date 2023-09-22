@@ -1,0 +1,93 @@
+{
+  "id": "001F3936",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra Professional AS-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "cars",
+    "volvo"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/89c12aea-e3f5-4fd7-9040-36bbf68f8e51.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AS-L 0W-20 (VCC RBS0-2AE) EN TDG V1.7 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555935.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AS-L 0W-20 (VCC RBS0-2AE) United Kingdom EN 140002340634 EHS V1.2 13-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/0d287c0f-875e-4201-8388-9d5359003b41.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AS-L 0W-20 (VCC RBS0-2AE) United Kingdom EN TDG V1.7 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3936_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550045106",
+      "margin": "2.83091630271177",
+      "packShot": ""
+    },
+    {
+      "code": "001F3936_002YAN_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550055735",
+      "margin": "4.64765312127999",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Volvo VCC RBS0-2AE",
+      "organisation": "Volvo",
+      "spec": "VCC RBS0-2AE"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including Volvo cars and those requiring ACEA C5.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550055736_Shell_Helix_Ult_Pro_AS-L_0W-20_5L_en.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-helix-ultra-professional-as-l-0w-20-5ltr-521773561"
+}

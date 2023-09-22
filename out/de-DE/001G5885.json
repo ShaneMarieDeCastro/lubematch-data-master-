@@ -1,0 +1,115 @@
+{
+  "id": "001G5885",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Gadus S2 V460D 2",
+  "description": "Multi-purpose Heavy Duty Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "Industriefette",
+  "applicationKeys": [
+    "lithium",
+    "moly"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/bc0de5b1-193b-441e-a3e2-a8a3279502b0.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V460D 2 EN TDG V1.1 19-Mar-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610751.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V460D 2 Germany DE 140001492039 EHS V1.3 05-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610700.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V460D 2 Germany EN 140001492039 EHS V1.3 05-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V460D 2 ist ein Hochleistungsschmierfett für langsam laufende hoch belastete Lager, die Stoßbelastung ausgesetzt sind. Es basiert auf einem Mineralöl mit hohem Viskositätsindex und einem Lithium-Eindicker. Neben Additiven für Korrosions- und Oxidationsschutz enthält es zusätzlich Feststoffe zur Sicherstellung der Leistung unter hoher Stoßbelastung.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI-Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Schwarz"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "31"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265 - 295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "185"
+    },
+    {
+      "property": "Vier-Kugel-Apparat: Last",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kgf",
+      "value": "400"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

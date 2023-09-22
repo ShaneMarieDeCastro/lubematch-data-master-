@@ -1,0 +1,157 @@
+{
+  "id": "001E7180",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Mysella S3 S 40",
+  "description": "Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Oleje silnikowe przemysłowe",
+  "category": "Oleje silnikowe - stacjonarne silniki gazowe",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gas",
+    "gas turbines",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "landfill",
+    "lng",
+    "lpg",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "sewage",
+    "stationary",
+    "turbine",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7c0563d8-cddc-4c81-bbfd-c849e3bb34b1.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 S 40 EN TDG V2.6 17-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535497.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 S 40 Poland PL 140003791557 EHS V1.10 03-MAR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/8c5760d4-cd43-41c8-96b0-363a6d72d52c.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 S 40 Poland PL TDG V2.6 18-Mar-2021",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535496.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 S 40 Poland EN 140003791557 EHS V1.10 03-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7180_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550035910",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3271-4",
+      "organisation": "MAN",
+      "spec": "M 3271-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Olej Shell Mysella S3 S może być stosowany w stacjonarnych silnikach gazowych nowej generacji spełniających podwyższone normy emisji tlenków azotu (NOx) dzięki zastosowaniu technologii spalania \"clean\" lub \"lean\".",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "135"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.5"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "894"
+    },
+    {
+      "property": "Flash Point, closed cup",
+      "method": "ASTM D93A",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "8.5"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ISO 3987",
+      "uom": "",
+      "units": "%wt",
+      "value": "0.9"
+    },
+    {
+      "property": "Phosphorus",
+      "method": "ASTM D4047",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-mysella-argina-group-220x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "001I5461",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell EcoSafe Revive-L",
+  "description": "Special Purpose Turbine Oil - TF",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Huiles pour turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/84c18a76-284e-47ca-875e-39331d558372.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Revive-L EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290865.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Revive-L Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/e49216a0-fc90-47bf-8e84-3893a1853844.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Revive-L Canada FR TDG V1.1 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/7adde4b4-094c-4e8e-94b1-49cee61ed6bc.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Revive-L Canada EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290864.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Revive-L Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5461_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057299",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe Revive-L est un modificateur d'huile de base qui peut être incorporé dans une huile pour engrenages à base d'hydrocarbures du commerce pour réduire considérablement les problèmes associés à la formation de vernis et à l'instabilité du produit. Grâce à sa technologie basée sur PAG, Shell EcoSafe Revive-L améliore considérablement le pouvoir lubrifiant du fluide.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

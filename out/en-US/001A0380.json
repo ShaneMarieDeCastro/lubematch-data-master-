@@ -1,0 +1,134 @@
+{
+  "id": "001A0380",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Nautilus Premium Outboard",
+  "description": "Leisure Marine 2 stroke engine oil",
+  "family": "Nautilus",
+  "parentCategory": null,
+  "category": "Engine Oils - Leisure Marine",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "two stroke"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f0f0b812-446f-4265-ae2b-2a5f6e5c2c8e.pdf",
+      "type": "GTDS",
+      "name": "Nautilus Premium Outboard EN TDG V1.4 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/d29967ac-335b-406b-9751-1c04e840e72f.pdf",
+      "type": "LTDS",
+      "name": "Nautilus Premium Outboard United States EN TDG V1.4 21-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564115.PDF",
+      "type": "LMSDS",
+      "name": "Nautilus Premium Outboard United States EN 140002686046 EHS V8.2 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0380_002XLO_A0II",
+      "name": "Bottle 1 Gal Americas Tool Plastic White (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550045939",
+      "margin": "1.61898761044075",
+      "packShot": ""
+    },
+    {
+      "code": "001A0380_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022412",
+      "margin": "1.74096069983176",
+      "packShot": ""
+    },
+    {
+      "code": "001A0380_002XOK_NAMD",
+      "name": "Bottle 1 qt Americas Tool Plastic White (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550049771",
+      "margin": "1.16001389685968",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NMMA TC-W3",
+      "organisation": "NMMA",
+      "spec": "TC-W3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Its advanced formulation, which exceeds all outboard motor manufacturers' standards, is a guarantee of long and reliable engine life.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s ",
+      "value": "55"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "8.9"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³ ",
+      "value": "870"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "70"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-35"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "IP 163",
+      "uom": "NULL",
+      "units": "% wt",
+      "value": "0.01"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "001G2270",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil 0W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b9a38c56-fe64-4f94-9ed0-d2bbe7fe585e.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 0W-20 Motor Oil (SN GF-5) EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290089.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 0W-20 Motor Oil (SN GF-5) Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290090.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 0W-20 Motor Oil (SN GF-5) Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/aefe6a28-239e-4dae-9f29-b5f7ecfc4e90.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 0W-20 Motor Oil (SN GF-5) Canada EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/308a33b2-8a62-4556-81d1-d49188593522.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 0W-20 Motor Oil (SN GF-5) Canada FR TDG V2.0 11-Jun-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "PENNZOIL^®^ HUILE MOTEUR SAE 0W-20 ENTIÈREMENT SYNTHÉTIQUE du fabricant de l’huile moteur leader en Amérique, une formule conventionnelle exclusive avancée avec des agents nettoyants actifs. Non seulement aide à empêcher la saleté et les contaminants de se transformer en dépôts de vol de performance, mais nettoie également les boues. Parce que chez Pennzoil^®^ nous le savons, un moteur plus propre est mieux protégé et réactif. Il atteint ou dépasse la protection du moteur requise par l’ILSAC GF-5 et est spécialement formulé pour fournir une protection supplémentaire contre les effets nocifs de la conduite stop-and-go et du fonctionnement du moteur à haute et basse température.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,104 @@
+{
+  "id": "001D7512",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil High Mileage SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f6b2574c-edb5-4b10-b515-fd097e0fb62a.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SP/GF-6A) EN TDG V1.4 04-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02425587.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SP/GF-6A) Canada FR 140006579500 EHS V1.10 04-JUL-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/acbb0646-438f-4cea-9b90-95462c1bc69c.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SP/GF-6A) Canada EN TDG V1.4 04-May-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02425586.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SP/GF-6A) Canada EN 140006579500 EHS V1.10 04-JUL-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/6549e550-d4dd-46c7-b11d-b6e9266f57a8.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 10W-30 Motor Oil (SP/GF-6A) Canada FR TDG V1.4 04-May-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7512_002V75_A0IK",
+      "name": "Bottle 1 Quart Rect PZL C (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550023792",
+      "margin": "1.8475208359222",
+      "packShot": ""
+    },
+    {
+      "code": "001D7512_002X5E_A1WK",
+      "name": "Not Specified 1 qt Not Specified Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Not specified",
+      "materialCode": "550022684",
+      "margin": "0.947985868909522",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® High Mileage Motor Oil  with Active Cleansing Technology. It is specially formulated to help stop leaks from seals and reduced oil consumption in worn engines. Because at Pennzoil we know, a cleaner, well sealed engine is better protected and responsive. It meets or exceeds the engine protection required by API SP and is specially formulated to provide protection for older vehicles or with 75,000+ miles.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

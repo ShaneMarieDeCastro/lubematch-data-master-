@@ -1,0 +1,73 @@
+{
+  "id": "001A9950",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Corena Oil S2 RJ 32",
+  "description": "Very High Performance Synthetic Rotary Screw and Vane Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "bearing",
+    "diaphragm",
+    "industrial",
+    "japanese",
+    "japanese compressors",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "plain",
+    "rotary vane",
+    "screw",
+    "vacuum pumps"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Corena_S2_RJ_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 RJ 32 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02530094.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 RJ 32 Malaysia EN 140001435555 EHS V1.8 28-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02530095.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 RJ 32 Malaysia MS 140001435555 EHS V1.8 28-FEB-2023",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9950_002VHJ_A0H4",
+      "name": "Drum Recon 200 L T/H R (1)",
+      "size": "200",
+      "uom": "L",
+      "pack": "Drum Recon",
+      "materialCode": "550010456",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 RJ is a high quality air compressor oil designed to deliver reliable lubrication of rotary screw air compressors. It uses an optimised non-detergent additive system to provide good protection and performance, particularly in Japanese compressor machinery where low sludge, good thermal-oxidation stability and high flash point are required.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

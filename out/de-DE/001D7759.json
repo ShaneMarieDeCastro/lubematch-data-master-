@@ -1,0 +1,281 @@
+{
+  "id": "001D7759",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Tellus S3 M 46",
+  "description": "Premium Zinc-Free Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Hydrauliköle",
+  "category": "Hydrauliköle",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "clutch",
+    "cutting heads",
+    "diesel",
+    "engine",
+    "extended life",
+    "factory applications",
+    "fixed",
+    "gas turbines",
+    "gearbox",
+    "gerotor pump",
+    "heavy duty",
+    "high load",
+    "high tost",
+    "hm",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "journal",
+    "low toxicity",
+    "manufacturing",
+    "metal working",
+    "mobile",
+    "mobile equipment",
+    "natural gas",
+    "non shiftable",
+    "offshore",
+    "on highway",
+    "plain",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "screw pump",
+    "servo",
+    "severe duty",
+    "stationary",
+    "steam",
+    "thrust",
+    "transmissions",
+    "turbine",
+    "variable",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/b0e96f59-5d2d-4776-a652-0f8722bafd8f.pdf",
+      "type": "GTDS",
+      "name": "Tellus S3 M 46 EN TDG V4.3 17-Nov-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/65b17319-1a80-431c-b1bc-0596c788d667.pdf",
+      "type": "LTDS",
+      "name": "Tellus S3 M 46 Germany DE TDG V4.3 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569523.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S3 M 46 Germany EN 140001492039 EHS V1.6 30-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02569522.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S3 M 46 Germany DE 140001492039 EHS V1.6 30-APR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7759_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550026412",
+      "margin": "0.543747522684458",
+      "packShot": ""
+    },
+    {
+      "code": "001D7759_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027132",
+      "margin": "0.26014666519165",
+      "packShot": ""
+    },
+    {
+      "code": "001D7759_002VNK_A246",
+      "name": "Eimer 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027134",
+      "margin": "1.27361884997684",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Eaton (Vickers) Brochure 694",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694"
+    },
+    {
+      "name": "Denison HF-2 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-2 - Meets performance requirements"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694 - Meets performance requirements",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694 - Meets performance requirements"
+    },
+    {
+      "name": "ASTM D6158 HM",
+      "organisation": "ASTM",
+      "spec": "D6158 HM"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-70 - Meets performance requirements",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-70 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-1 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-1 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-0",
+      "organisation": "Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "Denison HF-0 - Meets performance requirements",
+      "organisation": "Denison",
+      "spec": "HF-0 - Meets performance requirements"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 M",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 M"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-70",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-70"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S3 M Premium-Hydrauliköle basieren auf einer fortschrittlichen, zinkfreien Additivtechnologie und ausgesuchten Grundölen. Sie wurden speziell entwickelt für lange Ölstandzeiten, hohen Verschleißschutz und den effizienten Betrieb stark beanspruchter stationärer Hydraulikanlagen.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO-Viskositätsklasse (ISO VG)",
+      "method": "DIN 51519",
+      "uom": "",
+      "units": "",
+      "value": "46"
+    },
+    {
+      "property": "ISO-Flüssigkeitstyp",
+      "method": "ISO 6743-4",
+      "uom": "",
+      "units": "",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "DIN 51562-1",
+      "uom": "@  0 °C",
+      "units": "cSt",
+      "value": "565"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "DIN 51562-1",
+      "uom": "@ 40 °C",
+      "units": "cSt",
+      "value": "46"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "DIN 51562-1",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "6,8"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Dichte",
+      "method": "DIN 51757",
+      "uom": "@ 15 °C",
+      "units": "kg/m³",
+      "value": "865"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–33"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DimwQAC&field=Attachment__Name__s",
+      "family": "Tellus",
+      "savings": 86000,
+      "title": "Shell Tellus S3 M 46"
+    }
+  ],
+  "commerce": null
+}

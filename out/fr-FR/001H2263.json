@@ -1,0 +1,258 @@
+{
+  "id": "001H2263",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c6a904b9-7610-4a72-9cc1-984f0e3cc6ac.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra 5W-40 (SN Plus A3/B4) EN TDG V1.0 18-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/233434a9-1045-464d-acaf-6f8087c43788.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra 5W-40 (SN Plus A3/B4) France FR TDG V1.0 29-Jan-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02639337.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra 5W-40 (SN Plus A3/B4) France FR 140003182031 EHS V1.4 29-AUG-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02639338.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra 5W-40 (SN Plus A3/B4) France EN 140003182031 EHS V1.4 29-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2263_002XID_A518",
+      "name": "Bouteille (5 L + 1 L) Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550052686",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2263_002XS4_A246",
+      "name": "Barils 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550052360",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2263_002WX1_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550052838",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2263_002VJW_A246",
+      "name": "Réservoir 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550052671",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2263_002W21_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550052677",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2263_002VSI_A246",
+      "name": "Tonneau 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Tonneau",
+      "materialCode": "550052673",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 12991",
+      "organisation": "Chrysler",
+      "spec": "MS 12991"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Mercedes-Benz DBL 7700.02",
+      "organisation": "Mercedes-Benz",
+      "spec": "DBL 7700.02"
+    },
+    {
+      "name": "Fiat 9.55535-Z2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-Z2 - Meets the requirements"
+    },
+    {
+      "name": "PSA B71 2296",
+      "organisation": "PSA",
+      "spec": "B71 2296"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 226.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "Fiat 9.55535-N2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-N2 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "Renault RN 0700",
+      "organisation": "Renault",
+      "spec": "RN 0700"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "Porsche A40",
+      "organisation": "Porsche",
+      "spec": "A40"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "Chrysler MS 10725",
+      "organisation": "Chrysler",
+      "spec": "MS 10725"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "BMW Longlife-01",
+      "organisation": "BMW",
+      "spec": "Longlife-01"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra utilise une technologie de nettoyage actif protégeant contre les dépôts et l'usure les moteurs les plus performants et leurs permettant ainsi de fonctionner à un rendement maximum. Convient parfaitement pour les plus longs intervalles de vidange recommandés par les constructeurs. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "001F1400",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Platinum Gear 75W-90",
+  "description": "Premium SAE 75W-90 synthetic MTF and Gear Oil for API GL-4",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Platinum_Gear_75W-90_(GL-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Platinum Gear 75W-90 (GL-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289978.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum Gear 75W-90 (GL-4) Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Pzl_Platinum_Gear_75W-90_(GL-4)_(en-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum Gear 75W-90 (GL-4) Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Pzl_Platinum_Gear_75W-90_(GL-4)_(fr-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum Gear 75W-90 (GL-4) Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289979.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum Gear 75W-90 (GL-4) Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1400_002V7K_A0IK",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550042082",
+      "margin": "2.86959692872821",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

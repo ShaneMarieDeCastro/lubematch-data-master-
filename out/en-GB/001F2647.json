@@ -1,0 +1,95 @@
+{
+  "id": "001F2647",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Morlina S4 B 460",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Bearing and Circulating oils",
+  "category": "Bearing and Circulating oils",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "long life",
+    "low temperature",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7c7d0cf4-fcd8-4292-bdbe-4912eecaed8d.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 460 (2014) EN TDG V4.9 07-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590507.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 460 (2014) United Kingdom EN 140002340634 EHS V1.9 12-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/4840cd10-cb69-4c46-bb84-aecfd4454013.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 460 (2014) United Kingdom EN TDG V4.9 07-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2647_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550043145",
+      "margin": "2.09354064282048",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B oils are high performance synthetic bearing and circulation lubricants, manufactured with high performance base fluids. They offer outstanding lubrication performance, including improved energy efficiency, filterability, and long service life even under challenging operating conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_morlina_s4_b.png",
+  "valueRecord": [],
+  "commerce": null
+}

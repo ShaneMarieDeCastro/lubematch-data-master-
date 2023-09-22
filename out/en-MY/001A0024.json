@@ -1,0 +1,93 @@
+{
+  "id": "001A0024",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Advance SX 2",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "engine",
+    "gasoline",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8c108608-fa6e-43b2-a8e4-74a9de7782fa.pdf",
+      "type": "GTDS",
+      "name": "Advance SX 2 (FB/EGB) (solvent free) EN TDG V1.4 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510292.PDF",
+      "type": "LMSDS",
+      "name": "Advance SX 2 (FB/EGB) (solvent free) Malaysia MS 140001435555 EHS V1.4 27-DEC-2022",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510293.PDF",
+      "type": "LMSDS",
+      "name": "Advance SX 2 (FB/EGB) (solvent free) Malaysia EN 140001435555 EHS V1.4 27-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "JASO FB",
+      "organisation": "JASO",
+      "spec": "FB"
+    },
+    {
+      "name": "ISO-L-EGB",
+      "organisation": "ISO",
+      "spec": "L-EGB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance SX 2 is a premium quality oil blended for on-highway two-stroke motorcycle engines. High viscosity index mineral oils, fortified by polyisobutylene synthetic base fluid, combine with carefully selected additives to produce a superior performance oil for today's two-stroke motorcycles.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "9"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "863"
+    },
+    {
+      "property": "Flash Point COC",
+      "method": "IP 36",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "102"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-30"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

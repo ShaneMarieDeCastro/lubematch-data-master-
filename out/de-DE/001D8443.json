@@ -1,0 +1,154 @@
+{
+  "id": "001D8443",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell GadusRail S3 EUDB",
+  "description": "Premium Extreme Pressure Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3b5afd7e-1d0a-4fde-98e2-72512d42f8dd.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 EUDB EN TDG V4.2 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607619.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB Germany EN 140001492039 EHS V3.1 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607580.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB Germany DE 140001492039 EHS V3.1 03-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/4b08fd44-8e18-4754-a509-f5de687c7a63.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S3 EUDB Germany DE TDG V4.2 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8443_002VSL_A246",
+      "name": "Fass 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028114",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8443_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028106",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 a",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 a"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Hochleistungs-EP-Schmierfett für hoch belastete Achslager von Eisenbahnen auf Basis eines Lithium-Verdickers für ausgedehnte Nachschmierfristen.",
+  "physicalCharacteristics": [
+    {
+      "property": "Eindicker",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Braun"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217",
+      "uom": "",
+      "units": "",
+      "value": "245 - 275"
+    },
+    {
+      "property": "NLGI Klasse",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2.5"
+    },
+    {
+      "property": "Temperatur-Einsatzbereich",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "ca. -20 bis +120"
+    },
+    {
+      "property": "Emcor-Korrosionsschutz, destilliertes Wasser",
+      "method": "IP 220",
+      "uom": "",
+      "units": "Korrosionsgrad",
+      "value": "0 / 0"
+    },
+    {
+      "property": "Ölabscheidung, 7 Tage",
+      "method": "IP 121",
+      "uom": "@ 40 °C",
+      "units": "%",
+      "value": "3.2"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "185"
+    },
+    {
+      "property": "Grundöl, kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@ 40 °C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Grundöl, kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "11"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

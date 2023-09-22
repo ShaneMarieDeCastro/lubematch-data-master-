@@ -1,0 +1,56 @@
+{
+  "id": "001D8460",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell GadusRail S3 EU",
+  "description": "Premium Extreme Pressure Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas EP con base de aceite mineral",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ac4e91c4-07f4-45f3-a946-f55526e990cf.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 EU EN TDG V3.4 04-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02466227.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EU Spain EN 140003966322 EHS V2.0 26-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02466228.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EU Spain ES 140003966322 EHS V2.0 26-OCT-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 a",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 a"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

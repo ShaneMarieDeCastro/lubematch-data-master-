@@ -1,0 +1,81 @@
+{
+  "id": "001I5464",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe S1 DU 40",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Vegetable",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/044affa4-e5a3-42bd-9999-b48b8c37fd7f.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S1 DU 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563641.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S1 DU 40 United States EN 140002686046 EHS V1.3 14-OCT-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/e2ca3f8b-28af-47ae-9866-1ff7122ed724.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S1 DU 40 United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5464_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057304",
+      "margin": "1.63786033493127",
+      "packShot": ""
+    },
+    {
+      "code": "001I5464_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057305",
+      "margin": "1.04998101598885",
+      "packShot": ""
+    },
+    {
+      "code": "001I5464_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012329",
+      "margin": "1.05503180687295",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe S1 DU 40 is a less flammable hydraulic fluid designed for systems requiring readily biodegradable, low toxicity, hydraulic fluids. It can be used in environmentally sensitive area applications in industrial, marine and mobile applications including high pressure systems where fire hazards are a concern. It is formulated from high quality high VI vegetable oils and additives providing the properties required for hydraulic performance. Shell EcoSafe S1 DU 40 is a USDA Certified BioPreferred^® product.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

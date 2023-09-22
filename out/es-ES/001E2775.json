@@ -1,0 +1,72 @@
+{
+  "id": "001E2775",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Risella X 430",
+  "description": "High Quality Technical White Oil",
+  "family": "Risella",
+  "parentCategory": "Otros lubricantes industriales",
+  "category": "Aceites blancos técnicos",
+  "applicationKeys": [
+    "fixed",
+    "heat transfer",
+    "hydraulic system",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8aa6ba0d-f3a0-4bd2-8592-44cac782e075.pdf",
+      "type": "GTDS",
+      "name": "Risella X 430 EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575204.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 Spain ES 140003966322 EHS V1.7 15-MAY-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/38749193-4f0d-405d-9c51-784987a6ac74.pdf",
+      "type": "LTDS",
+      "name": "Risella X 430 Spain ES TDG V2.3 02-Nov-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575203.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 Spain EN 140003966322 EHS V1.7 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2775_002VSH_A1P5",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550031570",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Risella X 430 es un fluido basado en la tecnología Gas-to-Líquid de Shell. Es un hidrocarburo altamente saturado con alto porcentaje de iso-parafinas, casi inodoro y muy estable en su color.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

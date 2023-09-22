@@ -1,0 +1,86 @@
+{
+  "id": "001C7561",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Pennzoil Mac 7 Long Life 40",
+  "description": "Premium Quality Heavy Duty Engine oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140002267910_B0.pdf",
+      "type": "GTDS",
+      "name": "Pzl Mac 7 Long Life 40 (CF/SF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637008.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Mac 7 Long Life 40 (CF/SF) India EN 140006501563 EHS V1.3 05-APR-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C7561_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006647",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C7561_002XCQ_A1W8",
+      "name": "Tub 7.5 L Cylindrical Plastic Shell Yellow (1)",
+      "size": "7.5",
+      "uom": "L",
+      "pack": "Tub",
+      "materialCode": "550031368",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C7561_002XCE_A1W8",
+      "name": "Keg 55 L Tight Head Plastic Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550031318",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SF",
+      "organisation": "API",
+      "spec": "SF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

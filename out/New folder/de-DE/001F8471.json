@@ -1,0 +1,84 @@
+{
+  "id": "001F8471",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Morlina S2 BL 10",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Lager & Umlauföle",
+  "category": "Lager & Umlauföle",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d8dfb2ae-d09a-4541-93b5-b1ae626a4e4a.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 10 (2016) EN TDG V1.3 29-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02639183.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Germany EN 140001492039 EHS V1.7 29-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02638995.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Germany DE 140001492039 EHS V1.7 29-AUG-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/c053c8c9-b1d5-49ce-baff-aaadb2ceccb6.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 10 (2016) Germany DE TDG V1.3 30-Mar-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8471_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550055978",
+      "margin": "1.57296553180949",
+      "packShot": ""
+    },
+    {
+      "code": "001F8471_002VNA_A1P5",
+      "name": "Eimer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550062216",
+      "margin": "2.10453847093962",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Bei Shell Morlina S2 BL 10 kommen spezielle niedrigviskose Grundöle auf Basis der Shell Gas-to-Liquid (GTL)-Technologie zum Einsatz, gemischt mit zinkfreien Additiven, um eine verbesserte Leistung in den Hochgeschwindigkeitsspindeln von Werkzeugmaschinen zu erzielen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

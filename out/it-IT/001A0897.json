@@ -1,0 +1,167 @@
+{
+  "id": "001A0897",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Caprinus XR 40",
+  "description": "Railroad diesel engine oil",
+  "family": "Caprinus",
+  "parentCategory": "Oli motore industriali",
+  "category": "Oli motore - Ferroviario",
+  "applicationKeys": [
+    "bio gas",
+    "diesel",
+    "engine",
+    "fuel",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "locomotive",
+    "low speed",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "railroad",
+    "stationary",
+    "stern tube seal",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff23d016-f52b-4e87-9b09-6bd15ad293f8.pdf",
+      "type": "GTDS",
+      "name": "Caprinus XR 40 EN TDG V1.2 17-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551083.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 40 Italy IT 140007645406 EHS V1.2 11-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551082.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 40 Italy EN 140007645406 EHS V1.2 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0897_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550056377",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "LMOA Generation 5",
+      "organisation": "LMOA",
+      "spec": "Generation 5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The performance of Shell Caprinus XR has been demonstrated in highly rated North American railroad operation subject to the most severe operating conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "15.1"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.908"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "IP 36",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-9"
+    },
+    {
+      "property": "TBN-E",
+      "method": "IP 276",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "13.0"
+    },
+    {
+      "property": "Chlorine Content",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "Trace"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "IP 163",
+      "uom": "NULL",
+      "units": "% wt",
+      "value": "1.5"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

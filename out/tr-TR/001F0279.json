@@ -1,0 +1,88 @@
+{
+  "id": "001F0279",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra A5/B5 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_A5_B5_0W-30_(SL_A5_B5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/712c2abc-4cbf-44c8-bc7e-0e6435a98a87.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Turkey Turkish",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592586.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Turkey EN 140003791542 EHS V1.6 13-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592587.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Turkey TR 140003791542 EHS V1.6 13-JUN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0279_002YAO_EURO",
+      "name": "Şişe 4 L Wishbone Plastic Copper Gold (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550046685",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra, içeriğindeki eşsiz aktif temizleme teknolojisi sayesinde yüksek performanslı motorlarda güç ve performans düşüşüne neden olan depozit oluşumunu engeller ve motoru aşınmaya karşı en üst seviyede koruyarak  sürekli yüksek performansla çalışmasını mümkün kılar.  Sürtünmeyi azaltıcı özelliği ile  üstün yakıt ekonomisi performansı sağlar.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046685_Shell_Helix_Ult_A5_B5_0W-30_4L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,129 @@
+{
+  "id": "001D7821",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Morlina S3 BA 220",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light load",
+    "off highway",
+    "plain",
+    "plain bearings",
+    "pump gear",
+    "pump vane",
+    "reciprocating gas compressors",
+    "reduction gears",
+    "roller spherical",
+    "steel mill",
+    "super demulsibility",
+    "transmissions",
+    "water separation",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S3_BA_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S3 BA 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02293844.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S3 BA 220 Canada EN 140006579500 EHS V1.8 27-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02293843.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S3 BA 220 Canada FR 140006579500 EHS V1.9 27-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/4c0612a6-9a77-4bd3-8ae3-b36a8450ab12.pdf",
+      "type": "LTDS",
+      "name": "Morlina S3 BA 220 Canada FR TDG V2.1 29-May-2018",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/697d1c0b-071a-4cb4-ab41-970d5fe378e6.pdf",
+      "type": "LTDS",
+      "name": "Morlina S3 BA 220 Canada EN TDG V2.1 22-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7821_002VOP_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H Y (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550026650",
+      "margin": "0.814486055468843",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 2.5",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 2.5"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S3 BA oils are premium quality rust & oxidation inhibited lubricating oils providing excellent lubrication in Morgoil® bearing & steel mill circulating systems. They are designed to have appropriate viscosity/temperature Characteristics, low foaming tendencies and excellent water separation properties. In addition, They protect equipment against corrosion and oil oxidation resulting in long service life. Meets the requirements of the Morgan and Danieli for super demulsibility applications.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,128 @@
+{
+  "id": "001D8549",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Gadus S3 T100 2",
+  "description": "Premium Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "high temperature",
+    "industrial",
+    "industrial bearings",
+    "light load",
+    "long life",
+    "multipurpose",
+    "polyurea",
+    "premium",
+    "water resistance",
+    "water washout resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e14e10a2-2174-4b20-90dd-2452470c2869.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T100 2 EN TDG V1.5 17-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594708.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T100 2 Ireland EN 140007731156 EHS V3.3 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8549_002VME_A246",
+      "name": "Pail 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550028089",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 T100 Greases are high technology greases designed to give optimum performance for grease lubrication in industrial bearings. They are based on mineral oil with a special diurea thickener to give long life, low wear and shear-stable properties at high temperatures. In high temperature applications Shell Gadus S3 T100 Greases will outperform even fully synthetic (PAO) lithium complex greases proposed in the market.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Diurea"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral Oil"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pumpability Long Distance",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

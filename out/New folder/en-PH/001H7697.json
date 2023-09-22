@@ -1,0 +1,92 @@
+{
+  "id": "001H7697",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix Protect 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7e916589-17f9-422c-af9e-0886dc4a66f0.pdf",
+      "type": "GTDS",
+      "name": "Helix Protect 0W-30 (SP) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02390535.PDF",
+      "type": "LMSDS",
+      "name": "Helix Protect 0W-30 (SP) Philippines English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/b8572864-579e-4cb8-97b6-869e620ee3cd.pdf",
+      "type": "LTDS",
+      "name": "Helix Protect 0W-30 (SP) Philippines EN TDG V1.2 03-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H7697_002W22_A709",
+      "name": "Bottle 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053884",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H7697_002W2M_A709",
+      "name": "Bottle 4 L Wishbone Plastic Helix Blue (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053885",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Fully Synthetic Motor Oil expertly engineered to deliver enhanced protection for your engine.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

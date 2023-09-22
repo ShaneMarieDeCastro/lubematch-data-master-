@@ -1,0 +1,54 @@
+{
+  "id": "001D8387",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gas Compressor Oil S4 RN 68",
+  "description": "Advanced Synthetic Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Compressor and Vacuum Pump",
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "hydrocarbon gas",
+    "industrial",
+    "low pressure natural gas",
+    "natural gas",
+    "screw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S4_RN_68_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S4 RN 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/f1b5d75b-93df-4ed3-82a7-3b175beb020b.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S4 RN 68 United Kingdom EN TDG V4.2 02-Mar-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590775.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 RN 68 United Kingdom EN 140002340634 EHS V2.1 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 RN has been specially developed for lubrication of rotary screw compressors handling natural gas and other gases at low pressure.  It is based on polyglycol base fluids and offers significant benefits over mineral oil-based products.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

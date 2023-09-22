@@ -1,0 +1,254 @@
+{
+  "id": "001D8248",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S6 TXME",
+  "description": "Synthetic Technology, SAE 10W-30, Multi-functional Tractor Oil",
+  "family": "Spirax",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Andere Multifunktionsöle",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "brakes",
+    "continuously variable",
+    "differential",
+    "extended life",
+    "final drive",
+    "fixed",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "high heat",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "mobile",
+    "off highway",
+    "oil immersed brakes",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor",
+    "tractor drivetrain",
+    "tractor hydraulics",
+    "transfer case",
+    "transmissions",
+    "universal tractor transmission oil",
+    "utto",
+    "variable"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/34fc7a8b-89d0-435a-b153-a75d60d2deb8.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 TXME EN TDG V2.3 18-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/e9628c39-10b1-4701-aca6-6279c2466442.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 TXME Germany DE TDG V2.3 19-Mar-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578230.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 TXME Germany DE 140001492039 EHS V2.4 23-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578225.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 TXME Germany EN 140001492039 EHS V2.4 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8248_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027827",
+      "margin": "2.2346764081506",
+      "packShot": ""
+    },
+    {
+      "code": "001D8248_002VNF_A246",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027828",
+      "margin": "2.89529905575458",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar TO-2 - Suitable for use in applications which require",
+      "organisation": "Caterpillar",
+      "spec": "TO-2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford WSS-M2C134-D",
+      "organisation": "Ford",
+      "spec": "WSS-M2C134-D"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "Massey Ferguson M-1145",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1145"
+    },
+    {
+      "name": "Caterpillar TO-2",
+      "organisation": "Caterpillar",
+      "spec": "TO-2"
+    },
+    {
+      "name": "Volvo 97303",
+      "organisation": "Volvo",
+      "spec": "97303"
+    },
+    {
+      "name": "Volvo WB 101",
+      "organisation": "Volvo",
+      "spec": "WB 101"
+    },
+    {
+      "name": "ZF TE-ML 17E",
+      "organisation": "ZF",
+      "spec": "TE-ML 17E"
+    },
+    {
+      "name": "Massey Ferguson M-1135",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1135"
+    },
+    {
+      "name": "Massey Ferguson M-1141",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1141"
+    },
+    {
+      "name": "Case MS 1207 - Suitable for use in applications which require",
+      "organisation": "Case",
+      "spec": "MS 1207 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 05F",
+      "organisation": "ZF",
+      "spec": "TE-ML 05F"
+    },
+    {
+      "name": "Case MS 1209 - Suitable for use in applications which require",
+      "organisation": "Case",
+      "spec": "MS 1209 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 21F",
+      "organisation": "ZF",
+      "spec": "TE-ML 21F"
+    },
+    {
+      "name": "Massey Ferguson M-1143",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1143"
+    },
+    {
+      "name": "ZF TE-ML 03E",
+      "organisation": "ZF",
+      "spec": "TE-ML 03E"
+    },
+    {
+      "name": "New Holland FNHA-2-C.201.00",
+      "organisation": "New Holland",
+      "spec": "FNHA-2-C.201.00"
+    },
+    {
+      "name": "John Deere JDM J20C",
+      "organisation": "John Deere",
+      "spec": "JDM J20C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 TXME steht für die derzeit modernste Technologie eines \"Universal Tractor Transmission Oil\" (UTTO). Es ist für die exzellente Schmierung von Getrieben, Hydrauliksystemen, ölgeschmierten (nassen) Bremsen, und anderen Zusatzgeräten von Traktoren und Geländefahrzeugen entwickelt worden. Shell Spirax S6 TXME kombiniert Grundöle aus der Synthesetechnologie mit der neusten Additivtechnologie und ist besonders für schwere Betriebsbedingungen mit anhaltend hohen Betriebstemperaturen geeignet.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "SAE J 300",
+      "uom": "",
+      "units": "",
+      "value": "10W-30"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "64.38"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "10.4"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "151"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "872"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "226"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-48"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

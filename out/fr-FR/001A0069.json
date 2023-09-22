@@ -1,0 +1,216 @@
+{
+  "id": "001A0069",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "AeroShell LGF",
+  "description": "Mineral shock-absorber fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques (aviation)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/145948ba-fe4e-4243-8465-0ca3b3e8a32b.pdf",
+      "type": "GTDS",
+      "name": "AeroShell LGF EN TDG V1.3 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549347.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell LGF France EN 140003182031 EHS V5.1 07-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549346.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell LGF France FR 140003182031 EHS V5.1 07-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Boeing BMS 3-32C Type II",
+      "organisation": "Boeing",
+      "spec": "BMS 3-32C Type II"
+    },
+    {
+      "name": "McDonnell Douglas DPM-6177",
+      "organisation": "McDonnell Douglas",
+      "spec": "DPM-6177"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Landing Gear Fluid (LGF) is a mineral hydraulic fluid (MIL-PRF-5606) to which additional additives have been added to improve the extreme pressure characteristics and the fluid’s natural lubricity. The lubricity agent provides a stable thin film layer to the metal surfaces at mild operating conditions. When severe conditions exist (landing/ touchdown), the extreme pressure additive supplies the load carrying needed at the metal-to-metal surfaces to prevent the occurrence of such phenomena as \"ladder cracking\" and \"slip stiction\" of the piston component of the landing gear. AeroShell LGF is AeroShell Fluid 41 plus additives.",
+  "physicalCharacteristics": [
+    {
+      "property": "Base Hydraulic Fluid Specification",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "MIL-PRF-5606H"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "",
+      "uom": "@40°C",
+      "units": "",
+      "value": "14.5"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "",
+      "value": "423"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "NULL",
+      "uom": "@-54",
+      "units": "NULL",
+      "value": "1780"
+    },
+    {
+      "property": "Flash Point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "110"
+    },
+    {
+      "property": "Neutralisation Number",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "2.4"
+    },
+    {
+      "property": "Evaporation",
+      "method": "",
+      "uom": "6hrs @71°C",
+      "units": "",
+      "value": "18.0"
+    },
+    {
+      "property": "Relative Density",
+      "method": "NULL",
+      "uom": "@15.6/15.6°C",
+      "units": "NULL",
+      "value": "0.874"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "Below -68"
+    },
+    {
+      "property": "Foaming Seq I Foam/Collapse time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "sec",
+      "value": "45"
+    },
+    {
+      "property": "Foaming Seq II Foam/Collapse time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "N/A"
+    },
+    {
+      "property": "Foaming Seq III Foam/Collapse time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "N/A"
+    },
+    {
+      "property": "Corrosion-Oxidation Stability (168hrs) Metal Weight Change - Copper",
+      "method": "",
+      "uom": "@121°C",
+      "units": "mg/cm²",
+      "value": "-0.06"
+    },
+    {
+      "property": "Corrosion-Oxidation Stability (168hrs) Metal Weight Change - Aluminium",
+      "method": "",
+      "uom": "@121°C",
+      "units": "mg/cm²",
+      "value": "-0.005"
+    },
+    {
+      "property": "Corrosion-Oxidation Stability (168hrs) Metal Weight Change - Steel",
+      "method": "",
+      "uom": "@121°C",
+      "units": "mg/cm²",
+      "value": "-0.02"
+    },
+    {
+      "property": "Corrosion-Oxidation Stability (168hrs) Metal Weight Change - Magnesium",
+      "method": "",
+      "uom": "@121°C",
+      "units": "mg/cm²",
+      "value": "0.01"
+    },
+    {
+      "property": "Corrosion-Oxidation Stability (168hrs) Metal Weight Change - Cadmium",
+      "method": "",
+      "uom": "@121°C",
+      "units": "mg/cm²",
+      "value": "0.01"
+    },
+    {
+      "property": "Fluid Properties Change in Viscosity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "%",
+      "value": "10.5"
+    },
+    {
+      "property": "Fluid Properties Change in Acid Number",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.05"
+    },
+    {
+      "property": "Insoluables",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Clear"
+    },
+    {
+      "property": "4-ball wear, scar diam.",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mm",
+      "value": "0.43"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Yellow"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

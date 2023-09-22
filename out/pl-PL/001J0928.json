@@ -1,0 +1,77 @@
+{
+  "id": "001J0928",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Coolant Longlife Ready to Use",
+  "description": "Premium antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Coolants/Antifreeze - gotowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7c222603-d78f-4f1d-9dff-3af630fe092c.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Ready to Use (Europe) EN TDG V1.4 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02598778.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Ready to Use (Europe) Poland PL 140003791557 EHS V2.1 16-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02598779.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Ready to Use (Europe) Poland EN 140003791557 EHS V2.1 16-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/74efe0a1-de96-4b6a-8684-07b2dd3601b9.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Longlife Ready to Use (Europe) Poland PL TDG V1.4 17-Jun-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0928_002YBF_A863",
+      "name": "Butelka 4 L Local Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550061796",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0928_002VWL_A863",
+      "name": "Butelka 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550061794",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

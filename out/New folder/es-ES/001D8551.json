@@ -1,0 +1,165 @@
+{
+  "id": "001D8551",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Gadus S5 T100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas no EP de base sintética",
+  "applicationKeys": [
+    "advanced",
+    "ball",
+    "bearing",
+    "bio gas",
+    "engine",
+    "extreme temperatures",
+    "gearbox",
+    "high temperature",
+    "industrial",
+    "industrial bearings",
+    "light load",
+    "long life",
+    "multipurpose",
+    "natural gas",
+    "polyurea",
+    "stationary",
+    "water resistance",
+    "water washout resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a9fef1c5-1580-411f-b33a-543a67959cea.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 T100 2 EN TDG V1.2 24-Oct-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545654.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 T100 2 Spain ES 140003966322 EHS V4.4 29-MAR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545653.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 T100 2 Spain EN 140003966322 EHS V4.4 29-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/es/e1af2554-aff5-4fdb-980b-b7043d64ee19.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 T100 2 Spain ES TDG V1.2 15-Oct-2018",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8551_002XEC_A246",
+      "name": "Cubo 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Cubo",
+      "materialCode": "550028231",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8551_002VH1_A246",
+      "name": "Bidón 170 kg O/H Grease R/Y (1)",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Bidón",
+      "materialCode": "550028108",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Está formulada con un aceite base sintético con un espesante especial de diurea para proporcionar una vida prolongada, así como propiedades de bajo desgaste y estabilidad al cizallamiento a altas temperaturas.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Light brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Polyurea"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Synthetic"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14"
+    },
+    {
+      "property": "Cone penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "FAG FE-9 Test L50 hrs",
+      "method": "",
+      "uom": "@180°C",
+      "units": "hours minimum",
+      "value": "100"
+    },
+    {
+      "property": "Pumpability Long Distance",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_t100.png",
+  "valueRecord": [],
+  "commerce": null
+}

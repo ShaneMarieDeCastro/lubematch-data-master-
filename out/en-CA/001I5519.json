@@ -1,0 +1,83 @@
+{
+  "id": "001I5519",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Water-Glycol Concentrate",
+  "description": "Water Glycol Hydraulic Oil - Concentrate",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/65d9bd76-db1b-4254-a6d2-c2a9a81b98e0.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol Concentrate EN TDG V1.0 22-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290919.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol Concentrate  Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/c9d24d2e-9b6d-47ed-a9f9-a4076a03731f.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol Concentrate  Canada FR TDG V1.0 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290920.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol Concentrate  Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/7984535c-6991-45b6-8384-3e94608fee8d.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol Concentrate  Canada EN TDG V1.0 22-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5519_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057095",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5519_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057096",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

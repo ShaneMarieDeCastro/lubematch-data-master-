@@ -1,0 +1,67 @@
+{
+  "id": "001I3397",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Immersion Cooling Fluid S5 X",
+  "description": "Stabilized hydrocarbon fluid based on Shell Gas-to-Liquid Technology (GTL).",
+  "family": "Immersion Cooling Fluid",
+  "parentCategory": null,
+  "category": "Huiles électriques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/615128f8-db18-4709-bb03-10bf668eb6eb.pdf",
+      "type": "GTDS",
+      "name": "Immersion Cooling Fluid S5 X EN TDG V1.5 27-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607933.PDF",
+      "type": "LMSDS",
+      "name": "Immersion Cooling Fluid S5 X France EN 140003182031 EHS V1.7 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607985.PDF",
+      "type": "LMSDS",
+      "name": "Immersion Cooling Fluid S5 X France FR 140003182031 EHS V1.7 03-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/81c7111b-5577-45ef-b651-0b9a70fd9bf1.pdf",
+      "type": "LTDS",
+      "name": "Immersion Cooling Fluid S5 X France FR TDG V1.5 23-Nov-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I3397_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550056018",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

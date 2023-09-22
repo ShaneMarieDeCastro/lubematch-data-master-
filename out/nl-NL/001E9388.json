@@ -1,0 +1,73 @@
+{
+  "id": "001E9388",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AF-L 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f6269cd7-71db-42dc-b264-d88a1f9b3f57.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) EN TDG V1.1 11-Oct-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02539673.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Netherlands EN 140002783873 EHS V2.5 13-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02538712.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Netherlands NL 140002783873 EHS V2.5 13-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/61078e1a-5853-4429-b408-df361ce6a94d.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Netherlands NL TDG V1.1 03-Feb-2017",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C934-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C934-B"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5005",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5005"
+    },
+    {
+      "name": "ACEA C1",
+      "organisation": "ACEA",
+      "spec": "C1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontwikkeld om aan de strenge eisen van hoogpresterende motoren te voldoen, waaronder Ford, Jaguar en Mazda, en motoren waarvoor een olie met specificatie ACEA C1 wordt vereist.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AF-L_5L_600058637.png",
+  "valueRecord": [],
+  "commerce": null
+}

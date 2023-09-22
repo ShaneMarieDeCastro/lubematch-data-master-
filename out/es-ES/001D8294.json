@@ -1,0 +1,149 @@
+{
+  "id": "001D8294",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Spirax S1 ATF TASA",
+  "description": "Quality Type A Suffix A Automatic Transmission and Hydraulic Fluid",
+  "family": "Spirax",
+  "parentCategory": "Fluidos de transmisión",
+  "category": "Fluidos para transmisión automática",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "bearing",
+    "gearbox",
+    "gm type a suffix a",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "industrial torque convertor",
+    "manual sequential",
+    "marine",
+    "mobile",
+    "non shiftable",
+    "offroad",
+    "offshore",
+    "older passenger car",
+    "plain",
+    "power steering",
+    "powershift",
+    "powershift torque convertors",
+    "pump gear",
+    "screw pump",
+    "semi automatic",
+    "stern tube seal",
+    "torque converters",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S1_ATF_TASA_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S1 ATF TASA English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621107.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF TASA Spain EN 140003966322 EHS V2.5 20-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Spain_Shell_Spirax_S1_ATF_TASA_(es)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Spirax S1 ATF TASA Spain Spanish; Castilian",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621108.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF TASA Spain ES 140003966322 EHS V2.5 20-JUL-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8294_002W2J_A10E",
+      "name": "Botella 4 L Wishbone Plastic White (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550028289",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors Type A Suffix A - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Type A Suffix A - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Type 'A' Suffix 'A'",
+      "organisation": "General Motors",
+      "spec": "Type 'A' Suffix 'A'"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell S1 ATF TASA es un aceite de transmisión, dirección e hidráulico de alta calidad para su empleo en vehículos pesados que trabajan en entornos no pavimentados o fuera de carretera.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "157"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "880"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "170"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s1_atf_tasa.png",
+  "valueRecord": [],
+  "commerce": null
+}

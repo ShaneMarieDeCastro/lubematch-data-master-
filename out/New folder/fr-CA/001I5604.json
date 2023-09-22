@@ -1,0 +1,73 @@
+{
+  "id": "001I5604",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Naturelle S2 Hydraulic Fluid 68",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/967d4e1d-7203-45d2-9611-2de8d1ba4e23.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 EN TDG V2.0 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/97110042-8ee9-4eb9-8c01-b5b5a09634a7.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Canada EN TDG V1.5 02-Feb-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553280.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Canada FR 140006579500 EHS V1.3 13-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/253079ae-a631-485b-bcca-2f3762d491b8.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Canada FR TDG V2.0 05-Oct-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553281.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Canada EN 140006579500 EHS V1.3 13-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5604_002VSH_A1P5",
+      "name": "",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550060209",
+      "margin": "0.626379618424168",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Le fluide hydraulique Shell Naturelle S2 est un fluide hydraulique avancé destiné aux systèmes hydrauliques et de transmission de puissance. Facilement biodégradable avec une faible écotoxicité, le fluide hydraulique Shell Naturelle S2 est particulièrement adapté à une utilisation dans des zones écologiquement sensibles. Les esters entièrement synthétiques, mélangés à des additifs sans cendres, fournissent au fluide hydraulique Shell Naturelle S2 un excellent mélange de performances de lubrification et d’acceptabilité environnementale..",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,153 @@
+{
+  "id": "001I2701",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra ECT MULTI 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9b88e6f-42c0-4a0e-a321-8dd43536a0e0.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) EN TDG V1.5 22-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619356.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Germany EN 140001492039 EHS V1.3 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/181f917b-800a-4457-9d38-53d31b183240.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Germany DE TDG V1.5 30-Aug-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619357.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Germany DE 140001492039 EHS V1.3 06-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I2701_002XS4_A246",
+      "name": "Fässer 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550058159",
+      "margin": "2.65084906755439",
+      "packShot": ""
+    },
+    {
+      "code": "001I2701_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500012437",
+      "margin": "2.59861847562669",
+      "packShot": ""
+    },
+    {
+      "code": "001I2701_002W21_A0YO",
+      "name": "Flasche 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550059469",
+      "margin": "1.05930515457567",
+      "packShot": ""
+    },
+    {
+      "code": "001I2701_002XI2_A246",
+      "name": "Flasche 20 L JerryDose Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550058341",
+      "margin": "3.32048861926252",
+      "packShot": ""
+    },
+    {
+      "code": "001I2701_002WX1_A0YO",
+      "name": "Flasche 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550059490",
+      "margin": "3.81631833406145",
+      "packShot": ""
+    },
+    {
+      "code": "001I2701_002VSI_A246",
+      "name": "Fass 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550059468",
+      "margin": "2.55522244227569",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "MB-Approval 229.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.52"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT MULTI 5W-30 arbeitet mit der innovativen „Emission Compatible Technology” von Shell zum Schutz von Abgasnachbehandlungssystemen, um Dieselpartikelfilter sauber zu halten und damit die volle Motorleistung aufrechtzuhalten. Es erfüllt die Anforderungen führender OEMs.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550058341_Shell_Helix_Ult_ECT_MULT_5W-30_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

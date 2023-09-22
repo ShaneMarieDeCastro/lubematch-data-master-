@@ -1,0 +1,68 @@
+{
+  "id": "001D8373",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Diala S2 ZU-I ngt",
+  "description": "Uninhibited Electrical Insulating Oil",
+  "family": "Diala",
+  "parentCategory": "Otros lubricantes industriales",
+  "category": "Aceites dieléctricos",
+  "applicationKeys": [
+    "dielectric fluid",
+    "electrical",
+    "hydraulic system",
+    "hydraulics",
+    "insulating",
+    "pump gear",
+    "uninhibited"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ce3b1604-318b-4106-9c72-21579ea626d2.pdf",
+      "type": "GTDS",
+      "name": "Diala S2 ZU-I non-gasoil tariff EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574222.PDF",
+      "type": "LMSDS",
+      "name": "Diala S2 ZU-I non-gasoil tariff Spain EN 140003966322 EHS V2.5 11-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Spain_Shell_Diala_S2_ZU-I_non-gasoil_tariff_(es)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Diala S2 ZU-I non-gasoil tariff Spain Spanish; Castilian",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574221.PDF",
+      "type": "LMSDS",
+      "name": "Diala S2 ZU-I non-gasoil tariff Spain ES 140003966322 EHS V2.5 11-MAY-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S2 ZU-I cumple tanto con los requerimientos industriales actuales del ensayo de corrosión a la tira de cobre, como con los nuevos ensayos para determinar la no corrosividad.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

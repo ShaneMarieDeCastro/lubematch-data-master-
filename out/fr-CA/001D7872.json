@@ -1,0 +1,208 @@
+{
+  "id": "001D7872",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Paper Machine Oil S3 M 220",
+  "description": "Paper Machine Circulating Oils",
+  "family": "Paper Machine",
+  "parentCategory": null,
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "heat transfer",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "roller cylindrical",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "screw pump",
+    "servo",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a9b40b03-4c45-4c35-ba19-9018d248e67e.pdf",
+      "type": "GTDS",
+      "name": "Paper Machine Oil S3 M 220 EN TDG V2.3 16-Aug-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02296456.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S3 M 220 Canada EN 140006579500 EHS V1.8 29-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/49154b25-9530-4ecf-a46f-423ec58ea1df.pdf",
+      "type": "LTDS",
+      "name": "Paper Machine Oil S3 M 220 Canada EN TDG V2.3 28-Aug-2018",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/f6897d1a-cde9-44d2-a384-413f8f386949.pdf",
+      "type": "LTDS",
+      "name": "Paper Machine Oil S3 M 220 Canada FR TDG V2.3 28-Aug-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02296457.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S3 M 220 Canada FR 140006579500 EHS V1.9 29-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7872_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550026835",
+      "margin": "0.388538477067003",
+      "packShot": ""
+    },
+    {
+      "code": "001D7872_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500005812",
+      "margin": "0.0934361843662989",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "DIN 51354-2",
+      "organisation": "DIN",
+      "spec": "51354-2"
+    },
+    {
+      "name": "Voith VN 108",
+      "organisation": "Voith",
+      "spec": "VN 108"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles pour machines à papier Shell S3 M sont des huiles hautes performances basées sur la technologie moderne des additifs sans cendres. Ils sont conçus pour fournir une excellente protection tout autour des divers besoins et conditions rencontrés dans les machines à papier modernes. Ils répondent aux exigences des systèmes Metso, SKF et Voith.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "19.2"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "897"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Demulsibility Separation Time",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "mins",
+      "value": "10"
+    },
+    {
+      "property": "Rust Test, Synthetic Sea Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Oxidation Life (TOST)",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hrs",
+      "value": "4378"
+    },
+    {
+      "property": "Timken, OK Load",
+      "method": "ASTM D2782",
+      "uom": "",
+      "units": "lbs",
+      "value": "60"
+    },
+    {
+      "property": "Foam Test, Seq II ml",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam at 0/10 mins",
+      "value": "0/0"
+    },
+    {
+      "property": "FZG Load Stage",
+      "method": "ASTM D5182",
+      "uom": "",
+      "units": "",
+      "value": "12 Pass"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

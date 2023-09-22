@@ -1,0 +1,125 @@
+{
+  "id": "001D7757",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Tellus S3 M 22",
+  "description": "Premium Zinc-Free Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Hydraulische vloeistoffen",
+  "category": "Hydraulische vloeistoffen",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "extended life",
+    "factory applications",
+    "high load",
+    "high tost",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "low toxicity",
+    "manufacturing",
+    "mobile equipment",
+    "pump gear",
+    "severe duty",
+    "stationary",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1dd230cb-3114-4212-a354-f2ee3a3129d0.pdf",
+      "type": "GTDS",
+      "name": "Tellus S3 M 22 EN TDG V4.3 17-Nov-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/b06926c1-b894-477d-9a17-5e844d16708f.pdf",
+      "type": "LTDS",
+      "name": "Tellus S3 M 22 Netherlands NL TDG V4.3 08-Feb-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02568712.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S3 M 22 Netherlands NL 140002783873 EHS V1.5 01-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02568713.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S3 M 22 Netherlands EN 140002783873 EHS V1.5 30-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7757_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550034340",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7757_002VNK_A246",
+      "name": "Emmer 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550027137",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694 - Meets performance requirements",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694 - Meets performance requirements"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 M",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 M"
+    },
+    {
+      "name": "ASTM D6158 HM",
+      "organisation": "ASTM",
+      "spec": "D6158 HM"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S3 M hydraulische vloeistoffen zijn hoogwaardige oliën die gebruik maken van Shell's exclusieve zink-vrije technologie en bieden een uitzonderlijke bescherming en prestatie in de meeste industriële en mobiele toepassingen. Ze weerstaan hoge temperaturen en mechanische stress en helpen zo schadelijke afzettingen te voorkomen die invloed hebben op de levensduur van de hydraulische installatie. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

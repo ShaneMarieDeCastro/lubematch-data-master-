@@ -1,0 +1,98 @@
+{
+  "id": "001A0077",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "AeroShell Oil W 80",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Huiles moteur - Aviation/Piston",
+  "applicationKeys": [
+    "ashless",
+    "aviation",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "piston engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9b6eba10-c8bc-4e76-b263-4100525a5001.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 80 EN TDG V2.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549358.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 80 France FR 140003182031 EHS V1.9 07-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549357.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 80 France EN 140003182031 EHS V1.9 07-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/bbd722ee-2a7d-4f3b-89f3-a3cf8fe2a436.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil W 80 France FR TDG V2.2 03-Mar-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OMD-160",
+      "organisation": "Joint Service Designation",
+      "spec": "OMD-160"
+    },
+    {
+      "name": "Textron Lycoming 301F",
+      "organisation": "Textron Lycoming",
+      "spec": "301F"
+    },
+    {
+      "name": "AIR 3570",
+      "organisation": "AIR",
+      "spec": "3570"
+    },
+    {
+      "name": "NATO O-123",
+      "organisation": "NATO",
+      "spec": "O-123"
+    },
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Pratt and Whitney 1183-S",
+      "organisation": "Pratt and Whitney",
+      "spec": "1183-S"
+    },
+    {
+      "name": "MHS 24B",
+      "organisation": "MHS",
+      "spec": "24B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles AeroShell W ont été les premières huiles dispersives sans cendres utilisées dans les moteurs à pistons d’avions. Des additifs non métalliques combinés avec une selection des huiles de base à indice de viscosité élevée offrent une stabilité, une dispersion et des performances exceptionnelles anti-moussage. Ces additifs ne laissent aucun résidus de cendres métalliques qui peuvent entraîner la formation de dépôts dans les chambres de combustion et sur les bougies d'allumage, ce qui peut générer le phénomène de pré-allumage et une défaillance possible du moteur.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

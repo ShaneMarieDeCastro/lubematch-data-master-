@@ -1,0 +1,93 @@
+{
+  "id": "001F9116",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S5 V110KP 1",
+  "description": "Special Purpose Fully Synthetic Blade Bearings Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "high pressure",
+    "lithium",
+    "low temperature"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b27c8762-8dda-49c6-bcd4-53385e91bd62.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V110KP 1 EN TDG V1.8 16-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597004.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V110KP 1 Germany DE 140001492039 EHS V3.5 14-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597002.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V110KP 1 Germany EN 140001492039 EHS V3.5 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9116_002VH1_A1P5",
+      "name": "Fass 170 kg O/H Grease R/Y (1)",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550045827",
+      "margin": "6.31029758123378",
+      "packShot": ""
+    },
+    {
+      "code": "001F9116_002VGF_EURO",
+      "name": "Kartusche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550051532",
+      "margin": "6.72261911661717",
+      "packShot": ""
+    },
+    {
+      "code": "001F9116_002YAF_A854",
+      "name": "Kartusche 5 KG Local (Accordion) Plastic Transparent (2)",
+      "size": "5",
+      "uom": "KG",
+      "pack": "Kartuschen",
+      "materialCode": "550060954",
+      "margin": "4.37174998316272",
+      "packShot": ""
+    },
+    {
+      "code": "001F9116_002XEC_A1P5",
+      "name": "Eimer 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550045826",
+      "margin": "5.91038003860161",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V110KP 1 is an advanced fully synthetic wind turbine grease designed for lubrication of blade bearings and specifically suitable for greater blade diameters with high level of active pitching, high tower height and exposed to extreme weather and climate.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

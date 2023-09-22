@@ -1,0 +1,99 @@
+{
+  "id": "001G2441",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra Professional AJ-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/01717bc6-5687-420f-889f-73c3fd788733.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) EN TDG V1.3 25-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/8695d014-7daa-4858-a0d5-2fe3027fe9dc.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) France FR TDG V1.3 21-Jun-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553779.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) France FR 140003182031 EHS V1.4 14-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553780.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 0W-30 (JLR 5007) France EN 140003182031 EHS V1.4 14-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G2441_002YAN_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Copper Gold (12) ",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550047973",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5007",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5007"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "Ford WSS-M2C950-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C950-A"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Conçue pour répondre aux exigences particulières des moteurs à hautes performances du groupe Jaguar-Land Rover et Ford, et ceux où une huile ACEA C2 est recommandée. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

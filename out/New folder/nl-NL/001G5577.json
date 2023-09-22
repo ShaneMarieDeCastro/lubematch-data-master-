@@ -1,0 +1,99 @@
+{
+  "id": "001G5577",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AF-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/831c9f0d-12a1-4877-b1cd-28d9283634fd.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/88fdb4b2-fe41-4305-91bb-200f20638c47.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Netherlands NL TDG V1.0 21-Apr-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02515786.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Netherlands NL 140002783873 EHS V1.3 15-JAN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02515785.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 0W-30 (C2 Ford 950A) Netherlands EN 140002783873 EHS V1.3 15-JAN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5577_002YAP_EURO",
+      "name": "Fles 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550048343",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G5577_002YAN_EURO",
+      "name": "Fles 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550048341",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G5577_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550048188",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C950-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C950-A"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontwikkeld om aan de strenge eisen van hoog performante motoren van Ford te voldoen en motoren waarvoor een olie met specificatie ACEA C2 wordt vereist.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550048343_Shell_Helix_Ult_Pro_AF-L_0W-30_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

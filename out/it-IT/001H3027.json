@@ -1,0 +1,84 @@
+{
+  "id": "001H3027",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Helix Ultra Professional AR-L RN17 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/41f4e36e-986a-4aa3-9ead-20a8b5282e9d.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) EN TDG V1.4 19-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561883.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Italy IT 140007645406 EHS V1.4 27-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561884.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Italy EN 140007645406 EHS V1.4 27-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/54305395-6988-4ea6-8c6b-b8b27f5b6252.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Italy IT TDG V1.4 07-Jun-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3027_002XS4_A246",
+      "name": "Fusti 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusti",
+      "materialCode": "550051434",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Renault RN 17",
+      "organisation": "Renault",
+      "spec": "RN 17"
+    },
+    {
+      "name": "MB-Approval 226.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.52"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formulato per soddisfare i severi requisiti dei motori Renault ad alte prestazioni.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AR-L_RN17_5L_600050501.png",
+  "valueRecord": [],
+  "commerce": null
+}

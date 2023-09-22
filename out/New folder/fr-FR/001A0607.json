@@ -1,0 +1,95 @@
+{
+  "id": "001A0607",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax MA 80W",
+  "description": "High quality heavy duty gearbox oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "manual",
+    "manual unsynchronised",
+    "non shiftable",
+    "off highway",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/826df998-8c45-4fff-8ffd-925caf860dea.pdf",
+      "type": "GTDS",
+      "name": "Spirax MA 80W EN TDG V1.4 04-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550893.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MA 80W France FR 140003182031 EHS V1.4 11-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/afafb433-641c-4b76-a980-341284733b18.pdf",
+      "type": "LTDS",
+      "name": "Spirax MA 80W France FR TDG V1.4 08-Nov-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550892.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MA 80W France EN 140003182031 EHS V1.4 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 235.1",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.1"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MAN 341 Type Z1",
+      "organisation": "MAN",
+      "spec": "341 Type Z1"
+    },
+    {
+      "name": "MAN 341 Type E1",
+      "organisation": "MAN",
+      "spec": "341 Type E1"
+    },
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax MA est une huile de transmission \"extrême pression\" formulé à partir d'additifs multi-fonctionnels requis pour des conditions de fonctionnement d’extrême pression légères.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

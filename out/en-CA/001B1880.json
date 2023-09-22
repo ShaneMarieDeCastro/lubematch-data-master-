@@ -1,0 +1,113 @@
+{
+  "id": "001B1880",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell SRS Grease 2000 Extreme 2",
+  "description": "Superior Performance High Temperature Semi-Synthetic Extreme Pressure Multipurpose Grease",
+  "family": "SRS",
+  "parentCategory": null,
+  "category": "Open Gear Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/5c6ad234-8aeb-436e-b5c0-a76839267e39.pdf",
+      "type": "GTDS",
+      "name": "SRS 2000 Extreme EN TDG V1.0 30-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/27f77e42-402f-49a0-a567-54763fc75d40.pdf",
+      "type": "LTDS",
+      "name": "SRS 2000 Extreme Canada FR TDG V1.0 15-Jul-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290013.PDF",
+      "type": "LMSDS",
+      "name": "SRS 2000 Extreme Canada FR 140006579500 EHS V2.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291027.PDF",
+      "type": "LMSDS",
+      "name": "SRS 2000 Extreme Canada EN 140006579500 EHS V2.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/dbe9e8e0-6912-42f6-81e6-06e0a361627b.pdf",
+      "type": "LTDS",
+      "name": "SRS 2000 Extreme Canada EN TDG V1.0 30-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1880_002WTV_A0IK",
+      "name": "Cans with Closure 0.12 L Local (Tactic) Plastic Multi-coloured (10)",
+      "size": "0.12",
+      "uom": "L",
+      "pack": "Cans with closure",
+      "materialCode": "550032580",
+      "margin": "79.4590722724769",
+      "packShot": ""
+    },
+    {
+      "code": "001B1880_002VKU_A1WJ",
+      "name": "Keg 55 kg O/H Steel Shell Yellow (1)",
+      "size": "55",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550029600",
+      "margin": "1.92400415454247",
+      "packShot": ""
+    },
+    {
+      "code": "001B1880_002VH7_A1WJ",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550029457",
+      "margin": "2.41867743466662",
+      "packShot": ""
+    },
+    {
+      "code": "001B1880_002VGI_NAMD",
+      "name": "Cartridge 0.4 kg Local Plastic White (10)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550032579",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B1880_002VM9_A0IK",
+      "name": "Pail 17 kg Plastic B O/H w/B (1)",
+      "size": "17",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550029576",
+      "margin": "2.07104890765576",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell SRS 2000 Extreme is especially suitable for bearings operating at elevated temperatures under severe loads in wet or humid environments.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,89 @@
+{
+  "id": "001G5899",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Corena S5 R 46",
+  "description": "Advanced Synthetic Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "pag",
+    "polyglycolester",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9d1d1480-57b0-44c4-a5d3-cea1ec67ed42.pdf",
+      "type": "GTDS",
+      "name": "Corena S5 R 46 EN TDG V1.1 24-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/533d5fae-261b-4ac1-8cb7-694d79e59087.pdf",
+      "type": "LTDS",
+      "name": "Corena S5 R 46 United States EN TDG V1.1 24-Mar-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590968.PDF",
+      "type": "LMSDS",
+      "name": "Corena S5 R 46 United States EN 140002686046 EHS V2.1 09-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5899_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550050454",
+      "margin": "1.65244141059872",
+      "packShot": ""
+    },
+    {
+      "code": "001G5899_002XD6_NAMD",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550050455",
+      "margin": "4.84468409556531",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S5 R is a top tier synthetic lubricant based on polyalkylene glycol (PAG) and ester technology designed for use in rotary screw air compressors. It enables long oil drain intervals with varnish free operation and is the product of choice for unprecedented, challenging operations. It is an excellent choice for service fill in situations where polyglycol-ester type lubricants are already in use.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

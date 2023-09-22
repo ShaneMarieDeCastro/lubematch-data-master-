@@ -1,0 +1,86 @@
+{
+  "id": "001H5782",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix Protect V 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a7cb72ab-f7b6-4082-a333-213d7a4a5cb3.pdf",
+      "type": "GTDS",
+      "name": "Helix Protect V 0W-30 (SN PLUS/SN) EN TDG V1.2 09-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02208071.PDF",
+      "type": "LMSDS",
+      "name": "Helix Protect V 0W-30 (SN PLUS/SN) Philippines English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5782_002W2M_A709",
+      "name": "Bottle 4 L Wishbone Plastic Helix Blue (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053729",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5782_002W22_A709",
+      "name": "Bottle 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053728",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Fully Synthetic Motor Oil expertly engineered to deliver enhanced protection for your engine.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

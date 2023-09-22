@@ -1,0 +1,173 @@
+{
+  "id": "001F1183",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Omala S2 GX 680",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "compatibility with seals and paints",
+    "enclosed gear",
+    "ep",
+    "extreme performance",
+    "extreme pressure",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "marine",
+    "micropitting",
+    "rollers",
+    "siemens ag",
+    "trunnion",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2d21e6f2-eb56-4f51-98a9-9068129d78af.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 680 EN TDG V1.9 20-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/89c309eb-a407-45f6-b2a8-101303197a50.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 680 Turkey TR TDG V1.9 21-Jul-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02399755.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 680 Turkey TR 140003791542 EHS V1.12 14-JAN-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02399754.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 680 Turkey EN 140003791542 EHS V1.12 14-JAN-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1183_002VNA_A246",
+      "name": "Kova 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550041663",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-34",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-34"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "AGMA EP 9005-EO2",
+      "organisation": "AGMA",
+      "spec": "EP 9005-EO2"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "GB 5903-2011 L-CKC",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKC"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 GX serisi ağır yükte çalışan endüstriyel dişli kutularının yağlanması için geliştirilmiş yüksek kaliteli ve aşırı basınca dayanıklı yağlardır. Yüksek yük taşıma kapasitesi ve metal yüzeylerde karıncalanmaya karşı etkin koruma özelliğinin yanı sıra conta ve boya uyumluluğu ile kapalı dişli uygulamaları için mükemmel performans sunar.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "42.1"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Flash Point COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-9"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "Kg/m³",
+      "value": "912"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

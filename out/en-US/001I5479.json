@@ -1,0 +1,61 @@
+{
+  "id": "001I5479",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Water-Glycol S2 C 68",
+  "description": "Water Glycol Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/980fff74-e879-49d0-b1e9-fb7ac28b4e34.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol S2 C 68 EN TDG V1.0 23-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563993.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol S2 C 68 United States EN 140002686046 EHS V1.1 13-OCT-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/c0ce194a-f014-4d0c-98be-9f774c01c086.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol S2 C 68 United States EN TDG V1.0 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5479_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012201",
+      "margin": "0.266686231494904",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Water Glycol S2 C 68 is a fire-resistant hydraulic fluid and is recognized by FM Global as a less flammable industrial fluid. Shell Water Glycol S2 C 68 was developed and designed specifically to operate at system pressures of 2000-4000 psi depending on pump type (vane or piston).  The formulation contains more than a sufficient amount of water to prevent the propagation of fire in the event of a hydraulic line rupture near an ignition source.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

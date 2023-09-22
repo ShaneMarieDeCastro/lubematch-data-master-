@@ -1,0 +1,158 @@
+{
+  "id": "001H2217",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix HX7 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/29fa2cc8-6bbe-405a-82cb-d5caeff4e39a.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 5W-40 (SN Plus A3/B4) EN TDG V1.2 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/b98c3421-2b51-4d1d-a93c-a5dbf3412e7d.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 5W-40 (SN Plus A3/B4) Spain ES TDG V1.2 26-Aug-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02512674.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 5W-40 (SN Plus A3/B4) Spain ES 140003966322 EHS V1.2 28-DEC-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02512673.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 5W-40 (SN Plus A3/B4) Spain EN 140003966322 EHS V1.2 28-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2217_002W22_EURO",
+      "name": "Botella 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550053739",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2217_002WPC_EURO",
+      "name": "Botella 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550053771",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2217_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550053750",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2217_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550052432",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "Fiat 9.55535-M2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-M2 - Meets the requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 ayuda a mantener la limpieza y eficiencia del motor, evitando la formación de depósitos y lodos. Adecuado para una gran variedad de vehículos, incluso en las condiciones de conducción más exigentes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550053739_Shell_Helix_HX7_5W-40_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

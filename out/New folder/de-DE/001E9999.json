@@ -1,0 +1,189 @@
+{
+  "id": "001E9999",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra Professional AB 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "cars",
+    "mercedes benz"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4f871a24-d9bb-4cb3-8b07-e238c7bd95ad.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AB 5W-30 (MB229.5) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/c5d73701-7c84-4ed5-80fc-27b715d41b2f.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AB 5W-30 (MB229.5) Germany DE TDG V1.5 27-Oct-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631649.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AB 5W-30 (MB229.5) Germany DE 140001492039 EHS V1.8 17-AUG-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631650.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AB 5W-30 (MB229.5) Germany EN 140001492039 EHS V1.8 17-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9999_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500008962",
+      "margin": "0.570158365558508",
+      "packShot": ""
+    },
+    {
+      "code": "001E9999_002W21_A0YO",
+      "name": "Flasche 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550040589",
+      "margin": "1.33939297052627",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Erfüllt die anspruchsvollen Anforderungen bestimmter Hochleistungsmotoren insbesondere von Mercedes-Benz sowie jener, die API SL oder ACEA A3/B4 Öle benötigen.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11.93"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "71.69"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "163"
+    },
+    {
+      "property": "Dynamische Viskosität (MRV)",
+      "method": "ASTM D4684",
+      "uom": "@-35°C",
+      "units": "cP",
+      "value": "17700"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "841.3"
+    },
+    {
+      "property": "Flammpunkt",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "244"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "-48"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_Ultra_Pro_AB_5W_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

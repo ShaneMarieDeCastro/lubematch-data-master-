@@ -1,0 +1,92 @@
+{
+  "id": "001H9385",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Mysella S7 N Ultra 40",
+  "description": "Premium Stationary Gas Engine Oil for Ultra Extended Oil Life",
+  "family": "Mysella",
+  "parentCategory": "Industriemotorenöle",
+  "category": "Motoröle - stationärer Gasmotor",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "low ash",
+    "natural gas",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f5999273-152f-4493-b2ee-7b31e9e40067.pdf",
+      "type": "GTDS",
+      "name": "Mysella S7 N Ultra 40 EN TDG V1.4 14-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607562.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S7 N Ultra 40 Germany DE 140001492039 EHS V1.4 03-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/0b300937-53ad-4be6-a8dc-de0ea672249b.pdf",
+      "type": "LTDS",
+      "name": "Mysella S7 N Ultra 40 Germany DE TDG V1.4 27-Apr-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607560.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S7 N Ultra 40 Germany EN 140001492039 EHS V1.4 03-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H9385_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500011847",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H9385_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550055029",
+      "margin": "2.01775002861023",
+      "packShot": ""
+    },
+    {
+      "code": "001H9385_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550055080",
+      "margin": "1.86526318144",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S7 N Ultra ist ein extrem leistungsstarkes Öl, entwickelt für den Einsatz in hochleistungsfähigen   \n4-Takt-Gas-Ottomotoren, insbesondere in solchen mit Stahlkolben. Hervorragende Motorsauberkeit und extrem lange Ölwechselintervalle werden durch den Einsatz einer speziell entwickelten, fortschrittlichen Schmierstofftechnologie erreicht.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

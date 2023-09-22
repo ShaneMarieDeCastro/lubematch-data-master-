@@ -1,0 +1,86 @@
+{
+  "id": "001D8526",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell GadusRail S4 High Speed EUDB",
+  "description": "Advanced Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van synthetische olie zonder 'EP additieven",
+  "applicationKeys": [
+    "advanced",
+    "european axle box",
+    "extended drain",
+    "extended service",
+    "heavy load",
+    "high load",
+    "high speed",
+    "high speed railway",
+    "lithium based",
+    "rail",
+    "railroad",
+    "railroad axle box",
+    "roller bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/9ce6c4b4-8255-484e-8dc5-95178efbb4f7.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S4 High Speed EUDB EN TDG V4.2 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/6a725b59-01e4-49da-9534-e8dd05628de3.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S4 High Speed EUDB Netherlands NL TDG V4.2 16-Oct-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594354.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUDB Netherlands NL 140002783873 EHS V2.12 14-JUN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02594355.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUDB Netherlands EN 140002783873 EHS V2.12 14-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8526_002VH7_A1P5",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550059271",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 b",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 b"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

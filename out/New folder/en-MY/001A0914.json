@@ -1,0 +1,71 @@
+{
+  "id": "001A0914",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "AeroShell Grease 14",
+  "description": "Mineral grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c6cba754-1bbf-44b5-8058-25cad8d03773.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 14 EN TDG V1.2 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532708.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Malaysia MS 140001435555 EHS V1.10 02-MAR-2023",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532689.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Malaysia EN 140001435555 EHS V1.10 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation XG-284",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-284"
+    },
+    {
+      "name": "MIL-G-25537C",
+      "organisation": "MIL",
+      "spec": "G-25537C"
+    },
+    {
+      "name": "NATO G-366",
+      "organisation": "NATO",
+      "spec": "G-366"
+    },
+    {
+      "name": "DEF STAN 91-51",
+      "organisation": "DEF STAN",
+      "spec": "91-51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +75°C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Aeroshell-Grease-14.png",
+  "valueRecord": [],
+  "commerce": null
+}

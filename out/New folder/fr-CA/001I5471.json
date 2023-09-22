@@ -1,0 +1,73 @@
+{
+  "id": "001I5471",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Omala S3 W 100",
+  "description": "Biodegradable Water Soluble Gear Fluid",
+  "family": "Naturelle",
+  "parentCategory": "",
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/33053f1c-50ce-457f-b860-40087245d5e5.pdf",
+      "type": "GTDS",
+      "name": "Shell Omala S3 W 100 EN TDG V1.2 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02367174.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 W 100 Canada EN 140006579500 EHS V2.0 31-AUG-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/6db57059-fac7-499d-b751-c462d8164221.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 W 100 Canada FR TDG V1.2 09-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/e670d609-d415-4a33-b99c-a0ef9873d064.pdf",
+      "type": "LTDS",
+      "name": "Shell Omala S3 W 100 Canada EN TDG V1.2 05-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02367167.PDF",
+      "type": "LMSDS",
+      "name": "Shell Omala S3 W 100 Canada FR 140006579500 EHS V2.0 31-AUG-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5471_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057314",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

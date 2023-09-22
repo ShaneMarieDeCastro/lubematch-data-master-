@@ -1,0 +1,180 @@
+{
+  "id": "001E0080",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Vacuum Pump Oil S3 RX 100",
+  "description": "Rotary Vacuum Pump Oil",
+  "family": "Vacuum Pump",
+  "parentCategory": "Kompressor und Vakuumpumpe",
+  "category": "Kompressor und Vakuumpumpe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Vacuum_Pump_Oil_S3_RX_100_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S3 RX 100 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612180.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S3 RX 100 Germany EN 140001492039 EHS V1.6 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/471c4f46-7ecb-4096-9e0d-5ef32a9b0a00.pdf",
+      "type": "LTDS",
+      "name": "Vacuum Pump Oil S3 RX 100 Germany DE TDG V2.2 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612196.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S3 RX 100 Germany DE 140001492039 EHS V1.6 06-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0080_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027225",
+      "margin": "2.53356757232447",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S3 RX basiert auf ausgewählten hochraffinierten Mineralölen. Diese haben einen sehr niedrigen Dampfdruck und bieten eine sehr gute Leistung in Sperr- und Drehschiebervakuumpumpen.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse ",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "95"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "866"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-9"
+    },
+    {
+      "property": "Neutralisationszahl",
+      "method": "ASTM D947",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "<0.03"
+    },
+    {
+      "property": "Sulfatasche",
+      "method": "DIN 51575",
+      "uom": "",
+      "units": "%",
+      "value": "<0.01"
+    },
+    {
+      "property": "Koksrückstand nach Conradson",
+      "method": "DIN 51551",
+      "uom": "",
+      "units": "%m",
+      "value": "0.05"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur",
+      "method": "ASTM D2879",
+      "uom": "@0°C",
+      "units": "mbar",
+      "value": "4.7 * 10^-9"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur",
+      "method": "ASTM D2879",
+      "uom": "@25°C",
+      "units": "mbar",
+      "value": "1.73 * 10^-7"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur",
+      "method": "ASTM D2879",
+      "uom": "@50°C",
+      "units": "mbar",
+      "value": "3.33 + 10^-6"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur",
+      "method": "ASTM D2879",
+      "uom": "@100°C",
+      "units": "mbar",
+      "value": "3.73 *10^-4"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur",
+      "method": "ASTM D2879",
+      "uom": "@150°C",
+      "units": "mbar",
+      "value": "0.01"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur",
+      "method": "ASTM D2879",
+      "uom": "@200°C",
+      "units": "mbar",
+      "value": "0.24"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000ImtMQAS&field=Attachment__Name__s",
+      "family": "Vacuum Pump",
+      "savings": 27000,
+      "title": "Shell VacuumPump Oil S3 RX 100"
+    }
+  ],
+  "commerce": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "001C7564",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Pennzoil ZDX 20W-50",
+  "description": "Multigrade Heavy Duty Diesel Engine Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140002267676_1D8.pdf",
+      "type": "GTDS",
+      "name": "English Pzl ZDX 20W-50 (CC/SC)",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637000.PDF",
+      "type": "LMSDS",
+      "name": "Pzl ZDX 20W-50 (CC/SC) India EN 140006501563 EHS V1.2 05-APR-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C7564_002W1X_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic Shell Yellow (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550031401",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C7564_002XCE_A1W8",
+      "name": "Keg 55 L Tight Head Plastic Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550031317",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C7564_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006645",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

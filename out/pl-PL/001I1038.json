@@ -1,0 +1,83 @@
+{
+  "id": "001I1038",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Diala S5 BD",
+  "description": "Premium Inhibited, Readily Biodegradable Electrical Insulating Oil",
+  "family": "Diala",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Oleje elektroizolacyjne",
+  "applicationKeys": [
+    "biodegradable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c8784210-a127-4280-8760-9089f4a6e8f9.pdf",
+      "type": "GTDS",
+      "name": "Diala S5 BD EN TDG V1.8 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606882.PDF",
+      "type": "LMSDS",
+      "name": "Diala S5 BD Poland PL 140003791557 EHS V1.2 03-JUL-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/fa7e9d7d-ddbb-41f6-9e6a-3e6f51caae9e.pdf",
+      "type": "LTDS",
+      "name": "Diala S5 BD Poland PL TDG V1.8 15-Mar-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606881.PDF",
+      "type": "LMSDS",
+      "name": "Diala S5 BD Poland EN 140003791557 EHS V1.2 03-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I1038_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550058658",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I1038_002VJX_A246",
+      "name": "Kontener 1000 L Plastic Black (1)",
+      "size": "1000",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550056017",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S5 BD jest wyprodukowanana na bazie olejów bazowych uzyskanych w technologii Shell GTL (gas-to-liquid), które nie zawierają siarki. Te oleje bazowe mają bardzo jednorodny składu i doskonałe właściwości antyoksydacyjne. Nie zawierają PCB, DBDS i pasywatorów.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

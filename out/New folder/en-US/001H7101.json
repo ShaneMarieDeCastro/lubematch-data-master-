@@ -1,0 +1,81 @@
+{
+  "id": "001H7101",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Extended Care SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9d48c6c5-8910-4831-95c2-f1c45542e3b5.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Extended Care 0W-20 Full Synthetic Motor Oil (API SN PLUS/GF-5) EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/bef5cc63-dc3d-4ff6-b876-b012842fd6cd.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Extended Care 0W-20 Full Synthetic Motor Oil (API SN PLUS/GF-5) United States EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562619.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Extended Care 0W-20 Full Synthetic Motor Oil (SP/GF-6A) United States EN 140002686046 EHS V1.2 02-JUN-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS-M2C947-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-B1"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® is the first motor oil made from natural gas, not crude. Pennzoil^® Extended Care™ SAE 0W-20 full synthetic motor oil with PurePlus Technology is designed for UNBEATABLE ENGINE PROTECTION.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,114 @@
+{
+  "id": "001C4570",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Rimula R3 10W (CF)",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "axle",
+    "bio gas",
+    "brakes",
+    "diesel",
+    "engine",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "semi manual",
+    "servo",
+    "stationary",
+    "synchronised",
+    "torque converter",
+    "transmissions",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0c2c0be6-6ac6-46fa-812d-bbabbc50e47b.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 10W (CF) EN TDG V2.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/97c75c5e-806b-48f1-be52-51ed5d31c8a7.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 10W (CF) France FR TDG V2.2 16-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557821.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) France FR 140003182031 EHS V2.11 20-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557822.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 10W (CF) France EN 140003182031 EHS V2.11 20-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4570_002VNA_A246",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550032225",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4570_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550032224",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles Shell Rimula R3 s'adaptent aux conditions de conduite et fournissent une protection supplémentaire au moteur. Elles maintiennent  propres les pistons et les autre pièdes du moteur. Elles procurent une protection contre l'usure ce qui assure une longue durée de vie au moteur. Elles protègent contre les dépôts et garantisent un foncionnement efficace du moteur.  \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R3-10W.png",
+  "valueRecord": [],
+  "commerce": null
+}

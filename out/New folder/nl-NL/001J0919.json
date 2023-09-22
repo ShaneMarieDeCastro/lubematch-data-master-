@@ -1,0 +1,77 @@
+{
+  "id": "001J0919",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Coolant Longlife Plus Concentrate",
+  "description": "Premium antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Koelvloeistof / Antivries - Concentraat ",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/79e2941e-90a7-4e96-ac4a-dd0f114c3011.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Plus Concentrate (Europe) EN TDG V1.5 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482550.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Plus Concentrate (Europe) Netherlands NL 140002783873 EHS V1.6 14-OCT-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482549.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Plus Concentrate (Europe) Netherlands EN 140002783873 EHS V1.6 14-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/0f3f0b98-4a97-4a62-9980-36a6e2ce9734.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Longlife Plus Concentrate (Europe) Netherlands NL TDG V1.5 07-Jul-2021",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0919_002VWL_A863",
+      "name": "Fles 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550061762",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0919_002VSH_A863",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550061761",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

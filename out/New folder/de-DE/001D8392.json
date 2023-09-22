@@ -1,0 +1,173 @@
+{
+  "id": "001D8392",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Refrigeration Oil S2 FR-A 68",
+  "description": "Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Kältemaschinenöle",
+  "applicationKeys": [
+    "bearing",
+    "commercial",
+    "cooling",
+    "cooling system",
+    "domestic",
+    "fixed",
+    "hermetic compressor",
+    "hydraulic system",
+    "industrial",
+    "open compressor",
+    "pump piston",
+    "r290",
+    "r717",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4d97b407-7917-4ede-b510-25d7f49ba344.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S2 FR-A 68 EN TDG V1.4 28-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/3935186c-ea96-4fae-8b9f-515d8874ffa7.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S2 FR-A 68 Germany DE TDG V1.4 28-Apr-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575021.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 68 Germany DE 140001492039 EHS V1.5 15-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575020.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 68 Germany EN 140001492039 EHS V1.5 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8392_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550025706",
+      "margin": "1.72450454655084",
+      "packShot": ""
+    },
+    {
+      "code": "001D8392_002VNA_A246",
+      "name": "Eimer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550025692",
+      "margin": "1.95127887745718",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KE",
+      "organisation": "DIN",
+      "spec": "51503 KE"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S2 FR-A wurde speziell für Kältekompressoren mit dem Kältemittel Ammoniak entwickelt. Formuliert auf Basis von speziell raffinierten paraffinbasischen Grundölen in Kombination mit ausgewählten Additiven, minimiert es die Bildung von Ablagerungen und ermöglicht lange Serviceintervalle.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse ",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "68"
+    },
+    {
+      "property": "Kältemaschinen",
+      "method": "DIN 51503",
+      "uom": "",
+      "units": "",
+      "value": "KAA, KE"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "9"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "232"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "862"
+    },
+    {
+      "property": "Neutralisationszahl",
+      "method": "ASTM D664 (TAN)",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "-"
+    },
+    {
+      "property": "Mischbarkeit mit R290",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Komplett mischbar mit kohlenwa"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DhpMQAS&field=Attachment__Name__s",
+      "family": "Refrigeration",
+      "savings": 19000,
+      "title": "Shell Refrigeration Oil S2 FR-A 68"
+    }
+  ],
+  "commerce": null
+}

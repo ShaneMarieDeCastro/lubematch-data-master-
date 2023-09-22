@@ -1,0 +1,196 @@
+{
+  "id": "001D7838",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Omala S2 G 320",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "enclosed gear",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "helical",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "on highway",
+    "plain",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "screw pump",
+    "servo",
+    "slew",
+    "splash lubricated bearings",
+    "spur",
+    "steam",
+    "stern tube seal",
+    "swing drive",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "trunnion",
+    "turbine",
+    "urban",
+    "vacuum pumps",
+    "variable",
+    "water",
+    "wind turbines",
+    "wire rod mill"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Omala_S2_G_320_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 G 320 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619436.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 320 Ireland EN 140007731156 EHS V2.7 17-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7838_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027198",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7838_002VNA_A246",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550026210",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-59",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-59"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 G oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "25"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "903"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-15"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

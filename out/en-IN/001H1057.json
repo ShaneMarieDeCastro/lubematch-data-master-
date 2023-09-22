@@ -1,0 +1,71 @@
+{
+  "id": "001H1057",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell HD4 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fd787fbc-6012-466a-ab05-ad99d2047e35.pdf",
+      "type": "GTDS",
+      "name": "Shell HD4 15W-40 (CI-4) EN TDG V1.1 12-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636751.PDF",
+      "type": "LMSDS",
+      "name": "Shell HD4 15W-40 (CI-4) India EN 140006501563 EHS V1.2 16-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H1057_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011126",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H1057_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550050439",
+      "margin": "0.411732374917438",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Helps to provide protection to improve engine and oil durability. Suitable for On and Off highway applications.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

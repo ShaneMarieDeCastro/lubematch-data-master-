@@ -1,0 +1,71 @@
+{
+  "id": "001A0036",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "AeroShell Compound 06A",
+  "description": "Isopropyl alcohol for aircraft de-icing",
+  "family": "AeroShell",
+  "parentCategory": "Smeermiddelen voor de luchtvaart",
+  "category": "Specialiteitsmeermiddelen (luchtvaart)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Aeroshell_Compound_06A_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Compound 06A English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_00664540.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Compound 06A Netherlands English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_00664539.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Compound 06A Netherlands Dutch",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "GSA: TT-I-735a Grade B",
+      "organisation": "GSA",
+      "spec": "TT-I-735a Grade B"
+    },
+    {
+      "name": "BSI BS 1595",
+      "organisation": "BSI",
+      "spec": "BS 1595"
+    },
+    {
+      "name": "Joint Service Designation AL-11",
+      "organisation": "Joint Service Designation",
+      "spec": "AL-11"
+    },
+    {
+      "name": "ASTM D770",
+      "organisation": "ASTM",
+      "spec": "D770"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Compound 06A is used as a de-icing fluid for windscreens, carburettors and propellers.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,84 @@
+{
+  "id": "001F8471",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Morlina S2 BL 10",
+  "description": "Special Application Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oli di circolazione e per cuscinetti",
+  "category": "Oli circolanti e per cuscinetti",
+  "applicationKeys": [
+    "ashless",
+    "bearing",
+    "high speed",
+    "high speed spindles",
+    "industrial",
+    "low viscosity",
+    "machine bearing and circulating systems",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d8dfb2ae-d09a-4541-93b5-b1ae626a4e4a.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BL 10 (2016) EN TDG V1.3 29-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02639223.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Italy IT 140007645406 EHS V1.6 29-AUG-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02639224.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BL 10 (2016) Italy EN 140007645406 EHS V1.6 29-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/f45a76c8-99d9-4140-b939-fd7402604070.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BL 10 (2016) Italy IT TDG V1.3 05-Sep-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8471_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550055978",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8471_002VNA_A1P5",
+      "name": "Secchio 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550062216",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 BL sono oli a bassa viscosità che impiegano la speciale tecnologia Gas-to-Liquid e sono formulati con additivi senza zinco, per garantire eccellenti prestazioni nei mandrini ad alta velocità delle macchine utensili.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

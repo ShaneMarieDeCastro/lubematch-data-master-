@@ -1,0 +1,176 @@
+{
+  "id": "001D8276",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Spirax S2 A 80W-90",
+  "description": "High quality, GL-5 axle oil",
+  "family": "Spirax",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Manuele Transmissie- en Versnellingsbakolie",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "brakes",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "front axle",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "on highway",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "slew",
+    "stationary",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "wheel"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_A_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 A 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577430.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 80W-90 Netherlands NL 140002783873 EHS V2.12 23-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/07ec36d5-10cb-4435-8293-15b98e32310d.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 A 80W-90 Netherlands NL TDG V1.1 02-Mar-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577441.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 80W-90 Netherlands EN 140002783873 EHS V2.12 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8276_002W1Y_EURO",
+      "name": "Fles 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550056384",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8276_002WTH_EURO",
+      "name": "Fles 5 L Wishbone Plastic Shell Red (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550047671",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 A 80W-90 is ontwikkeld voor een zo breed mogelijk toepassingsgebied in automotieve overbrengingen die onder zware omstandigheden worden ingezet. ",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80W-90"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "146"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.7"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "904"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-27"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027904_Shell_Spirax_S2_A_80W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

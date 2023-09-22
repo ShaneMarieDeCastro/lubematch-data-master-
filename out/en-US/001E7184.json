@@ -1,0 +1,80 @@
+{
+  "id": "001E7184",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Mysella S5 N 15W-40",
+  "description": "Premium, Long Life, Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "bio gas",
+    "diesel",
+    "engine",
+    "light fuel",
+    "low ash",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S5_N_15W-40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S5 N 15W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562453.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S5 N 15W-40 United States EN 140002686046 EHS V1.3 30-NOV-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_States_Shell_Mysella_S5_N_15W-40_(en-US)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Mysella S5 N 15W-40 United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7184_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007980",
+      "margin": "0.653220858864007",
+      "packShot": ""
+    },
+    {
+      "code": "001E7184_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550036525",
+      "margin": "1.3266988971158",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S5 N is specially developed to provide extended drain intervals in those natural gas engines where oil life is a limiting operational factor.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

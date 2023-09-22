@@ -1,0 +1,61 @@
+{
+  "id": "001I5475",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe L10",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1383272d-5151-4519-be88-02a040c00a76.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe L10 EN TDG V1.2 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562732.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe L10 United States EN 140002686046 EHS V1.1 30-SEP-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/efb83641-bfc3-4145-bac6-9d4132f8b41c.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe L10 United States EN TDG V1.2 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5475_002VIX_A1WJ",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057318",
+      "margin": "4.35088400017772",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe&nbsp;L10 is a fully synthetic, non-aqueous hydraulic fluid that can be used in industrial, marine and mobile equipment, including high-pressure systems, systems with servo valves and all robotics.\nShell EcoSafe L10 is formulated from a high VI, fully synthetic basestock coupled with a non-metallic additive package providing the properties demanded by today’s high performance hydraulic systems. Shell EcoSafe L10 is readily biodegradable and has excellent low temperature properties, good shear stability, and is resistant to oxidative and thermal degradation.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

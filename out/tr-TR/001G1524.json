@@ -1,0 +1,162 @@
+{
+  "id": "001G1524",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Argina S5 40",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": null,
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    "bearing",
+    "bio gas",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "plain",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d448a6cd-6be1-4fa3-b64c-bbb8f3b5c50e.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S5 40 EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596417.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S5 40 Turkey EN 140003791542 EHS V1.8 15-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/f8ef7634-f185-4174-8d2f-21c76d1411c3.pdf",
+      "type": "LTDS",
+      "name": "Shell Argina S5 40 Turkey TR TDG V1.9 26-Jun-2020",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596416.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S5 40 Turkey TR 140003791542 EHS V1.8 15-JUN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1524_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550046732",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1524_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550046744",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S5 40, ağır yakıtlarla çalışan günümüzün güçlü orta devirli dizel motorlarında kullanılan çok fonksiyonlu bir motor yağıdır. Shell Shell Argina S5 40, yüksek güç üreten ve düşük yağ tüketimi olan yeni motorlar için tasarlanmıştır ve TBN 55 seviyesinde bir üründür. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "123"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.7"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "920"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Base Number",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "55"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% m/m",
+      "value": "6.8"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "108"
+    },
+    {
+      "property": "Load Carrying Capacity (FZG Gear Machine) ",
+      "method": "ISO 14635-1 A/8.3/90",
+      "uom": "",
+      "units": "Failure load stage ",
+      "value": "11"
+    },
+    {
+      "property": "SAE grade (viscosity class)",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "40"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,197 @@
+{
+  "id": "001F8876",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T6 Multi Vehicle 5W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/364250ce-95d2-459d-af26-1140f1b7af6c.pdf",
+      "type": "GTDS",
+      "name": "Rotella T6 Multi Vehicle 5W-30 (CK-4) EN TDG V1.9 03-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563064.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 Multi Vehicle 5W-30 (CK-4) United States EN 140002686046 EHS V1.4 01-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/9ba7e5a6-2627-4eb5-a000-8da0a2264eac.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 Multi Vehicle 5W-30 (CK-4) United States EN TDG V1.9 03-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8876_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550046252",
+      "margin": "2.77502381784311",
+      "packShot": ""
+    },
+    {
+      "code": "001F8876_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010120",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8876_002WKW_A0II",
+      "name": "Bottle 1 Gal Local (Hybrid) Plastic HDPE Pearl Blue (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550046251",
+      "margin": "2.15340563186399",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3677",
+      "organisation": "MAN",
+      "spec": "M 3677"
+    },
+    {
+      "name": "Deutz DQC IV-18 LA",
+      "organisation": "Deutz",
+      "spec": "DQC IV-18 LA"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "MTU Category 3.1",
+      "organisation": "MTU",
+      "spec": "Category 3.1"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^®^ T6 Multi-Vehicle with Triple Protection Plus™ technology heavy duty engine oil has been enhanced with synthetic base oils plus advanced additive technology to provide protection  against wear, deposits and oil breakdown, PLUS improved fuel economy performance* and excellent extreme high/low temperature performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

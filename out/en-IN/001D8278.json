@@ -1,0 +1,89 @@
+{
+  "id": "001D8278",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Spirax S2 ALS 90",
+  "description": "High quality, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy truck",
+    "industrial",
+    "limited slip differentials",
+    "off highway",
+    "passenger car",
+    "reduction gears",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_ALS_90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Spirax S2 ALS 90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637346.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 90 India EN 140006501563 EHS V3.1 17-AUG-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_Spirax_S2_ALS_90_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 ALS 90 India English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8278_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005850",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8278_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550049146",
+      "margin": "0.837284524537162",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 ALS 90 oil is blended for use in a wide variety of automotive axle units with limited slip differentials.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

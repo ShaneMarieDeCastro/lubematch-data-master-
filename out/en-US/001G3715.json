@@ -1,0 +1,67 @@
+{
+  "id": "001G3715",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Spirax S6 CFD ME 60",
+  "description": "Premium performance off-highway final drive and axle oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Transmission Oils Other",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "60",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/06e10b1a-e605-40b7-8af9-e54c7ec70895.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 CFD ME 60 EN TDG V1.0 23-Dec-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562386.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 CFD ME 60 United States EN 140002686046 EHS V2.4 10-JUL-2020",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/b68126b0-4b94-421d-81a8-17fcee83ecb6.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 CFD ME 60 United States EN TDG V1.0 10-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G3715_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550048530",
+      "margin": "2.32664747836048",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar FD-1",
+      "organisation": "Caterpillar",
+      "spec": "FD-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 CFD ME 60 is a dedicated final drive and axle oil which offers significantly improved protection for gears and bearings in bevel gears, differentials, final drives and axles. It meets the Caterpillar FD-1 final drive axle oil (FDAO) specification. Spirax S6 CFD ME 60 has been developed for continuous use in extreme ambient temperatures in off-road vehicles.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,101 @@
+{
+  "id": "001F2644",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Morlina S4 B 150",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oleje obiegowe i łożyskowe",
+  "category": "Oleje łożyskowe i obiegowe",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "long life",
+    "low temperature",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0bf61188-1553-47a2-81f1-c21a13d849b9.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 150 (2014) EN TDG V4.8 11-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444291.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 150 (2014) Poland EN 140003791557 EHS V1.4 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/7327ff34-d5e6-4a4d-b8f2-f4572f9bcb43.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 150 (2014) Poland PL TDG V4.8 12-Jun-2017",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444289.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 150 (2014) Poland PL 140003791557 EHS V1.4 21-SEP-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2644_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550042990",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B to najwyższej jakości syntetyczne oleje obiegowe i łożyskowe zawierające olej bazowy o wysokich parametrach użytkowych. Zapewniają doskonałe właściwości smarne oraz oszczędność energii, doskonałą filtrowalność i wydłużone okresy eksploatacji, również w warunach dużych obciążeń.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_morlina_s4_b.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "001H2685",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Omala SG 220",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industrial gear oils",
+  "category": "Industrial gear oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/496fcc43-b9cf-4c16-90ea-b9b512943a95.pdf",
+      "type": "GTDS",
+      "name": "Omala SG 220 EN TDG V1.2 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/7e73760f-d550-49f7-bb85-a95872e92118.pdf",
+      "type": "LTDS",
+      "name": "Omala SG 220 United Kingdom EN TDG V1.2 14-Feb-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611045.PDF",
+      "type": "LMSDS",
+      "name": "Omala SG 220 United Kingdom EN 140002340634 EHS V1.2 05-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala SG oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

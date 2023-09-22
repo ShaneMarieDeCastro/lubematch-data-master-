@@ -1,0 +1,83 @@
+{
+  "id": "001E0213",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Gadus S4 V600AC 1.5",
+  "description": "Advanced Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisse EP à base semi-synthétique",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S4_V600AC_1.5_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 V600AC 1.5 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/7502a80b-f2e3-4422-a1e7-5fdc54a088b2.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 V600AC 1.5 Canada FR TDG V1.1 17-May-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02536542.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V600AC 1.5 Canada FR 140006579500 EHS V2.0 07-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/faf13298-8023-415e-b792-00c8f3a3ccf4.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 V600AC 1.5 Canada EN TDG V1.1 21-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02536541.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V600AC 1.5 Canada EN 140006579500 EHS V2.0 07-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0213_002VKN_A1WJ",
+      "name": "",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550027663",
+      "margin": "1.59613728171688",
+      "packShot": ""
+    },
+    {
+      "code": "001E0213_002XL3_A1WJ",
+      "name": "",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartouche ",
+      "materialCode": "550027634",
+      "margin": "1.33138986195973",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 V600AC offre une protection résistante à l'eau exceptionnelle. Cette graisse semi-synthétique est la référence en matière de performance dans cette zone de service sévère en raison de la combinaison unique d'épaississants, de polymères et d'additifs.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

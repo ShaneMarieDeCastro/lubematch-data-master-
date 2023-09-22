@@ -1,0 +1,76 @@
+{
+  "id": "001E8492",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Grease 58",
+  "description": "Synthetic grease for aircraft wheel bearings",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7cf14a97-2786-41a1-8f61-4116dfbf7f1e.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 58 EN TDG V1.6 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579491.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 58 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E8492_002XN5_A634",
+      "name": "Can without Closure 3 kg Open head Tinplate Shell Red (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Can without closure",
+      "materialCode": "550044109",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E8492_002XN4_A227",
+      "name": "Pail 17 kg Open head Plastic HDPE Shell Red (1)",
+      "size": "17",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550046868",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Airbus AIMS 09-06-003",
+      "organisation": "Airbus",
+      "spec": "AIMS 09-06-003"
+    },
+    {
+      "name": "AMS3058",
+      "organisation": "AMS",
+      "spec": "3058"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is -54°C to +175°C",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

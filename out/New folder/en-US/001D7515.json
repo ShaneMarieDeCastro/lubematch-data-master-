@@ -1,0 +1,137 @@
+{
+  "id": "001D7515",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil High Mileage SAE 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/691cce8c-fdd0-453d-b9c5-91229a9fffd0.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SP/GF-6A) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/a1b2338c-3e8a-45f2-8f99-550275a49f58.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SP/GF-6A) United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562707.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SP/GF-6A) United States EN 140002686046 EHS V1.9 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7515_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005396",
+      "margin": "0.868893084605859",
+      "packShot": ""
+    },
+    {
+      "code": "001D7515_002X5E_A1WK",
+      "name": "Not Specified 1 qt Not Specified Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Not specified",
+      "materialCode": "550022836",
+      "margin": "0.203494290980382",
+      "packShot": ""
+    },
+    {
+      "code": "001D7515_002VIZ_A0II",
+      "name": "Drum 55 Gal T/H PZL BYtop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022835",
+      "margin": "1.61858878777065",
+      "packShot": ""
+    },
+    {
+      "code": "001D7515_002V75_A0II",
+      "name": "Bottle 1 Quart Rect PZL C (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550022838",
+      "margin": "1.17835042278434",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C946-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C946-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® High Mileage Motor Oil a synthetic blend formula with Active Cleansing Technology. It is specially formulated to help stop leaks from seals and reduced oil consumption in worn engines. Because at Pennzoil we know, a cleaner, well sealed engine is better protected and responsive. It meets or exceeds the engine protection required by API SP and is specially formulated to provide protection for older vehicles or with 75,000+ miles.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

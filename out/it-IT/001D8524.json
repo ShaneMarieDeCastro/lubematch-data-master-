@@ -1,0 +1,97 @@
+{
+  "id": "001D8524",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell GadusRail S4 High Speed EUFR",
+  "description": "Advanced Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi Non-EP a base sintetica",
+  "applicationKeys": [
+    "advanced",
+    "european axle box",
+    "extended drain",
+    "extended service",
+    "heavy load",
+    "high load",
+    "high speed",
+    "high speed railway",
+    "lithium based",
+    "long life",
+    "rail",
+    "railroad",
+    "railroad axle box",
+    "roller bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d2305ec7-2c36-4daa-bc9d-89239481c710.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S4 High Speed EUFR EN TDG V4.2 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/50536331-ce36-4163-8bc8-0c2ff0b6b98b.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S4 High Speed EUFR Italy IT TDG V4.2 21-Nov-2018",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612627.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUFR Italy IT 140007645406 EHS V3.1 06-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612653.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S4 High Speed EUFR Italy EN 140007645406 EHS V3.1 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8524_002VH7_A1P5",
+      "name": "Fusto 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fusto",
+      "materialCode": "550059611",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8524_002VSL_A246",
+      "name": "Barile 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Barile",
+      "materialCode": "550028115",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 b",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 b"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

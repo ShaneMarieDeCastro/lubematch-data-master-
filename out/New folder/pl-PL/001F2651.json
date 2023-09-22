@@ -1,0 +1,168 @@
+{
+  "id": "001F2651",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra ECT C2/C3 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ae9fd33f-65c5-4766-8bbe-7fd623de14ea.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C2/C3 0W-30 (C2/C3 VW504/507 MB 229.52) EN TDG V2.0 27-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/9938ebe9-3154-4fcd-b593-54ee6a1bed16.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C2/C3 0W-30 (C2/C3 VW504/507 MB 229.52) Poland PL TDG V2.0 07-Sep-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497166.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C2/C3 0W-30 (C2/C3 VW504/507 MB 229.52) Poland PL 140003791557 EHS V1.4 06-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497168.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C2/C3 0W-30 (C2/C3 VW504/507 MB 229.52) Poland EN 140003791557 EHS V1.4 06-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2651_002YAO_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Copper Gold (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046306",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_002VSI_A246",
+      "name": "Mała beczka 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "l",
+      "pack": "Mała beczka",
+      "materialCode": "550042232",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550042331",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F2651_002YAN_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046305",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Fiat 9.55535-GS1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-GS1 - Meets the requirements"
+    },
+    {
+      "name": "Porsche C30",
+      "organisation": "Porsche",
+      "spec": "C30"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "MB-Approval 229.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.52"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "Fiat 9.55535-DS1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-DS1 - Meets the requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C2/C3 bazuje na zaawansowanej technologii zapewniającej kompatybilność olejów z systemami kontroli emisji spalin (ECT) i ochronę filtrów cząstek stałych zapewniając wysoką wydajność silnika. Zmniejsza tarcia elementów pracujących silnika zapewniając oszczędność paliwa. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_0W-30_ECT-C2-C3_5L_600053814.png",
+  "valueRecord": [],
+  "commerce": null
+}

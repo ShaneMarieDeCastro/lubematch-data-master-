@@ -1,0 +1,61 @@
+{
+  "id": "001H3831",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Alexia 25",
+  "description": "High performance engine oil for cylinder lubrication of 2-stroke low speed dual fuel engines operating on fuels with < 0.1% Sulphur",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2f9ad16c-872e-4b97-91d9-b6282ced1caa.pdf",
+      "type": "GTDS",
+      "name": "Alexia 25 EN TDG V1.4 05-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01856141.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 25 Malaysia MS 140001435555 EHS V1.1 09-SEP-2019",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01856017.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 25 Malaysia EN 140001435555 EHS V1.1 09-SEP-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3831_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550052007",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 25 has a BN of 25 and is an SAE50 cylinder oil.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

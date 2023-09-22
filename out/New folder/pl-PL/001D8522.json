@@ -1,0 +1,178 @@
+{
+  "id": "001D8522",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S1 V220 2",
+  "description": "Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne z dodatkami EP",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "cement",
+    "ep",
+    "extreme pressure",
+    "general engineering",
+    "lithium",
+    "lithium based",
+    "moderate duty",
+    "multipurpose",
+    "plain bearings",
+    "roller bearings",
+    "rolling bearing",
+    "steel",
+    "versatile"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ef801d38-ac2c-4092-8d66-0d30e1d1b685.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V220 2 EN TDG V2.6 31-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/97bfeb92-13c2-4302-94bf-84fed305c1c0.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V220 2 Poland PL TDG V2.6 19-Apr-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542741.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V220 2 Poland EN 140003791557 EHS V1.6 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542709.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V220 2 Poland PL 140003791557 EHS V1.6 22-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8522_002XD7_A246",
+      "name": "Wiadro 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028090",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8522_002VSL_A246",
+      "name": "Mała beczka 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Mała beczka",
+      "materialCode": "550028204",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8522_002VH7_A246",
+      "name": "Beczka 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Beczka",
+      "materialCode": "550028048",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8522_002XM9_EURO",
+      "name": "Tuba 0.4 kg Local (Cartridge Lube shuttle) Plastic White (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550053080",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8522_002VGF_EURO",
+      "name": "Tuba 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550050090",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Dark brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "18"
+    },
+    {
+      "property": "Cone Penetration, worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": ">180"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

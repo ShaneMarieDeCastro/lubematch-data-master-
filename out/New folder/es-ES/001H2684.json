@@ -1,0 +1,82 @@
+{
+  "id": "001H2684",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Omala SG 150",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Aceites de engranajes industriales",
+  "category": "Aceites de engranajes industriales",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8bf0b04e-24dc-48cd-b8c9-c4921f3c157a.pdf",
+      "type": "GTDS",
+      "name": "Omala SG 150 EN TDG V1.2 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02454376.PDF",
+      "type": "LMSDS",
+      "name": "Omala SG 150 Spain EN 140003966322 EHS V1.1 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02452236.PDF",
+      "type": "LMSDS",
+      "name": "Omala SG 150 Spain ES 140003966322 EHS V1.1 21-SEP-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2684_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550052330",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala SG oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,182 @@
+{
+  "id": "001D7779",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Corena S2 P 100",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "air compressor",
+    "bearing",
+    "breathing air compressor",
+    "diesel",
+    "engine",
+    "gearbox",
+    "high pressure",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "piston",
+    "reciprocating",
+    "rollers",
+    "rotary vane",
+    "turbomolecular",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0f4da9af-7707-4089-b7a7-41076f5a1b8c.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 100 EN TDG V2.4 14-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/3cd805f1-74de-4fd4-a51a-bc4bb291feb9.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 P 100 France FR TDG V2.4 26-Jan-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572543.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 100 France FR 140003182031 EHS V2.6 04-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572542.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 100 France EN 140003182031 EHS V2.6 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7779_002VNA_A246",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550026197",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7779_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550026196",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    },
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P est une huile de haute qualité à destinée à la lubrification des compresseurs d'air alternatifs de haute pression. Elle est particulièrement adaptée à la lubrification des compresseurs d'air alternatifs pour les températures de refoulement allant jusqu'à 220°C. ",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "9.2"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "899"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    },
+    {
+      "property": "Neutralisation Value",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0.3"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "DIN 51575",
+      "uom": "",
+      "units": "% m",
+      "value": "0.06"
+    },
+    {
+      "property": "Rust Prevention - Synthetic Sea Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "degree",
+      "value": "Pass"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@54°C",
+      "units": "min",
+      "value": "-"
+    },
+    {
+      "property": "Water Sperability",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "min",
+      "value": "20"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

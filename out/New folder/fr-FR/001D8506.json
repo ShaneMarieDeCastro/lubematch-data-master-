@@ -1,0 +1,88 @@
+{
+  "id": "001D8506",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S2 OGH 0/00",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Graisses d’engrenage ouvertes",
+  "applicationKeys": [
+    "clay",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "kiln gears",
+    "open gears",
+    "rotary cement kiln",
+    "rotary cement kiln gears",
+    "smectite",
+    "solid lubricant",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0/00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c583389f-234b-4edc-8d66-d6e5dceb201f.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGH 0/00 EN TDG V1.2 04-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/c7e75a09-79d4-4bcc-993e-fd8bdccc5f94.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OGH 0/00 France FR TDG V1.2 08-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487539.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 France EN 140003182031 EHS V1.4 26-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487541.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 France FR 140003182031 EHS V1.4 26-SEP-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8506_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550028076",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8506_002XD7_A246",
+      "name": "Sceau 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550028047",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 OGH est formulée à partir d'un épaississant inorganique dispersé dans une huile de base à haute viscosité contenant du graphite.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

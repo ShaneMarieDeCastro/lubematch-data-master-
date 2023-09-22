@@ -1,0 +1,80 @@
+{
+  "id": "001D8438",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S3 V100 2",
+  "description": "Premium Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi non-EP a base di olio minerale",
+  "applicationKeys": [
+    "air blowers",
+    "electric motor bearings",
+    "electric motors",
+    "high speed",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "low speed",
+    "multipurpose",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621314.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 Italy IT 140007645406 EHS V5.1 20-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/58e04a74-d9a1-47de-9a85-126beabaebca.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V100 2 Italy IT TDG V1.1 02-Aug-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621315.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 Italy EN 140007645406 EHS V5.1 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8438_002VME_A246",
+      "name": "Secchio 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550028075",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V100 è specifico per cuscinetti operanti ad elevate temperature, funzionanti sia ad alte che a basse velocità ed in presenza di umidità.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

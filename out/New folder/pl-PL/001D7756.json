@@ -1,0 +1,116 @@
+{
+  "id": "001D7756",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Tellus S2 VA 46",
+  "description": "Industrial Detergent Hydraulic Fluid for wide temperature range\n",
+  "family": "Tellus",
+  "parentCategory": "Ciecze hydrauliczne",
+  "category": "Płyny hydrauliczne",
+  "applicationKeys": [
+    "aviation turbines",
+    "fixed",
+    "fuel",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "servo",
+    "transmissions",
+    "turbine",
+    "variable",
+    "versatile",
+    "water resistance"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/60dc89ba-4646-4cea-953d-ce210a8a29c8.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 VA 46 EN TDG V1.8 31-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02568791.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VA 46 Poland PL 140003791557 EHS V3.13 30-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02568790.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VA 46 Poland EN 140003791557 EHS V2.13 01-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/264ad900-770f-4a8b-8e52-a3af979be84f.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VA 46 Poland PL TDG V1.8 03-Sep-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7756_002VNA_A246",
+      "name": "Wiadro 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550026366",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7756_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027113",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "Bosch RD 90220-01/04.11",
+      "organisation": "Bosch",
+      "spec": "RD 90220-01/04.11"
+    },
+    {
+      "name": "ASTM D6158 HV",
+      "organisation": "ASTM",
+      "spec": "D6158 HV"
+    },
+    {
+      "name": "DIN 51524-3 HVLPD",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLPD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 VA to doskonałej jakości olej hydrauliczny z dodatkami detergentowymi zalecany, gdy wymagane jest stosowanie olejów posiadających właściwości dyspergowania wody. Zawiera zaawansowany pakiet cynkowych dodatków przeciwzużyciowych, co zapewnia utrzymanie wysokich osiągów układów hydraulicznych działających w urządzeniach budowlanych oraz w instalacjach mobilnych, gdzie istnieje możliwość zanieczyszczenia układu wodą oraz wymagana jest wysoka czystość i kontrola zawartości zanieczyszczeń stałych, a urządzenia pracują w szerokim zakresie temperatur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

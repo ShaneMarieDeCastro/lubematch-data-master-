@@ -1,0 +1,148 @@
+{
+  "id": "001D8268",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S4 G 75W-90",
+  "description": "High Performance Synthetic VW Manual Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "hydraulic system",
+    "manual",
+    "off highway",
+    "reduction gears",
+    "screw pump",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/e0a908be-6c15-42b0-9a4e-fb782e60bb42.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 G 75W-90 EN TDG V1.2 30-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578214.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-90 Germany DE 140001492039 EHS V3.9 23-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/b13782e6-9c2a-46b6-befe-04a823d9c4e5.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 G 75W-90 Germany DE TDG V1.2 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578213.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-90 Germany EN 140001492039 EHS V3.9 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8268_002WL0_A292",
+      "name": "Flasche 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550027967",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8268_002VND_A246",
+      "name": "Eimer 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027789",
+      "margin": "2.29389117359074",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "VW Standard TL 501.50",
+      "organisation": "VW",
+      "spec": "Standard TL 501.50"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 G 75W-90 ist ein teilsynthetisches Schaltgetriebeöl speziell für Getriebe in PKW und Nutzfahrzeugen der leichten Klasse aus der Volkswagen-Gruppe.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE-Viskositätsklasse ",
+      "method": "SAE J 306",
+      "uom": "",
+      "units": "",
+      "value": "75W-90"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "64,2"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "14"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "228"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "868"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "134"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027967_Shell_Spirax_S4_G_75W-90_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

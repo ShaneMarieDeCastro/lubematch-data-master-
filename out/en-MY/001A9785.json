@@ -1,0 +1,114 @@
+{
+  "id": "001A9785",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Turbo Oil T 100",
+  "description": "High Performance Steam Turbine Oil",
+  "family": "Turbo",
+  "parentCategory": null,
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    "ashless",
+    "aviation turbines",
+    "ball",
+    "bearing",
+    "gas turbines",
+    "gearbox",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "hydroelectric turbine",
+    "industrial",
+    "journal",
+    "light duty gas turbine",
+    "manual sequential",
+    "plain",
+    "pump gear",
+    "rollers",
+    "rotary vane",
+    "steam",
+    "steam turbine",
+    "tost life 5000 hours",
+    "transmissions",
+    "turbine",
+    "turbocompressors",
+    "vacuum pumps",
+    "water",
+    "wire rod mill",
+    "zinc free"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2b709978-d93f-4d9b-bcf9-f628929076a7.pdf",
+      "type": "GTDS",
+      "name": "Turbo T 100 EN TDG V4.0 21-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02163781.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 Malaysia English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02163796.PDF",
+      "type": "LMSDS",
+      "name": "Turbo T 100 Malaysia Malay (Bahasa Melayu)",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9785_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550026648",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "ISO 8068:2006 L-THA",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-THA"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "Indian Standard IS 1012 2002",
+      "organisation": "Indian Standard",
+      "spec": "IS 1012 2002"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo Oils T have long been regarded as the industry standard turbine oil. Building on this reputation, Shell Turbo Oils T have been developed to offer improved performance capable of meeting the demands of the most modern steam turbine systems and light duty gas turbines, which require no enhanced anti-wear performance for the gearbox. Shell Turbo Oils T are formulated from high quality hydrotreated base oils and a combination of zinc-free additives that provide excellent oxidative stability, protection against rust & corrosion, low foaming and excellent demulsibility.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

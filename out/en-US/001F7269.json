@@ -1,0 +1,55 @@
+{
+  "id": "001F7269",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Fluid 4 (NA)",
+  "description": "Mineral hydraulic fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d8402d4b-e571-4a44-9038-43d24fec2c28.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 4 (NA) EN TDG V1.1 18-May-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562368.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 4 (NA) United States EN 140002686046 EHS V2.0 29-MAY-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7269_002VG5_A532",
+      "name": "Can 1 US Gal T/H Tinplate Pre-printed (6)",
+      "size": "1",
+      "uom": "US",
+      "pack": "Can",
+      "materialCode": "550043667",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 4  (NA) is a mineral hydraulic oil with very good low temperature characteristics and capable of operating over a wide temperature range. AeroShell Fluid 4  (NA) is composed of a mineral oil base stock and a complex additive package which results in a product with excellent low temperature flow and anti-wear properties, exceptional antifoam characteristics, and excellent oxidation stability. AeroShell Fluid 4 (NA) is dyed red.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

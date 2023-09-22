@@ -1,0 +1,81 @@
+{
+  "id": "001I5513",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe S3 DU 32",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1851fe2d-3b11-49ad-936a-3b4a79dfe0d4.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S3 DU 32 EN TDG V1.6 23-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/b84dec0b-b3a5-4657-b97b-895e190c6fc3.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 32 United States EN TDG V1.6 23-Nov-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563919.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 32 United States EN 140002686046 EHS V1.1 24-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5513_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057365",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5513_002VOP_NAMD",
+      "name": "Pail 5 Gal Plastic O/H Y (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057364",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5513_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057363",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

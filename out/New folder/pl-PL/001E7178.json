@@ -1,0 +1,68 @@
+{
+  "id": "001E7178",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Mysella S2 Z 40",
+  "description": "Zero Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Oleje silnikowe przemysłowe",
+  "category": "Oleje silnikowe - stacjonarne silniki gazowe",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "diesel",
+    "engine",
+    "gas",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "landfill",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S2_Z_40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 Z 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561634.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 40 Poland EN 140003791557 EHS V1.0 27-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561665.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 40 Poland PL 140003791557 EHS V1.0 27-APR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 Z is a heavy-duty lubricant for high performance natural gas engines which require an “ash-less” product. Using ash-less technology Shell Mysella minimises engine wear, deposits in combustion chambers and exhaust ports and viscosity increase in service.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

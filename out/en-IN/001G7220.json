@@ -1,0 +1,71 @@
+{
+  "id": "001G7220",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Rimula Light Duty LD3 Multi 15W-40",
+  "description": "Specially Designed Engine Oil for Light Commercial Vehicles",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/44290410-f433-4a3d-ad3a-3c859c74e6ce.pdf",
+      "type": "GTDS",
+      "name": "Rimula Light Duty LD3 Multi 15W-40 (CH-4) EN TDG V1.2 16-Mar-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637170.PDF",
+      "type": "LMSDS",
+      "name": "Rimula Light Duty LD3 Multi 15W-40 (CH-4) India EN 140006501563 EHS V1.1 10-DEC-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G7220_002XI3_A1W8",
+      "name": "Bottle 3 L Wishbone Plastic Black (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050080",
+      "margin": "0.77861713555786",
+      "packShot": ""
+    },
+    {
+      "code": "001G7220_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011041",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Provides reliable protection for a wide range of light duty engines and operating conditions",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

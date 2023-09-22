@@ -1,0 +1,73 @@
+{
+  "id": "001I5490",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Water Soluble Hydraulic Fluid 46",
+  "description": "Water Soluble Hydraulic Oil",
+  "family": "Hydraulic",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fa454f00-5841-4c65-9c72-10e5c08e61d7.pdf",
+      "type": "GTDS",
+      "name": "Water Soluble Hydraulic Fluid 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/78d08f83-cd58-4a73-8a51-03e0bf94892b.pdf",
+      "type": "LTDS",
+      "name": "Water Soluble Hydraulic Fluid 46 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02623445.PDF",
+      "type": "LMSDS",
+      "name": "Water Soluble Hydraulic Fluid 46 Canada EN 140006579500 EHS V1.3 25-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02623446.PDF",
+      "type": "LMSDS",
+      "name": "Water Soluble Hydraulic Fluid 46 Canada FR 140006579500 EHS V1.3 25-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/625ac099-bfd7-4877-aec5-b6fef66006bb.pdf",
+      "type": "LTDS",
+      "name": "Water Soluble Hydraulic Fluid 46 Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5490_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057332",
+      "margin": "0.0343737224929679",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

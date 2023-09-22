@@ -1,0 +1,154 @@
+{
+  "id": "001H0326",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T6 0W-40",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7787c524-80c0-41cf-8884-5a615feab24f.pdf",
+      "type": "GTDS",
+      "name": "Rotella T6 0W-40 (CK-4) EN TDG V1.1 16-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/922a25d7-a215-4f1e-aacf-03fef16ff9a9.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 0W-40 (CK-4) Canada FR TDG V1.1 26-May-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02366475.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 0W-40 (CK-4) Canada EN 140006579500 EHS V3.0 26-AUG-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02366670.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 0W-40 (CK-4) Canada FR 140006579500 EHS V3.0 26-AUG-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/4a2d9537-4b3f-41d6-ad90-b3eda7d7dfd5.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 0W-40 (CK-4) Canada EN TDG V1.1 07-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0326_002XLT_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550054528",
+      "margin": "1.97937314128599",
+      "packShot": ""
+    },
+    {
+      "code": "001H0326_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500011754",
+      "margin": "0.770528698463579",
+      "packShot": ""
+    },
+    {
+      "code": "001H0326_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550054525",
+      "margin": "1.20451354787539",
+      "packShot": ""
+    },
+    {
+      "code": "001H0326_002X4L_A0IK",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057940",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile moteur entièrement synthétique Shell ROTELLA ^®^ T6 avec technologie Triple Protection Plus™ a été améliorée avec une huile de base entièrement synthétique et une technologie d'additifs avancée pour fournir une protection contre l'usure, les dépôts et la dégradation de l'huile PLUS un meilleur débit à basse température.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

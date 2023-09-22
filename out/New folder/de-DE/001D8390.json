@@ -1,0 +1,163 @@
+{
+  "id": "001D8390",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Naturelle Transformer Fluid S4 I",
+  "description": "Advanced synthetic electrical insulating fluid",
+  "family": "Naturelle",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Isolieröle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/98e20720-65db-4457-b880-f73b0c5bc864.pdf",
+      "type": "GTDS",
+      "name": "Naturelle Transformer Fluid S4 I EN TDG V1.3 06-Jan-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575133.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle Transformer Fluid S4 I Germany DE 140001492039 EHS V1.7 15-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575132.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle Transformer Fluid S4 I Germany EN 140001492039 EHS V1.7 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/01ca3af3-bd19-4d4a-ad4e-9c4bb2556939.pdf",
+      "type": "LTDS",
+      "name": "Naturelle Transformer Fluid S4 I Germany DE TDG V1.3 06-Jan-2020",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8390_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550025688",
+      "margin": "1.97770390743679",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 61099 T1",
+      "organisation": "IEC",
+      "spec": "61099 T1"
+    },
+    {
+      "name": "IEC 61039",
+      "organisation": "IEC",
+      "spec": "61039"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle Transformer Fluid S4 I ist eine besonders hochwertige, vollsynthetische Isolierflüssigkeit, die auf Basis von ausgesuchten Esterölen hergestellt wird. Es hat eine sehr gute Oxidationsstabilität und eine hohe Durchschlagfestigkeit. Shell Naturelle Transformer Fluid S4 I ist biologisch leicht abbaubar und schwer entflammbar.",
+  "physicalCharacteristics": [
+    {
+      "property": "Aussehen",
+      "method": "DIN 57370",
+      "uom": "",
+      "units": "",
+      "value": "Hell und klar"
+    },
+    {
+      "property": "Dichte ",
+      "method": "ISO 12185",
+      "uom": "@20 °C",
+      "units": "kg/m³",
+      "value": "970"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "27,2"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@–20 °C",
+      "units": "mm²/s",
+      "value": "1170"
+    },
+    {
+      "property": "Flammpunkt (PM)",
+      "method": "ISO 2719/ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "255"
+    },
+    {
+      "property": "Brennpunkt (COC)",
+      "method": "ISO 2592/ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "310"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–57"
+    },
+    {
+      "property": "Durchschlagspannung (nach Vorbehandlung)",
+      "method": "IEC 60156",
+      "uom": "",
+      "units": "kV",
+      "value": "72"
+    },
+    {
+      "property": "Dielektrischer Verlustfaktor (nach Vorbehandlung)",
+      "method": "IEC 60747",
+      "uom": "@90 °C",
+      "units": "",
+      "value": "0,01"
+    },
+    {
+      "property": "Oxidationsstabilität (164 Std.) – Neutralisationszahl (TAN)",
+      "method": "IEC 61125C",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0,19"
+    },
+    {
+      "property": "Oxidationsstabilität (164 Std.) – Schlamm",
+      "method": "IEC 61125C",
+      "uom": "",
+      "units": "% m",
+      "value": "<0,01"
+    },
+    {
+      "property": "Biologische Abbaubarkeit",
+      "method": "OECD 301B",
+      "uom": "nach 28 Tagen",
+      "units": "%",
+      "value": "72"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_Transformer_Fluid_S4_I.png",
+  "valueRecord": [],
+  "commerce": null
+}

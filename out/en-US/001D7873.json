@@ -1,0 +1,93 @@
+{
+  "id": "001D7873",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Paper Machine Oil S3 M 320",
+  "description": "Paper Machine Circulating Oils",
+  "family": "Paper Machine",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "gearbox",
+    "industrial",
+    "plain",
+    "rollers"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/fdc837f8-e7e2-45e6-a137-8102cd349549.pdf",
+      "type": "GTDS",
+      "name": "Paper Machine Oil S3 M 320 EN TDG V2.2 11-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/a97d1937-2934-4166-bc70-939db9e01cb0.pdf",
+      "type": "LTDS",
+      "name": "Paper Machine Oil S3 M 320 United States EN TDG V2.2 05-May-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562406.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S3 M 320 United States EN 140002686046 EHS V4.2 29-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7873_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006017",
+      "margin": "0.838718104848469",
+      "packShot": ""
+    },
+    {
+      "code": "001D7873_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550027594",
+      "margin": "1.20948040104316",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "DIN 51354-2",
+      "organisation": "DIN",
+      "spec": "51354-2"
+    },
+    {
+      "name": "Voith VN 108",
+      "organisation": "Voith",
+      "spec": "VN 108"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Paper Machine Oils S3 M are high performance Oils based on modern ashless additive technology. They are designed to provide excellent all round protection for the diverse needs and conditions found in modern Paper machines. They meet the requirements of Metso, SKF and Voith systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

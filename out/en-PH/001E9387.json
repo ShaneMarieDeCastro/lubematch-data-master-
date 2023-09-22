@@ -1,0 +1,108 @@
+{
+  "id": "001E9387",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix Ultra Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3d1906be-4738-410c-94cb-01d08b1c107e.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) EN TDG V1.8 03-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02269159.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Philippines EN 140001435525 EHS V1.3 29-MAR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/1ec420fa-c93b-47ac-9e29-f969b9facac8.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF 5W-30 (A5/B5 M2C-913D) Philippines EN TDG V1.8 03-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9387_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008780",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9387_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550039481",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR.03.5003 - Meets the requirements",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5003 - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C913-C",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C"
+    },
+    {
+      "name": "Ford WSS-M2C913-C - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C - Meets the requirements"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "Ford WSS-M2C913-D",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-D"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including Ford and those requiring ACEA A5/B5.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AF_5L_600061213.png",
+  "valueRecord": [],
+  "commerce": null
+}

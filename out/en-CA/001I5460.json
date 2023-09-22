@@ -1,0 +1,83 @@
+{
+  "id": "001I5460",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe Revive",
+  "description": "Special Purpose Turbine Oil - TF",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/400f7798-37a7-47b9-a2f5-fe0ebf8ebd1d.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Revive EN TDG V1.2 08-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02266268.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Revive Canada FR 140006579500 EHS V1.1 22-MAR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02266271.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Revive Canada EN 140006579500 EHS V1.1 22-MAR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/3f1cb344-8d3f-43a8-a4ea-71e69ddde5dd.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Revive Canada FR TDG V1.2 05-May-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/a5459e29-b3f1-41df-9b4d-d479ed901d05.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Revive Canada EN TDG V1.2 08-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5460_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057298",
+      "margin": "9.15873347355769",
+      "packShot": ""
+    },
+    {
+      "code": "001I5460_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057297",
+      "margin": "9.08682753134116",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe Revive is a synthetic based solvency enhancer, that can be incorporated into hydrocarbon-based, non-zinc turbine fluids to reduce the issues associated with varnish formation and product instability. Shell EcoSafe Revive is designed improve the solubility of pre-existing hydrocarbon-based turbine fluid in order to assist in mitigation of those fluids with elevated and high varnish potential ratings. Shell EcoSafe Revive does not replenish the existing anti-oxidants in used turbine fluids but rather helps by re-solubilizing additives that are trapped in varnish deposits.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

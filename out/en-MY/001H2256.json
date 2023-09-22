@@ -1,0 +1,92 @@
+{
+  "id": "001H2256",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix HX5 10W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/121500eb-d093-4655-b151-563f5672e8c4.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 10W-30 (SN PLUS/CF A3/B3) EN TDG V1.0 18-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01775052.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 10W-30 (SN PLUS/CF A3/B3) Malaysia MS 140001435555 EHS V1.0 03-JUN-2019",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01775053.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 10W-30 (SN PLUS/CF A3/B3) Malaysia EN 140001435555 EHS V1.0 03-JUN-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2256_002WTF_A04U",
+      "name": "Bottle 3 L Wishbone Plastic Shell Yellow (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051972",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2256_002W1X_A753",
+      "name": "Bottle 1 L Wishbone Plastic Shell Yellow (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550051971",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 is designed to help provide consistent engine performance. It works hard to help protect against engine sludge and reduce wear. It is suitable for a wide variety of vehicles for everyday driving conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

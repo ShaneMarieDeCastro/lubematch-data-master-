@@ -1,0 +1,61 @@
+{
+  "id": "001I5769",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix HYBRID 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ed189fb5-d327-4834-a317-f72f90d7196a.pdf",
+      "type": "GTDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) EN TDG V1.1 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605965.PDF",
+      "type": "LMSDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Spain EN 140003966322 EHS V1.3 29-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605966.PDF",
+      "type": "LMSDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Spain ES 140003966322 EHS V1.3 29-JUN-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HYBRID is specially designed for modern fuel efficient gasoline engines built in hybrid-electric vehicles.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,78 @@
+{
+  "id": "001I6223",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Fire-Resistant Hydraulic Fluid S1 DU 40",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Ciecze hydrauliczne",
+  "category": "Płyny hydrauliczne",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Vegetable",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/40eecc9d-d36a-474f-a87b-11a71825c9b0.pdf",
+      "type": "GTDS",
+      "name": "Fire-Resistant Hydraulic Fluid S1 DU 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02468657.PDF",
+      "type": "LMSDS",
+      "name": "Fire-Resistant Hydraulic Fluid S1 DU 40 Poland PL 140003791557 EHS V2.0 06-OCT-2022",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/eee38d9a-93d1-4c88-9a3d-7e70ede0efde.pdf",
+      "type": "LTDS",
+      "name": "Fire-Resistant Hydraulic Fluid S1 DU 40 Poland PL TDG V1.1 28-Jul-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02468656.PDF",
+      "type": "LMSDS",
+      "name": "Fire-Resistant Hydraulic Fluid S1 DU 40 Poland EN 140003791557 EHS V2.0 06-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I6223_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550057692",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12922 HFDU",
+      "organisation": "ISO",
+      "spec": "12922 HFDU"
+    },
+    {
+      "name": "VDMA 24568",
+      "organisation": "VDMA",
+      "spec": "24568"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Fire-Resistant Hydraulic Fluid S1 DU 40 to płyn hydrauliczny o zmniejszonej palności przeznaczony do układów wymagających łatwo biodegradowalnych, mało toksycznych płynów hydraulicznych. Może być stosowany w obszarach wrażliwych środowiskowo w zastosowaniach przemysłowych, morskich i mobilnych, w tym w systemach pracujących z wysokimi ciśnieniami, dla których zagrożenie pożarowe jest problemem. Jako oleje bazowe zastosowane zostały wysokiej jakości oleje roślinne o wysokim wskaźniku lepkości. Olej zawiera pakiet dodatków zapewniających spełnienia wymagań stawianym olejom hydraulicznym. Shell Fire-Resistant Hydraulic Fluid S1 DU 40 posiada certyfikat USDA BioPreferred^®.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

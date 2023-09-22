@@ -1,0 +1,67 @@
+{
+  "id": "001E9388",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra Professional AF-L 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f6269cd7-71db-42dc-b264-d88a1f9b3f57.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) EN TDG V1.1 11-Oct-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02539621.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) United Kingdom EN 140002340634 EHS V2.5 13-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/45d211bf-68e2-4d42-93a4-15e8be16bc67.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) United Kingdom EN TDG V1.1 21-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR.03.5005",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5005"
+    },
+    {
+      "name": "ACEA C1",
+      "organisation": "ACEA",
+      "spec": "C1"
+    },
+    {
+      "name": "Ford WSS-M2C934-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C934-B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including Ford, Jaguar and Mazda, and those requiring ACEA C1.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AF-L_5L_600058637.png",
+  "valueRecord": [],
+  "commerce": null
+}

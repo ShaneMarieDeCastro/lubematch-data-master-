@@ -1,0 +1,67 @@
+{
+  "id": "001H3831",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Alexia 25",
+  "description": "High performance engine oil for cylinder lubrication of 2-stroke low speed dual fuel engines operating on fuels with < 0.1% Sulphur",
+  "family": "Alexia",
+  "parentCategory": "Lubricantes marinos",
+  "category": "Aceites de motor - Cilindro y sistema de lubricación",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2f9ad16c-872e-4b97-91d9-b6282ced1caa.pdf",
+      "type": "GTDS",
+      "name": "Alexia 25 EN TDG V1.4 05-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/cef5d942-a848-48d0-b6f2-932af234369b.pdf",
+      "type": "LTDS",
+      "name": "Alexia 25 Spain ES TDG V1.1 05-Aug-2019",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02469907.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 25 Spain EN 140003966322 EHS V1.6 07-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02469906.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 25 Spain ES 140003966322 EHS V1.6 07-OCT-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3831_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550052442",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 25 has a BN of 25 and is an SAE50 cylinder oil.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

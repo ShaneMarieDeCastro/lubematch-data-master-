@@ -1,0 +1,67 @@
+{
+  "id": "001F7268",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Fluid 61 (NA)",
+  "description": "Synthetic hydrocarbon hydraulic fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28d3c04e-e180-45b7-911a-1927e1a39bce.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 61 (NA) EN TDG V1.4 31-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/c4f319af-614b-420b-b41b-ac9fd377d21d.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 61 (NA) Singapore EN TDG V1.4 31-May-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580529.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 61 (NA) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7268_002VJ2_A1P5",
+      "name": "Drum 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550049978",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-46170E Type I",
+      "organisation": "MIL",
+      "spec": "PRF-46170E Type I"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 61 is a synthetic hydrocarbon base hydraulic fluid specifically inhibited to provide excellent oxidation stability for the oil and good corrosion preventive protection to the hydraulic system.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

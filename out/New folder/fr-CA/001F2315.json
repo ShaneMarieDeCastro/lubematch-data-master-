@@ -1,0 +1,124 @@
+{
+  "id": "001F2315",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Ultra Platinum SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/03e0e038-d65f-4b92-ab8a-9da8e9b4cd1e.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Ultra Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A) EN TDG V2.3 12-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/03b9cb18-a085-447d-a7d2-072d04d989ba.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Ultra Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A) Canada EN TDG V2.3 12-Apr-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/066b7a2b-b379-46c4-b400-69eba1964d9a.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Ultra Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A) Canada FR TDG V2.3 12-Apr-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02385617.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Ultra Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A) Canada EN 140006579500 EHS V1.6 04-NOV-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02385618.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Ultra Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A) Canada FR 140006579500 EHS V1.6 04-NOV-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2315_002XLH_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550045194",
+      "margin": "3.58566904976559",
+      "packShot": ""
+    },
+    {
+      "code": "001F2315_002X9K_A0IK",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550039851",
+      "margin": "3.92157701872807",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Ultra Platinum^® à Technologie PurePlus™ est une huile entèrement synthétique unique en son genre, fabriquée à partir de gaz naturel et conçue pour procurer une PROTECTION COMPLÈTE.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

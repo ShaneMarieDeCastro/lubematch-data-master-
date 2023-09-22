@@ -1,0 +1,112 @@
+{
+  "id": "001H5431",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Tellus S4 VK 32",
+  "description": "Advanced Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "low temperature",
+    "versatile"
+  ],
+  "position": "Top",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ad0ca77c-8c21-444d-9f3d-dab955761cd4.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VK 32 EN TDG V1.1 08-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562512.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VK 32 United States EN 140002686046 EHS V1.0 21-DEC-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5431_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550066862",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5431_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500013530",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5431_002XD6_NAMD",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550066863",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "ASTM D6158-05 HV",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HV"
+    },
+    {
+      "name": "Denison HF-0",
+      "organisation": "Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VK hydraulic fluids are advanced performance, all season fluids, formulated using Shell Gas-To-Liquid (GTL) proprietary technology and advanced performance anti-wear additives. Shell Tellus S4 VK is a shear stable hydraulic fluid that exhibits good fluidity which enables fluid pumpability down to minus 30°C. For use in mobile applications, offering all season performance means this fluid is designed to keep the right viscosity/lubricity all year round. Giving greater peace of mind that your equipment will remain protected even during wide temperature ranges including arctic conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

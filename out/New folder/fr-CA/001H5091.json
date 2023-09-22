@@ -1,0 +1,114 @@
+{
+  "id": "001H5091",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T1 Hydraulic 10W",
+  "description": "High Quality Hydraulic Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bb280ddf-7e2e-4601-9362-67df17f6f1a9.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 Hydraulic 10W EN TDG V1.0 05-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/13dac849-3405-486d-9364-21f5272f108f.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 Hydraulic 10W Canada EN TDG V1.0 18-Mar-2019",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/d8ac7372-31e3-40c9-bee9-68378ddf5e09.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 Hydraulic 10W Canada FR TDG V1.0 11-Jun-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291508.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 Hydraulic 10W Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291539.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 Hydraulic 10W Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5091_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500011771",
+      "margin": "1.04181262069613",
+      "packShot": ""
+    },
+    {
+      "code": "001H5091_002VOM_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550054463",
+      "margin": "1.04688096876258",
+      "packShot": ""
+    },
+    {
+      "code": "001H5091_002VOM_CHEP",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550056260",
+      "margin": "0.303075775971571",
+      "packShot": ""
+    },
+    {
+      "code": "001H5091_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550054462",
+      "margin": "1.03491642754121",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Vickers 35VQ25",
+      "organisation": "Vickers",
+      "spec": "35VQ25"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T1 Hydraulic utilise des additifs de performance pour éviter l'usure et fournir une lubrification fiable.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

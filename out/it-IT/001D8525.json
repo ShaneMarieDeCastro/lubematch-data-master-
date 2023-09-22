@@ -1,0 +1,83 @@
+{
+  "id": "001D8525",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S5 V42P 2.5",
+  "description": "Advanced Extreme Pressure Grease for High Speed Bearings",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi Non-EP a base sintetica",
+  "applicationKeys": [
+    "advanced",
+    "bearings",
+    "electric motor bearings",
+    "electric motors",
+    "fan bearings",
+    "heavy load",
+    "high load",
+    "high pressure",
+    "high speed",
+    "high speed bearings",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "long life",
+    "machine tool bearings",
+    "plain bearings",
+    "roller bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008147434_201407310513.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V42P 2.5 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545907.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V42P 2.5 Italy IT 140007645406 EHS V2.10 30-MAR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/06b0207b-60ba-4a25-929d-4ab52bcff80b.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V42P 2.5 Italy IT TDG V3.1 02-Aug-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545906.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V42P 2.5 Italy EN 140007645406 EHS V2.10 30-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8525_002XEC_A246",
+      "name": "Secchio 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550028104",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

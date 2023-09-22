@@ -1,0 +1,90 @@
+{
+  "id": "001D8438",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S3 V100 2",
+  "description": "Premium Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses non EP à base d’huile minérale",
+  "applicationKeys": [
+    "air blowers",
+    "electric motor bearings",
+    "electric motors",
+    "high speed",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "low speed",
+    "multipurpose",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621166.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 France FR 140003182031 EHS V5.1 20-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/b5281cae-3e8f-4a50-a506-edde74b17aa6.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V100 2 France FR TDG V1.1 24-May-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621167.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 France EN 140003182031 EHS V5.1 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8438_002VME_A246",
+      "name": "Sceau 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550028075",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8438_002VGF_A310",
+      "name": "Cartouche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartouche ",
+      "materialCode": "550028072",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "La graisse Shell Gadus S3 V100 convient particulièrement aux roulements fonctionnant à hautes températures, à des vitesses faibles ou élevées et en présence d'humidité.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

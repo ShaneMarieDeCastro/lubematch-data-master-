@@ -1,0 +1,98 @@
+{
+  "id": "001D8269",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Spirax S4 G 75W-80",
+  "description": "High Performance PSA Manual Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Manuele Transmissie- en Versnellingsbakolie",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-80",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1363e7e2-e31a-497e-a744-2ad56f6eaf81.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 G 75W-80 EN TDG V1.2 08-May-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/954d1ced-3126-4b41-b80e-e47371492fd7.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 G 75W-80 Netherlands NL TDG V1.2 14-May-2019",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577630.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-80 Netherlands EN 140002783873 EHS V2.3 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577629.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 G 75W-80 Netherlands NL 140002783873 EHS V2.3 23-MAY-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8269_002WL0_A291",
+      "name": "Fles 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550027989",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8269_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027991",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8269_002VND_A246",
+      "name": "Emmer 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550027992",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "PSA B71 2315",
+      "organisation": "PSA",
+      "spec": "B71 2315"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 G 75W-80 is een transmissieolie met 'extreme pressure' (EP) eigenschappen, ontwikkeld voor toepassing in manuele transmissies en om aan de specifieke eisen van PSA te voldoen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027992_Shell_Spirax_S4_G_75W-80_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

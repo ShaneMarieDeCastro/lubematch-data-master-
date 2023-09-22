@@ -1,0 +1,87 @@
+{
+  "id": "001J2270",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Formula Shell Synthetic Dexos 0W-20",
+  "description": "Fully Synthetic Motor Oil",
+  "family": "Private Label",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9a6ca5b7-bd0f-43cc-8a9d-ea499405e330.pdf",
+      "type": "GTDS",
+      "name": "Formula Shell Synthetic Dexos 0W-20 EN TDG V1.4 11-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/ddf4edb2-d14f-448b-ab24-311a8f4c8c84.pdf",
+      "type": "LTDS",
+      "name": "Formula Shell Synthetic Dexos 0W-20 United States EN TDG V1.4 11-Aug-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562996.PDF",
+      "type": "LMSDS",
+      "name": "Formula Shell Synthetic Dexos 0W-20 United States EN 140002686046 EHS V1.3 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J2270_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500013129",
+      "margin": "0.128518678144851",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors dexos1 Gen 3",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen 3"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Ford WSS-M2C962-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C962-A"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

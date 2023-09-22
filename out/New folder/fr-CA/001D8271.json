@@ -1,0 +1,254 @@
+{
+  "id": "001D8271",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax S6 GME 50",
+  "description": "Premium Synthetic ZF Freedom Line and Eaton Long Drain Manual Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "buses",
+    "diesel",
+    "differential",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "fixed",
+    "fuel efficiency",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "integrated retarders",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "meadium load",
+    "medium loaded axle",
+    "off highway",
+    "on highway",
+    "pump piston",
+    "reduction gears",
+    "semi automatic",
+    "semi manual",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S6_GME_50_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 GME 50 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02393289.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GME 50 Canada FR 140006579500 EHS V1.7 02-DEC-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/e234a4b1-230b-4839-8734-048320fc2db2.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 GME 50 Canada EN TDG V3.2 29-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02393288.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GME 50 Canada EN 140006579500 EHS V1.8 02-DEC-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Spirax_S6_GME_50-fr.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 GME 50 Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Mack Truck TO-A-Plus",
+      "organisation": "Mack Truck",
+      "spec": "TO-A-Plus"
+    },
+    {
+      "name": "ZF FreedomLine",
+      "organisation": "ZF",
+      "spec": "FreedomLine"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Eaton PS-164 rev 7",
+      "organisation": "Eaton",
+      "spec": "PS-164 rev 7"
+    },
+    {
+      "name": "Volvo 97305",
+      "organisation": "Volvo",
+      "spec": "97305"
+    },
+    {
+      "name": "Navistar TMS 6816",
+      "organisation": "Navistar",
+      "spec": "TMS 6816"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 GME 50 is the latest addition to the Shell Spirax family of axle and transmission fluids. It is a synthetic heavy-duty transmission fluid specially formulated for extended drain and severe service applications. This fluid is approved as a Roadranger® Genuine Lubricant for use in Eaton extended warranty transmission service.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J300",
+      "uom": "",
+      "units": "",
+      "value": "50"
+    },
+    {
+      "property": "Appearance",
+      "method": "Visual",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Light amber"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "17.5"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "132"
+    },
+    {
+      "property": "Viscosity",
+      "method": "ASTM D2161",
+      "uom": "@210°F",
+      "units": "SUS",
+      "value": "89.9"
+    },
+    {
+      "property": "Viscosity",
+      "method": "ASTM D2161",
+      "uom": "@100°F",
+      "units": "SUS",
+      "value": "678"
+    },
+    {
+      "property": "Viscosity",
+      "method": "ASTM D2983",
+      "uom": "@-40°C",
+      "units": "cP",
+      "value": "104000"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "146"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C (°F)",
+      "value": "<-45 (<-49)"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C (°F)",
+      "value": "221 (430)"
+    },
+    {
+      "property": "Foam (Sequence I)",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "",
+      "value": "pass"
+    },
+    {
+      "property": "Foam (Sequence II)",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "",
+      "value": "pass"
+    },
+    {
+      "property": "Foam (Sequence III)",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "",
+      "value": "pass"
+    },
+    {
+      "property": "API gravity",
+      "method": "ASTM D287",
+      "uom": "@15.6°C",
+      "units": "",
+      "value": "33"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15.6°C",
+      "units": "g/l",
+      "value": "860"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@60°F",
+      "units": "lbs./gal.",
+      "value": "7.16"
+    },
+    {
+      "property": "Copper Strip Corrosion (3 hrs)",
+      "method": "ASTM D130",
+      "uom": "@100°C (212ºF)",
+      "units": "",
+      "value": "1a pass"
+    },
+    {
+      "property": "Copper Strip Corrosion (3 hrs)",
+      "method": "ASTM D130",
+      "uom": "@121°C (250ºF)",
+      "units": "",
+      "value": "1a pass"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

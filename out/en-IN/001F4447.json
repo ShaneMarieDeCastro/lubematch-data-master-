@@ -1,0 +1,425 @@
+{
+  "id": "001F4447",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Turbo S4 X 32",
+  "description": "Industrial Steam, Gas and Combined Cycle Turbine Lubricant",
+  "family": "Turbo",
+  "parentCategory": null,
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    "aero derivative",
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "combined cycle",
+    "combined cycle turbine",
+    "engine",
+    "gas",
+    "gas  combined cycle turbines",
+    "gas turbines",
+    "gtl",
+    "hydraulic control system",
+    "industrial",
+    "natural gas",
+    "plain",
+    "stationary",
+    "steam",
+    "steam turbine",
+    "steam turbines",
+    "tost life 10000 hours",
+    "turbine",
+    "turbocharger",
+    "turbocompressors"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/54450174-30e4-4b7f-a55b-e94f7fb29065.pdf",
+      "type": "GTDS",
+      "name": "Turbo S4 X 32 EN TDG V8.1 05-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/484d9f8d-0bb0-4ee7-9ce3-3e54db6a5a26.pdf",
+      "type": "LTDS",
+      "name": "Turbo S4 X 32 India EN TDG V8.1 05-Dec-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637294.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S4 X 32 India EN 140006501563 EHS V1.3 24-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4447_002VSH_SEAI",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550049868",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Electric GEK 107395A",
+      "organisation": "General Electric",
+      "spec": "GEK 107395A"
+    },
+    {
+      "name": "MHI MS04-MA-CL002 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL002 - Meets the requirements"
+    },
+    {
+      "name": "GB 11120-2011 L-TSA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TSA"
+    },
+    {
+      "name": "Dresser Rand 003-406-001 Type III",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001 Type III"
+    },
+    {
+      "name": "MAN D and T SE TED 10000494596",
+      "organisation": "MAN",
+      "spec": "D and T SE TED 10000494596"
+    },
+    {
+      "name": "Dresser Rand 003-406-001 Type I",
+      "organisation": "Dresser Rand",
+      "spec": "003-406-001 Type I"
+    },
+    {
+      "name": "Siemens TLV 9013 04",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 04"
+    },
+    {
+      "name": "DIN 51515-2 L-TG",
+      "organisation": "DIN",
+      "spec": "51515-2 L-TG"
+    },
+    {
+      "name": "MHI MS04-MA-CL005 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL005 - Meets the requirements"
+    },
+    {
+      "name": "Elliot Turbo-machinery X-18-0004 - Meets the requirements",
+      "organisation": "Elliot Turbo-machinery",
+      "spec": "X-18-0004 - Meets the requirements"
+    },
+    {
+      "name": "GE Oil and Gas ITN52220.04",
+      "organisation": "GE Oil and Gas",
+      "spec": "ITN52220.04"
+    },
+    {
+      "name": "General Electric GEK 32568K",
+      "organisation": "General Electric",
+      "spec": "GEK 32568K"
+    },
+    {
+      "name": "DIN 51515-1 L-TD",
+      "organisation": "DIN",
+      "spec": "51515-1 L-TD"
+    },
+    {
+      "name": "Siemens Eng DP21T-00000443",
+      "organisation": "Siemens",
+      "spec": "Eng DP21T-00000443"
+    },
+    {
+      "name": "General Electric GEK 46506E",
+      "organisation": "General Electric",
+      "spec": "GEK 46506E"
+    },
+    {
+      "name": "Siemens PD-55125Z3",
+      "organisation": "Siemens",
+      "spec": "PD-55125Z3"
+    },
+    {
+      "name": "GB 11120-2011 L-TGA",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TGA"
+    },
+    {
+      "name": "MHI MS04-MA-CL001 - Meets the requirements",
+      "organisation": "MHI",
+      "spec": "MS04-MA-CL001 - Meets the requirements"
+    },
+    {
+      "name": "General Electric GEK 120498",
+      "organisation": "General Electric",
+      "spec": "GEK 120498"
+    },
+    {
+      "name": "DIN 51524-1 HL",
+      "organisation": "DIN",
+      "spec": "51524-1 HL"
+    },
+    {
+      "name": "Siemens TLV 9013 05",
+      "organisation": "Siemens",
+      "spec": "TLV 9013 05"
+    },
+    {
+      "name": "General Electric GEK 28143B",
+      "organisation": "General Electric",
+      "spec": "GEK 28143B"
+    },
+    {
+      "name": "Siemens 21 T0591",
+      "organisation": "Siemens",
+      "spec": "21 T0591"
+    },
+    {
+      "name": "ASTM D4304-13 Type I",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type I"
+    },
+    {
+      "name": "ASTM D4304-13 Type III",
+      "organisation": "ASTM",
+      "spec": "D4304-13 Type III"
+    },
+    {
+      "name": "GB 11120-2011 L-TGSB",
+      "organisation": "GB",
+      "spec": "11120-2011 L-TGSB"
+    },
+    {
+      "name": "ISO 8068:2006 L-TGB",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGB"
+    },
+    {
+      "name": "ISO 8068:2006 L-TGSB",
+      "organisation": "ISO",
+      "spec": "8068:2006 L-TGSB"
+    },
+    {
+      "name": "Alstom HTGD 90 117 V0001 AA",
+      "organisation": "Alstom",
+      "spec": "HTGD 90 117 V0001 AA"
+    },
+    {
+      "name": "Solar ES 9-224Y Class II",
+      "organisation": "Solar",
+      "spec": "ES 9-224Y Class II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo S4 X 32 is based on Gas-to-Liquid (GTL) technology and has been developed to meet the demands of the latest high efficiency turbine systems. Designed to offer outstanding, long term performance under the most severe operating conditions Shell Turbo S4 X 32 will minimise deposit and sludge formation even under cyclic peak loading conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "32.0"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6.10"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "141"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "g/cm³",
+      "value": "0.827"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Neutralisation Number",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0.10"
+    },
+    {
+      "property": "Air Release",
+      "method": "ASTM D3427",
+      "uom": "@50°C",
+      "units": "minutes",
+      "value": "1"
+    },
+    {
+      "property": "Copper Corrosion",
+      "method": "ASTM D130",
+      "uom": "3hr/100°C",
+      "units": "",
+      "value": "1b"
+    },
+    {
+      "property": "Rust Preventing Properties",
+      "method": "ASTM D665 A & B",
+      "uom": "",
+      "units": "",
+      "value": "No Rust"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "minutes to 3 mL emulsion",
+      "units": "minutes",
+      "value": "15"
+    },
+    {
+      "property": "Steam Demulsibility",
+      "method": "IP 19",
+      "uom": "",
+      "units": "Seconds",
+      "value": "80"
+    },
+    {
+      "property": "Foaming Characteristics",
+      "method": "ASTM D892",
+      "uom": "tendency, stability",
+      "units": "mL/mL",
+      "value": ""
+    },
+    {
+      "property": "      Sequence I",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0/0"
+    },
+    {
+      "property": "      Sequence II",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0/0"
+    },
+    {
+      "property": "      Sequence III",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "0/0"
+    },
+    {
+      "property": "Load Carrying - FZG - failure load stage",
+      "method": "DIN 51354",
+      "uom": "",
+      "units": "",
+      "value": "7"
+    },
+    {
+      "property": "Oxidation Stability",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "      RPVOT ",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes",
+      "value": "1 400"
+    },
+    {
+      "property": "      Modified RPVOT",
+      "method": "",
+      "uom": "",
+      "units": "% of RPVOT",
+      "value": "95%"
+    },
+    {
+      "property": "      TOST lifetime",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours",
+      "value": "10 000+"
+    },
+    {
+      "property": "      TOST 1000hr sludge",
+      "method": "ASTM D4310",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "20"
+    },
+    {
+      "property": "Dry TOST",
+      "method": "ASTM D7873",
+      "uom": "@120°C",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "Sludge Content at 25% RPVOT",
+      "method": "",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "51"
+    },
+    {
+      "property": "Time to 25% RPVOT",
+      "method": "",
+      "uom": "",
+      "units": "hours",
+      "value": "1 320"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Di5UQAS&field=Attachment__Name__s",
+      "family": "Turbo",
+      "savings": 180000,
+      "title": "Shell Turbo S4 X 32"
+    }
+  ],
+  "commerce": null
+}

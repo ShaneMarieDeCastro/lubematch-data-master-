@@ -1,0 +1,104 @@
+{
+  "id": "001D7237",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "FormulaShell Synthetic SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "gasoline",
+    "heavy duty",
+    "off highway",
+    "on highway",
+    "urban"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e44e82d9-8d6c-4fd7-abb9-6ccdc69e01b3.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell Synthetic 10W-30 EN TDG V1.4 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/d1534635-7717-4a7d-8039-3959d59582bf.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell Synthetic 10W-30 United States EN TDG V1.4 05-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563531.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell Synthetic 10W-30 United States EN 140002686046 EHS V2.1 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7237_002XOK_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic White (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550024065",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formula Shell^® Synthetic Motor Oil is formulated to provide enhanced wear protection and outstanding resistance to thermal breakdown at high operating temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

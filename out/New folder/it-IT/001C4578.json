@@ -1,0 +1,160 @@
+{
+  "id": "001C4578",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Rimula R3 Turbo 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - Trazione pesante",
+  "applicationKeys": [
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "light fuel",
+    "lng",
+    "lpg",
+    "marine",
+    "medium speed",
+    "mobile",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/60c5f601-b150-4200-ba74-d5b3a3048b15.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 Turbo 15W-40 (CH-4/228 1) EN TDG V1.7 22-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557704.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 Turbo 15W-40 (CH-4/228 1) Italy IT 140007645406 EHS V2.5 20-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/e5a3fa3f-f608-4f3d-a9f8-efa789b2b9e5.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 Turbo 15W-40 (CH-4/228 1) Italy IT TDG V1.7 09-Feb-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557714.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 Turbo 15W-40 (CH-4/228 1) Italy EN 140007645406 EHS V2.5 20-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4578_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550041568",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4578_002VNA_A246",
+      "name": "Secchio 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550041567",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "Mack EO-M Plus",
+      "organisation": "Mack",
+      "spec": "EO-M Plus"
+    },
+    {
+      "name": "MB-Approval 228.1",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.1"
+    },
+    {
+      "name": "Volvo VDS",
+      "organisation": "Volvo",
+      "spec": "VDS"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "ACEA E2",
+      "organisation": "ACEA",
+      "spec": "E2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Mack EO-M",
+      "organisation": "Mack",
+      "spec": "EO-M"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "MAN 271",
+      "organisation": "MAN",
+      "spec": "271"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 Turbo protegge dall'usura, dalla formazione di depositi e resiste all'inspessimento da calore.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

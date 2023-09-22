@@ -1,0 +1,138 @@
+{
+  "id": "001A0930",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Omala Oil F 320",
+  "description": "Very High Performance Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bearings",
+    "circulating and splash lubricated systems",
+    "circulation",
+    "circulation system",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "high performance",
+    "hydraulic system",
+    "industrial",
+    "industrial gears",
+    "journal",
+    "lead free",
+    "manual",
+    "micropitting",
+    "morgoil",
+    "non shiftable",
+    "off highway",
+    "outstanding thermal stability",
+    "oxidation stability",
+    "plain",
+    "pump gear",
+    "pump vane",
+    "reduction gears",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "slew",
+    "steel gear transmissions",
+    "swing drive",
+    "synchronised",
+    "transmissions",
+    "trunnion",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6c6684da-a1ab-4034-b1bf-06fc8f7474ed.pdf",
+      "type": "GTDS",
+      "name": "Omala F 320 EN TDG V3.3 09-Feb-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_States_Shell_Omala_F_320_(en-US)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Omala F 320 United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563305.PDF",
+      "type": "LMSDS",
+      "name": "Omala F 320 United States EN 140002686046 EHS V1.5 09-DEC-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "25"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.903"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "IP 34",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "202"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,76 @@
+{
+  "id": "001G0571",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix HX8 ECT C3 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/7aa12959-9903-4ca3-8e46-071403cc530f.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT C3 5W-30 (C3 + OEM) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613628.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT C3 5W-30 (C3 + OEM) United Kingdom EN 140002340634 EHS V1.3 07-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/19f7b732-e586-450c-a3af-7643dbf1fdec.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT C3 5W-30 (C3 + OEM) United Kingdom EN TDG V2.6 23-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 ECT C3 uses advanced emissions-compatible technology that helps to keep diesel particulate filters clean to help maintain engine performance. It helps to reduce engine frictions to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX8_5W-30_ECT-C3_5L_600053111.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-helix-hx8-c3-engine-oil-5w-30-5ltr-521773721"
+}

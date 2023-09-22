@@ -1,0 +1,180 @@
+{
+  "id": "001F2645",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Morlina S4 B 220",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Bearing and Circulating oils",
+  "category": "Bearing and Circulating oils",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "long life",
+    "low temperature",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3ec27178-ca04-4581-b98f-1a93ae4239f9.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 220 (2014) EN TDG V4.8 11-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/3183a01a-2733-4d49-aed5-b50a074dcd54.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 220 (2014) United Kingdom EN TDG V4.8 11-May-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590264.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 220 (2014) United Kingdom EN 140002340634 EHS V1.8 12-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2645_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550042871",
+      "margin": "3.07505359062925",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B oils are high performance synthetic bearing and circulation lubricants, manufactured with high performance base fluids. They offer outstanding lubrication performance, including improved energy efficiency, filterability, and long service life even under challenging operating conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3488",
+      "uom": "",
+      "units": "",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "28"
+    },
+    {
+      "property": "Viscosity Index (VI)",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "164"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592 ",
+      "uom": "",
+      "units": "°C",
+      "value": "275"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-45"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "852"
+    },
+    {
+      "property": "Foam Test, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam '@0/10 mins",
+      "value": "10/0"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2 A/8.3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "12"
+    },
+    {
+      "property": "Water Seperability",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "minutes maximum",
+      "value": "20"
+    },
+    {
+      "property": "Oxidation Control Test: RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes minimum",
+      "value": "1750"
+    },
+    {
+      "property": "Oxidation Control Test: TOST",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours",
+      "value": "10 000"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_morlina_s4_b.png",
+  "valueRecord": [],
+  "commerce": null
+}

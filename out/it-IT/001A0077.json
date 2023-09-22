@@ -1,0 +1,119 @@
+{
+  "id": "001A0077",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "AeroShell Oil W 80",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "Lubrificanti per l'aviazione",
+  "category": "Oli motore - Aviazione / Pistone",
+  "applicationKeys": [
+    "ashless",
+    "aviation",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "piston engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9b6eba10-c8bc-4e76-b263-4100525a5001.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 80 EN TDG V2.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Italy_AeroShell_Oil_W80_(it)_TDS.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil W 80 Italy Italian",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549560.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 80 Italy IT 140007645406 EHS V1.9 07-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549561.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 80 Italy EN 140007645406 EHS V1.9 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0077_002XOH_AEP2",
+      "name": "Bottiglia 1 qt Americas Tool Plastic Shell Red Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottiglia",
+      "materialCode": "550051191",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0077_002VJ2_A1P5",
+      "name": "Fusto 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Fusto",
+      "materialCode": "550041048",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO O-123",
+      "organisation": "NATO",
+      "spec": "O-123"
+    },
+    {
+      "name": "Joint Service Designation OMD-160",
+      "organisation": "Joint Service Designation",
+      "spec": "OMD-160"
+    },
+    {
+      "name": "Textron Lycoming 301F",
+      "organisation": "Textron Lycoming",
+      "spec": "301F"
+    },
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Pratt and Whitney 1183-S",
+      "organisation": "Pratt and Whitney",
+      "spec": "1183-S"
+    },
+    {
+      "name": "AIR 3570",
+      "organisation": "AIR",
+      "spec": "3570"
+    },
+    {
+      "name": "MHS 24B",
+      "organisation": "MHS",
+      "spec": "24B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell W Oils were the first non-ash dispersant oils to be used in aircraft piston engines. They combine non-metallic additives with selected high viscosity index base stocks to give exceptional stability, dispersancy and anti-foaming performance. These additives leave no metallic ash residues that can lead to deposit formation in combustion chambers and on spark plugs, which can cause pre-ignition and possible engine failure.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

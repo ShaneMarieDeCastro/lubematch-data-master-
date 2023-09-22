@@ -1,0 +1,61 @@
+{
+  "id": "001I5476",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe Nuclear 46",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8500d4b8-8ba8-479d-ad88-0aabab47f126.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Nuclear 46 EN TDG V1.3 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/591a184a-59c2-43fa-9078-f1a90d2089f5.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Nuclear 46 United States EN TDG V1.3 21-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563996.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Nuclear 46 United States EN 140002686046 EHS V1.2 14-OCT-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5476_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057083",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe Nuclear 46 is a full-synthetic, non-aqueous fire resistant hydraulic fluid. It has been specifically formulated to counteract the oxidative and hydrolytic byproducts formed during long-term rigorous use. \nShell EcoSafe Nuclear 46 is ideally suited for applications within the Nuclear Industry based on the stability of our lubricant basestock and its ability to provide extended-drain life without the formation of sludge or varnish.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

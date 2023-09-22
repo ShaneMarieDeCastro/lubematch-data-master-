@@ -1,0 +1,88 @@
+{
+  "id": "001D8506",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S2 OGH 0/00",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary do otwartych przekładni",
+  "applicationKeys": [
+    "clay",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "kiln gears",
+    "open gears",
+    "rotary cement kiln",
+    "rotary cement kiln gears",
+    "smectite",
+    "solid lubricant",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0/00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c583389f-234b-4edc-8d66-d6e5dceb201f.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGH 0/00 EN TDG V1.2 04-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/306da2cc-938e-4731-88f5-87f8c5f1034b.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OGH 0/00 Poland PL TDG V1.2 04-Nov-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02455550.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Poland PL 140003791557 EHS V2.4 26-SEP-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02455549.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Poland EN 140003791557 EHS V1.4 26-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8506_002XD7_A246",
+      "name": "Wiadro 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028047",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8506_002VH7_A246",
+      "name": "Beczka 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Beczka",
+      "materialCode": "550028076",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Smar Shell Gadus S2 OGH zawiera nieorganiczny zageszczacz rozproszony w oleju bazowym o wysokiej lepkosci zawierajacym grafit",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

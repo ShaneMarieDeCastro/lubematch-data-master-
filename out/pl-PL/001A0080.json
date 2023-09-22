@@ -1,0 +1,66 @@
+{
+  "id": "001A0080",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "AeroShell Turbine Oil 308",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "Środki smarne dla lotnictwa",
+  "category": "Oleje silnikowe - lotnicze/turbinowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b21ab9c6-8dc4-42ac-9d79-361a492ada0b.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 308 EN TDG V1.4 01-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550006.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 Poland EN 140003791557 EHS V3.5 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550005.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 Poland PL 140003791557 EHS V3.5 11-APR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-7808L Type III",
+      "organisation": "MIL",
+      "spec": "PRF-7808L Type III"
+    },
+    {
+      "name": "NATO O-148",
+      "organisation": "NATO",
+      "spec": "O-148"
+    },
+    {
+      "name": "Joint Service Designation OX-9",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-9"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 308 is a 3 mm²/s synthetic ester oil incorporating additives to improve resistance to oxidation and corrosion and to minimise wear.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

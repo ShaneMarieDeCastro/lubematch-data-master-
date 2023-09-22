@@ -1,0 +1,121 @@
+{
+  "id": "001D8286",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S4 AT 75W-90",
+  "description": "High performance, synthetic blend, GL-5/4 oil for gearboxes and axles",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "extended drain",
+    "final drive",
+    "gasoline",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "off highway",
+    "passenger car",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/91896f6a-161d-44b2-967c-a47477d4a5d3.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 AT 75W-90 EN TDG V1.3 17-Jan-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578491.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AT 75W-90 France EN 140003182031 EHS V2.5 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578490.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AT 75W-90 France FR 140003182031 EHS V2.5 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/c299a183-fab7-4b6f-a6b9-d8e0ce25f290.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 AT 75W-90 France FR TDG V1.3 16-Feb-2017",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8286_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027950",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8286_002VND_A246",
+      "name": "Sceau 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027945",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 AT 75W-90 est une huile de transmission semi-synthétique de qualité supérieure spécialement destinée aux boîtes de vitesses et essieux de véhicules. \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027945_Shell_Spirax_S4_AT_75W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

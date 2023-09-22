@@ -1,0 +1,175 @@
+{
+  "id": "001D7778",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Corena S2 P 68",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Kompressor und Vakuumpumpe",
+  "category": "Kompressor und Vakuumpumpe",
+  "applicationKeys": [
+    "air compressor",
+    "breathing air compressor",
+    "high pressure",
+    "hydraulic system",
+    "industrial",
+    "piston",
+    "pump gear",
+    "pump piston",
+    "reciprocating",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2346aea9-f05a-413d-8283-592dde0dfc98.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 68 EN TDG V2.5 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572283.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Germany DE 140001492039 EHS V2.7 04-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/061cc37c-9149-46e4-b621-42e39f713a11.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 P 68 Germany DE TDG V2.5 30-Sep-2019",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572284.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 68 Germany EN 140001492039 EHS V2.7 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7778_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550026195",
+      "margin": "1.46860447112453",
+      "packShot": ""
+    },
+    {
+      "code": "001D7778_002VNA_A246",
+      "name": "Eimer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550026293",
+      "margin": "1.88234615016442",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    },
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P ist ein Spezialöl zur Schmierung von Kolbenkompressoren hoher Beanspruchung. Es eignet sich für die meisten Kolbenkompressoren bis zu Verdichtungsendtemperaturen von 220°C.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse ",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "7,8"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D1298",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "883"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "235"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "Neutralisationszahl",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0,3"
+    },
+    {
+      "property": "Sulfatasche",
+      "method": "DIN 51575",
+      "uom": "",
+      "units": "% m",
+      "value": "0,06"
+    },
+    {
+      "property": "Korrosionstest - Meerwasser",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "degree",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Demulgiervermögen",
+      "method": "ASTM D1401",
+      "uom": "@54 °C",
+      "units": "min",
+      "value": "30"
+    },
+    {
+      "property": "Demulgiervermögen",
+      "method": "ASTM D1401",
+      "uom": "82 °C",
+      "units": "min",
+      "value": " - "
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

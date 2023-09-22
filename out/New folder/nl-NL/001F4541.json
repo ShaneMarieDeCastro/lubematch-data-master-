@@ -1,0 +1,175 @@
+{
+  "id": "001F4541",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R6 M 10W-40",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "aviation",
+    "biodiesel",
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "hydrostatic",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "multi fuel",
+    "off highway",
+    "on highway",
+    "piston engine",
+    "stationary",
+    "tractor drivetrain",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e53eac5e-369e-49f5-8cc0-b2fe21e0d7c5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) EN TDG V4.5 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02499357.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) Netherlands NL 140002783873 EHS V1.4 07-DEC-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02499358.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) Netherlands EN 140002783873 EHS V1.4 07-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/2c416f87-a3ec-48e4-b3ab-447295a3dff6.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) Netherlands NL TDG V4.6 23-Mar-2020",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4541_002WX1_EURO",
+      "name": "Fles 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550054435",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4541_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550044826",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4541_002VNF_A246",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550044843",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Deutz DQC IV-10",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10"
+    },
+    {
+      "name": "MB-Approval 228.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.5"
+    },
+    {
+      "name": "ACEA E4",
+      "organisation": "ACEA",
+      "spec": "E4"
+    },
+    {
+      "name": "Renault RLD-2",
+      "organisation": "Renault",
+      "spec": "RLD-2"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "JASO DH-1",
+      "organisation": "JASO",
+      "spec": "DH-1"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "MTU Category 3",
+      "organisation": "MTU",
+      "spec": "Category 3"
+    },
+    {
+      "name": "MAN M 3377",
+      "organisation": "MAN",
+      "spec": "M 3377"
+    },
+    {
+      "name": "Iveco T3 E4 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T3 E4 - Meets the requirements"
+    },
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 M 10W-40 volsynthetische olie biedt een voordurend bescherming met als resultaat verlengde olieverversingsintervallen, bescherming tegen slijtage veroorzaakt door roet en afzettingen op de zuigers en motor, en brandstofbesparing. Shell Rimula R6 M 10W-40 is geschikt voor de meeste Euro 4 en Euro 5 motoren zonder roetfilter.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R6-M-10_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

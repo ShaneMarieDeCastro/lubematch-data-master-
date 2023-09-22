@@ -1,0 +1,92 @@
+{
+  "id": "001F4573",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Naturelle S4 Hydraulic Fluid 46",
+  "description": "Ultimate biodegradable synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Hydraulic Fluids",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b5a5b0ff-ed7e-42e7-8dcd-aa2c557fa0ac.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/2f245050-730d-4e24-adef-3a096a5fa694.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 United Kingdom EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606534.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 United Kingdom EN 140002340634 EHS V1.6 30-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4573_002XXW_A1P5",
+      "name": "Pail 20 L Tight Head Plastic Helix Grey with PCR (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550062481",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4573_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550056320",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Denison HF-6",
+      "organisation": "Denison",
+      "spec": "HF 6"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Hydraulic Fluid is an advanced hydraulic fluid for use in hydraulic and power transmission systems. Readily biodegradable with low ecotoxicity, Shell Naturelle S4 Hydraulic Fluid is particularly suited for use in environmentally sensitive areas. Fully saturated synthetic esters, blended with ashless additives, provide Shell Naturelle S4 Hydraulic Fluid with a superior blend of lubrication performance and environmental acceptability.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S4_Hydraulic_Fluid_46_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

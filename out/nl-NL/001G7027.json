@@ -1,0 +1,72 @@
+{
+  "id": "001G7027",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Hydraulic S1 V 46",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Hydraulische vloeistoffen",
+  "category": "Hydraulische vloeistoffen",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/05904492-d405-41d4-bbb4-15a688735ea1.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 V 46 EN TDG V1.2 09-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481635.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 46 Netherlands EN 140002783873 EHS V1.3 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481631.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 46 Netherlands NL 140002783873 EHS V1.3 21-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/a3dc20dc-398c-4920-b9c8-379a34a628c3.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 V 46 Netherlands NL TDG V1.2 22-Jan-2019",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 V 46 is een hoogwaardige anti-slijtage hydraulische vloeistof die een kosteneffectieve, betrouwbare bescherming en prestatie biedt in de meest industriële en mobiele toepassingen.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

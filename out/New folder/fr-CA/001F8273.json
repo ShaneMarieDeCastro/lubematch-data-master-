@@ -1,0 +1,128 @@
+{
+  "id": "001F8273",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Spirax S6 GME 40",
+  "description": "Premium Synthetic Eaton Long Drain, Fuel Economy Transmission Oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "on highway",
+    "powershift",
+    "pump gear",
+    "semi manual",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/53f70ee5-becf-49aa-99d4-e010140d472b.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 GME 40 EN TDG V3.6 02-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290849.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GME 40 Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/ef24f2c9-938f-4a26-97f8-d8a3174ef8f2.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 GME 40 Canada EN TDG V3.6 10-Mar-2018",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/6c08d7e4-9085-4027-a296-31dc0c5e386d.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 GME 40 Canada FR TDG V3.6 13-Mar-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290977.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 GME 40 Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8273_002XD6_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550044797",
+      "margin": "1.74359972743252",
+      "packShot": ""
+    },
+    {
+      "code": "001F8273_002XEM_A1WJ",
+      "name": "",
+      "size": "16",
+      "uom": "gal",
+      "pack": "Tonneau",
+      "materialCode": "550044799",
+      "margin": "1.51209384658415",
+      "packShot": ""
+    },
+    {
+      "code": "001F8273_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550044796",
+      "margin": "1.57077627163868",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Eaton PS-386",
+      "organisation": "Eaton",
+      "spec": "PS-386"
+    },
+    {
+      "name": "Meritor 081",
+      "organisation": "Meritor",
+      "spec": "081"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "\nLe fluide de transmission synthétique Spirax S6 GME 40 est un lubrifiant synthétique spécialement formulé conçu pour des intervalles de vidange prolongés et un service sévère dans les transmissions de véhicules utilitaires lourds nécessitant un lubrifiant de transmission non EP. Il est spécialement formulé pour protéger les transmissions à couple élevé couplées à des moteurs plus puissants. Il est approuvé pour les transmissions Eaton telles que les transmissions Ultrashift Plus, Fuller Advantage, FR et RT.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

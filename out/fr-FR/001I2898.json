@@ -1,0 +1,67 @@
+{
+  "id": "001I2898",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Thermal Fluid E5 TM 410",
+  "description": "Shell Thermal Fluid E5 TM are designed to meet the challenges of E-mobility for batteries with immersed cooling, inverters and e-motors. They are also suitable as cooling fluid for chargers and cables.",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Huiles électriques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1924f33d-182b-470d-b049-4b182812ba50.pdf",
+      "type": "GTDS",
+      "name": "Thermal Fluid E5 TM 410 EN TDG V1.2 22-Jan-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607943.PDF",
+      "type": "LMSDS",
+      "name": "Thermal Fluid E5 TM 410 France EN 140003182031 EHS V2.1 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/383c1edd-df02-4723-b622-2e1b8843e96d.pdf",
+      "type": "LTDS",
+      "name": "Thermal Fluid E5 TM 410 France FR TDG V1.2 16-Nov-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607941.PDF",
+      "type": "LMSDS",
+      "name": "Thermal Fluid E5 TM 410 France FR 140003182031 EHS V2.1 03-JUL-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I2898_002VNK_A246",
+      "name": "Sceau 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550069451",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Convient à toutes températures rencontrées dans les applications automobiles, y compris l’utilisation jusqu’à -40 ° C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

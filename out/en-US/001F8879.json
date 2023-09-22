@@ -1,0 +1,112 @@
+{
+  "id": "001F8879",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella FE 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "off highway",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fcba8022-4298-446c-b485-8de9c3f007bf.pdf",
+      "type": "GTDS",
+      "name": "Rotella FE 10W-30 (FA-4) EN TDG V2.7 11-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562277.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 Ultra 10W-30 (FA-4) United States EN 140002686046 EHS V1.2 01-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/00eea512-3a53-46d7-afe9-989b682a0fce.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 Ultra 10W-30 (FA-4) United States EN TDG V2.7 11-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8879_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010121",
+      "margin": "2.53512245824875",
+      "packShot": ""
+    },
+    {
+      "code": "001F8879_002X5J_A0II",
+      "name": "Bottle 1 Gal Local (Hybrid) Plastic HDPE Rimula Grey (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550046254",
+      "margin": "1.9123475489463",
+      "packShot": ""
+    },
+    {
+      "code": "001F8879_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550046249",
+      "margin": "2.16702025539587",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20087",
+      "organisation": "Cummins",
+      "spec": "CES 20087"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K223",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K223"
+    },
+    {
+      "name": "MB-Approval 228.61",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.61"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "API FA-4",
+      "organisation": "API",
+      "spec": "FA-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA® FE 10W-30 (FA-4) heavy duty engine oil with Triple Protection Plus^™^ technology has been enhanced with synthetic base oils plus advanced additive technology to provide protection against wear, deposits and oil breakdown, PLUS improved fuel economy performance and resistance to breakdown under high temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

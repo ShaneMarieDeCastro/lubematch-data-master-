@@ -1,0 +1,55 @@
+{
+  "id": "001J1456",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "DEG",
+  "description": "DEG",
+  "family": "Additive",
+  "parentCategory": null,
+  "category": "Other Lubricants additive",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "2",
+  "viscosityType": "ISO",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9efb6616-a7d5-4657-bfb7-fe842a88d626.pdf",
+      "type": "GTDS",
+      "name": "Shell DEG EN TDG V1.0 13-Nov-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563943.PDF",
+      "type": "LMSDS",
+      "name": "Shell DEG United States EN 140002686046 EHS V1.0 31-DEC-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J1456_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550060771",
+      "margin": "1.70132497222829",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

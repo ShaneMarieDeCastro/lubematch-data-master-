@@ -1,0 +1,78 @@
+{
+  "id": "001J3249",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Rimula R7 Plus AM 5W-20",
+  "description": "Fully Synthetic Low HTHSV Heavy Duty Diesel Engine Oil (MAN)",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d969da2-a5c3-422c-a553-fca0899f5842.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 Plus AM 5W-20 EN TDG V1.6 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545344.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Germany DE 140001492039 EHS V1.3 28-MAR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545342.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Germany EN 140001492039 EHS V1.3 28-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/ffe53d0b-8ddf-4b62-9c48-d84c50fcae14.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 Plus AM 5W-20 Germany DE TDG V1.6 03-Jul-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J3249_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550062543",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3977",
+      "organisation": "MAN",
+      "spec": "M 3977"
+    },
+    {
+      "name": "Scania LDF-5",
+      "organisation": "Scania",
+      "spec": "LDF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

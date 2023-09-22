@@ -1,0 +1,71 @@
+{
+  "id": "001H1152",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State High Mileage Full Synthetic 10W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/14bf5b31-1687-4b57-8b7e-1bab5e7b4114.pdf",
+      "type": "GTDS",
+      "name": "Quaker State High Mileage Full Synthetic Motor Oil 10W-30 (SP/GF6) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562256.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State High Mileage Full Synthetic Motor Oil 10W-30 (SP/GF6) United States EN 140002686046 EHS V1.4 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/0d5a7200-0b63-4da6-a0a8-7d9d9e6df636.pdf",
+      "type": "LTDS",
+      "name": "Quaker State High Mileage Full Synthetic Motor Oil 10W-30 (SP/GF6) United States EN TDG V1.3 03-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^3 ^Compared ^to ^Quaker ^State^ ^® ^Advanced ^Durability",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

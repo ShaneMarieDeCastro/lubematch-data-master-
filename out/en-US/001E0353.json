@@ -1,0 +1,76 @@
+{
+  "id": "001E0353",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Brake and Clutch Fluid DOT 4 Ultra",
+  "description": "Brake Fluid",
+  "family": "Brake Fluids",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Brake_and_Clutch_Fluid_DOT_4_Ultra_(en)_TDS_v1.pdf",
+      "type": "GTDS",
+      "name": "Shell Brake and Clutch Fluid DOT 4 Ultra English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_States_Shell_Brake_and_Clutch_Fluid_DOT_4_Ultra_(en-US)_TDS_v1.pdf",
+      "type": "LTDS",
+      "name": "Brake and Clutch Fluid DOT 4 Ultra United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562409.PDF",
+      "type": "LMSDS",
+      "name": "Brake and Clutch Fluid DOT 4 Ultra United States EN 140002686046 EHS V1.3 05-FEB-2014",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "AS/NZS 1960 Class 3",
+      "organisation": "AS/NZS",
+      "spec": "1960 Class 3"
+    },
+    {
+      "name": "FMVSS 116 DOT 4",
+      "organisation": "FMVSS",
+      "spec": "116 DOT 4"
+    },
+    {
+      "name": "SAE J1704",
+      "organisation": "SAE",
+      "spec": "J1704"
+    },
+    {
+      "name": "ISO 4925-4",
+      "organisation": "ISO",
+      "spec": "4925-4"
+    },
+    {
+      "name": "JIS K 2233 Class 5",
+      "organisation": "JIS",
+      "spec": "K 2233 Class 5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Brake and Clutch Fluid DOT 4 Ultra is a very high boiling point brake system and hydraulic clutch fluid for systems requiring a FMVSS No. 116 DOT 4, ISO 4925 Class 4, or many other equivalent specifications in a borate ester (borate ester of polyglycol-ether) brake fluid.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

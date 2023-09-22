@@ -1,0 +1,68 @@
+{
+  "id": "001A0896",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Caprinus XR 20W-40",
+  "description": "Railroad diesel engine oil",
+  "family": "Caprinus",
+  "parentCategory": "Industriemotorenöle",
+  "category": "Motoröle - Eisenbahn",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "locomotive",
+    "off highway",
+    "railroad",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d90bd1c1-a86d-4eca-a9b6-b1b871ae945c.pdf",
+      "type": "GTDS",
+      "name": "Caprinus XR 20W-40 EN TDG V1.1 31-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550811.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 20W-40 Germany DE 140001492039 EHS V1.4 11-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550810.PDF",
+      "type": "LMSDS",
+      "name": "Caprinus XR 20W-40 Germany EN 140001492039 EHS V1.4 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "LMOA Generation 5",
+      "organisation": "LMOA",
+      "spec": "Generation 5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The performance of Shell Caprinus XR has been demonstrated in highly rated North American railroad operation subject to the most severe operating conditions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

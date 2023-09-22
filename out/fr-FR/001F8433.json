@@ -1,0 +1,284 @@
+{
+  "id": "001F8433",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Tellus S2 VX 46",
+  "description": "Industrial Hydraulic Fluid for wide temperature range",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "ball",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "fuel",
+    "gearbox",
+    "high performance",
+    "hv",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "low temperature",
+    "marine",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "offshore",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "screw pump",
+    "servo",
+    "turbine",
+    "variable",
+    "versatile",
+    "water",
+    "wide temperature range",
+    "wind turbines",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/16e89ad4-22db-4e06-ab8a-2fa6669dcddf.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 VX 46 (2016) EN TDG V4.4 17-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02589195.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VX 46 (2016) France FR 140003182031 EHS V2.2 07-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/c508b6c8-09da-4d5a-b4ff-ccf1ae71ff0e.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 VX 46 (2016) France FR TDG V4.4 24-May-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02589196.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 VX 46 (2016) France EN 140003182031 EHS V2.2 07-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8433_002WPD_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Black (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550060143",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8433_002VJW_A246",
+      "name": "Réservoir 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550045526",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8433_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550045524",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8433_002VNA_A246",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550045525",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8433_002VSI_A246",
+      "name": "Tonneau 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Tonneau",
+      "materialCode": "550045523",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-70 - Meets performance requirements",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-70 - Meets performance requirements"
+    },
+    {
+      "name": "Parker Denison HF-1",
+      "organisation": "Parker Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-70",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-70"
+    },
+    {
+      "name": "ASTM D6158 HV",
+      "organisation": "ASTM",
+      "spec": "D6158 HV"
+    },
+    {
+      "name": "Bosch RDE 90245",
+      "organisation": "Bosch",
+      "spec": "RDE 90245"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "Parker Denison HF-2",
+      "organisation": "Parker Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Parker Denison HF-0",
+      "organisation": "Parker Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 AM",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 AM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 VX sont des fluides hydrauliques hautes performances formulés avec des huiles de base de groupe II afin d'offrir une protection et des performances exceptionnelles sur une large gamme de températures.  Ils résistent aux dégradations par la chaleur ou le stress mécanique et sont parfaitement adaptés à la plupart des équipements mobiles et autres applications soumis à une grande amplitude de température ambiante ou de fonctionnement.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Fluid Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "HV"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@-20°C",
+      "units": "cSt",
+      "value": "2630"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "46"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "7.9"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "143"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.856"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-36"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "L0.5"
+    },
+    {
+      "property": "Water Separation",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "minutes",
+      "value": "20"
+    },
+    {
+      "property": "TOST life",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours minimum",
+      "value": "5000"
+    },
+    {
+      "property": "Shear Stability",
+      "method": "CEC L45-A-99",
+      "uom": "@100°C",
+      "units": "% loss",
+      "value": "12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-tellus-s2-vx-46-5l"
+}

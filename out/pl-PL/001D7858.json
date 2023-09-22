@@ -1,0 +1,161 @@
+{
+  "id": "001D7858",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Omala S4 WE 320",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oleje do przekładni przemysłowych",
+  "category": "Oleje do przekładni przemysłowych",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "journal",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "pag",
+    "rollers",
+    "splash lubricated bearings",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e98e1da6-032c-4c5b-bf1b-423d9cb9bed2.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 320 EN TDG V4.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542748.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 320 Poland PL 140003791557 EHS V2.9 22-MAR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542749.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 320 Poland EN 140003791557 EHS V1.9 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/a7e63eb6-6658-4ce4-a180-e0238427e2d0.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 320 Poland PL TDG V4.3 22-Jul-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7858_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027170",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE to zaawansowany, syntetyczny przemysłowy olej przekładniowy do zastosowania w wysokoobciążonych przekładniach ślimakowych. Formulacja oparta na bazie polialkiloglikolowej (PAG) oraz doskonałym pakiecie dodatków uszlachetniających zapewnia doskonałe właściwości eksploatacyjne w trudnych warunkach pracy zapewniając oszczędność energii, redukcja tarcia, wydłużone interwały wymiany oraz wysoką odporność na micro-pitting. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104 ",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "321"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "52.7"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "230"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "",
+      "units": "°C",
+      "value": "270"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "1069"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2  A/8.3/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000InnUQAS&field=Attachment__Name__s",
+      "family": "Omala",
+      "savings": 31000,
+      "title": "Shell Omala S4 WE 320"
+    }
+  ],
+  "commerce": null
+}

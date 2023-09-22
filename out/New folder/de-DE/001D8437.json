@@ -1,0 +1,176 @@
+{
+  "id": "001D8437",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S5 V220 2",
+  "description": "Advanced Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische EP-Schmierfette",
+  "applicationKeys": [
+    "advanced",
+    "automotive",
+    "bearing",
+    "ep",
+    "extreme load",
+    "extreme pressure",
+    "gearbox",
+    "heavy duty",
+    "heavy load",
+    "high load",
+    "industrial",
+    "labyrinth seals",
+    "lithium",
+    "lithium complex",
+    "multipurpose",
+    "paper",
+    "paper machines",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "trucks",
+    "versatile",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/caab4647-1ca1-4b4a-a035-b33034cc74f9.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V220 2 EN TDG V2.9 11-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603567.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V220 2 Germany DE 140001492039 EHS V2.4 27-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/5490653f-c378-46fc-a0c4-25ae340e7ee1.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V220 2 Germany DE TDG V2.9 14-Oct-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603568.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V220 2 Germany EN 140001492039 EHS V2.4 27-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8437_002XEC_A1P5",
+      "name": "Eimer 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550036561",
+      "margin": "8.59978407768556",
+      "packShot": ""
+    },
+    {
+      "code": "001D8437_002VH7_A1P5",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028010",
+      "margin": "5.92018046908908",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB-GC",
+      "organisation": "ASTM",
+      "spec": "D4950 LB-GC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V220 ist ein Hochleistungsschmierfett für Anwendungen im Industrie- und Transportbereich. Es basiert auf einem vollsynthetischen Grundöl mit hohem Viskositätsindex und Lithiumkomplex-Seife. Zusätzlich enthält es Additive zum Schutz vor Verschleiß, Oxidation und Korrosion.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Hellbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithiumkomplex"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "PAO"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "26"
+    },
+    {
+      "property": "Vier-Kugel-Apparat",
+      "method": "DIN 51350:4",
+      "uom": "",
+      "units": "N",
+      "value": "3400"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 132",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Drehmoment beim Starten",
+      "method": "ASTM D4693",
+      "uom": "–40 °C",
+      "units": "Nm",
+      "value": "6,50"
+    },
+    {
+      "property": "Drehmoment während des Betriebes",
+      "method": "ASTM D4693",
+      "uom": "–40 C",
+      "units": "Nm",
+      "value": "5,25"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

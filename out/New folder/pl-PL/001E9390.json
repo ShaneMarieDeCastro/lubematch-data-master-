@@ -1,0 +1,139 @@
+{
+  "id": "001E9390",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra Professional AM-L 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    "bmw",
+    "cars"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4b77a24e-ec93-4151-b777-235f1d8918f2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AM-L 5W-30 (MB229.51 BMW LL-04) EN TDG V2.0 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02496988.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AM-L 5W-30 (MB229.51 BMW LL-04) Poland PL 140003791557 EHS V1.8 05-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02496987.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AM-L 5W-30 (MB229.51 BMW LL-04) Poland EN 140003791557 EHS V1.8 05-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/54f71ee7-bfad-4848-968a-405abbbd286b.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AM-L 5W-30 (MB229.51 BMW LL-04) Poland PL TDG V2.0 20-Feb-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9390_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550040211",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9390_002WX1_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046682",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9390_002VJW_A246",
+      "name": "Kontener 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550040144",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9390_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550046302",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9390_002VSI_A246",
+      "name": "Mała beczka 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "l",
+      "pack": "Mała beczka",
+      "materialCode": "550042598",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Zaprojektowany aby spełniał bardzo wysokie wymagania dla wysokoobciążonych silników marek BMW i Mercedes-Benz oraz innych, które wymagają stosowanie olejów w klasie API SN lub ACEA C3. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AM-L_1L_600044021.png",
+  "valueRecord": [],
+  "commerce": null
+}

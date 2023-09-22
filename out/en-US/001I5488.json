@@ -1,0 +1,71 @@
+{
+  "id": "001I5488",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gas Compressor S4 PGS V 220",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Gas Compressor",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff8b2bab-65a9-4f2d-89d5-43c41e6ac942.pdf",
+      "type": "GTDS",
+      "name": "Shell Gas Compressor S4 PGS V 220 EN TDG V1.3 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564191.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gas Compressor S4 PGS V 220 United States EN 140002686046 EHS V2.0 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/e430ccd4-da39-4ef8-b839-5c2a3675a16d.pdf",
+      "type": "LTDS",
+      "name": "Shell Gas Compressor S4 PGS V 220 United States EN TDG V1.3 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5488_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550058711",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5488_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057330",
+      "margin": "5.50653531749625",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor S4 PGS V 220 is a synthetic compressor lubricant designed with minimum hydrocarbon solubility for natural gas compression. Shell Gas Compressor S4 PGS V 220 fluids are blended from premium quality base stocks coupled with an additive technology resulting in improvements in performance beyond&nbsp;mineral compressor fluids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

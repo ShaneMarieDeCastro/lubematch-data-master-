@@ -1,0 +1,155 @@
+{
+  "id": "001E2773",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Risella X 415",
+  "description": "High Quality Technical White Oil",
+  "family": "Risella",
+  "parentCategory": null,
+  "category": "Technical White Oils",
+  "applicationKeys": [
+    "circulation",
+    "circulation system"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cac45f42-a3b7-4eed-9a60-4d89c3b19f3e.pdf",
+      "type": "GTDS",
+      "name": "Risella X 415 EN TDG V2.4 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579779.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 415 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2773_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006734",
+      "margin": "0.106832963583893",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Risella X 415 is a high quality and high purity technical white oil made from Shell’s proprietary Gas-to-Liquid technology from natural gas. This products is a highly refined paraffinic process oil which offers excellent performance for select applications in industrial, chemical, and agriculture applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "Colour (Saybolt)",
+      "method": "ASTM D156",
+      "uom": "",
+      "units": "",
+      "value": "+30"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "kg/m³",
+      "value": "806"
+    },
+    {
+      "property": "Refractive Index",
+      "method": "ASTM D1218",
+      "uom": "@ 20°C",
+      "units": "",
+      "value": "1.450"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "118"
+    },
+    {
+      "property": "Flashpoint COC",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "200"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 20°C",
+      "units": "mm²/s",
+      "value": "18.0"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "9.3"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "2.6"
+    },
+    {
+      "property": "Aniline Point",
+      "method": "ISO 2977",
+      "uom": "",
+      "units": "°C",
+      "value": "114"
+    },
+    {
+      "property": "Sulphur",
+      "method": "ISO 14596",
+      "uom": "",
+      "units": "mg/kg",
+      "value": "<5"
+    },
+    {
+      "property": "Evaporation Loss",
+      "method": "ASTM D972",
+      "uom": "22h/107°C",
+      "units": "%m",
+      "value": "0.75"
+    },
+    {
+      "property": "Noack Volatility",
+      "method": "ASTM D5800",
+      "uom": "1h/250°C",
+      "units": "%m",
+      "value": "40"
+    },
+    {
+      "property": "Purity Requirements for Technical White Oil",
+      "method": "FDA 178.3620 (b)",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

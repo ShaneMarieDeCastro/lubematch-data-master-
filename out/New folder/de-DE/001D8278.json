@@ -1,0 +1,145 @@
+{
+  "id": "001D8278",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S2 ALS 90",
+  "description": "High quality, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy truck",
+    "industrial",
+    "limited slip differentials",
+    "off highway",
+    "passenger car",
+    "reduction gears",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_ALS_90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Spirax S2 ALS 90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578297.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 90 Germany EN 140001492039 EHS V5.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578296.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 90 Germany DE 140001492039 EHS V5.2 23-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/57b4d8a8-066e-45a9-b85d-d04b9f76b376.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 ALS 90 Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8278_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027905",
+      "margin": "1.10234418203313",
+      "packShot": ""
+    },
+    {
+      "code": "001D8278_002VNC_A1P5",
+      "name": "Eimer 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027908",
+      "margin": "1.47776727358765",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 ALS 90 ist ein Achsgetriebeöl für hoch belastete Verzahnungen, bei denen LS-Zusätze für Lamellensperrdifferenziale benötigt werden.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse",
+      "method": "SAE J 306",
+      "uom": "",
+      "units": "",
+      "value": "90"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "155"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "96"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185 / DIN 51757",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "909"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "210"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027908_Shell_Spirax_S2_ALS_90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

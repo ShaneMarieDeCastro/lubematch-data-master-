@@ -1,0 +1,250 @@
+{
+  "id": "001F8438",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Tellus S2 MX 32",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Hydraulic Fluids",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "ball",
+    "bearing",
+    "better system efficiency",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "extended life",
+    "extreme performance",
+    "factory applications",
+    "fixed",
+    "gearbox",
+    "gerotor pump",
+    "high tost",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "manufacturing",
+    "marine",
+    "marine hydraulic",
+    "marine reversing gears",
+    "mobile",
+    "mobile equipment",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "shock absorber",
+    "vacuum pumps",
+    "variable",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/677901c5-ac50-4329-9710-f733692a5175.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MX 32 (2016) EN TDG V4.1 05-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609526.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 32 (2016) United Kingdom EN 140002340634 EHS V2.3 04-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/66dfc69d-0eea-4513-af15-98352791ff19.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 MX 32 (2016) United Kingdom EN TDG V4.1 03-Jan-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8438_002VNA_A246",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550045734",
+      "margin": "0.658528418176977",
+      "packShot": ""
+    },
+    {
+      "code": "001F8438_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550045731",
+      "margin": "0.537870001149178",
+      "packShot": ""
+    },
+    {
+      "code": "001F8438_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550045742",
+      "margin": "0.448044147948366",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Parker Denison HF-0",
+      "organisation": "Parker Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 AM",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 AM"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "Parker Denison HF-1",
+      "organisation": "Parker Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-68",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-68"
+    },
+    {
+      "name": "Parker Denison HF-2",
+      "organisation": "Parker Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "Bosch RDE 90245",
+      "organisation": "Bosch",
+      "spec": "RDE 90245"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-68 - Meets performance requirements",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-68 - Meets performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 MX fluids are high performance hydraulic fluids based on Group II base oils that provide outstanding protection and performance in most manufacturing and many mobile equipment operations. They resist breakdown under heat or mechanical stress and help prevent damaging deposit formation that can decrease the efficiency of your hydraulic power system.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Fluid Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@0°C",
+      "units": "cSt",
+      "value": "340"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "5.4"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "105"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.854"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "Colour",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "L0.5"
+    },
+    {
+      "property": "Water Separation",
+      "method": "ASTM D1401",
+      "uom": "",
+      "units": "minutes",
+      "value": "20"
+    },
+    {
+      "property": "TOST life",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hours minimum",
+      "value": "5000"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

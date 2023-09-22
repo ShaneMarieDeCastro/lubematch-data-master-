@@ -1,0 +1,97 @@
+{
+  "id": "001K4219",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b990288b-1f9f-4b6a-b29d-dd77b60a37d8.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil (CAN) EN TDG V1.1 02-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02427782.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil (CAN) Canada EN 140006579500 EHS V1.0 18-JUL-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02427783.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 5W-30 Motor Oil (CAN) Canada FR 140006579500 EHS V1.0 18-JUL-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001K4219_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500014976",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "General Motors dexos1 Gen 3",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen 3"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS M2C961-A1",
+      "organisation": "Ford",
+      "spec": "WSS M2C961-A1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^1 ^Based ^on ^latest ^industry ^standard",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

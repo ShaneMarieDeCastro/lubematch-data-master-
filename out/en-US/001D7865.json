@@ -1,0 +1,83 @@
+{
+  "id": "001D7865",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Air Tool Oil S2 A 32",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": null,
+  "category": "Rockdrill and Pneumatic Tool Lubricants",
+  "applicationKeys": [
+    "hydraulic system",
+    "hydraulics"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4b7b449a-4668-4aa1-aec8-0ddd4ac08e83.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 32 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563520.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 32 United States EN 140002686046 EHS V3.0 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/6c9f544c-da72-440d-9043-685d8dafaf09.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 32 United States EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7865_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026761",
+      "margin": "1.57368188721555",
+      "packShot": ""
+    },
+    {
+      "code": "001D7865_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550047500",
+      "margin": "1.73022969805127",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    },
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool Oil S2 A has been developed to meet the special lubrication requirements of pneumatic tools, including percussion type pneumatic tools subjected to the most arduous conditions. They are designed to maintain high oil film strength and effectively lubricate even the most demanding requirements of pneumatic drill impact mechanisms as well as providing excellent mist lubrication of general purpose air tools.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

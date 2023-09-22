@@ -1,0 +1,108 @@
+{
+  "id": "001D8582",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Advance 4T AX7 10W-40 (SL/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - motocyklowe",
+  "applicationKeys": [
+    "engine",
+    "four stroke",
+    "gasoline",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d789331b-39c1-40f7-874d-98809df2db88.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T AX7 10W-40 (SL/MA2) EN TDG V1.2 15-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02536266.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 10W-40 (SL/MA2) Poland PL 140003791557 EHS V3.7 06-MAR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02536265.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 10W-40 (SL/MA2) Poland EN 140003791557 EHS V2.7 06-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T AX7 offers excellent oil performance reliability that helps protect and clean the engine and helps prolong your engine life.  It provides advanced control through smoother gear changes and enhanced ride comfort by reduced noise and vibration.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "98.6"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15.8"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "172"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "858"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-36"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

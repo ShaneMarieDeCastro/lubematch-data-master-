@@ -1,0 +1,88 @@
+{
+  "id": "001F4573",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Naturelle S4 Hydraulic Fluid 46",
+  "description": "Ultimate biodegradable synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Hydraulische vloeistoffen",
+  "category": "Hydraulische vloeistoffen",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b5a5b0ff-ed7e-42e7-8dcd-aa2c557fa0ac.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/8ce6e01d-e586-4e20-81f5-7832dabc7ed5.pdf",
+      "type": "LTDS",
+      "name": "Shell Naturelle S4 Hydraulic Fluid 46 Netherlands NL TDG V2.0 03-Feb-2021",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481672.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 Netherlands EN 140002783873 EHS V1.6 22-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481674.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Hydraulic Fluid 46 Netherlands NL 140002783873 EHS V1.6 22-SEP-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4573_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550056320",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "Denison HF-6",
+      "organisation": "Denison",
+      "spec": "HF 6"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Hydraulic Fluid is een geavanceerde hydraulische vloeistof voor gebruik in hydraulische systemen en hydraulische krachtoverbrengingen. Het heeft een hoge graad van biologische afbreekbaarheid en is vooral geschikt voor gebruik in ecologisch gevoelige gebieden. De samenstelling van volledig verzadigde esters en asloze additieven, zorgt dat Shell Naturelle S4 Hydraulic Fluid een uitstekend smerend vermogen heeft en milieuvriendelijk is.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S4_Hydraulic_Fluid_46_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

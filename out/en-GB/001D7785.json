@@ -1,0 +1,163 @@
+{
+  "id": "001D7785",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Corena S4 R 32",
+  "description": "Advanced Synthetic Rotary  Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressor and Vacuum Pump",
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "abb turbochargers",
+    "air compressor",
+    "ball",
+    "bearing",
+    "gearbox",
+    "high temperature",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "plain",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane",
+    "thrust"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/efbbede4-e106-408f-840b-e2e6cdf76e48.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 R 32 EN TDG V2.5 11-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572553.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 32 United Kingdom EN 140002340634 EHS V2.6 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/065e5a4c-b59b-4b07-8d1a-b512172701b2.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 R 32 United Kingdom EN TDG V2.5 11-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7785_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550043984",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 R is primarily an advanced synthetic air compressor oil designed to deliver the highest performance lubrication of rotary sliding vane and screw air compressors. It uses a unique advanced additive system to provide excellent protection and performance for compressors running with oil maintenance intervals of 10,000 hours and up to 12,000 hours under certain conditions. Shell Corena S4 R is also perfectly suitable to cover applications where a synthetic bearing & circulating oil or R&O oil (ISO VG 32-68) is required.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.9"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "130"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "830"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "218"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-48"
+    },
+    {
+      "property": "Air Release",
+      "method": "ASTM D3427",
+      "uom": "",
+      "units": "minutes",
+      "value": "2"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@54°C",
+      "units": "minutes",
+      "value": "10"
+    },
+    {
+      "property": "FZG Test",
+      "method": "CEC-L-07-A-95",
+      "uom": "",
+      "units": "failure load stage",
+      "value": "12"
+    },
+    {
+      "property": "RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes minimum",
+      "value": "2100"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_r.png",
+  "valueRecord": [],
+  "commerce": null
+}

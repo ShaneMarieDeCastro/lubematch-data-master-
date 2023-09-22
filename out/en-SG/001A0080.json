@@ -1,0 +1,77 @@
+{
+  "id": "001A0080",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Turbine Oil 308",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b21ab9c6-8dc4-42ac-9d79-361a492ada0b.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 308 EN TDG V1.4 01-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579905.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 Singapore English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/4a2097d4-f8b1-4697-8a0e-a33fd6b2a39b.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 308 Singapore EN TDG V1.4 01-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0080_002VFJ_AMAP",
+      "name": "Can 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Can",
+      "materialCode": "550050174",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO O-148",
+      "organisation": "NATO",
+      "spec": "O-148"
+    },
+    {
+      "name": "Joint Service Designation OX-9",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-9"
+    },
+    {
+      "name": "MIL-PRF-7808L Type III",
+      "organisation": "MIL",
+      "spec": "PRF-7808L Type III"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 308 is a 3 mm²/s synthetic ester oil incorporating additives to improve resistance to oxidation and corrosion and to minimise wear.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "001B0853",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil Synchromesh Fluid",
+  "description": "Heavy duty gear oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "low temperature",
+    "manual transaxle",
+    "manual transmission",
+    "passenger car",
+    "synchromesh fluid",
+    "syncromesh transmission",
+    "transaxle"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Synchromesh_Fluid_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Synchromesh Fluid English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/a067c741-b93f-4bdc-a663-6004d51c7987.pdf",
+      "type": "LTDS",
+      "name": "Pzl Synchromesh Fluid Canada FR TDG V1.1 11-Oct-2016",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02512489.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Synchromesh Fluid Canada EN 140006579500 EHS V3.5 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02512488.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Synchromesh Fluid Canada FR 140006579500 EHS V2.6 28-DEC-2022",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/e632c4a8-fe23-407a-ba67-db9da313b9bd.pdf",
+      "type": "LTDS",
+      "name": "Pzl Synchromesh Fluid Canada EN TDG V1.1 08-Dec-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0853_002V7M_A0II",
+      "name": "Bottle 1 Quart Round Handled PZL Y (Gear Lubes) (12)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "3501",
+      "margin": "3.83981069416136",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors GM 9985648 - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 9985648 - Meets the requirements"
+    },
+    {
+      "name": "Chrysler MS 9224 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 9224 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "PENNZOIL[sup]^®[/sup] SYNCHROMESH FLUID is a synchromesh transmission fluid designed for certain manual transaxles and manual transmissions used by General Motors or Chrysler. PENNZOIL[sup]^®[/sup] SYNCHROMESH FLUID is formulated with high quality paraffinic base stocks, a fluidity modifier, multifunctional performance additives, corrosion inhibitors, a foam suppressor and a shear stable viscosity index improver additive. It provides excellent oxidation stability, low temperature performance, excellent synchronizer performance and compatibility with yellow metals, such as bronze, brass and copper components found in manual transaxles and transmissions. This product will satisfactorily lubricate General Motors or Chrysler manual transaxles and transmissions from -40°C to +150°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

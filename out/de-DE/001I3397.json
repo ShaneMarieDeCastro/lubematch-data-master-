@@ -1,0 +1,61 @@
+{
+  "id": "001I3397",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Immersion Cooling Fluid S5 X",
+  "description": "Stabilized hydrocarbon fluid based on Shell Gas-to-Liquid Technology (GTL).",
+  "family": "Immersion Cooling Fluid",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Isolieröle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/615128f8-db18-4709-bb03-10bf668eb6eb.pdf",
+      "type": "GTDS",
+      "name": "Immersion Cooling Fluid S5 X EN TDG V1.5 27-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607597.PDF",
+      "type": "LMSDS",
+      "name": "Immersion Cooling Fluid S5 X Germany DE 140001492039 EHS V1.8 03-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607596.PDF",
+      "type": "LMSDS",
+      "name": "Immersion Cooling Fluid S5 X Germany EN 140001492039 EHS V1.8 03-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I3397_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550056018",
+      "margin": "2.02356463223933",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

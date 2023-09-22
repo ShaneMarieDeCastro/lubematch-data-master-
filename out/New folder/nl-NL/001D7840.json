@@ -1,0 +1,163 @@
+{
+  "id": "001D7840",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Omala S2 G 680",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriële tandwielkastoliën",
+  "category": "Industriële tandwielkastoliën",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed gear",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "gearbox",
+    "gears",
+    "heat transfer",
+    "heavy duty",
+    "helical",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "non shiftable",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump valve",
+    "reduction gears",
+    "roller cylindrical",
+    "rollers",
+    "servo",
+    "splash lubricated bearings",
+    "spur",
+    "tandem drive",
+    "transmissions",
+    "trunnion"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S2_G_680_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 G 680 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/5e866ca6-5509-4759-8b04-ce060a6ac607.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 G 680 Netherlands NL TDG V4.2 07-Feb-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481138.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 680 Netherlands NL 140002783873 EHS V2.9 16-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481137.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 G 680 Netherlands EN 140002783873 EHS V2.9 16-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-34",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-34"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 G smeeroliën zijn hoogwaardige 'extreme-pressure' tandwielkastoliën, ontwikkeld voor zwaarbelaste industriële overbrengingen. De uitstekende bescherming tegen hoge belasting en goede wrijvingseigenschappen bieden superieure prestaties in tandwielkasten.\n",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "38"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "92"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "912"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "270"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-9"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

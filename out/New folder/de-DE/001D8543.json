@@ -1,0 +1,65 @@
+{
+  "id": "001D8543",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S3 A1300C 2",
+  "description": "Premium Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "calcium",
+    "ep",
+    "extreme pressure",
+    "shock load",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/563080b3-9ae1-4983-a7bb-78e4c866915a.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 A1300C 2 EN TDG V1.2 30-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612194.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 A1300C 2 Germany DE 140001492039 EHS V3.2 06-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612195.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 A1300C 2 Germany EN 140001492039 EHS V3.2 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8543_002VT7_EURO",
+      "name": "Kartusche 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550063970",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 A1300C is a calcium grease based on anhydrous calcium soaps and high viscous mineral oils, containing antioxidants, rust inhibitors, EP- and Anti-Wear additives. The grease has an excellent adhesion force, is very water repellant and has the ability to withstand severe shock loads.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

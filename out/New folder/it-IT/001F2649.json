@@ -1,0 +1,95 @@
+{
+  "id": "001F2649",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Morlina S4 B 1000",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oli di circolazione e per cuscinetti",
+  "category": "Oli circolanti e per cuscinetti",
+  "applicationKeys": [
+    "air release",
+    "bearing",
+    "bearing and circulating",
+    "circulation",
+    "circulation system",
+    "extreme temperatures",
+    "fzg",
+    "fzg 12",
+    "gearbox",
+    "industrial",
+    "journal",
+    "long life",
+    "low temperature",
+    "rollers",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1000",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4ca38947-2171-410e-aa63-4b4c9a06f8ec.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 1000 (2014) EN TDG V4.7 13-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/a579b67a-fc33-424d-b285-7025918c3a76.pdf",
+      "type": "LTDS",
+      "name": "Morlina S4 B 1000 (2014) Italy IT TDG V4.7 11-Dec-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447437.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 1000 (2014) Italy IT 140007645406 EHS V1.7 21-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447438.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 1000 (2014) Italy EN 140007645406 EHS V1.7 21-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKT",
+      "organisation": "ISO",
+      "spec": "12925-1 CKT"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B sono lubrificanti sintentici ad alte prestazioni per cuscinetti e sistemi a circolazione, formulati con oli base di elevata qualità. Offrono eccezionali prestazioni lubrificanti, incluse una maggiore efficienza energetica, filtrabilità e durata anche in condizioni operative severe.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_morlina_s4_b.png",
+  "valueRecord": [],
+  "commerce": null
+}

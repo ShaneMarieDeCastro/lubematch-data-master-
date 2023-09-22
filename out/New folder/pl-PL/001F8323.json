@@ -1,0 +1,200 @@
+{
+  "id": "001F8323",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R6 LM 10W-40",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/96697ad7-72a8-4e10-8fb3-60a1487c6755.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 LM 10W-40 (CK-4) EUR EN TDG V6.1 18-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510448.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LM 10W-40 (CK-4) EUR Poland EN 140003791557 EHS V1.7 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/4b6de9a5-0c22-4991-829c-7a615209156d.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 LM 10W-40 (CK-4) EUR Poland PL TDG V6.1 22-May-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510449.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LM 10W-40 (CK-4) EUR Poland PL 140003791557 EHS V1.7 28-DEC-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8323_002WX1_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550054436",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8323_002VNF_A246",
+      "name": "Wiadro 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550044858",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8323_002VJW_A246",
+      "name": "Kontener 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550044857",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8323_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550044859",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "MTU Category 3.1",
+      "organisation": "MTU",
+      "spec": "Category 3.1"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Scania Low Ash",
+      "organisation": "Scania",
+      "spec": "Low Ash"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Deutz DQC IV-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10 LA"
+    },
+    {
+      "name": "Iveco NG2 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "NG2 - Meets the requirements"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "DAF Meets ACEA E6",
+      "organisation": "DAF",
+      "spec": "Meets ACEA E6"
+    },
+    {
+      "name": "MAN M 3271-1",
+      "organisation": "MAN",
+      "spec": "M 3271-1"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "W pełni syntetyczny olej zawierający niskopopiołowe dodatki w technologii \"low-SAPS\". Zapewnia ochronę silnika i redukcję kosztów utrzymania. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R6-LM-10_40.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Ino8QAC&field=Attachment__Name__s",
+      "family": "Rimula",
+      "savings": 480000,
+      "title": "Shell Rimula R6 LM 10W-40 (CJ-4)"
+    }
+  ],
+  "commerce": null
+}

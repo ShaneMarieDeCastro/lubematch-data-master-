@@ -1,0 +1,83 @@
+{
+  "id": "001H2060",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Top Up Oil 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6e43af41-08e2-437b-98bb-517528e90b39.pdf",
+      "type": "GTDS",
+      "name": "Helix Top Up Oil 0W-30 EN TDG V1.5 21-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319952.PDF",
+      "type": "LMSDS",
+      "name": "Helix Top Up Oil 0W-30 Turkey TR 140003791542 EHS V1.3 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319951.PDF",
+      "type": "LMSDS",
+      "name": "Helix Top Up Oil 0W-30 Turkey EN 140003791542 EHS V1.3 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/ef861847-07a5-4918-b630-50fc260b5517.pdf",
+      "type": "LTDS",
+      "name": "Helix Top Up Oil 0W-30 Turkey TR TDG V1.5 04-Feb-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2060_002W1Y_A0S5",
+      "name": "Şişe 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550052130",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Top Up 0W-30, modern benzinli ve dizel partikül filtreli (DPF) dizel motorlar için tamamlama yağı olarak kullanıma uygundur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

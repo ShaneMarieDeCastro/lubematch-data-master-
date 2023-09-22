@@ -1,0 +1,56 @@
+{
+  "id": "901LU760",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Strombus MP",
+  "description": "Emulsifiable lubricant for oil filled stern tubes where excessive leakage past the outer seal is experienced",
+  "family": "Strombus",
+  "parentCategory": null,
+  "category": "Marine Specialities",
+  "applicationKeys": [
+    "marine",
+    "stern tube seal"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140002470406_57F.pdf",
+      "type": "GTDS",
+      "name": "Strombus MP English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579819.PDF",
+      "type": "LMSDS",
+      "name": "Strombus MP Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901LU760_002VSH_A18H",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550017048",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

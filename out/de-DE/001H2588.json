@@ -1,0 +1,243 @@
+{
+  "id": "001H2588",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Rimula R6 LME Plus 5W-30",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f84b2feb-262b-4cfb-bbed-dc7d010efe99.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) EN TDG V1.7 24-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/49c4f679-908f-47cf-a1ed-8a547e9d6618.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Germany DE TDG V1.7 30-Aug-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610709.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Germany EN 140001492039 EHS V2.8 05-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02610710.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Germany DE 140001492039 EHS V2.8 05-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2588_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500011531",
+      "margin": "0.859832640624087",
+      "packShot": ""
+    },
+    {
+      "code": "001H2588_002VNF_A246",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550052712",
+      "margin": "1.39569115654923",
+      "packShot": ""
+    },
+    {
+      "code": "001H2588_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550052713",
+      "margin": "0.842493036606016",
+      "packShot": ""
+    },
+    {
+      "code": "001H2588_002WX1_A0YR",
+      "name": "Flasche 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550053679",
+      "margin": "1.95318986210296",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "MB DTFR 15C120",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C120"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "Deutz DQC IV-18 LA",
+      "organisation": "Deutz",
+      "spec": "DQC IV-18 LA"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "ACEA E11",
+      "organisation": "ACEA",
+      "spec": "E11"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "MTU Category 3.1",
+      "organisation": "MTU",
+      "spec": "Category 3.1"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "MAN M 3677",
+      "organisation": "MAN",
+      "spec": "M 3677"
+    },
+    {
+      "name": "MB DTFR 15C110",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C110"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Scania LDF-4",
+      "organisation": "Scania",
+      "spec": "LDF-4"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 LME Plus ist ein besonders leistungsstarkes Dieselmotorenöl für Nutzfahrzeuge mit modernster Low-SAPS-Additivtechnik für mehr Schutz und Kraftstoffeinsparung.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

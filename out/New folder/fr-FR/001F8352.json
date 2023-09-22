@@ -1,0 +1,172 @@
+{
+  "id": "001F8352",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Turbo S5 DR 46",
+  "description": "Special Purpose Fire Resistant Hydraulic and Turbine Oil",
+  "family": "Turbo",
+  "parentCategory": "",
+  "category": "Huiles pour turbine",
+  "applicationKeys": [
+    "cooling pumps",
+    "electrohydraulic governor",
+    "fire resistance",
+    "gas turbines",
+    "generators",
+    "high auto ignition temperature",
+    "high fire point",
+    "high flash point",
+    "industrial",
+    "steam turbine",
+    "triaryl phosphate",
+    "turbine bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7d635bd3-669d-456d-b989-d93ac14023ce.pdf",
+      "type": "GTDS",
+      "name": "Turbo S5 DR 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/d66b05d6-bfbf-4085-a1e0-abf055aff7d0.pdf",
+      "type": "LTDS",
+      "name": "Turbo S5 DR 46 France FR TDG V2.1 11-Aug-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488237.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S5 DR 46 France FR 140003182031 EHS V2.0 25-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488236.PDF",
+      "type": "LMSDS",
+      "name": "Turbo S5 DR 46 France EN 140003182031 EHS V2.0 25-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8352_002VHC_A1P5",
+      "name": "Baril 230 kg O/H R/Y (1)",
+      "size": "230",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550044650",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4293 HFDR",
+      "organisation": "ASTM",
+      "spec": "D4293 HFDR"
+    },
+    {
+      "name": "ISO 12922 HFDR",
+      "organisation": "ISO",
+      "spec": "12922 HFDR"
+    },
+    {
+      "name": "FM 6930",
+      "organisation": "FM",
+      "spec": "6930"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo S5 DR 46 est une huile hydraulique difficilement inflammable composée de triaryle phosphate ester à base de phénol butylé.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "46"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "44.5"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.4"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 3675",
+      "uom": "@20°C",
+      "units": "kg/m³",
+      "value": "1 150"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "262"
+    },
+    {
+      "property": "Fire Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "354"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Neutralisation Number",
+      "method": "ISO 6619",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0.05"
+    },
+    {
+      "property": "Water Content",
+      "method": "ISO 760",
+      "uom": "",
+      "units": "m-%",
+      "value": "0.04"
+    },
+    {
+      "property": "Cleanliness",
+      "method": "ISO 4406",
+      "uom": "",
+      "units": "",
+      "value": "-/15/12"
+    },
+    {
+      "property": "Air Release",
+      "method": "ISO 9120",
+      "uom": "",
+      "units": "minutes",
+      "value": "5.5"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

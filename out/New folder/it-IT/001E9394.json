@@ -1,0 +1,95 @@
+{
+  "id": "001E9394",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix Ultra Professional AV-L 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1db58b94-a2ce-408a-9a45-2d45ca765d4a.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AV-L 5W-30 (VW 504/507) EN TDG V1.3 03-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498716.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 5W-30 (VW 504/507) Italy IT 140007645406 EHS V1.6 06-DEC-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498717.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 5W-30 (VW 504/507) Italy EN 140007645406 EHS V1.6 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/28038c48-a28d-41e6-99c3-038cc46aa1d6.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AV-L 5W-30 (VW 504/507) Italy IT TDG V1.3 27-Apr-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9394_002XS4_A246",
+      "name": "Fusti 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusti",
+      "materialCode": "550040140",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formulato per soddisfare i severi requisiti dei motori Audi e VW ad alte prestazioni.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_Ultra_Pro_AVL_5W_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

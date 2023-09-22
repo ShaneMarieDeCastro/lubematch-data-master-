@@ -1,0 +1,128 @@
+{
+  "id": "001G8105",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix Ultra Racing 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/dbbe3031-3a49-426d-ae1d-c1c3bb7e5995.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Racing 5W-40 (SN A3/B4 Ferrari) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02180128.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Racing 5W-40 (SN A3/B4 Ferrari) Malaysia EN 140001435555 EHS V1.2 13-NOV-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02180129.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Racing 5W-40 (SN A3/B4 Ferrari) Malaysia MS 140001435555 EHS V1.2 13-NOV-2020",
+      "language": "MS"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-MY/00b15adf-9b1f-44d6-8016-b5b6815d3379.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Racing 5W-40 (SN A3/B4 Ferrari) Malaysia EN TDG V1.1 11-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8105_002W2L_A685",
+      "name": "Bottle 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050895",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including those requiring API SN or ACEA A3/B4.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,164 @@
+{
+  "id": "001D8261",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S2 G 80W-90",
+  "description": "High Quality API GL-4 Oil for Manual Transmissions and Gear Sets",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "axle",
+    "biodiesel",
+    "buses",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "motorcycle",
+    "off highway",
+    "on highway",
+    "passenger car",
+    "rear axles",
+    "reduction gears",
+    "semi automatic",
+    "separate motorcycle gear",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "urban",
+    "water"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_G_80W-90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 G 80W-90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/86115116-9f93-4adc-ab2c-e7fe5e3bc5dd.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 G 80W-90 Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511816.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 80W-90 Germany DE 140001492039 EHS V1.7 28-DEC-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511818.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 80W-90 Germany EN 140001492039 EHS V1.7 28-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8261_002VNC_A246",
+      "name": "Eimer 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027930",
+      "margin": "1.06548536371383",
+      "packShot": ""
+    },
+    {
+      "code": "001D8261_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027913",
+      "margin": "0.951404957501334",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 G 80W-90 ist ein multifunktionales Mehrbereichs-Schaltgetriebeöl auf Mineralölbasis.\n",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "SAE J 306",
+      "uom": "",
+      "units": "",
+      "value": "80W-90"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "146"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.7"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "900"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-27"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s2_g_80w-90.png",
+  "valueRecord": [],
+  "commerce": null
+}

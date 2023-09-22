@@ -1,0 +1,98 @@
+{
+  "id": "001I5769",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix HYBRID 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ed189fb5-d327-4834-a317-f72f90d7196a.pdf",
+      "type": "GTDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) EN TDG V1.1 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605412.PDF",
+      "type": "LMSDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Poland EN 140003791557 EHS V1.3 29-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605411.PDF",
+      "type": "LMSDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Poland PL 140003791557 EHS V1.3 29-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/57cdda63-10fb-44a6-b723-0424a94b3c9e.pdf",
+      "type": "LTDS",
+      "name": "Helix HYBRID 0W-20 (SP/GF-6A) Poland PL TDG V1.1 13-Sep-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5769_002YAP_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550056725",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5769_002YAN_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550056722",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5769_002XI2_A246",
+      "name": "Butelka 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550056726",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HYBRID jest przeznaczony do stosowania w nowoczesnych, paliwooszczędnych silnikach benzynowych stosowanych w pojazdach hybrydowych.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

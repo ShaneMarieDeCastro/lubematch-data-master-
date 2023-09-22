@@ -1,0 +1,81 @@
+{
+  "id": "001A0064",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "AeroShell Grease 6",
+  "description": "General purpose mineral grease for aircraft.",
+  "family": "AeroShell",
+  "parentCategory": "Lubricantes de aviación",
+  "category": "Grasas de aviación",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/92e0abe3-5dd8-4d2d-aa38-d93fa885f6db.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 6 EN TDG V1.6 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590386.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 6 Spain ES 140003966322 EHS V1.13 17-APR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590387.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 6 Spain EN 140003966322 EHS V1.13 17-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MIL-G-7711A - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "G-7711A - Meets the requirements"
+    },
+    {
+      "name": "DEF STAN 91-12",
+      "organisation": "DEF STAN",
+      "spec": "91-12"
+    },
+    {
+      "name": "DCSEA 382/A",
+      "organisation": "DCSEA",
+      "spec": "382/A"
+    },
+    {
+      "name": "NATO G-382",
+      "organisation": "NATO",
+      "spec": "G-382"
+    },
+    {
+      "name": "Joint Service Designation XG-271",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-271"
+    },
+    {
+      "name": "MIL-PRF-24139A",
+      "organisation": "MIL",
+      "spec": "PRF-24139A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Grease 6 is a general purpose grease composed of a mineral oil and clay thickener, possessing good all-round properties within a limited range. It is inhibited against oxidation and corrosion and has good water resistance and low noise capability.  The useful operating temperature range is –40°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

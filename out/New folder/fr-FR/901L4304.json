@@ -1,0 +1,112 @@
+{
+  "id": "901L4304",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadinia AL 30",
+  "description": "Very High Performance Medium-speed Diesel Engine Oil for use with Distillate Fuels",
+  "family": "Gadinia",
+  "parentCategory": "",
+  "category": "Huiles moteur - Moteur à piston plongeur",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "distillates",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "off highway",
+    "pump gear",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "servo",
+    "stern tube seal",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/14c07a79-f083-4dc2-8c8f-6888620fa89d.pdf",
+      "type": "GTDS",
+      "name": "Gadinia AL 30 EN TDG V1.1 15-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581873.PDF",
+      "type": "LMSDS",
+      "name": "Gadinia AL 30 France FR 140003182031 EHS V1.6 25-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/4cc6d869-80f7-40d0-8d66-fed5a6cffa34.pdf",
+      "type": "LTDS",
+      "name": "Gadinia AL 30 France FR TDG V1.1 02-Aug-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581872.PDF",
+      "type": "LMSDS",
+      "name": "Gadinia AL 30 France EN 140003182031 EHS V1.6 25-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L4304_002XI2_A246",
+      "name": "Bouteille 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550063535",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "901L4304_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550033308",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell GADINIA AL est une huile de qualité supérieure pour moteurs diesel marine conçue pour les moteurs à pistons à moyenne vitesse fonctionnant avec des combustibles distillés. Shell GADINA AL est speciallement conçue pour contrôler la consommation d'huile dans les moteurs modernes où la formation de laques ou vernis dans les chemises cylindriques pose un problème potentiel. Shell GADINIA AL est une huile multifonctionnelle et peut être utilisée pour d'autres applications marines telles que les réducteurs.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-gadinia-al-135-190.png",
+  "valueRecord": [],
+  "commerce": null
+}

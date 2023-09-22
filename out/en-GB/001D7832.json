@@ -1,0 +1,132 @@
+{
+  "id": "001D7832",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Omala S1 W 460",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industrial gear oils",
+  "category": "Industrial gear oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "enclosed industrial worm gears",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "low speed enclosed gears",
+    "manual sequential",
+    "marine",
+    "medium speed",
+    "non shiftable",
+    "off highway",
+    "plain",
+    "pump vane",
+    "reduction gears",
+    "steam cylinders",
+    "tandem drive",
+    "transmissions",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b2218878-292e-4b05-a2e8-8ee4a008b064.pdf",
+      "type": "GTDS",
+      "name": "Omala S1 W 460 EN TDG V1.2 05-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/4afd4f34-0a3e-426d-a769-d3ee4a99ed06.pdf",
+      "type": "LTDS",
+      "name": "Omala S1 W 460 United Kingdom EN TDG V1.2 05-Aug-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573050.PDF",
+      "type": "LMSDS",
+      "name": "Omala S1 W 460 United Kingdom EN 140002340634 EHS V2.6 08-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S1 W oils are quality refined, high viscosity mineral oils compounded with a small percentage of fatty oils. They are particularly suitable for the lubrication of low speed enclosed gears and worm drive application. They are also suitable for the lubrication of high temperature, high pressure steam cylinders.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "31.2"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "887"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "318"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-6"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

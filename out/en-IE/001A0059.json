@@ -1,0 +1,101 @@
+{
+  "id": "001A0059",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "AeroShell Grease 22",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/057be38e-1147-44f0-b8c1-00a277a57723.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 22 EN TDG V1.8 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555330.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 22 Ireland EN 140009424789 EHS V1.11 17-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0059_002WX7_A1P5",
+      "name": "Cans without Closure 3 kg Open head Tinplate Shell Yellow (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Cans without Closure",
+      "materialCode": "550043831",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0059_002VFN_A1P5",
+      "name": "Can 3 kg Local (6.6lb Aeroshell Grease) Tinplate Pre-printed (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Can",
+      "materialCode": "550043675",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO G-395",
+      "organisation": "NATO",
+      "spec": "G-395"
+    },
+    {
+      "name": "Joint Service Designation XG-293",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-293"
+    },
+    {
+      "name": "MIL-PRF-24508B",
+      "organisation": "MIL",
+      "spec": "PRF-24508B"
+    },
+    {
+      "name": "DCSEA 395/A",
+      "organisation": "DCSEA",
+      "spec": "395/A"
+    },
+    {
+      "name": "DEF STAN 91-52",
+      "organisation": "DEF STAN",
+      "spec": "91-52"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-301",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-301"
+    },
+    {
+      "name": "MIL-PRF-81322G",
+      "organisation": "MIL",
+      "spec": "PRF-81322G"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +177°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/AeroShell-Grease-22.png",
+  "valueRecord": [],
+  "commerce": null
+}

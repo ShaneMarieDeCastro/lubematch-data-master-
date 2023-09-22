@@ -1,0 +1,113 @@
+{
+  "id": "001H1059",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Alexia 40",
+  "description": "MCL for use in two-stroke low speed diesel engines. Alexia 40 is a BN40, SAE 50 cylinder oil.",
+  "family": "Alexia",
+  "parentCategory": "",
+  "category": "Huiles moteur - Cylindres et lubrifiants système",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/204f33da-1105-4eb7-b249-03690cb59501.pdf",
+      "type": "GTDS",
+      "name": "Alexia 40 EN TDG V1.0 21-Dec-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534041.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 40 France EN 140003182031 EHS V1.9 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/6c070e69-3938-468e-bb06-5964bc5c0653.pdf",
+      "type": "LTDS",
+      "name": "Alexia 40 France FR TDG V1.0 05-Jul-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534042.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 40 France FR 140003182031 EHS V1.9 02-MAR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 40 est une huile cylindre destinée aux moteurs lents diesel 2 temps, alimentés avec un carburant à faible teneur en soufre. Shell Alexia 40 est une huile SAE 50 de BN 40 formulée selon une technologie éprouvée et fiable.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Index",
+      "method": "DIN ISO 2909",
+      "uom": "",
+      "units": "minimum",
+      "value": "95"
+    },
+    {
+      "property": "Density",
+      "method": "DIN EN ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "915"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C maximum",
+      "value": "-20"
+    },
+    {
+      "property": "BN",
+      "method": "ISO 3771",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "40"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "Calculated Sulphated Ash",
+      "uom": "",
+      "units": "% wt",
+      "value": "5.2"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "18.5"
+    },
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "50"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

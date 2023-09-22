@@ -1,0 +1,111 @@
+{
+  "id": "001D5428",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T1 30",
+  "description": "High Quality Straight Grade Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "hydrostatic",
+    "industrial",
+    "light fuel",
+    "lng",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "off highway",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "tandem drive",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rotella_T1_30_(CF_CF-2)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 30 (CF/CF-2) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/68db179f-d54f-49e1-9d64-ee6800426796.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 30 (CF/CF-2) Canada FR TDG V1.1 23-May-2018",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/2c05aa79-7d11-4920-bcb1-6183f8c3b88d.pdf",
+      "type": "LTDS",
+      "name": "Rotella T1 30 (CF/CF-2) Canada EN TDG V1.1 25-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289506.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 30 (CF/CF-2) Canada EN 140006579500 EHS V1.8 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289507.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 30 (CF/CF-2) Canada FR 140006579500 EHS V1.8 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Detroit Diesel Corporation Series 53",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "Series 53"
+    },
+    {
+      "name": "Detroit Diesel Corporation Series 92",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "Series 92"
+    },
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    },
+    {
+      "name": "Detroit Diesel Corporation Series 71",
+      "organisation": "Detroit Diesel Corporation",
+      "spec": "Series 71"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles de protection sous tension Rotella de Shell^®^ T1 utilisent des additifs de performance bien éprouvés pour lutter contre l'usure des moteurs et prévenir les dépôts, fournissant des performances lubrification et cohérentes. Convient pour une utilisation journalière dans les moteurs plus anciens turbo et non turbocompressés.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

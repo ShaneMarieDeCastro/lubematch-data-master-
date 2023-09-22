@@ -1,0 +1,65 @@
+{
+  "id": "001K1073",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Spirax S6 TFVM",
+  "description": "Premium quality, Multi-Functional Tractor Oil (UTTO) SAE 10W-30",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c5b04f8e-cd78-4c03-8b7e-7f5a2373df41.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 TFVM EN TDG V1.0 04-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561426.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 TFVM United Kingdom EN 140002340634 EHS V1.1 26-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001K1073_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550068568",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001K1073_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550068567",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 TFVM is a premium quality, top-tier Universal Tractor Transmission Oil (UTTO) designed to provide superior performance in Fendt Vario as well as other agricultural equipment applications. The improved wear protection performance supported by enhanced shear stability can help to reduce unplanned downtime and to prolong equipment and component lifetime.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

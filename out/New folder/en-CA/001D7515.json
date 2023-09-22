@@ -1,0 +1,139 @@
+{
+  "id": "001D7515",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil High Mileage SAE 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/691cce8c-fdd0-453d-b9c5-91229a9fffd0.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SP/GF-6A) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/4364042b-3f89-4faf-869b-1bac9969f330.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SP/GF-6A) Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02425833.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SP/GF-6A) Canada FR 140006579500 EHS V1.10 05-JUL-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02425834.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SP/GF-6A) Canada EN 140006579500 EHS V1.10 05-JUL-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/43b7e19e-a940-421f-acb0-00e85436d1eb.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SP/GF-6A) Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7515_002X5E_A1WK",
+      "name": "Not Specified 1 qt Not Specified Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Not specified",
+      "materialCode": "550022836",
+      "margin": "0.898792258571444",
+      "packShot": ""
+    },
+    {
+      "code": "001D7515_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005396",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7515_002V75_A0IK",
+      "name": "Bottle 1 Quart Rect PZL C (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550023793",
+      "margin": "1.87511861122993",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS-M2C946-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A"
+    },
+    {
+      "name": "Ford WSS-M2C946-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A - Meets the requirements"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® High Mileage Motor Oil a synthetic blend formula with Active Cleansing Technology. It is specially formulated to help stop leaks from seals and reduced oil consumption in worn engines. Because at Pennzoil we know, a cleaner, well sealed engine is better protected and responsive. It meets or exceeds the engine protection required by API SP and is specially formulated to provide protection for older vehicles or with 120 000 km",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

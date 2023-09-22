@@ -1,0 +1,267 @@
+{
+  "id": "001A0047",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Fluid 3",
+  "description": "Mineral lubricating oil for general purpose aircraft use",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e3259b31-5888-46aa-8542-ec96ffd94471.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 3 EN TDG V1.5 29-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597813.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 3 United States EN 140002686046 EHS V2.3 16-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OM-12",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-12"
+    },
+    {
+      "name": "NATO O-142",
+      "organisation": "NATO",
+      "spec": "O-142"
+    },
+    {
+      "name": "MIL-PRF-7870D",
+      "organisation": "MIL",
+      "spec": "PRF-7870D"
+    },
+    {
+      "name": "DEF STAN 91-47",
+      "organisation": "DEF STAN",
+      "spec": "91-47"
+    },
+    {
+      "name": "MIL-PRF-7870F",
+      "organisation": "MIL",
+      "spec": "PRF-7870F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 3 is a general purpose mineral lubricating oil recommended for general lubrication of aircraft parts that require a light oil with good low temperature characteristics and a low freezing point. It is inhibited against oxidation and corrosion. AeroShell Fluid 3 is a relatively low viscosity product with good resistance to evaporation.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "-"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@38°C",
+      "units": "mm²/s",
+      "value": "10 min"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "mm²/s",
+      "value": "4000 max"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "130 min"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-57 max"
+    },
+    {
+      "property": "Evaporation 22 hrs",
+      "method": "NULL",
+      "uom": "@99°C",
+      "units": "%m",
+      "value": "25 max"
+    },
+    {
+      "property": "Total acid number",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "Report"
+    },
+    {
+      "property": "Relative Density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "-"
+    },
+    {
+      "property": "Low temperature stability 72 hrs",
+      "method": "",
+      "uom": "@-54°C",
+      "units": "",
+      "value": "Must Pass"
+    },
+    {
+      "property": "Corrosion & oxidation stability 168 hrs - metal weight change",
+      "method": "",
+      "uom": "@121°C",
+      "units": "",
+      "value": "Must Pass"
+    },
+    {
+      "property": "Corrosion & oxidation stability 168 hrs - viscosity change",
+      "method": "",
+      "uom": "@121°C",
+      "units": "%",
+      "value": "-5 to +20"
+    },
+    {
+      "property": "Corrosion & oxidation stability 168 hrs - acid number change",
+      "method": "",
+      "uom": "@121°C",
+      "units": "mgKOH/g",
+      "value": "0.2 max"
+    },
+    {
+      "property": "Corrosivity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must Pass"
+    },
+    {
+      "property": "ASTM Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "-"
+    },
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@38°C",
+      "units": "mm²/s",
+      "value": "10.0"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@-40°C",
+      "units": "mm²/s",
+      "value": "Less than 4000"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "155"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "Below -57"
+    },
+    {
+      "property": "Evaporation 22 hrs",
+      "method": "NULL",
+      "uom": "@99°C",
+      "units": "%m",
+      "value": "13"
+    },
+    {
+      "property": "Total acid number",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.3"
+    },
+    {
+      "property": "Relative Density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "0.89"
+    },
+    {
+      "property": "Low temperature stability 72 hrs",
+      "method": "",
+      "uom": "@-54°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosion & oxidation stability 168 hrs - metal weight change",
+      "method": "",
+      "uom": "@121°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosion & oxidation stability 168 hrs - viscosity change",
+      "method": "",
+      "uom": "@121°C",
+      "units": "%",
+      "value": "10"
+    },
+    {
+      "property": "Corrosion & oxidation stability 168 hrs - acid number change",
+      "method": "",
+      "uom": "@121°C",
+      "units": "mgKOH/g",
+      "value": "0.02"
+    },
+    {
+      "property": "Corrosivity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    },
+    {
+      "property": "ASTM Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "< 0.5"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

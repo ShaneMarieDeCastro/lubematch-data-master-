@@ -1,0 +1,95 @@
+{
+  "id": "001E5591",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Morlina S2 B 680",
+  "description": "Industrial Bearing and Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "bearing",
+    "enclosed gear",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "oil lubricated bearings",
+    "rollneck bearings",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S2_B_680_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 680 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/3702943c-b51b-4eea-acfe-0416a6c8d455.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 680 Netherlands NL TDG V1.2 02-Aug-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479556.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 680 Netherlands NL 140002783873 EHS V1.5 20-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479555.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 680 Netherlands EN 140002783873 EHS V1.5 20-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E5591_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550032960",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B zijn hoogwaardige oliën die uitzonderlijke bescherming tegen oxidatie en een waterafscheidend vermogen bieden in de meeste industriële lagers- en circulatiesystemen en andere industriële toepassingen waarbij 'EP'-prestaties niet vereist zijn. Shell Morlina S2 B oliën voldoen aan de vereisten van Morgan Construction Company en Danieli voor algemene lagersmering. \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,106 @@
+{
+  "id": "001F3526",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Spirax S6 ATF X",
+  "description": "Premium lower viscosity multi-vehicle ATF",
+  "family": "Spirax",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Płyny do przekładni automatycznych",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "continuously variable",
+    "differential",
+    "final drive",
+    "manual sequential",
+    "off highway",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "tandem drive",
+    "torque converter",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6a8b811d-e9cc-4bfc-a064-62a5d87ed038.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF X EN TDG V2.2 10-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02499266.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF X Poland PL 140003791557 EHS V1.3 07-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02499267.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF X Poland EN 140003791557 EHS V1.3 07-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/31f6a582-b432-4d9b-b1eb-b0de6fb51a7b.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF X Poland PL TDG V2.2 27-Jun-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3526_002VNF_A246",
+      "name": "Wiadro 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550057986",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3526_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550058231",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford Mercon LV",
+      "organisation": "Ford",
+      "spec": "Mercon LV"
+    },
+    {
+      "name": "General Motors Dexron VI",
+      "organisation": "General Motors",
+      "spec": "Dexron VI"
+    },
+    {
+      "name": "JASO 1A",
+      "organisation": "JASO",
+      "spec": "1A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Najwyższej jakości, syntetyczny olej opracowany z myślą o zaspokojeniu potrzeb wielu typów pojazdów w zakresie wymiany oleju podczas obsługi serwisowej przekładni automatycznej. Shell Spirax S6 ATF X spełnia wymogi wielu japońskich, azjatyckich, europejskich i północnoamerykańskich automatycznych skrzyń biegów, które wymagają stosowania olejów o niskiej lepkości takich jak GM DEXRON® -VI, Ford MERCON LV czy Toyota WS.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550058231_Shell_Spirax_S6_ATF_X_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

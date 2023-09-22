@@ -1,0 +1,96 @@
+{
+  "id": "001G0700",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Gear Oil S1 G 220",
+  "description": "Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "enclosed gear",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "helical",
+    "high load",
+    "industrial",
+    "splash lubricated bearings",
+    "spur"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9112220e-66be-451d-9924-4337d40a654d.pdf",
+      "type": "GTDS",
+      "name": "Gear Oil S1 G 220 EN TDG V4.4 01-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02427245.PDF",
+      "type": "LMSDS",
+      "name": "Gear Oil S1 G 220 India EN 140006501563 EHS V1.2 13-JUL-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0700_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550050602",
+      "margin": "0.0854482269355985",
+      "packShot": ""
+    },
+    {
+      "code": "001G0700_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010100",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "AGMA EP 9005-F16",
+      "organisation": "AGMA",
+      "spec": "EP 9005-F16"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gear Oil S1 G oils are quality extreme-pressure oils designed primarily for the lubrication of heavy duty\nindustrial gears. Their high load carrying capacity and anti-friction characteristics combine to offer robust performance in gears.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,93 @@
+{
+  "id": "001G1653",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e775f553-321c-4b83-be20-de90769572c2.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289922.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil Canada EN 140006579500 EHS V1.7 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/28e14fc8-38fb-49a6-8e3a-d8cf9acdc3e5.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/40405254-bc36-4b0c-abf1-a816ef0566a0.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289920.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Full Synthetic SAE 10W-30 Motor Oil Canada FR 140006579500 EHS V1.7 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^1 ^Based ^on ^the ^latest ^industry ^standard",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

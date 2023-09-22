@@ -1,0 +1,133 @@
+{
+  "id": "001A0608",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Spirax MB 90",
+  "description": "High quality axle oil",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "mercedes benz",
+    "off highway",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/fd951bed-b8ff-42f5-a1e0-958a7a360a73.pdf",
+      "type": "GTDS",
+      "name": "Spirax MB 90 EN TDG V1.1 20-Aug-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551013.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MB 90 United Kingdom EN 140002340634 EHS V5.8 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/6cca96b0-b249-4258-8767-ce80ad86202e.pdf",
+      "type": "LTDS",
+      "name": "Spirax MB 90 United Kingdom EN TDG V1.1 21-Aug-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 17B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 19B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 235.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "235"
+    },
+    {
+      "name": "ZF TE-ML 16C",
+      "organisation": "ZF",
+      "spec": "TE-ML 16C"
+    },
+    {
+      "name": "MAN 342 Type M1",
+      "organisation": "MAN",
+      "spec": "342 Type M1"
+    },
+    {
+      "name": "MIL-L-2105B",
+      "organisation": "MIL",
+      "spec": "L-2105B"
+    },
+    {
+      "name": "ZF TE-ML 17B",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B"
+    },
+    {
+      "name": "ZF TE-ML 19B",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B"
+    },
+    {
+      "name": "Volvo 97310",
+      "organisation": "Volvo",
+      "spec": "97310"
+    },
+    {
+      "name": "MB-Approval 235.0 - Meets the service fill requirements",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.0 - Meets the service fill requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax MB is an extreme-pressure lubricant containing multi-functional additives which impart good anti-wear, oxidation stability and anti-rust characteristics. It is suitable for gear applications presenting load-speed conditions of extreme severity, such as medium and low speed spur or helical gear units, spiral-bevel and hypoid axle units.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

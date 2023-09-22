@@ -1,0 +1,84 @@
+{
+  "id": "001F4582",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Rimula R3 NG 15W-40",
+  "description": "Dedicated Gas Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2d308ddf-c42e-4416-ad1c-a91b730fd7c4.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 NG 15W-40 EN TDG V1.3 09-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02500187.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 NG 15W-40 France EN 140003182031 EHS V1.2 07-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/5a4b99da-3984-4847-a5df-5cd5acf79fca.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 NG 15W-40 France FR TDG V1.3 09-Jan-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02500188.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 NG 15W-40 France FR 140003182031 EHS V1.2 07-DEC-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4582_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550044054",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20074",
+      "organisation": "Cummins",
+      "spec": "CES 20074"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 NG est spécialement formulée pour s'adapter et protéger lorsqu'elle est soumise à l'ensemble des pressions et températures rencontrées dans les moteurs de véhicules fonctionnant à 100 % au gaz naturel comprimé (GNC) ou liquéfié (GNL). Elle est approuvée par Cummins pour ses moteurs fonctionnant au GNC ou GNL.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

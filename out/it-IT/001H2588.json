@@ -1,0 +1,233 @@
+{
+  "id": "001H2588",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Rimula R6 LME Plus 5W-30",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - Trazione pesante",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f84b2feb-262b-4cfb-bbed-dc7d010efe99.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) EN TDG V1.7 24-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/feb7d94a-3e4e-4215-abee-90ae22c21e70.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Italy IT TDG V1.5 13-Feb-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611097.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Italy EN 140007645406 EHS V2.8 05-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611096.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 LME Plus 5W-30 (CK-4) Italy IT 140007645406 EHS V2.8 05-JUL-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2588_002VNF_A246",
+      "name": "Secchio 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550052712",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2588_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550052713",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2588_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550052711",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "ACEA E11",
+      "organisation": "ACEA",
+      "spec": "E11"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Deutz DQC IV-18 LA",
+      "organisation": "Deutz",
+      "spec": "DQC IV-18 LA"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "MB DTFR 15C110",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C110"
+    },
+    {
+      "name": "Scania LDF-4",
+      "organisation": "Scania",
+      "spec": "LDF-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "MAN M 3677",
+      "organisation": "MAN",
+      "spec": "M 3677"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "MTU Category 3.1",
+      "organisation": "MTU",
+      "spec": "Category 3.1"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "MB DTFR 15C120",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C120"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Fully synthetic oil featuring \"Low-SAPS\" additive technology to provide protective power and deliver fuel economy savings.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

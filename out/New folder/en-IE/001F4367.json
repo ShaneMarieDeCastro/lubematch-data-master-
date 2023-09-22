@@ -1,0 +1,55 @@
+{
+  "id": "001F4367",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell D971",
+  "description": "Automatic transmission fluid for Mercedes-Benz passenger car automatic transmissions",
+  "family": "Daimler FFO",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_D971_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell D971 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02444587.PDF",
+      "type": "LMSDS",
+      "name": "Shell D971 Ireland EN 140009869348 EHS V1.5 16-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4367_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550043000",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell D971 is a premium technology automatic transmission fluid for the latest generation of Mercedes-Benz 9-speed automatic transmissions (9G-Tronic).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,101 @@
+{
+  "id": "001F4583",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Rimula R2 NG 15W-40",
+  "description": "Gas Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "on highway",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/69e607e1-a29f-4424-83b1-2c33d9392556.pdf",
+      "type": "GTDS",
+      "name": "Rimula R2 NG 15W-40 EN TDG V1.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02185891.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 NG 15W-40 India EN 140006501563 EHS V1.2 19-NOV-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4583_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550053980",
+      "margin": "0.250250879803653",
+      "packShot": ""
+    },
+    {
+      "code": "001F4583_002XCL_A1W8",
+      "name": "Tub 10 L Cylindrical Plastic Shell Red (1)",
+      "size": "10",
+      "uom": "L",
+      "pack": "Tub",
+      "materialCode": "550044736",
+      "margin": "1.08137498795986",
+      "packShot": ""
+    },
+    {
+      "code": "001F4583_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009980",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4583_002W1Y_A1W8",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044735",
+      "margin": "0.485594543373696",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R2 NG oils adapt and protect under the full range of pressures and temperatures found in natural gas  fuelled engines. It allows cost competitive supply of oils. Suitable for use in LNG/CNG powered engines. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

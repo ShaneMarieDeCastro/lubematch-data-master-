@@ -1,0 +1,103 @@
+{
+  "id": "001E9072",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix HX7 ECT 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a9ad1f51-0e2f-4014-a73e-c51d8584c1ec.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497739.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) Spain ES 140003966322 EHS V1.5 06-DEC-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497737.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) Spain EN 140003966322 EHS V1.5 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/3498ca1d-b38a-4262-a789-a1bb11784cc0.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) Spain ES TDG V1.5 31-Aug-2020",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9072_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550040238",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Fiat 9.55535-S2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S2 - Meets the requirements"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "Chrysler MS 11106",
+      "organisation": "Chrysler",
+      "spec": "MS 11106"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 ECT es compatible con los sistemas de control de emisiones, manteniendo los filtros de partículas limpios y el motor operando a su máximo rendimiento. Minimiza la formación de depósitos y lodos. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX7_5W-40_ECT_4L_600053112.png",
+  "valueRecord": [],
+  "commerce": null
+}

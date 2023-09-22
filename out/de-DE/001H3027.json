@@ -1,0 +1,84 @@
+{
+  "id": "001H3027",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Helix Ultra Professional AR-L RN17 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/41f4e36e-986a-4aa3-9ead-20a8b5282e9d.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) EN TDG V1.4 19-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/ad5234d4-1dcb-4fac-be99-7c1f46ff585d.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Germany DE TDG V1.4 23-May-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562207.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Germany DE 140001492039 EHS V1.4 27-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562206.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Germany EN 140001492039 EHS V1.4 27-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3027_002XS4_A246",
+      "name": "Fässer 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550051434",
+      "margin": "0.801652563042749",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Renault RN 17",
+      "organisation": "Renault",
+      "spec": "RN 17"
+    },
+    {
+      "name": "MB-Approval 226.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.52"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Entwickelt, um die hohen Anforderungen von Hochleistungs-Pkw-Motoren von Renault zu erfüllen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550053648_Shell_Helix_Ultra_Prof_AR-L_RN17_5W-30_20L_EcoPacks_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

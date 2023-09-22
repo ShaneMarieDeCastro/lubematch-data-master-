@@ -1,0 +1,164 @@
+{
+  "id": "001D7871",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Paper Machine Oil S3 M 150",
+  "description": "Paper Machine Circulating Oils",
+  "family": "Paper Machine",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "rollers",
+    "servo",
+    "variable"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/7d0e450b-1c3b-4ffa-ae2e-d4dd072e3fd4.pdf",
+      "type": "GTDS",
+      "name": "Paper Machine Oil S3 M 150 EN TDG V2.2 11-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586346.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S3 M 150 Netherlands EN 140002783873 EHS V3.2 02-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586347.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S3 M 150 Netherlands NL 140002783873 EHS V3.2 02-JUN-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Voith VN 108",
+      "organisation": "Voith",
+      "spec": "VN 108"
+    },
+    {
+      "name": "DIN 51354-2",
+      "organisation": "DIN",
+      "spec": "51354-2"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Paper Machine Oils S3 M are high performance oils based on modern ashless additive technology.  They are designed to provide excellent all round protection for the diverse needs and conditions found in modern paper machines.  They meet the requirements of Metso, SKF and Voith systems.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.8"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "890"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-21"
+    },
+    {
+      "property": "Demulsibility Separation Time",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "mins",
+      "value": "10"
+    },
+    {
+      "property": "Rust Test, Synthetic Sea Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "",
+      "value": "Pass"
+    },
+    {
+      "property": "Oxidation Life (TOST)",
+      "method": "ASTM D943",
+      "uom": "",
+      "units": "hrs",
+      "value": "3364"
+    },
+    {
+      "property": "Timken, OK Load",
+      "method": "ASTM D2782",
+      "uom": "",
+      "units": "lbs",
+      "value": "50"
+    },
+    {
+      "property": "Foam Test, Seq II",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "ml foam at 0/10 mins",
+      "value": "0/0"
+    },
+    {
+      "property": "FZG Load Stage",
+      "method": "ASTM D5182",
+      "uom": "",
+      "units": "",
+      "value": "12 Pass"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

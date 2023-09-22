@@ -1,0 +1,78 @@
+{
+  "id": "001C6060",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "ATF 134",
+  "description": "Factory fill ATF for DC 7-speed automatic transmission",
+  "family": "Daimler FFO",
+  "parentCategory": "Fluidos de transmisión",
+  "category": "Fluidos para transmisión automática",
+  "applicationKeys": [
+    "automatic",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "pump gear",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_ATF_134_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "ATF 134 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/5780a5b7-14a0-4ead-93d7-fb0e765aea68.pdf",
+      "type": "LTDS",
+      "name": "ATF 134 Spain ES TDG V1.1 31-Oct-2019",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559717.PDF",
+      "type": "LMSDS",
+      "name": "ATF 134 Spain ES 140003966322 EHS V1.8 24-APR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559720.PDF",
+      "type": "LMSDS",
+      "name": "ATF 134 Spain EN 140003966322 EHS V1.8 24-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C6060_002VSH_A18H",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550014293",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.14",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.14"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ATF 134 es un lubricante con tecnología premium de alta calidad para transmisiones automáticas de 5- y 7- velocidades de Mercedes-Benz y transmisiones NAG2VSport.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

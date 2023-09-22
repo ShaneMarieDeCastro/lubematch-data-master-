@@ -1,0 +1,61 @@
+{
+  "id": "001D7520",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil SAE 20W-50 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b30e89a8-5c1a-4079-add0-74ad8290ab04.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 20W-50 Motor Oil (SN) EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/102efba9-7d48-49cd-98be-049558d3fac6.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 20W-50 Motor Oil (SN) United States EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563784.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 20W-50 Motor Oil (SN) United States EN 140002686046 EHS V1.3 03-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® Motor Oil with Active Cleansing Technology. Helps prevent dirt and contaminants from turning into performance robbing deposits. Because at Pennzoil^® we know, a cleaner engine is better protected and responsive. It meets or exceeds the engine protection required by API SN, and is specially formulated to provide proven wear protection.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

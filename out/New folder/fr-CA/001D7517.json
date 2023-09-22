@@ -1,0 +1,189 @@
+{
+  "id": "001D7517",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil SAE 5W-30 Synthetic Blend Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d716b53d-5280-4f51-b61b-0bc7eec62e62.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 5W-30 Motor Oil (SP/GF-6A) EN TDG V1.6 07-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/35730241-3c4c-4135-b005-a7f84aa76242.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 5W-30 Motor Oil (SP/GF-6A) Canada EN TDG V1.6 07-Oct-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02427672.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 5W-30 Motor Oil (SP/GF-6A) Canada EN 140006579500 EHS V1.10 15-JUL-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/946f9783-6c17-48a4-ac1e-8155c4745c46.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 5W-30 Motor Oil (SP/GF-6A) Canada FR TDG V1.6 10-Oct-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02427671.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 5W-30 Motor Oil (SP/GF-6A) Canada FR 140006579500 EHS V1.10 15-JUL-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7517_002V7A_A0IK",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550042183",
+      "margin": "1.52863226001943",
+      "packShot": ""
+    },
+    {
+      "code": "001D7517_002VI4_A0IK",
+      "name": "",
+      "size": "208",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550023736",
+      "margin": "0.552213224121112",
+      "packShot": ""
+    },
+    {
+      "code": "001D7517_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500005371",
+      "margin": "0.665448198228078",
+      "packShot": ""
+    },
+    {
+      "code": "001D7517_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550023646",
+      "margin": "0.734567497138693",
+      "packShot": ""
+    },
+    {
+      "code": "001D7517_002XLH_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550045197",
+      "margin": "0.959611844406082",
+      "packShot": ""
+    },
+    {
+      "code": "001D7517_002V7A_CHEP",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550042181",
+      "margin": "0.958067204636614",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Ford WSS-M2C946-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C946-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "Ford WSS-M2C929-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C929-A"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS-M2C929-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C929-A - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® Motor Oil est une formule de moteur à mélange synthétique avec la technologie de nettoyage actif. Aide à empêcher la saleté et les contaminants de se transformer en dépôts dépouillant les performances. Parce que chez Pennzoil^® nous le savons, un moteur plus propre est mieux protégé et réactif. Il satisfait ou dépasse la protection du moteur requise par ILSAC GF-6A, et est spécialement formulé pour fournir une protection éprouvée contre l'usure.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

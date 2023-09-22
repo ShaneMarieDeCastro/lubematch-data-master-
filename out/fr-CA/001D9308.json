@@ -1,0 +1,74 @@
+{
+  "id": "001D9308",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Gadus S2 OG Clear Oil 6800",
+  "description": "High Performance Clear Open Gear Lubricant",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses d’engrenage ouvertes",
+  "applicationKeys": [
+    "gearbox",
+    "industrial"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "6800",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_OG_Clear_Oil_6800_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OG Clear Oil 6800 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290433.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OG Clear Oil 6800 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290448.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OG Clear Oil 6800 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/66111330-48b5-41cd-b91c-6eea4a2c62f6.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OG Clear Oil 6800 Canada FR TDG V1.1 14-Jun-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/baab97e0-d0f0-42d1-a8da-aa72c235878a.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OG Clear Oil 6800 Canada EN TDG V1.1 29-Aug-2014",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D9308_002WWP_A1WJ",
+      "name": "",
+      "size": "208",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550026787",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Il est basé sur un mélange minutieux d’huiles minérales à haute viscosité, d’épaississants synthétiques et d’additifs sélectionnés.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,62 @@
+{
+  "id": "001D8443",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell GadusRail S3 EUDB",
+  "description": "Premium Extreme Pressure Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie met 'EP additieven",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3b5afd7e-1d0a-4fde-98e2-72512d42f8dd.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 EUDB EN TDG V4.2 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479791.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB Netherlands EN 140002783873 EHS V3.0 26-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479792.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB Netherlands NL 140002783873 EHS V3.0 26-OCT-2022",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/d1dfd7f1-bd3f-416b-af24-e4575e86a051.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S3 EUDB Netherlands NL TDG V4.2 16-Oct-2018",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 a",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 a"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Premium Extreme-Pressure 'EP' smeervet voor zwaar belaste transmissies op spoorwegmateriaal, op basis van een lithiumindikker voor lange nasmeerintervallen.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

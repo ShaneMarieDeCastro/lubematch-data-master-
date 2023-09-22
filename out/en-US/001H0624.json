@@ -1,0 +1,61 @@
+{
+  "id": "001H0624",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell AW Hydraulic Oil S2 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic Oil",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f6dde8c2-cfe8-402c-bca2-020c1a6e4aad.pdf",
+      "type": "GTDS",
+      "name": "AW Hydraulic Oil S2 68 EN TDG V1.0 22-Jun-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562265.PDF",
+      "type": "LMSDS",
+      "name": "AW Hydraulic Oil S2 68 United States EN 140002686046 EHS V1.0 05-SEP-2018",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/dcc4b8c0-fc80-4bb5-9d6b-0c41d68a0454.pdf",
+      "type": "LTDS",
+      "name": "AW Hydraulic Oil S2 68 United States EN TDG V1.0 01-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0624_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011177",
+      "margin": "0.0602971957430657",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell AW Hydraulic Oil S2 is a high quality anti-wear hydraulic fluid which provides cost effective and reliable protection and performance in both mobile and stationary industrial applications under normal operating conditions and standard oil intervals.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

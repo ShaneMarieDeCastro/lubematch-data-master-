@@ -1,0 +1,140 @@
+{
+  "id": "001D7774",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Tonna S3 M 68",
+  "description": "Premium Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "",
+  "category": "Slideway Oils",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "factory applications",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "manufacturing",
+    "mobile",
+    "offshore",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "rollers",
+    "servo"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/558c9caa-10b0-428b-8d51-7e4d7c7beb1a.pdf",
+      "type": "GTDS",
+      "name": "Tonna S3 M 68 EN TDG V2.4 14-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02544613.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 68 Ireland EN 140007731156 EHS V2.2 24-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7774_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027209",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7774_002VNK_A246",
+      "name": "Pail 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027211",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7774_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550027216",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Fives (Cincinnati Machine) P-47",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-47"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "ISO 11158 HG Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HG Fluid"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    },
+    {
+      "name": "ISO 6743-6 CKC",
+      "organisation": "ISO",
+      "spec": "6743-6 CKC"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "ISO 6743-4 L-HG",
+      "organisation": "ISO",
+      "spec": "6743-4 L-HG"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S3 M oils are specially designed for the lubrication of machine tool slides, tables and feed mechanisms. Their enhanced tackiness and stick-slip characteristics are combined to offer superior frictional performance on slideways. They are specially recommended in cases where high precision and low speed machines are used as well as in combined lubrication systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

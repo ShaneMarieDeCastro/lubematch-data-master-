@@ -1,0 +1,62 @@
+{
+  "id": "001I5438",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S4 OGH 3000",
+  "description": "High Performance Open Gear Lubricant",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "Schmierfette für offene Getriebe",
+  "applicationKeys": [
+    "high temperature",
+    "open gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4292ddd3-5794-4bb2-8b79-1f928a4ce692.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 OGH 3000 EN TDG V1.1 06-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562165.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 OGH 3000 Germany DE 140001492039 EHS V3.2 27-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562166.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 OGH 3000 Germany EN 140001492039 EHS V3.2 27-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5438_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550056778",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "The product is designed to be sprayed onto the gears.\nShell Gadus S4 OGH 3000 grease is based on an Aluminum Complex thickener dispersed in a high viscosity base oil containing graphite.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

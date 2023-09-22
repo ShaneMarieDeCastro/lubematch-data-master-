@@ -1,0 +1,118 @@
+{
+  "id": "001G3589",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix Ultra Professional AV-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7826d86b-652c-4684-9335-3aac3d92af30.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) EN TDG V1.5 29-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02504137.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 0W-20 (VW 50800/50900) Ireland EN 140007731156 EHS V1.1 10-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G3589_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550047887",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3589_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550047886",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3589_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010591",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G3589_002XN7_EURO",
+      "name": "Bottle 20 L Local EcoPack PET Bottle 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "EcoPack",
+      "materialCode": "550053643",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "VW Standard 509.00",
+      "organisation": "VW",
+      "spec": "Standard 509.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "Porsche C20",
+      "organisation": "Porsche",
+      "spec": "C20"
+    },
+    {
+      "name": "VW Standard 508.00",
+      "organisation": "VW",
+      "spec": "Standard 508.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines of Audi, VW and Porsche.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550048041_Shell_Helix_Ultra_AV-L_0W-20_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

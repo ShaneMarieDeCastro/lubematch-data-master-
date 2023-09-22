@@ -1,0 +1,98 @@
+{
+  "id": "001E9934",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Naturelle S4 Gear Fluid 100",
+  "description": "Special Purpose Biodegradable Synthetic Industrial Gear and Bearing Oil",
+  "family": "Naturelle",
+  "parentCategory": "Industriële tandwielkastoliën",
+  "category": "Industriële tandwielkastoliën",
+  "applicationKeys": [
+    "axle",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "marine",
+    "mobile",
+    "off highway",
+    "reduction gears",
+    "stern tube seal",
+    "transmissions"
+  ],
+  "position": "Top",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/56316667-b837-41e7-8a42-eeb1343063a7.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S4 Gear Fluid 100 EN TDG V1.4 14-Nov-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02560972.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 100 Netherlands EN 140002783873 EHS V1.5 25-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/79c60f80-9289-49bb-a55e-1c81a10eb63a.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S4 Gear Fluid 100 Netherlands NL TDG V1.4 09-Jan-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02560973.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S4 Gear Fluid 100 Netherlands NL 140002783873 EHS V1.5 25-APR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9934_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550042312",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 14635-1",
+      "organisation": "ISO",
+      "spec": "14635-1"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 3448",
+      "organisation": "ISO",
+      "spec": "3448"
+    },
+    {
+      "name": "USA EPA VGP",
+      "organisation": "USA EPA",
+      "spec": "VGP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle S4 Gear Fluid is een geavanceerde synthetische olie voor gebruik in tandwieltoepassingen zoals scheepsvoortstuwingssystemen en boegschroeven. Vervaardigd van volledig verzadigde esters, wordt Shell Naturelle S4 Gear Fluid ontworpen om superieure prestaties bij zware belastingsomstandigheden te bieden waarbij het een hoge graad van biologische afbreekbaarheid en lage ecotoxiciteit heeft. Shell Naturelle S4 Gear Fluid is een milieuvriendelijk smeermiddel (EAL) volgens de definities van de US EPA 2013 Vessel General Permit.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Naturelle_S4_Gear_Fluid_100_drum.png",
+  "valueRecord": [],
+  "commerce": null
+}

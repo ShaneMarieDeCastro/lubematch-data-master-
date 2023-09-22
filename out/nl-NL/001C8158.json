@@ -1,0 +1,68 @@
+{
+  "id": "001C8158",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Diesel Ultra AR-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Diesel_Ultra_AR-L_5W-30_(C4_Renault)_(en)_TDS_v2.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix Diesel Ultra AR-L 5W-30 (C4, Renault) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571398.PDF",
+      "type": "LMSDS",
+      "name": "Helix Diesel Ultra AR-L 5W-30 (C4 Renault) Netherlands EN 140002783873 EHS V2.4 05-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571400.PDF",
+      "type": "LMSDS",
+      "name": "Helix Diesel Ultra AR-L 5W-30 (C4 Renault) Netherlands NL 140002783873 EHS V2.4 05-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Netherlands_Shell_Helix_Diesel_Ultra_AR-L_5W-30_(C4_Renault)_(nl)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Helix Diesel Ultra AR-L 5W-30 (C4, Renault) Netherlands Dutch",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Renault RN 0720",
+      "organisation": "Renault",
+      "spec": "RN 0720"
+    },
+    {
+      "name": "ACEA C4",
+      "organisation": "ACEA",
+      "spec": "C4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Contains Shell’s ultimate active cleansing technology to continuously prevent dirt and sludge build-up, maximising performance right up to the next oil change.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

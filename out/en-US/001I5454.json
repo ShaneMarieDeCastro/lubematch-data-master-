@@ -1,0 +1,61 @@
+{
+  "id": "001I5454",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Stern Tube Lubricant 100",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/15451deb-d4f8-4e48-9015-069fd4073f16.pdf",
+      "type": "GTDS",
+      "name": "Shell Stern Tube Lubricant 100 EN TDG V1.2 01-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586465.PDF",
+      "type": "LMSDS",
+      "name": "Shell Stern Tube Lubricant 100 United States EN 140002686046 EHS V3.0 02-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/81201499-29a5-44e0-a566-2b03700871ff.pdf",
+      "type": "LTDS",
+      "name": "Shell Stern Tube Lubricant 100 United States EN TDG V1.2 01-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5454_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057289",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Stern Tube Lubricant 100 is produced from biodegradable base stocks and can replace traditional mineral oil hydraulic fluids in in systems with little to no equipment modifications and minimal downtime to provide outstanding performance across a wide range of conditions. Shell Stern Tube Lubricant 100 fluids can be relied on to provide optimal performance in a wide range of outdoor climates, across a wide temperature operating window.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

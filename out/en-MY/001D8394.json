@@ -1,0 +1,90 @@
+{
+  "id": "001D8394",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Refrigeration Oil S4 FR-F 32",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": null,
+  "category": "Refrigerator Oils",
+  "applicationKeys": [
+    "bearing",
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8d9d1c52-0232-47e4-b92d-911cc2f5c74c.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 32 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02201581.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Malaysia EN 140001435555 EHS V1.4 14-DEC-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02201580.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Malaysia MS 140001435555 EHS V1.4 14-DEC-2020",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Malaysia_Shell_Refrigeration_Oil_S4_FR-F_32_(ms-MY)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Malaysia Malay (Bahasa Melayu)",
+      "language": "MS"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-MY/0076d888-eca9-4a89-b1a4-8f4083a9fc55.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Malaysia EN TDG V1.1 11-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8394_002VO8_A1P5",
+      "name": "Pail 20 L T/H Steel Shell Yellow (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025695",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F is a synthetic refrigeration lubricant with a polyol ester base fluid. It has been developed for use with R134a and other HFC refrigerants.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

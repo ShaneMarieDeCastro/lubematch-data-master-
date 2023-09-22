@@ -1,0 +1,168 @@
+{
+  "id": "001B1126",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Automatic Transmission Fluid",
+  "description": "ATF fluid",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "agricultural",
+    "atf",
+    "automatic transmissions",
+    "buses",
+    "construction",
+    "heavy duty",
+    "heavy duty atf",
+    "industrial",
+    "mining",
+    "mobile hydraulics",
+    "multifunctional",
+    "offroad",
+    "passenger car",
+    "powershift",
+    "trucks"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/072e73ba-ded7-4f47-b69e-956f10acb76b.pdf",
+      "type": "GTDS",
+      "name": "Pzl Automatic Transmission Fluid EN TDG V1.2 04-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290269.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Automatic Transmission Fluid Canada FR 140006579500 EHS V2.12 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290270.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Automatic Transmission Fluid Canada EN 140006579500 EHS V2.12 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/764ef664-4f06-4d0b-8bb2-e72f5c8dd148.pdf",
+      "type": "LTDS",
+      "name": "Pzl Automatic Transmission Fluid Canada FR TDG V1.2 08-May-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/43512ce1-e4c0-4b69-8412-76ffaf2bb987.pdf",
+      "type": "LTDS",
+      "name": "Pzl Automatic Transmission Fluid Canada EN TDG V1.1 27-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1126_002VOP_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550050742",
+      "margin": "0.956555159536253",
+      "packShot": ""
+    },
+    {
+      "code": "001B1126_002VIZ_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550050741",
+      "margin": "1.08081063785137",
+      "packShot": ""
+    },
+    {
+      "code": "001B1126_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500003047",
+      "margin": "1.18572445594815",
+      "packShot": ""
+    },
+    {
+      "code": "001B1126_002XOI_A1WJ",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550050745",
+      "margin": "0.845986243137348",
+      "packShot": ""
+    },
+    {
+      "code": "001B1126_002XLF_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550050743",
+      "margin": "0.921341817418027",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors Dexron III - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron III - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors GM 6297M",
+      "organisation": "General Motors",
+      "spec": "GM 6297M"
+    },
+    {
+      "name": "Ford WSS-M2C185-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C185-A"
+    },
+    {
+      "name": "Ford Mercon - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford Type H - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Type H - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford WSS-M2C138-CJ - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "WSS-M2C138-CJ - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar TO-2 - Suitable for use in applications which require",
+      "organisation": "Caterpillar",
+      "spec": "TO-2 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pour répondre aux exigences de lubrification de la conception d’équipements spécialisés, Pennzoil a intégré un système additif complexe de « nouvelle génération » dans PENNZOIL^® DEXRON[sup]^®[/sup]-III MERCON[sup]^®[/sup]. Les modificateurs de friction spécialement sélectionnés permettent la rétention de la friction pour une longue durée de vie. L’oxydation améliorée, la stabilité thermique et la résistance à la corrosion assurent une protection des composants à long kilométrage. En outre, la protection anti-usure de PENNZOIL[sup]^®[/sup] DEXRON[sup]^®[/sup]-III MERCON[sup]^®[/sup] a été améliorée pour dépasser les exigences les plus exigeantes des fabricants de pompes hydrauliques.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

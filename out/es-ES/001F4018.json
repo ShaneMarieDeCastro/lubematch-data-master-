@@ -1,0 +1,92 @@
+{
+  "id": "001F4018",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Advance 4T AX7 15W-50 (SM/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - Motocicleta",
+  "applicationKeys": [
+    "engine",
+    "four stroke",
+    "gasoline",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/76682f83-6097-4b7f-804f-72c0958bb4ae.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) EN TDG V1.6 22-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533824.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) Spain ES 140003966322 EHS V1.8 02-MAR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/66866175-8f38-4aba-a5b8-f2181e1baeb3.pdf",
+      "type": "LTDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) Spain ES TDG V1.6 05-Jun-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02533822.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) Spain EN 140003966322 EHS V1.8 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4018_002W22_EURO",
+      "name": "Botella 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550053817",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4018_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550044472",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T AX7 4 cumple los requerimientos de la mayoría de los fabricantes de motocicletas",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Helix_Rimula_Advance_Packshot-Group_ref_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

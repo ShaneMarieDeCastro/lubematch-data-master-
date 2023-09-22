@@ -1,0 +1,62 @@
+{
+  "id": "001D8443",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell GadusRail S3 EUDB",
+  "description": "Premium Extreme Pressure Railroad Axle Box Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas EP con base de aceite mineral",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3b5afd7e-1d0a-4fde-98e2-72512d42f8dd.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S3 EUDB EN TDG V4.2 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/a095c74c-4aea-40f6-82ae-410fa983c38b.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S3 EUDB Spain ES TDG V4.2 28-May-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02466231.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB Spain ES 140003966322 EHS V2.0 26-OCT-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02466230.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S3 EUDB Spain EN 140003966322 EHS V2.0 26-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN EN 12081:2011-01 a",
+      "organisation": "DIN",
+      "spec": "EN 12081:2011-01 a"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Grasa premium de extrema presión para bujes de ruedas de ferrocarril sometidos a condiciones severas, elaborada con espesante de Litio que proporciona prolongados intervalos de lubricación. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

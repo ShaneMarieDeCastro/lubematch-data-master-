@@ -1,0 +1,127 @@
+{
+  "id": "001D7227",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "FormulaShell SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4bb3a030-ea88-4e7a-b8e7-886cc7a5c153.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563892.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil United States EN 140002686046 EHS V1.9 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/629ba344-9455-4e80-bd79-9ffbd61967eb.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil United States EN TDG V1.5 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7227_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550024079",
+      "margin": "1.14116711145215",
+      "packShot": ""
+    },
+    {
+      "code": "001D7227_002XOK_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic White (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550049239",
+      "margin": "0.227644755448883",
+      "packShot": ""
+    },
+    {
+      "code": "001D7227_002XMF_A0II",
+      "name": "Bottle 5 qt Americas Vigor Plastic White (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550045249",
+      "margin": "0.49844078684377",
+      "packShot": ""
+    },
+    {
+      "code": "001D7227_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005521",
+      "margin": "0.368668130033906",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "FormulaShell^® Motor Oil is formulated to provide wear protection and helps protect against the formation of sludge, varnish and rust.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

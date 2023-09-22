@@ -1,0 +1,84 @@
+{
+  "id": "001H6869",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix Ultra Professional AJ-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "cars",
+    "jaguar land rover"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/279c6de0-28fb-4a85-9982-9d28fd496ea7.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) EN TDG V1.2 07-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02505528.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) Italy IT 140007645406 EHS V1.1 11-DEC-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02505527.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) Italy EN 140007645406 EHS V1.1 11-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/ac3416fa-0940-4584-a6d2-62ddfda7d9b3.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AJ-L 5W-30 (C1 JLR 5005) Italy IT TDG V1.2 21-Oct-2021",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H6869_002W21_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550059445",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Jaguar Land Rover STJLR.03.5005",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5005"
+    },
+    {
+      "name": "ACEA C1",
+      "organisation": "ACEA",
+      "spec": "C1"
+    },
+    {
+      "name": "Ford WSS-M2C934-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C934-B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formulato per incontrare gli esigenti requisiti di particolari motori ad elevate prestazioni Jaguar-Land Rover e quelli che richiedono la specifica ACEA C1.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

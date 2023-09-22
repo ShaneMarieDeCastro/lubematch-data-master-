@@ -1,0 +1,83 @@
+{
+  "id": "001I5517",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Water-Glycol S2 CX 46",
+  "description": "Water Glycol Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/93e22374-ecf8-422f-a54f-1313d2395ec6.pdf",
+      "type": "GTDS",
+      "name": "Water-Glycol S2 CX 46 EN TDG V1.7 16-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d847d2dd-5870-4012-aab4-5074ab6739e9.pdf",
+      "type": "LTDS",
+      "name": "Water-Glycol S2 CX 46 Canada EN TDG V1.7 16-Nov-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291425.PDF",
+      "type": "LMSDS",
+      "name": "Water-Glycol S2 CX 46 Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291463.PDF",
+      "type": "LMSDS",
+      "name": "Water-Glycol S2 CX 46 Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b0a85d07-0bf5-4aa5-88ab-d3c31383f76d.pdf",
+      "type": "LTDS",
+      "name": "Water-Glycol S2 CX 46 Canada FR TDG V1.7 25-Nov-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5517_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057092",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5517_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550058347",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

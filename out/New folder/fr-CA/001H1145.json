@@ -1,0 +1,104 @@
+{
+  "id": "001H1145",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State® High Mileage Full Synthetic 5W-20 Motor Oi",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dbb48331-f7d4-46d0-b3a2-c318ee415617.pdf",
+      "type": "GTDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-20 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/c6b42174-cc39-440a-bdd6-1fd37402bd97.pdf",
+      "type": "LTDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-20 Motor Oil Canada FR TDG V1.2 17-Sep-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/ffb66baa-51f1-4830-aedd-d0e24aa51160.pdf",
+      "type": "LTDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-20 Motor Oil Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290940.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-20 Motor Oil Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290941.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-20 Motor Oil Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H1145_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550052750",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H1145_002XLM_CHEP",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550052753",
+      "margin": "1.12503640547098",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^2 ^Basé ^sur ^séquence ^IIIH ^& ^VH ^tests ^sur ^l'huile ^moteur ^0W-20 ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

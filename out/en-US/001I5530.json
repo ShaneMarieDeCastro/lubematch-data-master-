@@ -1,0 +1,65 @@
+{
+  "id": "001I5530",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Corena Rotary Screw Compressor Cleaner Concentrate",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1e473400-22dd-4d22-b15e-c37ad1ef6fc9.pdf",
+      "type": "GTDS",
+      "name": "Shell Corena Rotary Screw Compressor Cleaner Concentrate EN TDG V1.2 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563160.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena Rotary Screw Compressor Cleaner Concentrate United States EN 140002686046 EHS V1.0 30-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5530_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057387",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5530_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550060793",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "This can all be done without dismantling the system and ensures that the entire system is cleaned (pumps, valves, tubing, heat exchanges, filter housings, etc.) prior to draining and refilling with fresh oil. A clean system will extend the service life of the new oil charge, reduce future maintenance costs and increase the system reliability.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

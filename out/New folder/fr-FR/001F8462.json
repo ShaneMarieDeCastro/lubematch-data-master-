@@ -1,0 +1,179 @@
+{
+  "id": "001F8462",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Omala S4 GXV 680",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "enclosed gear",
+    "ep",
+    "extra long life",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "front axle",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "industrial",
+    "journal",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "off highway",
+    "paints and sealants",
+    "reduction gears",
+    "rollers",
+    "seal compatibility",
+    "siemens ag",
+    "splash lubricated bearings",
+    "system efficiency",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/13825d8e-6924-44b5-8a82-68d721726b74.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GXV 680 EN TDG V1.9 19-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/b359a0d2-af4f-4119-9b8b-090e03167177.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GXV 680 France FR TDG V1.9 28-Apr-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488271.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 680 France FR 140003182031 EHS V1.3 21-SEP-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488270.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 680 France EN 140003182031 EHS V1.3 21-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8462_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550047070",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GXV 680 est une huile synthétique pour engrenages industriels, approuvée par le constructeur Siemens AG. Elle offre des performances de lubrification exceptionnelles en conditions de service sévères, notamment grâce à une grande résistance au micro-pitting pour une protection optimale des engrenages, une longue durée de vie du produit, des coefficients de frottement réduits et une excellente compatibilité avec les élastomères.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "74"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "191"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C  minimum",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C  ",
+      "value": "-42"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C ",
+      "units": "kg/m³",
+      "value": "868"
+    },
+    {
+      "property": "Four Ball EP Weld load",
+      "method": "ASTM D2783",
+      "uom": "",
+      "units": "kg minimum",
+      "value": "250"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/8,3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "14"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

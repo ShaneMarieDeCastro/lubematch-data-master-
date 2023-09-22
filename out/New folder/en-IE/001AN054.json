@@ -1,0 +1,76 @@
+{
+  "id": "001AN054",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Advance SX 2",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8890fb74-2237-4c7b-a930-584f823de38e.pdf",
+      "type": "GTDS",
+      "name": "Advance SX 2 (FB/EGB) (undyed pre-diluted) EN TDG V1.4 14-Dec-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552717.PDF",
+      "type": "LMSDS",
+      "name": "Advance SX 2 (FB/EGB) (undyed pre-diluted) Ireland EN 140007731156 EHS V2.7 12-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001AN054_002WKZ_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053704",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001AN054_002WKZ_A291",
+      "name": "Bottle 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550027082",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO FB",
+      "organisation": "JASO",
+      "spec": "FB"
+    },
+    {
+      "name": "ISO-L-EGB",
+      "organisation": "ISO",
+      "spec": "L-EGB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance SX 2 is a premium quality lubricant for 2-stroke motorcycle engines. It guarantees very good engine protection and cleanliness, reliable control against exhaust system blocking and reduces exhaust smoke. Shell Advance SX 2 is suitable both for all oil-injection and premix systems and meets the requirements of leading manufacturers.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

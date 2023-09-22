@@ -1,0 +1,118 @@
+{
+  "id": "001F9607",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix HX8 ECT 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8546887e-ab63-45bb-8ef0-356a217f554a.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) EN TDG V2.7 31-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02501240.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Italy IT 140007645406 EHS V1.2 08-DEC-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02501238.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Italy EN 140007645406 EHS V1.2 08-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/d8ffa74f-5e9b-4bfc-9d46-b2f63731228e.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Italy IT TDG V2.7 08-Sep-2020",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9607_002XI2_A246",
+      "name": "Bottiglia 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550048096",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550048056",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 ECT utilizza l'avanzata tecnologia compatibile con i sistemi di trattamento delle emissioni che aiuta a mantenere puliti i filtri antiparticolato diesel, preservando le prestazioni del motore. Aiuta a ridurre gli attriti del motore per fornire un risparmio di carburante superiore. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX8_5W-30_ECT_5L_600048380.png",
+  "valueRecord": [],
+  "commerce": null
+}

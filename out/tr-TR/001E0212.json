@@ -1,0 +1,78 @@
+{
+  "id": "001E0212",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Gadus S2 V145KP 2",
+  "description": "High Performance Multipurpose Low Temperature Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f405e45e-b63f-48c8-9582-624da7033b42.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V145KP 2 EN TDG V2.3 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02374911.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V145KP 2 Turkey EN 140003791542 EHS V4.3 27-SEP-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02374912.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V145KP 2 Turkey TR 140003791542 EHS V4.3 27-SEP-2021",
+      "language": "TR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/8e32709c-6895-4555-8660-c5c50ff9dab6.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V145KP 2 Turkey TR TDG V2.3 10-Oct-2018",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0212_002VH7_A246",
+      "name": "Fıçı 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kilogram",
+      "pack": "Fıçı",
+      "materialCode": "550028051",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 267.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "267"
+    },
+    {
+      "name": "MAN 283 Li-P 2",
+      "organisation": "MAN",
+      "spec": "283 Li-P 2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

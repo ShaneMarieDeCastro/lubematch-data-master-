@@ -1,0 +1,80 @@
+{
+  "id": "001D8438",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S3 V100 2",
+  "description": "Premium Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne bez dodatków EP",
+  "applicationKeys": [
+    "air blowers",
+    "electric motor bearings",
+    "electric motors",
+    "high speed",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "low speed",
+    "multipurpose",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/02c19b38-b0a9-4a6c-80d3-2ce835e8b94d.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V100 2 Poland PL TDG V1.1 28-Oct-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02461084.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 Poland EN 140003791557 EHS V3.0 14-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02461083.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 Poland PL 140003791557 EHS V3.0 14-OCT-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8438_002VME_A246",
+      "name": "Wiadro 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028075",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Smar Shell Gadus S3 V100 jest przeznaczony do wolno- i szybkoobrotowych łożysk, również pracujących w obecności wody",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

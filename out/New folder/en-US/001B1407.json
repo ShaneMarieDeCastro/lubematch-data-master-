@@ -1,0 +1,94 @@
+{
+  "id": "001B1407",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Cyprina 963",
+  "description": "Railroad Suspension Bearing Oil",
+  "family": "Cyprina",
+  "parentCategory": "",
+  "category": "Other Specialities",
+  "applicationKeys": [
+    "biodiesel",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "multi fuel",
+    "on highway"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Cyprina_963_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Cyprina 963 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562684.PDF",
+      "type": "LMSDS",
+      "name": "Cyprina 963 United States EN 140002686046 EHS V3.4 11-AUG-2017",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/105566fb-6d64-4689-a949-b306a9e52d66.pdf",
+      "type": "LTDS",
+      "name": "Cyprina 963 United States EN TDG V1.1 05-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1407_001176_A1SJ",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005270",
+      "margin": "1.15331785295685",
+      "packShot": ""
+    },
+    {
+      "code": "001B1407_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022496",
+      "margin": "0.527647964846625",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "EMD 1002",
+      "organisation": "EMD",
+      "spec": "1002"
+    },
+    {
+      "name": "GE Specification D50E14",
+      "organisation": "GE Specification",
+      "spec": "D50E14"
+    },
+    {
+      "name": "AAR M-963",
+      "organisation": "AAR",
+      "spec": "M-963"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Cyprina Oil 963 is a premium product formulated for use in lubricating traction motor suspension bearings on locomotives and plain bearings in railcar journal boxes. It is a premium grade, high viscosity index, low pour point product containing a balanced heavy duty additive combination that will protect new journal bearings during the critical break-in period and minimize friction in heavily loaded bearings. The rust and corrosion protection afforded by the heavy duty additive combination is further enhanced by an additional rust inhibiting additive. This product is formulated for all-year use.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

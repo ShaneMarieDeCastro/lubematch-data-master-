@@ -1,0 +1,112 @@
+{
+  "id": "001A0903",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "AeroShell Grease 33",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c772bc5b-bfc7-422b-8bd4-6982630a9971.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 33 EN TDG V1.2 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/1eefb075-77bd-45aa-8756-6103f3db8d09.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 33 United States EN TDG V1.2 28-Jan-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564130.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 United States EN 140002686046 EHS V10.0 09-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0903_002XN5_A1WJ",
+      "name": "Can without Closure 3 kg Open head Tinplate Shell Red (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Can without closure",
+      "materialCode": "550043635",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0903_002VH7_A1WJ",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550043622",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0903_002VWZ_A606",
+      "name": "Cartridge 0.4 kg Standard Grease Preprinted (30)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550043638",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0903_002XN4_A1WJ",
+      "name": "Pail 17 kg Open head Plastic HDPE Shell Red (1)",
+      "size": "17",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550043623",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Boeing BMS 3-33C",
+      "organisation": "Boeing",
+      "spec": "BMS 3-33C"
+    },
+    {
+      "name": "Airbus AIMS 09-06-002",
+      "organisation": "Airbus",
+      "spec": "AIMS 09-06-002"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-302",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-302"
+    },
+    {
+      "name": "MIL-PRF-23827C Type I",
+      "organisation": "MIL",
+      "spec": "PRF-23827C Type I"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

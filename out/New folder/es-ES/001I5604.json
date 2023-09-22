@@ -1,0 +1,67 @@
+{
+  "id": "001I5604",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Naturelle S2 Hydraulic Fluid 68",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Fluidos hidráulicos",
+  "category": "Fluidos hidráulicos",
+  "applicationKeys": [
+    "insulating"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/967d4e1d-7203-45d2-9611-2de8d1ba4e23.pdf",
+      "type": "GTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 EN TDG V2.0 30-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553383.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Spain EN 140003966322 EHS V1.3 13-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02553382.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Spain ES 140003966322 EHS V1.3 13-APR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/bbe688b6-6395-4710-9200-1b475bd576fb.pdf",
+      "type": "LTDS",
+      "name": "Naturelle S2 Hydraulic Fluid 68 Spain ES TDG V2.0 05-Oct-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5604_002VSH_A1P5",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550060209",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle Fluid HF-E es un avanzado aceite hidráulico para uso en sistemas hidráulicos y de transmisión de potencia. Biodegradable y con una baja ecotoxicidad, particularmente apropiado para utilización en áreas medioambientales sensibles. Formulado a partir de ésteres sintéticos y aditivos sin cenizas, que hacen de Shell Naturelle S2 Hydraulic Fluid un aceite con excelente rendimiento y respetuoso con el medio ambiente.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

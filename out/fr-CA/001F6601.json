@@ -1,0 +1,93 @@
+{
+  "id": "001F6601",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "AeroShell Grease 64",
+  "description": "Synthetic grease for aircraft, containing molybdenum disulphide",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Graisses d’aviation",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/68a5d740-ba98-4955-9b3c-507d8a3ddeea.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 64 EN TDG V1.1 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b4ec7a71-3149-4fc9-a013-6a59629ef110.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 64 Canada FR TDG V1.1 14-May-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02527477.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 64 Canada EN 140006579500 EHS V3.0 23-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02527476.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 64 Canada FR 140006579500 EHS V3.0 23-FEB-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/3311163f-93bc-4b28-b027-4bdbd57d95c8.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 64 Canada EN TDG V1.1 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DEF STAN 91-57",
+      "organisation": "DEF STAN",
+      "spec": "91-57"
+    },
+    {
+      "name": "DCSEA 353/A",
+      "organisation": "DCSEA",
+      "spec": "353/A"
+    },
+    {
+      "name": "NATO G-353",
+      "organisation": "NATO",
+      "spec": "G-353"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-311",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-311"
+    },
+    {
+      "name": "MIL-G-21164D",
+      "organisation": "MIL",
+      "spec": "G-21164D"
+    },
+    {
+      "name": "Joint Service Designation XG-276",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-276"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La plage de température de fonctionnement utile est de -73 ° C à + 121 ° C.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

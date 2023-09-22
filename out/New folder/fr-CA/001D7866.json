@@ -1,0 +1,149 @@
+{
+  "id": "001D7866",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Air Tool Oil S2 A 100",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": "",
+  "category": "Lubrifiants d’outils de forage et pneumatiques",
+  "applicationKeys": [
+    "bearing",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "plain",
+    "trunnion"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/18952fa6-12ab-4c59-a506-6b36bc4a5306.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 100 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/f8bfc833-04a5-4810-95f7-2ee37d21a0d1.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 100 Canada FR TDG V2.2 11-Sep-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291032.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 Canada EN 140006579500 EHS V1.7 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291031.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 Canada FR 140006579500 EHS V1.7 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/6ad1980e-38d4-4847-95a7-46317a88cb49.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 100 Canada EN TDG V2.2 11-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7866_002VOM_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550027596",
+      "margin": "1.28642373238278",
+      "packShot": ""
+    },
+    {
+      "code": "001D7866_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550026752",
+      "margin": "1.12142355627296",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    },
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile Shell Air Tool S2 A a été conçue pour répondre aux exigences de lubrification particulières des outils pneumatiques, tels que les outils pneumatiques à percussion soumis à des conditions extrêmes. Elle est conçue pour maintenir une pellicule d'huile élevée et pour lubrifier efficacement les systèmes les plus exigeants des mécanismes de percussion pneumatiques ainsi que pour assurer une excellente lubrification par brouillard d'huile des outils pneumatiques à usage général.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "102"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "241"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "884"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

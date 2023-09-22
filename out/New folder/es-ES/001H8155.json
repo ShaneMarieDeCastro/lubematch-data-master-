@@ -1,0 +1,87 @@
+{
+  "id": "001H8155",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Spirax S3 ALS 85W-90",
+  "description": "High performance, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": "Fluidos de transmisión",
+  "category": "Aceites para transmisión manual y engranajes.",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e708a554-072d-4b51-97cf-6ff5aa422003.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 ALS 85W-90 EN TDG V1.1 15-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02513977.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 Spain ES 140003966322 EHS V1.0 04-JAN-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02513972.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ALS 85W-90 Spain EN 140003966322 EHS V1.0 04-JAN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/4dad5960-0aa4-4c3d-b20c-545e1c1f9181.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 ALS 85W-90 Spain ES TDG V1.1 02-Feb-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 21C",
+      "organisation": "ZF",
+      "spec": "TE-ML 21C"
+    },
+    {
+      "name": "ZF TE-ML 16E",
+      "organisation": "ZF",
+      "spec": "TE-ML 16E"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 12C",
+      "organisation": "ZF",
+      "spec": "TE-ML 12C"
+    },
+    {
+      "name": "ZF TE-ML 05C",
+      "organisation": "ZF",
+      "spec": "TE-ML 05C"
+    },
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "El aceite Shell Spirax S3 ALS 85W-90 está diseñado para uso en una amplia variedad de diferenciales con deslizamiento limitado, incluyendo muchas unidades de ZF.\n",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

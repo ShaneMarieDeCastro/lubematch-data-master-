@@ -1,0 +1,67 @@
+{
+  "id": "001F4582",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Rimula R3 NG 15W-40",
+  "description": "Dedicated Gas Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2d308ddf-c42e-4416-ad1c-a91b730fd7c4.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 NG 15W-40 EN TDG V1.3 09-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02615414.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 NG 15W-40 Germany EN 140001492039 EHS V1.2 11-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02615415.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 NG 15W-40 Germany DE 140001492039 EHS V1.2 11-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20074",
+      "organisation": "Cummins",
+      "spec": "CES 20074"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 NG oil is specially formulated to adapt and protect under the full range of pressures & temperatures in natural gas engines suitable for mobile vehicles operating  with 100%  LNG/ CNG fuel, approved for use in Cummins LNG/CNG engines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

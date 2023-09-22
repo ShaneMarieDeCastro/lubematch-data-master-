@@ -1,0 +1,117 @@
+{
+  "id": "001C6060",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "ATF 134",
+  "description": "Factory fill ATF for DC 7-speed automatic transmission",
+  "family": "Daimler FFO",
+  "parentCategory": "Transmission fluids",
+  "category": "ATF - Automatic Transmission Fluids",
+  "applicationKeys": [
+    "automatic",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "pump gear",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_ATF_134_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "ATF 134 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559758.PDF",
+      "type": "LMSDS",
+      "name": "ATF 134 Germany DE 140001492039 EHS V1.8 24-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/94ec871f-9c8f-4938-91af-a87fe6baa089.pdf",
+      "type": "LTDS",
+      "name": "ATF 134 Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559755.PDF",
+      "type": "LMSDS",
+      "name": "ATF 134 Germany EN 140001492039 EHS V1.8 24-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.14",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.14"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ATF 134 ist ein hoch entwickeltes Automatikgetriebeöl für 5- und 7-Gang-Automatikgetriebe von Mercedes-Benz und für NAG2V-Sportgetriebe.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "29"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "6,2"
+    },
+    {
+      "property": "Dichte (Brookfield)",
+      "method": "DIN 51398",
+      "uom": "@–40 °C",
+      "units": "mPa s",
+      "value": "9000"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "180"
+    },
+    {
+      "property": "Dichte ",
+      "method": "ISO 12185",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "847"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "202"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–51"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

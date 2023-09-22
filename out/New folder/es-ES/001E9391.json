@@ -1,0 +1,114 @@
+{
+  "id": "001E9391",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Ultra Professional AP-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "cars",
+    "psa"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f250da23-4dd8-42ae-8de3-dba0cbda7403.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AP-L 5W-30 (C2 PSA B71 2290) EN TDG V1.6 24-Jan-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/23eeb6d1-6c9c-4201-bfdf-565ce472cd3c.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AP-L 5W-30 (C2 PSA B71 2290) Spain ES TDG V1.6 05-Feb-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497743.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 5W-30 (C2 PSA B71 2290) Spain ES 140003966322 EHS V1.3 06-DEC-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497741.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 5W-30 (C2 PSA B71 2290) Spain EN 140003966322 EHS V1.3 06-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9391_002XS4_A246",
+      "name": "Bidones 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidones",
+      "materialCode": "550040213",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9391_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550040092",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9391_002WX1_EURO",
+      "name": "Botella 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550046293",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9391_002W21_EURO",
+      "name": "Botella 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550046655",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "PSA B71 2290",
+      "organisation": "PSA",
+      "spec": "B71 2290"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Diseñado para cumplir los requerimientos más exigentes de los motores de alto rendimiento, incluyendo Peugeot, Citroën y aquellos que requieren la especificación ACEA C2.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046293_Shell_Helix_Ult_Pro_AP-L_5W-30_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

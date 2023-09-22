@@ -1,0 +1,114 @@
+{
+  "id": "001D8529",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S2 V220D 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne z dodatkami EP",
+  "applicationKeys": [
+    "lithium",
+    "moly"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_V220D_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220D 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/71d5941e-e760-4988-9e7a-83192a6f335d.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220D 2 Poland PL TDG V1.2 08-Jun-2018",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611545.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220D 2 Poland EN 140003791557 EHS V2.7 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611498.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220D 2 Poland PL 140003791557 EHS V2.7 06-JUL-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220D przewidziany jest do stosowania w ciężkich warunkach. Formulacja oparta jest na bazowym oleju mineralnym o wysokim wskaźniku lepkości zagęszczonym mydłem litowym. Zawiera dodatki przeciwzużyciowe, przeciwzatarciowe, antykorozyjne oraz dodatki stałe zapewniające odporność w warunkach udarowych. ",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "15.5"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "275"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "185"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

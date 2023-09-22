@@ -1,0 +1,92 @@
+{
+  "id": "001E8837",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix HX3 30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/cb6609cd-c0ad-4e6d-aa19-6a9b7a861613.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 30 (SL/CF) EN TDG V1.1 06-Jul-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/81def24d-a5a8-4be6-9f28-353a0b548cba.pdf",
+      "type": "LTDS",
+      "name": "Helix HX3 30 (SL/CF) Philippines EN TDG V1.1 06-Jul-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02393404.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 30 (SL/CF) Philippines EN 140001435525 EHS V1.2 02-DEC-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E8837_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008770",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E8837_002W1Y_A685",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045659",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E8837_002W2H_A685",
+      "name": "Bottle 4 L Wishbone Plastic Red (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045673",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 helps provide reliable protection for older, high-mileage engines. It helps to prevent sludge and reduce wear. It is suitable for use where API SL/CF is recommended.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/1L_Helix_HX3_SAE_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

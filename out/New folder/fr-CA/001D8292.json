@@ -1,0 +1,204 @@
+{
+  "id": "001D8292",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax S6 AXME 80W-140",
+  "description": "Superior performance, extended drain, synthetic transmission axle oil for many premium applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "buses",
+    "differential",
+    "energy efficiency",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy truck",
+    "hydraulic system",
+    "industrial",
+    "maintenance saving",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "plain",
+    "pump gear",
+    "reduction gears",
+    "slew",
+    "steam",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "80W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5c3af2d1-44d2-4675-90d6-6df383839369.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 AXME 80W-140 EN TDG V1.4 09-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02380667.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 80W-140 Canada EN 140006579500 EHS V2.0 19-OCT-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d06246af-1c35-4b19-a9f0-0a4baff39712.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 AXME 80W-140 Canada EN TDG V1.4 09-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02380658.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 80W-140 Canada FR 140006579500 EHS V2.0 19-OCT-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/0dedc878-5096-496b-a531-321a4100dc54.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 AXME 80W-140 Canada FR TDG V1.4 03-May-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8292_002XEM_A1WJ",
+      "name": "",
+      "size": "16",
+      "uom": "gal",
+      "pack": "Tonneau",
+      "materialCode": "550026931",
+      "margin": "2.2599999894503",
+      "packShot": ""
+    },
+    {
+      "code": "001D8292_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550026940",
+      "margin": "2.09341882588904",
+      "packShot": ""
+    },
+    {
+      "code": "001D8292_002XD6_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550026939",
+      "margin": "2.08211550029564",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Dana SHAES 429 Rev A",
+      "organisation": "Dana",
+      "spec": "SHAES 429 Rev A"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "ArvinMeritor Specification O76-R (extended drain)",
+      "organisation": "ArvinMeritor",
+      "spec": "Specification O76-R (extended drain)"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "Harnischfeger (P&H) 474",
+      "organisation": "Harnischfeger (P&H)",
+      "spec": "474"
+    },
+    {
+      "name": "AGMA 250.03",
+      "organisation": "AGMA",
+      "spec": "250.03"
+    },
+    {
+      "name": "ArvinMeritor Specification O76-Q (extended drain)",
+      "organisation": "ArvinMeritor",
+      "spec": "Specification O76-Q (extended drain)"
+    },
+    {
+      "name": "International Truck and Engine TMS 6816",
+      "organisation": "International Truck and Engine",
+      "spec": "TMS 6816"
+    },
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "ArvinMeritor Specification O76-B (standard drain)",
+      "organisation": "ArvinMeritor",
+      "spec": "Specification O76-B (standard drain)"
+    },
+    {
+      "name": "General Electric GEK D50E9C",
+      "organisation": "General Electric",
+      "spec": "GEK D50E9C"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "MIL-PRF-2105E",
+      "organisation": "MIL",
+      "spec": "PRF-2105E"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 L'AXME 80W-140 est un lubrifiant pour engrenages à usage intensif, entièrement synthétique, spécialement conçu pour les différentiels lourds nécessitant un produit de type API GL-5.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,103 @@
+{
+  "id": "001J2623",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax S6 ATF A668",
+  "description": "Premium Extended Drain Heavy Duty Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c01fec74-219f-40b5-aeb4-9ade21d37c35.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF A668 EN TDG V1.3 09-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b0d6760b-a2e1-4983-b9f8-79efa9bbec2b.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF A668 Canada EN TDG V1.3 09-Aug-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02468533.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 Canada EN 140006579500 EHS V3.0 04-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02468458.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 Canada FR 140006579500 EHS V3.0 04-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/4b7ab88f-b233-4cc1-b2d1-abd56e21ba3a.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF A668 Canada FR TDG V1.3 14-Aug-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J2623_002XP1_NAMD",
+      "name": "",
+      "size": "1",
+      "uom": "gal",
+      "pack": "Bouteille",
+      "materialCode": "550062008",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002XD6_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550062007",
+      "margin": "3.5230879528957",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550062005",
+      "margin": "3.59401140355582",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550062006",
+      "margin": "2.67372821514423",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

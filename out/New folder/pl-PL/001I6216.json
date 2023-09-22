@@ -1,0 +1,77 @@
+{
+  "id": "001I6216",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Fire-Resistant Hydraulic Fluid S3 DU 68",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Ciecze hydrauliczne",
+  "category": "Płyny hydrauliczne",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d57818c5-5579-4a01-9f19-e9f5c2bba538.pdf",
+      "type": "GTDS",
+      "name": "Fire-Resistant Hydraulic Fluid S3 DU 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02477173.PDF",
+      "type": "LMSDS",
+      "name": "Fire-Resistant Hydraulic Fluid S3 DU 68 Poland EN 140003791557 EHS V1.3 17-NOV-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02477174.PDF",
+      "type": "LMSDS",
+      "name": "Fire-Resistant Hydraulic Fluid S3 DU 68 Poland PL 140003791557 EHS V1.3 17-NOV-2022",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/cf5a7ec3-3657-495e-b9d2-fdb42c11d35b.pdf",
+      "type": "LTDS",
+      "name": "Fire-Resistant Hydraulic Fluid S3 DU 68 Poland PL TDG V1.3 28-Jul-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I6216_002X4L_A246",
+      "name": "Kontener 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550057689",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6216_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550057687",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Fire-Resistant Hydraulic Fluid S3 DU 68 zapewnia właściwości użytkowe wymagane przez obecne wysokowydajne układy hydrauliczne. Shell Fire-Resistant Hydraulic Fluid S3 DU 68 jest łatwo biodegradowalny.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

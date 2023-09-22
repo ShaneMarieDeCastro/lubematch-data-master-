@@ -1,0 +1,102 @@
+{
+  "id": "001D7813",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Morlina S2 B 460",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Roulement et huiles circulantes",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "roller tapered",
+    "rollers",
+    "rollneck bearings",
+    "water separation",
+    "wire rod mill"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0119e91c-e5fd-4015-80e0-72abc9b5c9ca.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 B 460 EN TDG V2.3 14-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572732.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 460 France EN 140003182031 EHS V2.6 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/dcd8669b-e315-4d28-a0db-1ee8126cbe6f.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 B 460 France FR TDG V2.3 06-Mar-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572733.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 B 460 France FR 140003182031 EHS V2.6 04-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7813_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027255",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "Danieli Standard 6.124249.F",
+      "organisation": "Danieli",
+      "spec": "Standard 6.124249.F"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S2 B sont des huiles de hautes performances conçues pour fournir une exceptionnelle protection contre l'oxydation et de séparation avec l'eau à la plupart des applications industrielles utilisant des roulements ou à circulation d'huile, ainsi que certaines autres applications ne requérant pas de propriété Extrême-Pression (E.P). Elles répondent aux exigences des constructeurs Morgan Construction Company et Danieli des huiles standards pour paliers. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

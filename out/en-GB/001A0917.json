@@ -1,0 +1,86 @@
+{
+  "id": "001A0917",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Naturelle Fluid HF-E 32",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Hydraulic Fluids",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "aviation turbines",
+    "biodegradable",
+    "diesel",
+    "engine",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "off highway",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "synthetic",
+    "turbine",
+    "variable",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cb45b179-879c-45f8-b244-14d28bfe9a74.pdf",
+      "type": "GTDS",
+      "name": "Naturelle HF-E 32 EN TDG V4.9 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/056d0e58-287e-460d-b6cb-5ebc2e38ab30.pdf",
+      "type": "LTDS",
+      "name": "Naturelle HF-E 32 United Kingdom EN TDG V4.9 20-Feb-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550995.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 32 United Kingdom EN 140002340634 EHS V3.14 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "VDMA 24568",
+      "organisation": "VDMA",
+      "spec": "24568"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 SP",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 SP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle Fluid HF-E is an advanced hydraulic fluid for use in hydraulic and power transmission systems. It is readily biodegradable with a low ecotoxicity, and is particularly suited for use in environmentally sensitive areas. Fully synthetic esters, blended with ashless additives, provide Shell Naturelle Fluid HF-E with a superior blend of lubrication performance and environmental acceptability.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": "Carbon neutral",
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,170 @@
+{
+  "id": "001D7779",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Corena S2 P 100",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "bearing",
+    "breathing air compressor",
+    "diesel",
+    "engine",
+    "gearbox",
+    "high pressure",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "piston",
+    "reciprocating",
+    "rollers",
+    "rotary vane",
+    "turbomolecular",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0f4da9af-7707-4089-b7a7-41076f5a1b8c.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 100 EN TDG V2.4 14-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571847.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 100 Ireland EN 140007731156 EHS V2.8 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7779_002VNA_A246",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550026197",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7779_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550026196",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    },
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P is high quality air compressor oil designed to deliver the lubrication performance for high pressure reciprocating compressors.  It is suitable for most reciprocating air compressors running at up to 220°C discharge temperatures at elevated pressures.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "9.2"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "899"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    },
+    {
+      "property": "Neutralisation Value",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0.3"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "DIN 51575",
+      "uom": "",
+      "units": "% m",
+      "value": "0.06"
+    },
+    {
+      "property": "Rust Prevention - Synthetic Sea Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "degree",
+      "value": "Pass"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@54°C",
+      "units": "min",
+      "value": "-"
+    },
+    {
+      "property": "Water Sperability",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "min",
+      "value": "20"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

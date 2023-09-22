@@ -1,0 +1,62 @@
+{
+  "id": "001C3303",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "AeroShell Smoke Oil",
+  "description": "Smoke oil for use in aerobatic aircraft.",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "Lubrifiants spécialisés (aviation)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3efce1b3-452b-4f01-a33a-8b4d990e4f4c.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Smoke Oil EN TDG V1.5 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d97614b8-3e49-454a-80fa-4d6aa7c0238e.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Smoke Oil Canada EN TDG V1.5 27-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290145.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Smoke Oil Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290146.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Smoke Oil Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/c9dfa8a2-8192-4bab-b4d6-0d0b77a2c8c3.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Smoke Oil Canada FR TDG V1.5 04-Aug-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "AeroShell Smoke Oil est un fluide hydocarbone basé sur la technologie gaz-liquide Shell. Il est entièrement saturé d’un haut degré de structures iso paraffiniques.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,143 @@
+{
+  "id": "001F8443",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Tellus S4 VE 46",
+  "description": "Advanced Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Fluidos hidráulicos",
+  "category": "Fluidos hidráulicos",
+  "applicationKeys": [
+    "energy efficiency",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "pump gear",
+    "versatile"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6096718f-d3b3-4dea-89f6-df7c490391f8.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VE 46 EN TDG V1.5 23-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02452249.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VE 46 Spain EN 140003966322 EHS V1.4 22-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/4eb5687c-8ccd-4930-8453-6bf1ba9ac93f.pdf",
+      "type": "LTDS",
+      "name": "Tellus S4 VE 46 Spain ES TDG V1.5 29-Sep-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02452250.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VE 46 Spain ES 140003966322 EHS V1.4 22-SEP-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8443_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550054006",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8443_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550053560",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ASTM D6158-05 HV",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HV"
+    },
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "Bosch RDE 90245",
+      "organisation": "Bosch",
+      "spec": "RDE 90245"
+    },
+    {
+      "name": "GB/T 33540.4-2017",
+      "organisation": "GB/T",
+      "spec": "33540.4-2017"
+    },
+    {
+      "name": "JCMAS P 041:2004",
+      "organisation": "JCMAS",
+      "spec": "P 041:2004"
+    },
+    {
+      "name": "Denison HF-2",
+      "organisation": "Denison",
+      "spec": "HF-2"
+    },
+    {
+      "name": "GB 11118.1-2011 L-HV",
+      "organisation": "GB",
+      "spec": "11118.1-2011 L-HV"
+    },
+    {
+      "name": "Denison HF-1",
+      "organisation": "Denison",
+      "spec": "HF-1"
+    },
+    {
+      "name": "Denison HF-0",
+      "organisation": "Denison",
+      "spec": "HF-0"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "GB 11118.1-2011 L-HS",
+      "organisation": "GB",
+      "spec": "11118.1-2011 L-HS"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Los aceites hidráulicos Shell Tellus S4 VE se basan en la tecnología de gas a líquido (GTL) y están diseñados para una amplia gama de aplicaciones fijas y móviles, con una vida útil del aceite extra-larga, amplio rango de temperaturas de funcionamiento, extraordinaria eficiencia energética y protección robusta del equipo. Shell Tellus S4 VE permite a los clientes un potencial ahorro de costos a través de una vida útil del equipo más larga y de menores gastos de mantenimiento.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

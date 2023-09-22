@@ -1,0 +1,73 @@
+{
+  "id": "001D7232",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "FormulaShell SAE 10W-40 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4aa70c2d-46cc-480a-a3a4-205645afdaa7.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell 10W-40 EN TDG V1.1 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140003745925_201012020142.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 10W-40 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140003745925_201012020144.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 10W-40 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290203.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 10W-40 Canada EN 140006579500 EHS V2.6 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290208.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 10W-40 Canada FR 140006579500 EHS V2.6 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formula Shell^® Motor Oil is formulated to provide wear protection and helps protect against the formation of sludge, varnish and rust.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

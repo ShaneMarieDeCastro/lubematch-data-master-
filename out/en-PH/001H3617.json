@@ -1,0 +1,102 @@
+{
+  "id": "001H3617",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Rimula R1 Multi 20W-40",
+  "description": "Reliable Lubrication - Multigrade Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/64e7811d-9250-40a2-a307-05224fe3d519.pdf",
+      "type": "GTDS",
+      "name": "Rimula R1 20W-40 (CC/SC) EN TDG V1.1 24-Dec-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/a74b1b5c-5fb6-4795-a439-44735e209bda.pdf",
+      "type": "LTDS",
+      "name": "Rimula R1 Multi 20W-40 (CC/SC) Philippines EN TDG V1.1 24-Dec-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01728237.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R1 Multi 20W-40 (CC/SC) Philippines English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3617_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550052264",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H3617_002VNE_A227",
+      "name": "Pail 20 L Plastic O/H W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550052263",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H3617_002W2J_A685",
+      "name": "Bottle 4 L Wishbone Plastic White (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052178",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H3617_002W1Z_A685",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052177",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CC",
+      "organisation": "API",
+      "spec": "CC"
+    },
+    {
+      "name": "API SC",
+      "organisation": "API",
+      "spec": "SC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Uses proven performance additives to fight engine wear providing reliable lubrication.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

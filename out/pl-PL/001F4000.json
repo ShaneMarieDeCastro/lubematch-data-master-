@@ -1,0 +1,156 @@
+{
+  "id": "001F4000",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Advance 4T Ultra 15W-50 (SN/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - motocyklowe",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "motorbikes",
+    "motorcycles",
+    "off highway",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/550418d0-5994-4c0d-98f3-1bcd73bbfa0d.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T Ultra 15W-50 (SN/MA2) EN TDG V2.5 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534988.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Ultra 15W-50 (SN/MA2) Poland EN 140003791557 EHS V2.3 03-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/5a0cad5a-34bb-4dec-a310-33beef86bf9d.pdf",
+      "type": "LTDS",
+      "name": "Advance 4T Ultra 15W-50 (SN/MA2) Poland PL TDG V2.5 08-Jul-2019",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534990.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Ultra 15W-50 (SN/MA2) Poland PL 140003791557 EHS V2.3 03-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4000_002VNK_A246",
+      "name": "Wiadro 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550044442",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4000_002W21_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550053587",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4000_002W2L_EURO",
+      "name": "Butelka 4 L Wishbone Plastic Helix Grey (4)",
+      "size": "4",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550053588",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T Ultra został przetestowany w warunkach rajdowych i zatwierdzony przez wiodących producentów motocykli. Olej ten przewyższa wymagania wszystkich producentów silników. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "149"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "20.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "160"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "867"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "235"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_15W-50_4T_4L_600059287.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,155 @@
+{
+  "id": "001D8463",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S2 V100 2",
+  "description": "High Performance Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "electric motor bearings",
+    "electric motors",
+    "general industrial lubrication",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium hydroxystearate",
+    "multipurpose",
+    "plain",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "sealed bearings",
+    "shock load",
+    "water pump bearings",
+    "wide range of operating conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595215.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 2 Germany DE 140001492039 EHS V3.11 14-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595214.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 2 Germany EN 140001492039 EHS V3.11 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/1d2ddedb-4ae4-46ff-898a-22afe9bad21e.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V100 2 Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8463_002VGF_EURO",
+      "name": "Kartusche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550053534",
+      "margin": "2.45548331610044",
+      "packShot": ""
+    },
+    {
+      "code": "001D8463_002XD7_A246",
+      "name": "Eimer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028032",
+      "margin": "1.56811176411519",
+      "packShot": ""
+    },
+    {
+      "code": "001D8463_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028033",
+      "margin": "1.19220988787251",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V100 2 ist ein Mehrzweckfett, basierend auf einem bewährten Lithium-Hydroxystearat-Eindicker und Oxidations,- Verschleißschutz- sowie Korrosionsschutzadditiven.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium-Hydroxystearat"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445 / DIN 51562-1",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445 / DIN 51562-1",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217 / DIN ISO 2137",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

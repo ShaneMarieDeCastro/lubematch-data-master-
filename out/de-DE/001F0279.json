@@ -1,0 +1,138 @@
+{
+  "id": "001F0279",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra A5/B5 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_A5_B5_0W-30_(SL_A5_B5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592760.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Germany DE 140001492039 EHS V1.5 13-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/4c219cb3-c695-43e0-9280-435f4bee58f9.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Germany DE TDG V1.4 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592761.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra A5/B5 0W-30 (SL A5/B5) Germany EN 140001492039 EHS V1.5 13-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0279_002XN7_EURO",
+      "name": "Flasche 20 L Local EcoPack PET Flasche 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "EcoPack",
+      "materialCode": "550056430",
+      "margin": "2.37278123951207",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ist ein erstklassiges Motorenöl mit spezieller Reinigungstechnologie, das im Motor Ablagerungen und Verschleiß reduziert, damit Hochleistungsmotoren mit maximaler Effizienz arbeiten können. Das Öl minimiert die Reibung im Motor und verbessert dadurch die Kraftstoffeinsparung.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 ºC",
+      "units": "cSt",
+      "value": "10,50"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "57,11"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "179"
+    },
+    {
+      "property": "Dynamische Viskosität (MRV)",
+      "method": "ASTM D4684",
+      "uom": "@–40 ºC",
+      "units": "cP",
+      "value": "17400"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@15 ºC",
+      "units": "kg/m³",
+      "value": "836,6"
+    },
+    {
+      "property": "Flammpunkt",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "ºC",
+      "value": "234"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "ºC",
+      "value": "–60"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046685_Shell_Helix_Ult_A5_B5_0W-30_4L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

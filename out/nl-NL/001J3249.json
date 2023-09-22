@@ -1,0 +1,78 @@
+{
+  "id": "001J3249",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R7 Plus AM 5W-20",
+  "description": "Fully Synthetic Low HTHSV Heavy Duty Diesel Engine Oil (MAN)",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d969da2-a5c3-422c-a553-fca0899f5842.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 Plus AM 5W-20 EN TDG V1.6 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/a15508a2-ae5b-4ccf-8850-21aa4e5cdf84.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 Plus AM 5W-20 Netherlands NL TDG V1.5 08-Aug-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545089.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Netherlands EN 140002783873 EHS V1.3 28-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545090.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Netherlands NL 140002783873 EHS V1.3 28-MAR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J3249_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550062543",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3977",
+      "organisation": "MAN",
+      "spec": "M 3977"
+    },
+    {
+      "name": "Scania LDF-5",
+      "organisation": "Scania",
+      "spec": "LDF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

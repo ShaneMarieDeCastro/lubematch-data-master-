@@ -1,0 +1,202 @@
+{
+  "id": "001B8487",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Flavex 595 B",
+  "description": "Good solvency paraffinic process oil",
+  "family": "Flavex",
+  "parentCategory": null,
+  "category": "Process Oils-Paraf",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/def9760c-dd65-433e-86d8-0e780f529dc9.pdf",
+      "type": "GTDS",
+      "name": "Flavex 595 B English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575336.PDF",
+      "type": "LMSDS",
+      "name": "Flavex 595 B Malaysia MS 140001435555 EHS V1.7 16-MAY-2023",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575337.PDF",
+      "type": "LMSDS",
+      "name": "Flavex 595 B Malaysia EN 140001435555 EHS V1.7 16-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B8487_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500003320",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Flavex Oil 595 B is a high viscosity aromatic process oil made from a residual oil fraction. This oil type is also known as RAE (residual aromatic extract). It is a potential substitute for distillate aromatic extracts (DAE) used as extender oils in rubber and tyres. It fully meets the requirements of EU Tyre Directive 2005/69/EC.",
+  "physicalCharacteristics": [
+    {
+      "property": "Colour (ASTM)",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "D8.0"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "984"
+    },
+    {
+      "property": "Refractive Index",
+      "method": "ASTM D1218",
+      "uom": "@20°C",
+      "units": "",
+      "value": "1.5490"
+    },
+    {
+      "property": "Flashpoint (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "300"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "33"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "58.0"
+    },
+    {
+      "property": "Sulphur (X-Ray)",
+      "method": "ISO 14596",
+      "uom": "",
+      "units": "% m/m",
+      "value": "4"
+    },
+    {
+      "property": "Carbon Type Distribution : C/A (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "29"
+    },
+    {
+      "property": "Carbon Type Distribution : C/N (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "15"
+    },
+    {
+      "property": "Carbon Type Distribution : C/P (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "56"
+    },
+    {
+      "property": "Refractive Intercept (RI)",
+      "method": "DIN 51378",
+      "uom": "",
+      "units": "",
+      "value": "1.060"
+    },
+    {
+      "property": "Viscosity Gravity Constant (VGC)",
+      "method": "DIN 51378",
+      "uom": "",
+      "units": "",
+      "value": "0.916"
+    },
+    {
+      "property": "Aniline Point",
+      "method": "ISO 2977",
+      "uom": "",
+      "units": "°C",
+      "value": "72"
+    },
+    {
+      "property": "Evaporation Loss (22 hrs)",
+      "method": "ASTM D972",
+      "uom": "@107°C",
+      "units": "% m/m maximum",
+      "value": "0.1"
+    },
+    {
+      "property": "Noack Volatility (1 hr)",
+      "method": "ASTM D5800",
+      "uom": "@250°C",
+      "units": "% m/m",
+      "value": "0.5"
+    },
+    {
+      "property": "Carbon Type Distribution : C/A (non S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "33"
+    },
+    {
+      "property": "Carbon Type Distribution : C/N (non S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "28"
+    },
+    {
+      "property": "Carbon Type Distribution : C/P (non S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "39"
+    },
+    {
+      "property": "Benzo(a)pyrene Content",
+      "method": "",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": "1"
+    },
+    {
+      "property": "Sum of 8 PAH Contents",
+      "method": "",
+      "uom": "",
+      "units": "mg/kg maximum",
+      "value": "10"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

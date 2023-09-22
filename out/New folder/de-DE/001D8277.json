@@ -1,0 +1,187 @@
+{
+  "id": "001D8277",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S2 A 85W-140",
+  "description": "High quality, GL-5 axle oil",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "ancillary gear set",
+    "automatic",
+    "axle",
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "continuously variable",
+    "diesel",
+    "differential",
+    "differentials",
+    "engine",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "hypoid gear axles",
+    "industrial",
+    "light fuel",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "manual unsynchronised",
+    "marine",
+    "medium speed",
+    "motorcycle",
+    "natural gas",
+    "off highway",
+    "offroad",
+    "on highway",
+    "passenger car",
+    "power split",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "screw pump",
+    "semi manual",
+    "separate motorcycle gear",
+    "slew",
+    "stationary",
+    "stationary  ancillary gear sets",
+    "stationary gear set",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "wheel"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "85W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/600d00dd-e0f7-491c-af48-690b5f716597.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 A 85W-140 EN TDG V1.2 04-Apr-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578295.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 85W-140 Germany EN 140001492039 EHS V3.10 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/9ef18e6c-7dc1-4330-8a7b-bebf8bad13b0.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 A 85W-140 Germany DE TDG V1.2 05-Apr-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578294.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 A 85W-140 Germany DE 140001492039 EHS V3.10 23-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8277_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027938",
+      "margin": "0.834686009733205",
+      "packShot": ""
+    },
+    {
+      "code": "001D8277_002VNC_A246",
+      "name": "Eimer 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027934",
+      "margin": "1.28446539542315",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 A 85W-140 ist ein multifunktionales Achsgetriebeöl.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "SAE J 306",
+      "uom": "",
+      "units": "",
+      "value": "85W-140"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "358"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "25.6"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "94"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "908"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-15"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_spirax_s2_a_85w-140.png",
+  "valueRecord": [],
+  "commerce": null
+}

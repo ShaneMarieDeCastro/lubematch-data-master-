@@ -1,0 +1,162 @@
+{
+  "id": "001D7527",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Platinum SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3d83caa8-c915-4ba9-9511-b88c4d1d467a.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A dexos1) EN TDG V2.4 09-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/2e937649-ef26-473a-b37c-9dfb01188a94.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A dexos1) United States EN TDG V2.4 09-Feb-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562551.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A dexos1) United States EN 140002686046 EHS V1.10 08-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7527_002V78_A0II",
+      "name": "Bottle 1 Quart Rect PZL Plat (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550036541",
+      "margin": "1.83618151974298",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550048220",
+      "margin": "2.17838155550389",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_002VIZ_A1WJ",
+      "name": "Drum 55 Gal T/H PZL BYtop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550036207",
+      "margin": "1.83276318053736",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550046127",
+      "margin": "1.75039696809798",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007960",
+      "margin": "1.45139533263339",
+      "packShot": ""
+    },
+    {
+      "code": "001D7527_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550036473",
+      "margin": "1.10159263088783",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "Honda/ Acura HTO-06",
+      "organisation": "Honda/ Acura",
+      "spec": "HTO-06"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C947-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-B1"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Platinum^® with PurePlus™ Technology is a first of its kind full synthetic motor oil made from natural gas and designed for COMPLETE PROTECTION  for top engine performance. Formulated for modern turbocharged engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

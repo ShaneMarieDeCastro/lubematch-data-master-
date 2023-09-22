@@ -1,0 +1,123 @@
+{
+  "id": "001I2701",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra ECT MULTI 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9b88e6f-42c0-4a0e-a321-8dd43536a0e0.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) EN TDG V1.5 22-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611407.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Netherlands EN 140002783873 EHS V1.3 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611406.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Netherlands NL 140002783873 EHS V1.3 06-JUL-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/92392216-70b4-419c-ae3f-f4f9fd7bad67.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Netherlands NL TDG V1.4 20-Jan-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I2701_002XI2_A246",
+      "name": "Fles 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550058341",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I2701_002XS4_A246",
+      "name": "Vaten 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vaten",
+      "materialCode": "550058159",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I2701_001176_SBLK",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "",
+      "materialCode": "500012437",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.52"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT MULTI 5W-30 beschikt over de meest geavanceerde uitlaatgas-emissietechnologie die helpt om roetfilters schoon te houden en om de motorprestaties te handhaven. Het voldoet aan de eisen van verschillende toonaangevende OEM's.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550058341_Shell_Helix_Ult_ECT_MULT_5W-30_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,97 @@
+{
+  "id": "001M1744",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "FormulaShell SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1bf43ec8-ee99-4f6b-9b8e-562f14ab372e.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil (CAN) EN TDG V1.0 06-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463309.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil (CAN) Canada EN 140006579500 EHS V1.0 20-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463310.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell SAE 10W-30 Motor Oil (CAN) Canada FR 140006579500 EHS V1.0 20-OCT-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001M1744_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500015207",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "FormulaShell^® Motor Oil is formulated to provide wear protection and helps protect against the formation of sludge, varnish and rust.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

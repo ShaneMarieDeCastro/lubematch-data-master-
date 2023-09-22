@@ -1,0 +1,98 @@
+{
+  "id": "001D8401",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Heat Transfer Oil S2 X",
+  "description": "High Performance Heat transfer fluid",
+  "family": "Heat Transfer",
+  "parentCategory": "",
+  "category": "Heat Transfer Oils",
+  "applicationKeys": [
+    "circulation",
+    "circulation system",
+    "heat transfer",
+    "hydraulic system",
+    "pump vane"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/fc3b463c-9044-47bc-8a13-2956f683a5fb.pdf",
+      "type": "GTDS",
+      "name": "Heat Transfer Oil S2 X EN TDG V1.2 08-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/f111aa5d-b7ad-431c-803d-0ef1fe7d7304.pdf",
+      "type": "LTDS",
+      "name": "Heat Transfer Oil S2 X Canada FR TDG V1.2 18-Oct-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542136.PDF",
+      "type": "LMSDS",
+      "name": "Heat Transfer Oil S2 X Canada EN 140006579500 EHS V2.0 21-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/8f18aba3-81d1-48e5-bd70-ca62d1beace4.pdf",
+      "type": "LTDS",
+      "name": "Heat Transfer Oil S2 X Canada EN TDG V1.2 08-Oct-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542132.PDF",
+      "type": "LMSDS",
+      "name": "Heat Transfer Oil S2 X Canada FR 140006579500 EHS V2.0 21-MAR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8401_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026755",
+      "margin": "0.965290136598768",
+      "packShot": ""
+    },
+    {
+      "code": "001D8401_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006018",
+      "margin": "0.945969819197578",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-12",
+      "organisation": "ISO",
+      "spec": "6743-12"
+    },
+    {
+      "name": "DIN 51522",
+      "organisation": "DIN",
+      "spec": "51522"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Heat Transfer Oil S2 X is a premium quality heat transfer fluid for use in indirectly heated closed heat transfer systems. It is based on carefully selected highly refined mineral oils chosen for their ability to provide superior performance in heat transfer systems and contains an oxidation inhibitor to provide long service life.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "001D8393",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Refrigeration Oil S4 FR-F 100",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Altri lubrificanti industriali",
+  "category": "Oli per frigoriferi",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d126a3c-c396-40e9-9fd0-0ec7a7f95ee0.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 100 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575718.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 100 Italy IT 140007645406 EHS V1.5 16-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575719.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 100 Italy EN 140007645406 EHS V1.5 16-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/2bca9b4b-d0d0-4765-bcfb-70d37a1d8c82.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 100 Italy IT TDG V1.2 31-Jan-2020",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8393_002VO8_A1P5",
+      "name": "Secchio 20 L T/H Steel Shell Yellow (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550025728",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F è un lubrificante sintetico frigorifero a base di esteri di polioli. E’ stato sviluppato per l’impiego con R134a e altri refrigeranti HFC. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

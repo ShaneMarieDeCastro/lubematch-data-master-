@@ -1,0 +1,273 @@
+{
+  "id": "001G1641",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R4 L 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "light fuel",
+    "lng",
+    "locomotive",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b86f42c-61d9-4c00-b77c-481218042d38.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) EN TDG V2.2 24-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608493.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) Poland PL 140003791557 EHS V1.14 04-JUL-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/20eff0a5-9ecb-4b32-b5ad-236787d5795c.pdf",
+      "type": "LTDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) Poland PL TDG V2.2 25-Aug-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02608490.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) Poland EN 140003791557 EHS V1.14 04-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1641_002X0G_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550047337",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550047252",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002VND_A246",
+      "name": "Wiadro 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550047251",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002VSI_A246",
+      "name": "Mała beczka 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "l",
+      "pack": "Mała beczka",
+      "materialCode": "550047336",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002VJW_A246",
+      "name": "Kontener 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550047250",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Case New Holland MAT 3521 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3521 - Suitable for use in applications which require"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "ACEA E11",
+      "organisation": "ACEA",
+      "spec": "E11"
+    },
+    {
+      "name": "Iveco T2 E7 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T2 E7 - Meets the requirements"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "MB DTFR 15C100",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C100"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "Deutz DQC III-18 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-18 LA"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Allison TES-439",
+      "organisation": "Allison",
+      "spec": "TES-439"
+    },
+    {
+      "name": "Case New Holland MAT 3522 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3522 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Olej Shell Rimula R4 L zawiera niskopopiołowe dodatki zapewniajace ochronę silników niskoemisyjnych pracujacych w ciężkich warunkach. Zapewnia to znacznie lepsze zabezpieczenia przed zuzyciem, tworzeniem sie osadów oraz zwiekszoną odporność na rozkład termiczny w porównaniu z poprzedną formulacją. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R4-L-15_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,100 @@
+{
+  "id": "001B2097",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State HP Gearplus 80W-90 GL-5",
+  "description": "Heavy duty gear oil",
+  "family": "Quaker State FCI Brand",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "heavy duty",
+    "hypoid gear axles",
+    "manual transmission",
+    "passenger car",
+    "trucks"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8f3184be-5a64-4ed4-a789-0f4a78dc3ac8.pdf",
+      "type": "GTDS",
+      "name": "QS Hi-Performance Gearplus 80W-90 (GL-5/MT-1) EN TDG V1.0 16-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562570.PDF",
+      "type": "LMSDS",
+      "name": "QS Hi-Performance Gearplus 80W-90 (GL-5/MT-1) United States EN 140002686046 EHS V4.1 22-JAN-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "Meritor 076-A",
+      "organisation": "Meritor",
+      "spec": "076-A"
+    },
+    {
+      "name": "Meritor 076-D",
+      "organisation": "Meritor",
+      "spec": "076-D"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "Mack GO-H",
+      "organisation": "Mack",
+      "spec": "GO-H"
+    },
+    {
+      "name": "Mack GO-G",
+      "organisation": "Mack",
+      "spec": "GO-G"
+    },
+    {
+      "name": "MIL-L-2105E",
+      "organisation": "MIL",
+      "spec": "L-2105E"
+    },
+    {
+      "name": "Navistar B-22",
+      "organisation": "Navistar",
+      "spec": "B-22"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Extreme pressure automotive gear and axle oils for cars and trucks.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

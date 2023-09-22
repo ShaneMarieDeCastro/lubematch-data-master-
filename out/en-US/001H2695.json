@@ -1,0 +1,96 @@
+{
+  "id": "001H2695",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State Euro LX Full Synthetic SAE 0W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/54e46d16-a7b7-4e1e-8fdf-9bdaf22f6b05.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Euro LX Full Synthetic SAE 0W-30 Motor Oil EN TDG V1.5 12-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/f02f445a-1637-408f-b63d-f010eb1c1dba.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Euro LX Full Synthetic SAE 0W-30 Motor Oil United States EN TDG V1.5 12-Apr-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563091.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Euro LX Full Synthetic SAE 0W-30 Motor Oil United States EN 140002686046 EHS V1.4 25-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Porsche C30",
+      "organisation": "Porsche",
+      "spec": "C30"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.52"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^1 ^Based ^on ^latest ^industry ^standard",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,119 @@
+{
+  "id": "001H3027",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Helix Ultra Professional AR-L RN17 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/41f4e36e-986a-4aa3-9ead-20a8b5282e9d.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) EN TDG V1.4 19-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/195a0280-5bad-4f78-91f3-10be7b72d6a1.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) France FR TDG V1.4 21-Jun-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562104.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) France EN 140003182031 EHS V1.5 27-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562103.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) France FR 140003182031 EHS V1.5 27-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3027_002XS4_A246",
+      "name": "Barils 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550051434",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H3027_002VSI_A246",
+      "name": "Tonneau 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Tonneau",
+      "materialCode": "550060202",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H3027_002XN7_EURO",
+      "name": "Bouteille 20 L Local EcoPack PET Bottle 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550053648",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H3027_002W21_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550051568",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H3027_002WX1_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550051433",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Renault RN 17",
+      "organisation": "Renault",
+      "spec": "RN 17"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Conçue pour satisfaire aux exigences des moteurs \"hautes performances\" des voitures particulières de marque Renault.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550053648_Shell_Helix_Ultra_Prof_AR-L_RN17_5W-30_20L_EcoPacks_en.png",
+  "valueRecord": [],
+  "commerce": "https://shell-lubrifiant.myshopify.com/products/shell-helix-ultra-professional-ar-l-rn17-5w30-5l"
+}

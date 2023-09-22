@@ -1,0 +1,73 @@
+{
+  "id": "001I5491",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Water Soluble Hydraulic Fluid 68",
+  "description": "Water Soluble Hydraulic Oil",
+  "family": "Hydraulic",
+  "parentCategory": "",
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/54d4da0d-d868-4340-8ac0-03e0c5d6e03f.pdf",
+      "type": "GTDS",
+      "name": "Water Soluble Hydraulic Fluid 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290912.PDF",
+      "type": "LMSDS",
+      "name": "Water Soluble Hydraulic Fluid 68 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/9ffa4578-ea0f-4c27-b475-7c0af8699b5b.pdf",
+      "type": "LTDS",
+      "name": "Water Soluble Hydraulic Fluid 68 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d83be06a-466c-49a1-a0cd-bcc76a70d3f9.pdf",
+      "type": "LTDS",
+      "name": "Water Soluble Hydraulic Fluid 68 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290860.PDF",
+      "type": "LMSDS",
+      "name": "Water Soluble Hydraulic Fluid 68 Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5491_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057333",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

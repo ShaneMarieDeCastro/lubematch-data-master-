@@ -1,0 +1,76 @@
+{
+  "id": "001B1507",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella ELC (Extender)",
+  "description": "Replenishes nitrite levels  and should be added at 300,000 miles or 6,000 hours of coolant service. Not needed for most European OEMs.",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008140459_20140725110_0.pdf",
+      "type": "GTDS",
+      "name": "Rotella ELC Extender English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563736.PDF",
+      "type": "LMSDS",
+      "name": "Rotella ELC Extender United States EN 140002686046 EHS V4.4 30-AUG-2018",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/3da4c385-58f1-4734-a7e7-4e34fff3c038.pdf",
+      "type": "LTDS",
+      "name": "Rotella ELC Extender United States EN TDG V1.1 06-May-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "TMC RP 329",
+      "organisation": "TMC RP",
+      "spec": "329"
+    },
+    {
+      "name": "TMC RP 338",
+      "organisation": "TMC RP",
+      "spec": "338"
+    },
+    {
+      "name": "ASTM D6210",
+      "organisation": "ASTM",
+      "spec": "D6210"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella ELC Extended Life Coolant/ Antifreeze is a \"Fill for Life\" carboxylate Based Coolant for Heavy Duty Diesel, Gasoline and Natural gas Powered Engines. Shell Rotella ELC Contains Ethylene Glycol and Nitrite and molybdate as secondary Inhibitors. This Product Requires no traditional SCA additions and Contains no silicate, Borate, nitrate or Phosphate. Shell Rotella ELC Extended Life Coolant Meets all the Requirements of CAT EC-1, TMC RP 329 and RP 338.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

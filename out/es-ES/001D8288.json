@@ -1,0 +1,101 @@
+{
+  "id": "001D8288",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Spirax S5 ATE 75W-90",
+  "description": "Premium performance, synthetic technology, GL-5/4 transaxle oil for sports cars",
+  "family": "Spirax",
+  "parentCategory": "Fluidos de transmisión",
+  "category": "Aceites para transmisión manual y engranajes.",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "cars",
+    "continuously variable",
+    "differential",
+    "engine",
+    "final drive",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "heavy duty axle",
+    "heavy load",
+    "industrial",
+    "manual",
+    "manual transmission",
+    "non shiftable",
+    "off highway",
+    "passenger car",
+    "premium performance",
+    "reduction gears",
+    "semi automatic",
+    "synchronised",
+    "tandem drive",
+    "transaxle",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/addb1fe4-3d08-4a7c-a482-158d769f4008.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 ATE 75W-90 EN TDG V2.2 17-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/aed2fa55-3a71-4fce-b6f7-dd6adac34dcc.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 ATE 75W-90 Spain ES TDG V2.2 24-May-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578561.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 ATE 75W-90 Spain ES 140003966322 EHS V2.9 23-MAY-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578559.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 ATE 75W-90 Spain EN 140003966322 EHS V2.9 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "MB-Approval 236.26",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.26"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 ATE 75W-90 está específicamente diseñado para satisfacer las altas exigencias de los trenes de transmisión extremadamente cargados de algunos turismos.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027931_Shell_Spirax_S5_ATE_75W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

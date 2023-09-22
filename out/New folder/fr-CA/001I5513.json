@@ -1,0 +1,93 @@
+{
+  "id": "001I5513",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell EcoSafe S3 DU 32",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1851fe2d-3b11-49ad-936a-3b4a79dfe0d4.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S3 DU 32 EN TDG V1.6 23-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290882.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 32 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/1b5fc5a0-ff5e-4d85-95bd-dcc9ab79d757.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 32 Canada FR TDG V1.6 23-Nov-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290885.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 32 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b418aa45-aee1-48fc-b660-068895cf35fd.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 32 Canada EN TDG V1.6 23-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5513_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057363",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5513_002VOP_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550057364",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5513_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057365",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

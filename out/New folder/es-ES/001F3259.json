@@ -1,0 +1,94 @@
+{
+  "id": "001F3259",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Ultra Professional AP-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "cars",
+    "psa"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e1e9214e-1cb5-4313-a0cf-e4d9f237e712.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02526245.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Spain EN 140003966322 EHS V1.6 21-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02526246.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Spain ES 140003966322 EHS V1.6 21-FEB-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/2ed96a53-9d13-4f11-a86a-8105a79f6c9e.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Spain ES TDG V1.5 26-Oct-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3259_002XS4_A246",
+      "name": "Bidones 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidones",
+      "materialCode": "550043466",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3259_002YAP_EURO",
+      "name": "Botella 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550050863",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "PSA B71 2312",
+      "organisation": "PSA",
+      "spec": "B71 2312"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Diseñado para cumplir los requerimientos más exigentes de los motores de alto rendimiento, incluyendo Peugeot, Citroen y aquellos que requieren la especificación ACEA C2",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550050863_Shell_Helix_Ult_Pro_AP-L_0W-30_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

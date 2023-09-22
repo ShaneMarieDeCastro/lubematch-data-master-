@@ -1,0 +1,88 @@
+{
+  "id": "001D8296",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Spirax S2 ATF A389",
+  "description": "High Performance ATF, Power Steering and Hydraulic Oil for Allison 389 Use",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "buses",
+    "heavy duty allison transmissions",
+    "heavy truck",
+    "manual sequential",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_ATF_A389_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 ATF A389 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/1141dbcd-d649-4377-ada4-a5852a7b760d.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 ATF A389 United States EN TDG V1.2 17-Jun-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562654.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ATF A389 United States EN 140002686046 EHS V4.4 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8296_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006039",
+      "margin": "0.655274502644573",
+      "packShot": ""
+    },
+    {
+      "code": "001D8296_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026992",
+      "margin": "1.39828514861994",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Voith 55.6335",
+      "organisation": "Voith",
+      "spec": "55.6335"
+    },
+    {
+      "name": "Allison TES-389",
+      "organisation": "Allison",
+      "spec": "TES-389"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S2 ATF A389 is designed for use in Allison heavy duty automatic transmissions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,78 @@
+{
+  "id": "001A0071",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "AeroShell Oil 120",
+  "description": "Mineral lubricating oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Huiles moteur - Aviation/Piston",
+  "applicationKeys": [
+    "aviation",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "piston engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "60",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/68d0a5ef-307e-4b5e-ab52-b1f3f2c5fc24.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil 120 EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549051.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil 120 Canada FR 140006579500 EHS V1.7 07-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b3bc8969-3e6c-4467-b7c4-16ccdcd3652a.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil 120 Canada EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/adc10175-73a6-490b-945e-f47fd25af86d.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil 120 Canada FR TDG V1.2 13-Dec-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549052.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil 120 Canada EN 140006579500 EHS V1.7 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OM-370",
+      "organisation": "Joint Service Designation",
+      "spec": "OM-370"
+    },
+    {
+      "name": "SAE J1966",
+      "organisation": "SAE",
+      "spec": "J1966"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les huiles minérales droites AeroShell sont mélangées à partir d'huiles de base sélectionnées de l'indice de viscosité élevé. Ces huiles ne contiennent aucun additif sauf une petite quantité d'abaisseur de point d'écoulement (qui est ajouté lorsqu'une fluidité améliorée à très basse température est requise) et un anti-oxydant.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,62 @@
+{
+  "id": "001H2425",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Paper Machine Oil S2 M 150",
+  "description": "Paper Machine Circulating Oils",
+  "family": "Paper Machine",
+  "parentCategory": "",
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "circulation",
+    "circulation system"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/e4fb0cb7-131a-4f62-b392-9174b88332e4.pdf",
+      "type": "GTDS",
+      "name": "Paper Machine Oil S2 M 150 EN TDG V1.1 12-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290614.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S2 M 150 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290613.PDF",
+      "type": "LMSDS",
+      "name": "Paper Machine Oil S2 M 150 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51354-2",
+      "organisation": "DIN",
+      "spec": "51354-2"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Paper Machine Oil S2 M is a high performance oil designed to provide excellent all round protection for the diverse needs and conditions found in paper machines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

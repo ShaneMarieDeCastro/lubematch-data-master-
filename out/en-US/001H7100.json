@@ -1,0 +1,66 @@
+{
+  "id": "001H7100",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Hybrid SAE 0W-16 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-16",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/67df66e3-aee2-4615-a8b3-d96f3057c4d5.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Hybrid 0W-16 Full Synthetic Motor Oil (API SN PLUS) EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562614.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Hybrid 0W-16 Full Synthetic Motor Oil (SP/GF-6B) United States EN 140002686046 EHS V1.2 02-JUN-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/6760a439-8ca3-4fd9-bbda-78f6aeed08e5.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Hybrid 0W-16 Full Synthetic Motor Oil (API SN PLUS) United States EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "ILSAC GF-6B",
+      "organisation": "ILSAC",
+      "spec": "GF-6B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil^® is the first motor oil made from natural gas, not crude. Pennzoil^® Hybrid™ SAE 0W-16 full synthetic motor oil with PurePlus™ Technology is designed for UNBEATABLE ENGINE PROTECTION.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

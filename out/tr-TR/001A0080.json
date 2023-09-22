@@ -1,0 +1,77 @@
+{
+  "id": "001A0080",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "AeroShell Turbine Oil 308",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b21ab9c6-8dc4-42ac-9d79-361a492ada0b.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 308 EN TDG V1.4 01-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02464283.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 Turkey EN 140003791542 EHS V2.6 21-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02464282.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 308 Turkey TR 140003791542 EHS V2.6 21-OCT-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0080_002VFJ_AEU2",
+      "name": "Teneke 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Teneke",
+      "materialCode": "550050173",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO O-148",
+      "organisation": "NATO",
+      "spec": "O-148"
+    },
+    {
+      "name": "MIL-PRF-7808L Type III",
+      "organisation": "MIL",
+      "spec": "PRF-7808L Type III"
+    },
+    {
+      "name": "Joint Service Designation OX-9",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-9"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 308 is a 3 mm²/s synthetic ester oil incorporating additives to improve resistance to oxidation and corrosion and to minimise wear.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

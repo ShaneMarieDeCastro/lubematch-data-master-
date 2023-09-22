@@ -1,0 +1,74 @@
+{
+  "id": "001I5566",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Air Compressor Oil S2 R 32",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "rotary vane",
+    "screw"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/911bff5a-0790-4494-8749-91432e2ff059.pdf",
+      "type": "GTDS",
+      "name": "Shell Air Compressor Oil S2 R 32 EN TDG V1.2 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291455.PDF",
+      "type": "LMSDS",
+      "name": "Shell Air Compressor Oil S2 R 32 Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291454.PDF",
+      "type": "LMSDS",
+      "name": "Shell Air Compressor Oil S2 R 32 Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/f00b664f-2ddd-4a09-94c7-174d0ce54615.pdf",
+      "type": "LTDS",
+      "name": "Shell Air Compressor Oil S2 R 32 Canada EN TDG V1.2 30-Sep-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/74b9e26a-e977-412f-a65b-2ff094a2aac1.pdf",
+      "type": "LTDS",
+      "name": "Shell Air Compressor Oil S2 R 32 Canada FR TDG V1.2 07-Oct-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5566_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057423",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "L'huile pour compresseur d'air Shell S2 R 32 est un lubrifiant fabriqué à partir d'une huile de base hydrotraitée haute pression spéciale et d'une combinaison d'additifs sans zinc qui la rendent idéale pour les applications de compresseur d'air rotatif à vis.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

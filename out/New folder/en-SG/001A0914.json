@@ -1,0 +1,96 @@
+{
+  "id": "001A0914",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Grease 14",
+  "description": "Mineral grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c6cba754-1bbf-44b5-8058-25cad8d03773.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 14 EN TDG V1.2 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579881.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Singapore EN 140001435547 EHS V1.9 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0914_002VWZ_A606",
+      "name": "Cartridge 0.4 kg Standard Grease Preprinted (30)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550043639",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0914_002XN5_A610",
+      "name": "Can without Closure 3 kg Open head Tinplate Shell Red (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Can without closure",
+      "materialCode": "550043677",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0914_002VOK_A0U5",
+      "name": "Pail 35 lb Plastic O/H Y (1)",
+      "size": "35",
+      "uom": "lb",
+      "pack": "Pail",
+      "materialCode": "550010390",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NATO G-366",
+      "organisation": "NATO",
+      "spec": "G-366"
+    },
+    {
+      "name": "MIL-G-25537C",
+      "organisation": "MIL",
+      "spec": "G-25537C"
+    },
+    {
+      "name": "DEF STAN 91-51",
+      "organisation": "DEF STAN",
+      "spec": "91-51"
+    },
+    {
+      "name": "Joint Service Designation XG-284",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-284"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +75°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Aeroshell-Grease-14.png",
+  "valueRecord": [],
+  "commerce": null
+}

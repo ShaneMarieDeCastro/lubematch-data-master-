@@ -1,0 +1,119 @@
+{
+  "id": "001H2695",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Euro LX Full Synthetic SAE 0W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/54e46d16-a7b7-4e1e-8fdf-9bdaf22f6b05.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Euro LX Full Synthetic SAE 0W-30 Motor Oil EN TDG V1.5 12-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cfd62690-e6ec-49e7-a8f1-f5f2f28c9c5c.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Euro LX Full Synthetic SAE 0W-30 Motor Oil Canada FR TDG V1.5 12-Apr-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/cdee984b-864a-4d51-9abe-61be74ccdb6a.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Euro LX Full Synthetic SAE 0W-30 Motor Oil Canada EN TDG V1.5 12-Apr-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291499.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Ultimate Durability European LX 0W-30 Full Synthetic Motor Oil (API SN/ACEA C2/C3) Canada EN 140006579500 EHS V1.5 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290807.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Ultimate Durability European LX 0W-30 Full Synthetic Motor Oil (API SN/ACEA C2/C3) Canada FR 140006579500 EHS V1.5 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2695_002XLM_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550052734",
+      "margin": "1.51921035554717",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Porsche C30",
+      "organisation": "Porsche",
+      "spec": "C30"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "MB-Approval 229.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.52"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^1 ^Basé ^sur ^la ^dernière ^norme ^de ^l'industrie ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

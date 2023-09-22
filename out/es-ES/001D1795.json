@@ -1,0 +1,106 @@
+{
+  "id": "001D1795",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Rimula R5 LM 10W-40",
+  "description": "Low Emissions Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - vehículo pesado",
+  "applicationKeys": [
+    "bio gas",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "multi fuel",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fcbfe1f4-53a0-4514-9b31-6249ad939a34.pdf",
+      "type": "GTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) EN TDG V1.5 28-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/9eedbbea-f494-4b68-bc94-8a05e56c9b9c.pdf",
+      "type": "LTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Spain ES TDG V1.5 02-Aug-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561409.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Spain ES 140003966322 EHS V2.6 26-APR-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561410.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Spain EN 140003966322 EHS V2.6 26-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D1795_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550029382",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D1795_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550029381",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R5 LM es un aceite de bajo contenido en cenizas, \"Low-SAPS\", formulado con tecnología sintética para incrementar la protección y el rendimiento del motor, prolongando el intervalo de cambio y ahorrando en costes de mantenimiento.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

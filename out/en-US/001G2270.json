@@ -1,0 +1,61 @@
+{
+  "id": "001G2270",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil 0W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b9a38c56-fe64-4f94-9ed0-d2bbe7fe585e.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 0W-20 Motor Oil (SN GF-5) EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/6899d882-9a74-4749-a4fe-13679e192444.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 0W-20 Motor Oil (SN GF-5) United States EN TDG V2.0 02-Feb-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562419.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 0W-20 Motor Oil (SN GF-5) United States EN 140002686046 EHS V1.1 29-MAR-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "PENNZOIL^®^ FULL SYNTHETIC SAE 0W-20 MOTOR OIL from the maker of the leading motor oil in America, an advanced proprietary conventional formula with Active Cleansing Agents. Not only helps prevent dirt and contaminants from turning into performance robbing deposits, but also cleans out sludge. Because at Pennzoil^®^ we know, a cleaner engine is better protected and responsive. It meets or exceeds the engine protection required by ILSAC GF-5 and is specially formulated to provide extra protection against the harmful effects of stop-and-go driving and high and low-temperature engine operation.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

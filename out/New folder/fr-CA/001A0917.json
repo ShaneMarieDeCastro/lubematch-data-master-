@@ -1,0 +1,98 @@
+{
+  "id": "001A0917",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Naturelle Fluid HF-E 32",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "aviation turbines",
+    "biodegradable",
+    "diesel",
+    "engine",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "off highway",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "synthetic",
+    "turbine",
+    "variable",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cb45b179-879c-45f8-b244-14d28bfe9a74.pdf",
+      "type": "GTDS",
+      "name": "Naturelle HF-E 32 EN TDG V4.9 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289596.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 32 Canada FR 140006579500 EHS V1.13 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/9581174f-7494-464e-b326-d8e2267ee159.pdf",
+      "type": "LTDS",
+      "name": "Naturelle HF-E 32 Canada EN TDG V4.9 26-May-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/77de606e-0169-45ff-bac7-92e85a4481ad.pdf",
+      "type": "LTDS",
+      "name": "Naturelle HF-E 32 Canada FR TDG V4.9 24-Jun-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290504.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 32 Canada EN 140006579500 EHS V1.13 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Swedish Standard SS 15 54 34 SP",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 SP"
+    },
+    {
+      "name": "VDMA 24568",
+      "organisation": "VDMA",
+      "spec": "24568"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle HF-E est un liquide hydraulique perfectionné mis au point pour être utilisé dans des systèmes hydrauliques et de transmission de puissance. Il est facilement biodégradable, peu toxique pour l’environnement et particulièrement adapté pour être utilisé dans des zones écologiquement fragiles. Le mélange d’esters synthétiques et d’additifs sans cendres confère au liquide hydraulique Shell Naturelle HF-E  une combinaison de performance supérieure et d’acceptabilité environnementale.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

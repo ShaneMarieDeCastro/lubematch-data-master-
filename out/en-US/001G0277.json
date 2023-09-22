@@ -1,0 +1,72 @@
+{
+  "id": "001G0277",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil High Mileage 10W-40 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/11c039d6-b0c7-47dd-89bf-7a2132a9993b.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil High Mileage 10W-40 Motor Oil (SN) EN TDG V1.1 19-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563934.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 10W-40 Motor Oil (SN) United States EN 140002686046 EHS V1.1 13-AUG-2019",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/6950d015-aeeb-4d95-b8f6-db04e7f37c7a.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 10W-40 Motor Oil (SN) United States EN TDG V1.1 05-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0277_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550045217",
+      "margin": "1.02295970185246",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

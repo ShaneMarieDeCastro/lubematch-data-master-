@@ -1,0 +1,128 @@
+{
+  "id": "001D8254",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax S5 CFD M 60",
+  "description": "Premium Performance Off-Highway Caterpillar Final Drive and Axle Oil",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Altri oli trasmissione",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "extreme temperatures",
+    "fdao",
+    "final drive",
+    "front axle",
+    "hydrostatic",
+    "off highway",
+    "offroad",
+    "powershift",
+    "reduction gears",
+    "tandem drive",
+    "transmissions",
+    "wheel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "60",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ccd950cf-852d-4ce0-bb3e-fe55ddc183ac.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 CFD M 60 EN TDG V2.2 21-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/a7afefde-a17d-47d3-9d86-70c8aa7b5bba.pdf",
+      "type": "LTDS",
+      "name": "Italy IT TDG V2.2 26-Feb-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578867.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CFD M 60 Italy IT 140007645406 EHS V2.2 23-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578865.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CFD M 60 Italy EN 140007645406 EHS V2.2 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8254_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550028288",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar FD-1",
+      "organisation": "Caterpillar",
+      "spec": "FD-1"
+    },
+    {
+      "name": "Caterpillar FDAO",
+      "organisation": "Caterpillar",
+      "spec": "FDAO"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 CFD M 60 è un olio per trasmissioni che offre una migliorata protezione degli ingranaggi e dei cuscinetti presenti in ingranaggi conici, differenziali, riduttori finali ed assali. Incontra la specifica Caterpillar FD-1 per oli per riduttori finali ed assali (FDAO). Spirax S5 CFD M 60 è stato sviluppato per l'utilizzo nelle più severe temperature ambientali a cui sono esposti i veicoli off-highway.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "60"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "22.8-25.2"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "904"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-15"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

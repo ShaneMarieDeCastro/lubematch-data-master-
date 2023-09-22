@@ -1,0 +1,71 @@
+{
+  "id": "001H0236",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Mysella S6 N 40",
+  "description": "Premium, Long Life, Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Industrial engine oils",
+  "category": "Industrial engine oils",
+  "applicationKeys": [
+    "automatic",
+    "bio gas",
+    "engine",
+    "gas",
+    "landfill",
+    "low ash",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6961a376-8b32-40b6-b922-63e8593cc5be.pdf",
+      "type": "GTDS",
+      "name": "Mysella S6 N 40 EN TDG V2.4 16-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611041.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 United Kingdom EN 140002340634 EHS V1.5 05-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/c532d37a-9622-4d5b-b9ce-176608761b00.pdf",
+      "type": "LTDS",
+      "name": "Mysella S6 N 40 United Kingdom EN TDG V2.4 16-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0236_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550050635",
+      "margin": "0.527973347981771",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S6 N is a high-performance oil designed for use in highly-rated, 4-stroke, spark-ignition engines, especially those with steel pistons. Superior engine cleanliness and extended drain intervals are delivered by specially developed lubricant technology.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

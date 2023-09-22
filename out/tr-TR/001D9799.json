@@ -1,0 +1,61 @@
+{
+  "id": "001D9799",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Cam Suyu Screenwash",
+  "description": "Appearance Windshield Treatment",
+  "family": "Car Care Products",
+  "parentCategory": null,
+  "category": "Windshield Washer Fluid",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140003580742_201006251653.pdf",
+      "type": "GTDS",
+      "name": "Cam Suyu Screenwash English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319016.PDF",
+      "type": "LMSDS",
+      "name": "Cam Suyu Screenwash Turkey TR 140003791542 EHS V2.5 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319014.PDF",
+      "type": "LMSDS",
+      "name": "Cam Suyu Screenwash Turkey EN 140003791542 EHS V2.5 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D9799_002VJW_A0S5",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550025788",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,163 @@
+{
+  "id": "001D8458",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S2 V220AD 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "bearing",
+    "construction",
+    "ep",
+    "extreme pressure",
+    "fifth wheel",
+    "heavy duty",
+    "high performance",
+    "hostile condition",
+    "industrial",
+    "lithium",
+    "lithium calcium",
+    "marine",
+    "moly",
+    "multipurpose",
+    "offroad",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "shock load",
+    "solid lubricant",
+    "trucks",
+    "versatile",
+    "water tolerant",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/52dc60eb-f1b5-4a90-b05c-fc61c4559972.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220AD 2 EN TDG V2.3 15-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/be580393-ea20-4a15-a5dc-392b0c89187c.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220AD 2 United States EN TDG V2.4 18-Feb-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563775.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220AD 2 United States EN 140002686046 EHS V2.4 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8458_002VGF_NAMD",
+      "name": "Cartridge 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550066880",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "They are based on high viscosity index mineral oil and a mixed lithium/calcium soap thickener and contains extreme-pressure, anti-oxidation, anti-wear, anti-corrosion and adhesion additives. It also contains solids to provide resistance to shock loading.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium/Calcium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "18"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "4 Ball Weld Load",
+      "method": "IP 239",
+      "uom": "",
+      "units": "Kg minimum",
+      "value": "315"
+    },
+    {
+      "property": "4 Ball Weld Load",
+      "method": "IP 239",
+      "uom": "",
+      "units": "Kg typical",
+      "value": "400"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DicxQAC&field=Attachment__Name__s",
+      "family": "Gadus",
+      "savings": 43000,
+      "title": "Shell Gadus S2 V220AD 2"
+    }
+  ],
+  "commerce": null
+}

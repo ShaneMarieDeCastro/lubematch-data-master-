@@ -1,0 +1,138 @@
+{
+  "id": "001D8464",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Gadus S2 V100 3",
+  "description": "High Performance Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "electric motor bearings",
+    "electric motors",
+    "general industrial lubrication",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium hydroxystearate",
+    "marine",
+    "multipurpose",
+    "plain bearings",
+    "roller bearings",
+    "sealed bearings",
+    "shock load",
+    "water pump bearings",
+    "wide range of operating conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "3",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_V100_3_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V100 3 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542137.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 3 Canada FR 140006579500 EHS V3.0 21-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/e9331327-7d75-4621-b917-9d56a52a575c.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V100 3 Canada EN TDG V1.1 18-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542138.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 3 Canada EN 140006579500 EHS V3.0 21-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Shell_Gadus_S2_V100-fr.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V100 3 Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8464_002XD7_A1WJ",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550026810",
+      "margin": "1.96177079130171",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V100 3 is a general purpose grease based on a new lithium hydroxystearate soap thickener fortified with anti-oxidant, anti-wear and anti-rust additives.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "3"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium hydroxystearate"
+    },
+    {
+      "property": "Base Oil (Type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "220-250"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

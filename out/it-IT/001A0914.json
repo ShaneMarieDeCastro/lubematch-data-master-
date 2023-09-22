@@ -1,0 +1,82 @@
+{
+  "id": "001A0914",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "AeroShell Grease 14",
+  "description": "Mineral grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "Lubrificanti per l'aviazione",
+  "category": "Grassi per l'automotive",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9608ac24-bf32-4d2a-8938-1d92a2221391.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 14 EN TDG V1.3 02-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551213.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Italy EN 140007645406 EHS V1.14 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551214.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Italy IT 140007645406 EHS V1.14 11-APR-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0914_002XN5_A610",
+      "name": "Lattina senza chiusura 3 kg Open head Tinplate Shell Red (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Lattina senza chiusura",
+      "materialCode": "550043677",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation XG-284",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-284"
+    },
+    {
+      "name": "NATO G-366",
+      "organisation": "NATO",
+      "spec": "G-366"
+    },
+    {
+      "name": "DEF STAN 91-51",
+      "organisation": "DEF STAN",
+      "spec": "91-51"
+    },
+    {
+      "name": "MIL-G-25537C",
+      "organisation": "MIL",
+      "spec": "G-25537C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +75°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

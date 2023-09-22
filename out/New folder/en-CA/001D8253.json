@@ -1,0 +1,136 @@
+{
+  "id": "001D8253",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Spirax S4 CX 60",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission Oils Other",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "construction",
+    "differential",
+    "final drive",
+    "front axle",
+    "heavy duty",
+    "hydraulic system",
+    "multiple oem",
+    "off highway",
+    "offroad",
+    "offroad hydraulic",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "powershift transmissions",
+    "pump gear",
+    "reduction gears",
+    "tandem drive",
+    "tractor",
+    "transmissions",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "60",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S4_CX_60_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 60 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291135.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 60 Canada EN 140006579500 EHS V1.8 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/817e8966-b34a-4784-af4b-9016c12ce163.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 60 Canada FR TDG V2.1 19-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291134.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 60 Canada FR 140006579500 EHS V1.8 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/cad3d3d2-3b4c-4b83-8863-4e7eb0f724e3.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 60 Canada EN TDG V2.1 28-Aug-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 60 is designed to provide operators with trouble free operation and maximum reliability for the lifetime of the equipment. Spirax S4 CX 60 meets the demanding requirements of modern transmission, final drive and oil immersed brakes fitted to heavy-duty off-highway equipment.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "60"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "295.7"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "23.4"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "912"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-6"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

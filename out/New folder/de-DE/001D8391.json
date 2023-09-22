@@ -1,0 +1,153 @@
+{
+  "id": "001D8391",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Refrigeration Oil S2 FR-A 46",
+  "description": "Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Kältemaschinenöle",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "heat transfer",
+    "hermetic compressor",
+    "industrial",
+    "open compressor",
+    "r290",
+    "r717",
+    "refrigerant",
+    "semi open compressor",
+    "steam",
+    "turbine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3aaa0883-9198-4a99-a254-4cce986b650b.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S2 FR-A 46 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/40347311-4204-415f-b6d8-b8bcfe8e6b00.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Germany DE TDG V1.2 30-Sep-2019",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575052.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Germany EN 140001492039 EHS V1.5 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575053.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Germany DE 140001492039 EHS V1.5 15-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8391_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550025693",
+      "margin": "2.11876551249381",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KE",
+      "organisation": "DIN",
+      "spec": "51503 KE"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S2 FR-A wurde speziell für Kältekompressoren mit dem Kältemittel Ammoniak entwickelt. Formuliert auf Basis von speziell raffinierten paraffinbasischen Grundölen in Kombination mit ausgewählten Additiven, minimiert es die Bildung von Ablagerungen und ermöglicht lange Serviceintervalle.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse ",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "46"
+    },
+    {
+      "property": "Kältemaschinen",
+      "method": "DIN 51503",
+      "uom": "",
+      "units": "",
+      "value": "KAA, KE"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "46"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6.7"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "218"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "859"
+    },
+    {
+      "property": "Neutralisationszahl",
+      "method": "ASTM D664 (TAN)",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "-"
+    },
+    {
+      "property": "Mischbarkeit mit R290",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Komplett mischbar mit kohlenwa"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

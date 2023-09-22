@@ -1,0 +1,128 @@
+{
+  "id": "001C5458",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Sint Plus 10W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Sint",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8c317805-84aa-47fe-bd06-b675b9b7cff1.pdf",
+      "type": "GTDS",
+      "name": "Sint Plus 10W-40 EN TDG V1.1 08-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559902.PDF",
+      "type": "LMSDS",
+      "name": "Sint Plus 10W-40 Italy EN 140007645406 EHS V1.7 24-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559880.PDF",
+      "type": "LMSDS",
+      "name": "Sint Plus 10W-40 Italy IT 140007645406 EHS V1.7 24-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/ffa1d753-2a08-4dd4-92bc-102401032c0b.pdf",
+      "type": "LTDS",
+      "name": "Sint Plus 10W-40 Italy IT TDG V1.1 28-Feb-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C5458_002WL0_A14T",
+      "name": "Bottiglia 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550024328",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C5458_002WML_A14T",
+      "name": "Bottiglia 4 L Wishbone Plastic Rimula Grey (4)",
+      "size": "4",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550024327",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "VW Standard 501.01",
+      "organisation": "VW",
+      "spec": "Standard 501.01"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

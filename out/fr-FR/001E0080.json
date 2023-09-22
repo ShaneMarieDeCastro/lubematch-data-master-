@@ -1,0 +1,74 @@
+{
+  "id": "001E0080",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Vacuum Pump Oil S3 RX 100",
+  "description": "Rotary Vacuum Pump Oil",
+  "family": "Vacuum Pump",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Vacuum_Pump_Oil_S3_RX_100_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S3 RX 100 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/f6202ca8-d19b-49be-bd5c-355957e6b992.pdf",
+      "type": "LTDS",
+      "name": "Vacuum Pump Oil S3 RX 100 France FR TDG V2.2 31-Jan-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612344.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S3 RX 100 France FR 140003182031 EHS V1.5 06-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612570.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S3 RX 100 France EN 140003182031 EHS V1.5 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0080_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027225",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S3 RX 100 est formulée à partir d'huiles minérales soigneusement sélectionnées pour leurs hautes performances et hautement raffinées. Cela permet d'obtenir une faible pression de vapeur requise pour une lubrification efficace des pompes à vides rotatives.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000ImtMQAS&field=Attachment__Name__s",
+      "family": "Vacuum Pump",
+      "savings": 27000,
+      "title": "Shell VacuumPump Oil S3 RX 100"
+    }
+  ],
+  "commerce": null
+}

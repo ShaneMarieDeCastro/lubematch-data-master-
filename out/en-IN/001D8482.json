@@ -1,0 +1,133 @@
+{
+  "id": "001D8482",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell GadusRail S2 Traction Motor Bearing Grease",
+  "description": "High Performance Traction Motor Bearing Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "antifriction bearings",
+    "fill for life",
+    "high performance",
+    "lithium based",
+    "long life",
+    "rail",
+    "railroad",
+    "traction motor bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "3",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_GadusRail_S2_Traction_Motor_Bearing_Grease_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S2 Traction Motor Bearing Grease English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637224.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S2 Traction Motor Bearing Grease India EN 140006501563 EHS V1.4 10-JUN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_India_Shell_GadusRail_S2_Traction_Motor_Bearing_Grease_(en-IN)_TDS.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S2 Traction Motor Bearing Grease India English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8482_002XD7_A1WJ",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550026911",
+      "margin": "2.98693340937297",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell GadusRail S2 Traction Motor Bearing grease is one of Shell's highest quality lithium soap based greases. It is manufactured to specifications that provide excellent mechanical stability and long service life. These properties are needed for many critical anti-friction bearing applications.  Shell GadusRail S2 Traction Motor Bearing grease is a NLGI Grade 3 grease formulated using mineral base oils.",
+  "physicalCharacteristics": [
+    {
+      "property": "Colour",
+      "method": "Appearance",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Amber, Buttery"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "110 - 120"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "10.2"
+    },
+    {
+      "property": "Penetration, dmm Worked, 60X",
+      "method": "IP 50 / ASTM D217",
+      "uom": "",
+      "units": "",
+      "value": "230"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "Mettler",
+      "uom": "NULL",
+      "units": "°F",
+      "value": "380"
+    },
+    {
+      "property": "Bomb Oxidation Pressure drop at 100h",
+      "method": "ASTM D942",
+      "uom": "",
+      "units": "psi",
+      "value": "0.8 (5.5 kPa)"
+    },
+    {
+      "property": "Wheel Bearing Leakage",
+      "method": "ASTM D4290",
+      "uom": "@160°C",
+      "units": "gm",
+      "value": "1.1"
+    },
+    {
+      "property": "4 Ball Wear Scar, 1 hr / 1200 rpm / 40 kg",
+      "method": "ASTM D2266",
+      "uom": "@75°C",
+      "units": "",
+      "value": "0.6"
+    },
+    {
+      "property": "Oil Separation, 24 hrs",
+      "method": "FTM-321",
+      "uom": "@100°C",
+      "units": "%",
+      "value": "0.6"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

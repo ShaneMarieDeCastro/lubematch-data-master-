@@ -1,0 +1,197 @@
+{
+  "id": "001D7987",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Vacuum Pump Oil S2 R 100",
+  "description": "Special Application Rotary Vacuum Pump Oil",
+  "family": "Vacuum Pump",
+  "parentCategory": "Kompressor und Vakuumpumpe",
+  "category": "Kompressor und Vakuumpumpe",
+  "applicationKeys": [
+    "entrapment",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "momentum transfer",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ca260eb0-1495-4f98-a4dc-44b303ec21e6.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S2 R 100 EN TDG V2.4 07-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586666.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 Germany DE 140001492039 EHS V1.8 02-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/42facaa0-b8d3-43c8-9a50-f9710d5b1682.pdf",
+      "type": "LTDS",
+      "name": "Vacuum Pump Oil S2 R 100 Germany DE TDG V2.4 16-Dec-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586665.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S2 R 100 Germany EN 140001492039 EHS V1.8 02-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7987_002VNA_A246",
+      "name": "Eimer 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550026397",
+      "margin": "2.36855967390575",
+      "packShot": ""
+    },
+    {
+      "code": "001D7987_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027223",
+      "margin": "1.91970387082978",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DVC",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DVC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S2 R basiert auf ausgewählten hoch raffinierten Mineralölen. Diese haben einen sehr niedrigen Dampfdruck und bieten eine sehr gute Leistung in Sperr- und Drehschieber-Vakuumpumpen.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse ",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "108"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "11,8"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D1298",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "882"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "265"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–9"
+    },
+    {
+      "property": "Neutralisationszahl",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "<0,04"
+    },
+    {
+      "property": "Sulfatasche",
+      "method": "DIN 51575",
+      "uom": "",
+      "units": "%",
+      "value": "<0,01"
+    },
+    {
+      "property": "Koksrückstand nach Conradson ",
+      "method": "DIN 51551",
+      "uom": "",
+      "units": "%m",
+      "value": "0,05"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur, Isoteniskop",
+      "method": "ASTM D2879",
+      "uom": "@0 °C",
+      "units": "mbar",
+      "value": "8,04E–06"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur, Isoteniskop",
+      "method": "ASTM D2879",
+      "uom": "@25 °C",
+      "units": "mbar",
+      "value": "5,33E–05"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur, Isoteniskop",
+      "method": "ASTM D2879",
+      "uom": "@50 °C",
+      "units": "mbar",
+      "value": "4,67E–04"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur, Isoteniskop",
+      "method": "ASTM D2879",
+      "uom": "@100 °C",
+      "units": "mbar",
+      "value": "8,40E–03"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur, Isoteniskop",
+      "method": "ASTM D2879",
+      "uom": "@150 °C",
+      "units": "mbar",
+      "value": "0,11"
+    },
+    {
+      "property": "Dampfdruck in Relation zur Temperatur, Isoteniskop",
+      "method": "ASTM D2879",
+      "uom": "@200 °C",
+      "units": "mbar",
+      "value": "0,53"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

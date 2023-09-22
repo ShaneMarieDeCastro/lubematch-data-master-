@@ -1,0 +1,56 @@
+{
+  "id": "001B1136",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil GT Performance Racing 25W-50",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "25W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140003211539_20090625220_8.pdf",
+      "type": "GTDS",
+      "name": "Pzl GT Performance Racing 25W-50 (SJ) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290485.PDF",
+      "type": "LMSDS",
+      "name": "Pzl GT Performance Racing 25W-50 (SJ) Canada FR 140006579500 EHS V2.5 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290488.PDF",
+      "type": "LMSDS",
+      "name": "Pzl GT Performance Racing 25W-50 (SJ) Canada EN 140006579500 EHS V2.5 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

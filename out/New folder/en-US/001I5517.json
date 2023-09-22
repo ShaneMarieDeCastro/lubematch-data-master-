@@ -1,0 +1,71 @@
+{
+  "id": "001I5517",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Water-Glycol S2 CX 46",
+  "description": "Water Glycol Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/93e22374-ecf8-422f-a54f-1313d2395ec6.pdf",
+      "type": "GTDS",
+      "name": "Water-Glycol S2 CX 46 EN TDG V1.7 16-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564040.PDF",
+      "type": "LMSDS",
+      "name": "Water-Glycol S2 CX 46 United States EN 140002686046 EHS V1.1 03-OCT-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/a2746921-f421-4705-b0ca-a8f1f49e05f4.pdf",
+      "type": "LTDS",
+      "name": "Water-Glycol S2 CX 46 United States EN TDG V1.7 16-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5517_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550058347",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5517_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057092",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

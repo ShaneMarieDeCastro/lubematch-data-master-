@@ -1,0 +1,155 @@
+{
+  "id": "001D8551",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S5 T100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "advanced",
+    "ball",
+    "bearing",
+    "bio gas",
+    "engine",
+    "extreme temperatures",
+    "gearbox",
+    "high temperature",
+    "industrial",
+    "industrial bearings",
+    "light load",
+    "long life",
+    "multipurpose",
+    "natural gas",
+    "polyurea",
+    "stationary",
+    "water resistance",
+    "water washout resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a9fef1c5-1580-411f-b33a-543a67959cea.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 T100 2 EN TDG V1.2 24-Oct-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/f345609e-a29d-4379-b087-9485080e9d02.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 T100 2 Germany DE TDG V1.2 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545647.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 T100 2 Germany EN 140001492039 EHS V4.4 29-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545646.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 T100 2 Germany DE 140001492039 EHS V4.4 29-MAR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8551_002VH1_A246",
+      "name": "Fass 170 kg O/H Grease R/Y (1)",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028108",
+      "margin": "4.19309803083831",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Das synthetische Grundöl in Kombination mit dem Polyharnstoffeindicker ermöglicht eine lange Nutzungsdauer, geringen Verschleiß und hohe Scherstabilität bei hohen Temperaturen.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Klasse",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Hellbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Polyharnstoff"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Synthetisch"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71/ASTM D445",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71/ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "14"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50/ASTM D217",
+      "uom": "@25 °C",
+      "units": "0,1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "FAG FE-9 Test L50 Std.",
+      "method": "",
+      "uom": "@180 °C",
+      "units": "Stunden mind.",
+      "value": "100"
+    },
+    {
+      "property": "Pumpbarkeit in langen Leitungen",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Gut"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_t100.png",
+  "valueRecord": [],
+  "commerce": null
+}

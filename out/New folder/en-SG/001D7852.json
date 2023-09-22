@@ -1,0 +1,242 @@
+{
+  "id": "001D7852",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Omala S4 GX 320",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "enclosed gear",
+    "engine",
+    "ep",
+    "extra long life",
+    "extreme performance",
+    "extreme pressure",
+    "final drive",
+    "fuel",
+    "gearbox",
+    "gears",
+    "gerotor pump",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "journal",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "manual sequential",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "pao",
+    "plain",
+    "pump gear",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "roller spherical",
+    "roller tapered",
+    "rollers",
+    "rotary vane",
+    "semi manual",
+    "servo",
+    "slew",
+    "splash lubricated bearings",
+    "swing drive",
+    "system efficiency",
+    "tandem drive",
+    "thrust",
+    "transfer case",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "water",
+    "wide temperature range",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dfe02856-f595-45b7-8154-b54499b45f6c.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GX 320 EN TDG V5.6 21-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579583.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GX 320 Singapore EN 140001435547 EHS V2.2 01-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7852_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024914",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7852_002VNF_A227",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550024834",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7852_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005723",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "David Brown S1.53.106",
+      "organisation": "David Brown",
+      "spec": "S1.53.106"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GX is an advanced synthetic heavy duty industrial gear oil offering outstanding lubrication performance under severe operating conditions, including reduced friction, long service life and high resistance to micro-pitting for optimal gear protection.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104 ",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "335"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104 ",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "40"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "159"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "252"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "883"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "DIN 51354-2",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "-"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/8,3/90",
+      "uom": "",
+      "units": "failure load stage",
+      "value": ">14"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/16,6/90",
+      "uom": "NULL",
+      "units": "failure load stage",
+      "value": ">14"
+    },
+    {
+      "property": "Timken OK Load",
+      "method": "ASTM D2782",
+      "uom": "",
+      "units": "lbs",
+      "value": ">85"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_gx.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000InO5QAK&field=Attachment__Name__s",
+      "family": "Omala",
+      "savings": 39000,
+      "title": "Shell Omala S4 GX 320"
+    }
+  ],
+  "commerce": null
+}

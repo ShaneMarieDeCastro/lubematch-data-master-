@@ -1,0 +1,164 @@
+{
+  "id": "001A0046",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "AeroShell Fluid 2XN",
+  "description": "Corrosion inhibited mineral oil for aircraft engine preservation",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b2dd92b-a66d-4d75-b777-f9850980eacc.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 2XN EN TDG V1.3 07-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549491.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 2XN Ireland EN 140009424789 EHS V1.8 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0046_002XJP_A1P5",
+      "name": "Pail 5 Gal Tight head Metal Shell Red (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550043776",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AIR 1503/B Type B Concentrate",
+      "organisation": "AIR",
+      "spec": "1503/B Type B Concentrate"
+    },
+    {
+      "name": "MIL-C-6529C Type I",
+      "organisation": "MIL",
+      "spec": "C-6529C Type I"
+    },
+    {
+      "name": "Joint Service Designation ZX-21",
+      "organisation": "Joint Service Designation",
+      "spec": "ZX-21"
+    },
+    {
+      "name": "DTD.900",
+      "organisation": "DTD",
+      "spec": "900"
+    },
+    {
+      "name": "DTD.4913A",
+      "organisation": "DTD",
+      "spec": "4913A"
+    },
+    {
+      "name": "NATO C-608",
+      "organisation": "NATO",
+      "spec": "C-608"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 2XN is a corrosion preventative concentrate from which AeroShell Fluid 2F was blended; the blending proportions are one part AeroShell Fluid 2XN to three parts AeroShell Oil 100.  In general, operators should obtain supplies blended ready for use in engines, unless the use of the concentrate is specified.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@37.8°C",
+      "units": "mm²/s",
+      "value": "254"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@98.9°C",
+      "units": "mm²/s",
+      "value": "20.0"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "254"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-17"
+    },
+    {
+      "property": "Relative Density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "0.9"
+    },
+    {
+      "property": "Carbon residue",
+      "method": "Cleveland Open Cup",
+      "uom": "NULL",
+      "units": "%m",
+      "value": "0.5"
+    },
+    {
+      "property": "Ash",
+      "method": "Cleveland Open Cup",
+      "uom": "NULL",
+      "units": "%m",
+      "value": "0.01"
+    },
+    {
+      "property": "Lead corrosion, 4 hrs",
+      "method": "NULL",
+      "uom": "@149°C",
+      "units": "mg/in2",
+      "value": "35"
+    },
+    {
+      "property": "Copper corrosion, 3 hrs",
+      "method": "",
+      "uom": "@100°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Rust protection (humidity cabinet)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

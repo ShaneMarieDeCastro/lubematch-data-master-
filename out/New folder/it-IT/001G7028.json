@@ -1,0 +1,67 @@
+{
+  "id": "001G7028",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Hydraulic S1 V 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Fluidi idraulici",
+  "category": "Fluidi idraulici",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/eed8dfc3-f5e4-40fc-8ab8-0d3af86f9c0a.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 V 68 EN TDG V1.3 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/16d0c477-8f1f-4667-a79f-514983abbc11.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 V 68 Italy IT TDG V1.3 11-Oct-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447373.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 68 Italy IT 140007645406 EHS V1.2 21-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447375.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 68 Italy EN 140007645406 EHS V1.2 21-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 V 68 è un fluido idraulico antiusura di qualità che assicura una protezione affidabile e prestazioni con un rapporto prezzo/qualità conveniente nella maggioranza delle applicazioni industriali e mobili.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,77 @@
+{
+  "id": "001H0236",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Mysella S6 N 40",
+  "description": "Premium, Long Life, Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Aceites de motor industriales",
+  "category": "Aceites del motor - Motor estacionario de gas",
+  "applicationKeys": [
+    "automatic",
+    "bio gas",
+    "engine",
+    "gas",
+    "landfill",
+    "low ash",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6961a376-8b32-40b6-b922-63e8593cc5be.pdf",
+      "type": "GTDS",
+      "name": "Mysella S6 N 40 EN TDG V2.4 16-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02452234.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 Spain EN 140003966322 EHS V1.2 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/bbef1e98-4232-4050-b772-7cbdaadfcc12.pdf",
+      "type": "LTDS",
+      "name": "Mysella S6 N 40 Spain ES TDG V2.4 19-Dec-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02454375.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 Spain ES 140003966322 EHS V1.2 21-SEP-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0236_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550050635",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S6 N es un aceite de muy alto rendimiento diseñado para su uso en motores estacionarios de 4 tiempos, especialmente aquellos con pistones de acero. Gracias a la más avanzada y específica tecnología, garantiza una excelente limpieza del motor con intervalos de cambio prolongados.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

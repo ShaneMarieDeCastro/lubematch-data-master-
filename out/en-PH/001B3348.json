@@ -1,0 +1,91 @@
+{
+  "id": "001B3348",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Irus Fluid C",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Irus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "brakes",
+    "fire resistance",
+    "fixed",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "steam",
+    "turbine",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Irus_C_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Irus C English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02356341.PDF",
+      "type": "LMSDS",
+      "name": "Irus C (2005) Philippines EN 140001435525 EHS V2.2 02-JUL-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/978375eb-de68-4f94-9f0d-d19377596021.pdf",
+      "type": "LTDS",
+      "name": "Irus C (2005) Philippines EN TDG V2.1 03-Jun-2014",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B3348_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550033103",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12922 HFC",
+      "organisation": "ISO",
+      "spec": "12922 HFC"
+    },
+    {
+      "name": "DIN 51502 HFC",
+      "organisation": "DIN",
+      "spec": "51502 HFC"
+    },
+    {
+      "name": "ISO 6743-4 L-HFC",
+      "organisation": "ISO",
+      "spec": "6743-4 L-HFC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Irus Fluid C is an advanced water-glycol fire resistant hydraulic fluid containing powerful additives to enhance its anti-wear, anti-corrosion and anti-oxidation properties. The water content is approximately 40% by weight.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

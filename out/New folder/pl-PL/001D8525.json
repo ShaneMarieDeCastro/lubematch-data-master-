@@ -1,0 +1,93 @@
+{
+  "id": "001D8525",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S5 V42P 2.5",
+  "description": "Advanced Extreme Pressure Grease for High Speed Bearings",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Syntetyczne smary bez dodatków EP",
+  "applicationKeys": [
+    "advanced",
+    "bearings",
+    "electric motor bearings",
+    "electric motors",
+    "fan bearings",
+    "heavy load",
+    "high load",
+    "high pressure",
+    "high speed",
+    "high speed bearings",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "long life",
+    "machine tool bearings",
+    "plain bearings",
+    "roller bearings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008147434_201407310513.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V42P 2.5 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545774.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V42P 2.5 Poland EN 140003791557 EHS V2.10 30-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545775.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V42P 2.5 Poland PL 140003791557 EHS V3.10 30-MAR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/4db6de00-489d-44a7-b734-d58e35e4b5b4.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V42P 2.5 Poland PL TDG V3.1 26-Sep-2019",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8525_002VT7_EURO",
+      "name": "Tuba 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550053537",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8525_002XEC_A246",
+      "name": "Wiadro 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028104",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

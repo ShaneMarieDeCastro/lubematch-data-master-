@@ -1,0 +1,185 @@
+{
+  "id": "001F4541",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Rimula R6 M 10W-40",
+  "description": "Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "aviation",
+    "biodiesel",
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "hydrostatic",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "multi fuel",
+    "off highway",
+    "on highway",
+    "piston engine",
+    "stationary",
+    "tractor drivetrain",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e53eac5e-369e-49f5-8cc0-b2fe21e0d7c5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) EN TDG V4.5 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/ac72f8fe-0e98-4c40-94e8-9b37318bfce0.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) Turkey TR TDG V4.5 09-Dec-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597761.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) Turkey EN 140003791542 EHS V1.6 16-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02597822.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 M 10W-40 (CI-4) Turkey TR 140003791542 EHS V1.6 16-JUN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4541_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550044855",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4541_002WX1_EURO",
+      "name": "Şişe 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550054435",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4541_002VNF_A246",
+      "name": "Kova 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550044843",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4541_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550044826",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Iveco T3 E4 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T3 E4 - Meets the requirements"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "MAN M 3377",
+      "organisation": "MAN",
+      "spec": "M 3377"
+    },
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    },
+    {
+      "name": "MB-Approval 228.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.5"
+    },
+    {
+      "name": "JASO DH-1",
+      "organisation": "JASO",
+      "spec": "DH-1"
+    },
+    {
+      "name": "ACEA E4",
+      "organisation": "ACEA",
+      "spec": "E4"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "MTU Category 3",
+      "organisation": "MTU",
+      "spec": "Category 3"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Renault RLD-2",
+      "organisation": "Renault",
+      "spec": "RLD-2"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Deutz DQC IV-10",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 M tam sentetik motor yağları,  uzun yağ değişim aralıkları ile bakım maliyetlerini düşürür, motoru aşınmaya, kurum ve depozit oluşumuna karşı korur ve yakıt ekonomisi sağlar.Shell Rimula R6 M birçok üreticinin dizel partikül filtresi (DPF) olmayan Euro 5 ve Euro 4 motorlarında kullanıma uygundur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R6-M-10_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

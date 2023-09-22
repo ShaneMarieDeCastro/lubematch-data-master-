@@ -1,0 +1,83 @@
+{
+  "id": "001D8397",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Refrigeration Oil S4 FR-V 100",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Kältemaschinenöle",
+  "applicationKeys": [
+    "alkylated benzenes",
+    "cfc",
+    "commercial",
+    "domestic",
+    "hcfc",
+    "hermetic compressor",
+    "high solvency",
+    "industrial",
+    "long life",
+    "open compressor",
+    "r12",
+    "r22",
+    "r290",
+    "r717",
+    "r744",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/94e7ec21-bb15-4f2b-87d1-68e57468a7d3.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-V 100 EN TDG V2.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02324557.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 100 Germany German",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Germany_GPCDOC_Local_TDS_Germany_TDS_Refrigeration_Oil_S4_FR-V-Neu.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-V 100 Germany German",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02324558.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-V 100 Germany English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KC",
+      "organisation": "DIN",
+      "spec": "51503 KC"
+    },
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-V is a synthetic refrigeration lubricant based on alkylated benzenes. It offers a universal solution to the lubrication requirements of most refrigeration compressors and is compatible with all commonly used refrigerants with the exception of HFCs.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

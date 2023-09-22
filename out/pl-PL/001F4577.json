@@ -1,0 +1,96 @@
+{
+  "id": "001F4577",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Morlina S2 BA 150",
+  "description": "Special Application Bearing & Circulating Oil",
+  "family": "Morlina",
+  "parentCategory": "Oleje obiegowe i łożyskowe",
+  "category": "Oleje łożyskowe i obiegowe",
+  "applicationKeys": [
+    "bearing",
+    "bearing and circulating",
+    "enclosed gear",
+    "fzg",
+    "fzg 12",
+    "industrial",
+    "low load",
+    "morgan notwist systems",
+    "rod mill",
+    "water separation"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ae827ee2-d7ea-4067-9e7b-4a71dca6ca9c.pdf",
+      "type": "GTDS",
+      "name": "Morlina S2 BA 150 (2014) EN TDG V2.7 10-Aug-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02461077.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BA 150 (2014) Poland PL 140003791557 EHS V1.2 14-OCT-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02461078.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S2 BA 150 (2014) Poland EN 140003791557 EHS V1.2 14-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/bec1f72e-a118-4ca2-919b-d6ec66e3d5a9.pdf",
+      "type": "LTDS",
+      "name": "Morlina S2 BA 150 (2014) Poland PL TDG V2.7 26-Apr-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "Morgan MMC40009",
+      "organisation": "Morgan",
+      "spec": "MMC40009"
+    },
+    {
+      "name": "ISO 12925-1 CKB",
+      "organisation": "ISO",
+      "spec": "12925-1 CKB"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "DIN 51517-2 CL",
+      "organisation": "DIN",
+      "spec": "51517-2 CL"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Oleje Shell Morlina S2 BA to wysokowydajne oleje zapewniające doskonałe smarowanie i ochronę łożyskom przemysłowym i układom obiegowym w wymagających zastosowaniach takich jak np.  w hutach i  w walcarkach No-Twist ^ ®^ . Morlina S2 BA spełnia wymagania producentów urządzeń, takich jak Morgan i Danieli.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

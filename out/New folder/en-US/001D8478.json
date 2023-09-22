@@ -1,0 +1,71 @@
+{
+  "id": "001D8478",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S1 OG 1600",
+  "description": "Open Gear and Wire Rope Fluid",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Hvy Oils/Cmpds (not soap/clay thick'd)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "1600",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S1_OG_1600_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 OG 1600 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562401.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 OG 1600 United States EN 140002686046 EHS V3.0 08-NOV-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_States_Shell_Gadus_S1_OG_1600_(en-US)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 OG 1600 United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8478_002XD7_A1WJ",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550026782",
+      "margin": "3.69387860735993",
+      "packShot": ""
+    },
+    {
+      "code": "001D8478_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550026781",
+      "margin": "3.26636501090236",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S1 OG 1600 is a blend of bitumen, highly refined mineral oils, selected EP additives and high flash point, non-chlorinated, volatile aliphatic diluent ensuring fluidity during application, even at low temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

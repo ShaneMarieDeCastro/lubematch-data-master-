@@ -1,0 +1,112 @@
+{
+  "id": "001F8879",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T5 Ultra 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "off highway",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/02bdeb34-71bc-4300-9a79-3f4febdd096f.pdf",
+      "type": "GTDS",
+      "name": "Rotella T5 Ultra 10W-30 (FA-4) EN TDG V2.6 04-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/49268d7c-ad52-4d8e-ba86-361b24a09ad9.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 Ultra 10W-30 (FA-4) United States EN TDG V2.6 04-Feb-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562277.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 Ultra 10W-30 (FA-4) United States EN 140002686046 EHS V1.2 01-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8879_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550046249",
+      "margin": "2.16702025539587",
+      "packShot": ""
+    },
+    {
+      "code": "001F8879_002X5J_A0II",
+      "name": "Bottle 1 Gal Local (Hybrid) Plastic HDPE Rimula Grey (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550046254",
+      "margin": "1.9123475489463",
+      "packShot": ""
+    },
+    {
+      "code": "001F8879_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010121",
+      "margin": "2.53512245824875",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 228.61",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.61"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K223",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K223"
+    },
+    {
+      "name": "Cummins CES 20087",
+      "organisation": "Cummins",
+      "spec": "CES 20087"
+    },
+    {
+      "name": "API FA-4",
+      "organisation": "API",
+      "spec": "FA-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^®^ T5 Ultra heavy duty engine oil (FA-4) with Triple Protection Plus^™^ technology has been enhanced with synthetic base oils plus advanced additive technology to provide protection against wear, deposits and oil breakdown, PLUS improved fuel economy performance and resistance to breakdown under high temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

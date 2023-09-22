@@ -1,0 +1,61 @@
+{
+  "id": "001M1743",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Quaker State Defy High Mileage 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e33618aa-a7cc-4b10-abed-a08b7d56c596.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Defy High Mileage 10W-30 Motor Oil (CAN) EN TDG V1.0 06-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02462671.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Defy High Mileage 10W-30 Motor Oil (CAN) Canada EN 140006579500 EHS V1.0 14-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02462628.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Defy High Mileage 10W-30 Motor Oil (CAN) Canada FR 140006579500 EHS V1.0 14-OCT-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001M1743_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500015206",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "^*^Compared ^to ^industry ^standard ^Sequence ^IVA",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

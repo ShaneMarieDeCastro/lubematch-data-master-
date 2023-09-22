@@ -1,0 +1,112 @@
+{
+  "id": "001F2315",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Ultra Platinum SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/03e0e038-d65f-4b92-ab8a-9da8e9b4cd1e.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Ultra Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A) EN TDG V2.3 12-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/aa857a5a-fd96-4c02-a4da-6bfb455b1f56.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Ultra Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A) United States EN TDG V2.3 12-Apr-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563334.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Ultra Platinum 0W-20 Full Synthetic Motor Oil (SP/GF-6A) United States EN 140002686046 EHS V1.6 04-NOV-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2315_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550045193",
+      "margin": "1.9990466192717",
+      "packShot": ""
+    },
+    {
+      "code": "001F2315_002X4U_A0II",
+      "name": "Bottle 1 qt Pennzoil Plastic Helix Grey (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550039860",
+      "margin": "3.76391099800413",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "Ford WSS-M2C947-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C947-A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Ultra Platinum™ with PurePlus™ Technology is a first of its kind full synthetic motor oil made from natural gas and designed for COMPLETE PROTECTION and is race trusted.  Formulated for modern turbocharged engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

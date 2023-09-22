@@ -1,0 +1,73 @@
+{
+  "id": "001D9606",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell DCT-M1",
+  "description": "MB Double clutch fluid factory fill fluid",
+  "family": "Daimler FFO",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Fluidi per trasmissioni automatiche",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139848_201407240915.pdf",
+      "type": "GTDS",
+      "name": "Shell DCT-M1 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02491282.PDF",
+      "type": "LMSDS",
+      "name": "Shell DCT-M1 Italy IT 140007645406 EHS V1.4 30-NOV-2022",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/f52d25dc-4c82-48b9-91aa-c6d4370bd7fe.pdf",
+      "type": "LTDS",
+      "name": "Shell DCT-M1 Italy IT TDG V1.1 02-Apr-2019",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02491655.PDF",
+      "type": "LMSDS",
+      "name": "Shell DCT-M1 Italy EN 140007645406 EHS V1.4 30-NOV-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D9606_002VSH_A18H",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550025517",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.21",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.21"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell DCT-M1 unisce un'avanzata tecnologia di additivazione ed un'elevata stabilità al taglio con un'eccellente stabilità dell'attrito della frizione in bagno d'olio.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

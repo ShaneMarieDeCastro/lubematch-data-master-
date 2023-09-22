@@ -1,0 +1,191 @@
+{
+  "id": "001D8451",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Gadus S2 V220 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "ball",
+    "bearing",
+    "ep",
+    "extreme pressure",
+    "gearbox",
+    "heavy duty",
+    "high performance",
+    "hinges",
+    "industrial",
+    "journal",
+    "lithium",
+    "lithium based",
+    "marine",
+    "multipurpose",
+    "plain",
+    "plain bearings",
+    "roller bearings",
+    "roller cylindrical",
+    "rollers",
+    "shock load",
+    "slew",
+    "sliding surfaces",
+    "swing drive",
+    "thrust",
+    "transmissions",
+    "trucks",
+    "versatile",
+    "water resistance",
+    "water washout",
+    "wet conditions",
+    "wheel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/61c79668-557a-4237-a6bd-8517542f49c5.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220 2 EN TDG V3.5 07-Feb-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290227.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 2 Canada FR 140006579500 EHS V3.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290228.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 2 Canada EN 140006579500 EHS V3.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/1065b667-cd20-4be4-b36d-33d046f83e55.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220 2 Canada FR TDG V3.5 28-Feb-2018",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/03587d5a-6b12-4a81-8d36-e124c1952bd4.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220 2 Canada EN TDG V3.5 07-Feb-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8451_002VKN_A1WJ",
+      "name": "Keg 50 kg O/H Steel + Liner Shell Red, Shell Yellow(1) WL",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550026815",
+      "margin": "0.74168686052212",
+      "packShot": ""
+    },
+    {
+      "code": "001D8451_002XD7_A1WJ",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550026820",
+      "margin": "0.774486192333103",
+      "packShot": ""
+    },
+    {
+      "code": "001D8451_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550029714",
+      "margin": "1.36624306337333",
+      "packShot": ""
+    },
+    {
+      "code": "001D8451_002XL3_A1WJ",
+      "name": "Cartridges 0.4 kg Local (Fiber Grease) Composite Multi-coloured (10)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridges",
+      "materialCode": "550027631",
+      "margin": "2.42494938700483",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220 greases are designed for multipurpose grease lubrication of rolling element and plain bearings as well as hinges and sliding surfaces such as those found in throughout most industrial and transport sectors.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg",
+      "value": "315"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

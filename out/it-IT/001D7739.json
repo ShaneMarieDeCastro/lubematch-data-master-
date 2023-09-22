@@ -1,0 +1,163 @@
+{
+  "id": "001D7739",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Hydraulic S1 M 32",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Fluidi idraulici",
+  "category": "Fluidi idraulici",
+  "applicationKeys": [
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "marine",
+    "marine reversing gears",
+    "mobile",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "variable"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5bcc047c-902f-40df-b8e7-225c9d57f23f.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 M 32 EN TDG V3.6 27-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/111384e2-d847-48f4-a1de-a9cdc793b532.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 M 32 Italy IT TDG V3.6 06-Dec-2019",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570091.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 32 Italy EN 140007645406 EHS V1.10 30-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570093.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 M 32 Italy IT 140007645406 EHS V1.10 01-MAY-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7739_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550027150",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7739_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550027152",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 M 32/46/68 sono fluidi idraulici antiusura di qualità che assicurano una protezione affidabile e prestazioni con un rapporto prezzo/qualità  conveniente nella maggioranza delle applicazioni industriali  e mobili. ",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "5.3"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "96"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.869"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

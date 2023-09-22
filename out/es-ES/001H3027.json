@@ -1,0 +1,94 @@
+{
+  "id": "001H3027",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Helix Ultra Professional AR-L RN17 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/41f4e36e-986a-4aa3-9ead-20a8b5282e9d.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) EN TDG V1.4 19-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561519.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Spain EN 140003966322 EHS V1.4 27-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/3d4126fe-e9c2-4f19-aca1-b0c142d6a0c2.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Spain ES TDG V1.4 20-May-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561518.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L RN17 5W-30 (RN17) Spain ES 140003966322 EHS V1.4 27-APR-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H3027_002XS4_A246",
+      "name": "Bidones 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidones",
+      "materialCode": "550051434",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H3027_002WX1_EURO",
+      "name": "Botella 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550051433",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "MB-Approval 226.52",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.52"
+    },
+    {
+      "name": "Renault RN 17",
+      "organisation": "Renault",
+      "spec": "RN 17"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Diseñado para cumplir los requerimientos más exigentes de los motores de alto rendimiento de Renault",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

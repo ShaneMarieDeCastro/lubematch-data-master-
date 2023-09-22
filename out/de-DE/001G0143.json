@@ -1,0 +1,87 @@
+{
+  "id": "001G0143",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "AeroShell Oil W 15W-50",
+  "description": "Semi-synthetic lubricating oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "Aviation Schmierstoffe ",
+  "category": "Motoröle - Aviation/Kolben",
+  "applicationKeys": [
+    "ashless"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f2bece04-2823-4497-90bf-3f58facde57d.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 15W-50 (10-2015) EN TDG V1.5 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636590.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 15W-50 (10-2015) Germany DE 140001492039 EHS V1.6 25-AUG-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636589.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 15W-50 (10-2015) Germany EN 140001492039 EHS V1.6 25-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0143_002XOH_AEP2",
+      "name": "Flasche 1 qt Americas Tool Plastic Shell Red Reformulated (6)",
+      "size": "1",
+      "uom": "Quart",
+      "pack": "Flasche",
+      "materialCode": "550051193",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "MHS 24A",
+      "organisation": "MHS",
+      "spec": "24A"
+    },
+    {
+      "name": "NATO O-162",
+      "organisation": "NATO",
+      "spec": "O-162"
+    },
+    {
+      "name": "Joint Service Designation OMD-162",
+      "organisation": "Joint Service Designation",
+      "spec": "OMD-162"
+    },
+    {
+      "name": "Continental SIL 99-2",
+      "organisation": "Continental",
+      "spec": "SIL 99-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Oil W 15W-50 provides superior anti-corrosion protection for all types of certified aircraft piston engines. When used with proper maintenance procedures, the product provides maximum protection and\r\nimproves the likelihood that aircraft engines will reach TBO. In addition, this product provides outstanding high temperature oxidation protection for hot running engines. It is designed to keep engines cleaner with less sludge and varnish build-up in critical ring belt and other areas.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

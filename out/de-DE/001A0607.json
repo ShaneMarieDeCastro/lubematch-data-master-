@@ -1,0 +1,145 @@
+{
+  "id": "001A0607",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax MA 80W",
+  "description": "High quality heavy duty gearbox oil",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "manual",
+    "manual unsynchronised",
+    "non shiftable",
+    "off highway",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/826df998-8c45-4fff-8ffd-925caf860dea.pdf",
+      "type": "GTDS",
+      "name": "Spirax MA 80W EN TDG V1.4 04-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550769.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MA 80W Germany DE 140001492039 EHS V3.6 11-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/c6ad00cf-59ee-4c9c-b3b3-bc1122a6e5e4.pdf",
+      "type": "LTDS",
+      "name": "Spirax MA 80W Germany DE TDG V1.4 17-Nov-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550768.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MA 80W Germany EN 140001492039 EHS V3.6 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MAN 341 Type Z1",
+      "organisation": "MAN",
+      "spec": "341 Type Z1"
+    },
+    {
+      "name": "MAN 341 Type E1",
+      "organisation": "MAN",
+      "spec": "341 Type E1"
+    },
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    },
+    {
+      "name": "MB-Approval 235.1",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.1"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax MA 80W ist ein Schmieröl für Schaltgetriebe, kombiniert mit multifunktionalen Additiven als Hochdruckzusatz. ",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "80W"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "87"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "9.9"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "92"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "893"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "200"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN DIN DIN ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-36"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

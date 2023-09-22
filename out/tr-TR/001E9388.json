@@ -1,0 +1,73 @@
+{
+  "id": "001E9388",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra Professional AF-L 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f6269cd7-71db-42dc-b264-d88a1f9b3f57.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) EN TDG V1.1 11-Oct-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/bd48a3c5-8357-46e3-a9ed-813efa52eeef.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Turkey TR TDG V1.1 19-Dec-2016",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02516180.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Turkey TR 140003791542 EHS V2.4 15-JAN-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02516181.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AF-L 5W-30 (C1 M2C-934B) Turkey EN 140003791542 EHS V2.4 15-JAN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA C1",
+      "organisation": "ACEA",
+      "spec": "C1"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5005",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5005"
+    },
+    {
+      "name": "Ford WSS-M2C934-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C934-B"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ford, Jaguar, Mazda ve ACEA C1 sınıfı motor yağı talep edilen diğer yüksek performans araçlarının gereksinimlerini karşılamak üzere tasarlanmıştır.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AF-L_5L_600058637.png",
+  "valueRecord": [],
+  "commerce": null
+}

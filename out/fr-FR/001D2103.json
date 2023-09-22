@@ -1,0 +1,93 @@
+{
+  "id": "001D2103",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix Ultra AT-L 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "cars",
+    "fiat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_AT-L_5W-40_(SM_CF_C3_Fiat)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra AT-L 5W-40 (SM/CF A3/B4 Fiat) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564334.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AT-L 5W-40 (SM/CF A3/B4 Fiat) France EN 140003182031 EHS V2.2 28-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140003370407_200911220738.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra AT-L 5W-40 (SM/CF A3/B4 Fiat) France French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564333.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AT-L 5W-40 (SM/CF A3/B4 Fiat) France FR 140003182031 EHS V2.2 28-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "Fiat 9.55535-S2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S2 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "It contains Shell’s ultimate active cleansing technology to continuously prevent dirt and sludge build-up, thereby maximising engine performance right up to the next oil change.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

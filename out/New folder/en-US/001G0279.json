@@ -1,0 +1,117 @@
+{
+  "id": "001G0279",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil high Mileage 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8a4795df-b4cf-478a-8880-c0fcefab50d2.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SN) EN TDG V1.3 12-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563932.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SN) United States EN 140002686046 EHS V1.2 03-FEB-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/1e8b7b03-ced0-4961-9b40-24bde99b5f4d.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil High Mileage 5W-30 Motor Oil (SN) United States EN TDG V1.3 22-Jul-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0279_002XLF_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550045218",
+      "margin": "1.51513622954505",
+      "packShot": ""
+    },
+    {
+      "code": "001G0279_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550048238",
+      "margin": "1.25570191967917",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C946-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C946-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Redesigned for modern turbocharged engines - API SN PLUS, API SN-Resource Conserving and all previous categories.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

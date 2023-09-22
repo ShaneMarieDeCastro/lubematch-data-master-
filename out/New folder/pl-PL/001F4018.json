@@ -1,0 +1,92 @@
+{
+  "id": "001F4018",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Advance 4T AX7 15W-50 (SM/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - motocyklowe",
+  "applicationKeys": [
+    "engine",
+    "four stroke",
+    "gasoline",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/76682f83-6097-4b7f-804f-72c0958bb4ae.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) EN TDG V1.6 22-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535103.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) Poland EN 140003791557 EHS V1.9 03-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/7279624f-f166-44c7-aeaa-31911526f9d3.pdf",
+      "type": "LTDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) Poland PL TDG V1.6 23-Oct-2018",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02535104.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) Poland PL 140003791557 EHS V1.9 03-MAR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4018_002VNK_A246",
+      "name": "Wiadro 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "l",
+      "pack": "Wiadro",
+      "materialCode": "550044443",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4018_002W22_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550053817",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Olej Shell Advance 4T AX7 do czterosuwowych silników spełnia wymagania większości producentów motocykli.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Helix_Rimula_Advance_Packshot-Group_ref_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

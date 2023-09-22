@@ -1,0 +1,207 @@
+{
+  "id": "001D7787",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Corena S4 R 68",
+  "description": "Advanced Synthetic Rotary  Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Kompressor und Vakuumpumpe",
+  "category": "Kompressor und Vakuumpumpe",
+  "applicationKeys": [
+    "abb turbochargers",
+    "air compressor",
+    "axle",
+    "ball",
+    "bearing",
+    "diesel",
+    "engine",
+    "entrapment",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "high temperature",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "oil flooded",
+    "oil injected",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "rotary vane",
+    "screw",
+    "servo",
+    "severe conditions",
+    "sliding vane",
+    "stationary",
+    "steam",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1ea6512b-675e-4d2e-bfc6-ed10834f8e2c.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 R 68 EN TDG V2.6 21-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572683.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 68 Germany EN 140001492039 EHS V2.7 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572003.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 68 Germany DE 140001492039 EHS V2.7 04-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/7e6a5510-ff57-483d-a67d-52c7a8e17220.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 R 68 Germany DE TDG V2.6 21-Jun-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7787_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550026203",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7787_002VNF_A246",
+      "name": "Eimer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550026205",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 R ist ein synthetisches Kompressorenöl für höchste Leistungen in Drehschiebervakuum- und Schraubenluftkompressoren. Bedingt durch das einzigartige Additivsystem bietet es hervorragenden Schutz für Kompressoren mit Ölwechselintervallen von 10.000 Betriebsstunden bis zu 12.000 Betriebsstunden unter bestimmten Bedingungen. Shell Corena S4 R eignet sich hervorragend für die Schmierung von Lager- und Umlaufsystemen wenn ein synthetisches Schmieröl der ISO VG 32 - 68 benötigt wird.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viskositätsklasse ",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "10,2"
+    },
+    {
+      "property": "Viskositätsindex (VI)",
+      "method": "DIN ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "135"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D1298",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "848"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "248"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–45"
+    },
+    {
+      "property": "Luftabscheidevermögen",
+      "method": "ASTM D3427",
+      "uom": "",
+      "units": "Minuten",
+      "value": "4"
+    },
+    {
+      "property": "RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "Minuten mind.",
+      "value": "2100"
+    },
+    {
+      "property": "Demulgiervermögen",
+      "method": "ASTM D1401",
+      "uom": "@54 °C",
+      "units": "Minuten",
+      "value": "10"
+    },
+    {
+      "property": "FZG Test",
+      "method": "CEC-L-07-A-95",
+      "uom": "",
+      "units": "Schadenskraftst.",
+      "value": "12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_r.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DhsVQAS&field=Attachment__Name__s",
+      "family": "Corena",
+      "savings": 511000,
+      "title": "Shell Corena S4 R 68"
+    }
+  ],
+  "commerce": null
+}

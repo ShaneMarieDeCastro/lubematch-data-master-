@@ -1,0 +1,67 @@
+{
+  "id": "001D8382",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gas Compressor Oil S3 PSN 220",
+  "description": "Special Applications Natural/Sour Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "gas compressors",
+    "industrial",
+    "natural gas",
+    "propane",
+    "reciprocating",
+    "sour gas",
+    "wet air"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S3_PSN_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S3 PSN 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/96a6e3f5-7ee1-4183-9ced-efec3f441ba8.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S3 PSN 220 United States EN TDG V4.2 24-Dec-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562700.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PSN 220 United States EN 140002686046 EHS V2.1 24-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8382_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550026669",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor S3 PSN is a high quality blend designed for the total loss lubrication of cylinders of high pressure reciprocating compressors used in severe, wet and/or sour, natural gas service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

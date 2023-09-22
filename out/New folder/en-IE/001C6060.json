@@ -1,0 +1,66 @@
+{
+  "id": "001C6060",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "ATF 134",
+  "description": "Factory fill ATF for DC 7-speed automatic transmission",
+  "family": "Daimler FFO",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "automatic",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "pump gear",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_ATF_134_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "ATF 134 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559636.PDF",
+      "type": "LMSDS",
+      "name": "ATF 134 Ireland EN 140007731156 EHS V1.10 24-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C6060_002VSH_A18H",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550014293",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.14",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.14"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ATF 134 is a premium technology automatic transmission fluid for Mercedes-Benz 5- and 7-speed automatic transmissions and NAG2VSport transmissions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

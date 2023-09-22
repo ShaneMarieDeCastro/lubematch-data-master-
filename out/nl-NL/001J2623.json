@@ -1,0 +1,77 @@
+{
+  "id": "001J2623",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Spirax S6 ATF A668",
+  "description": "Premium Extended Drain Heavy Duty Automatic Transmission Fluid",
+  "family": "Spirax",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Automatische transmissie oliën",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c01fec74-219f-40b5-aeb4-9ade21d37c35.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF A668 EN TDG V1.3 09-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/2254816a-df22-4eb5-8ae7-af8a79aeaec3.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF A668 Netherlands NL TDG V1.2 28-Nov-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617948.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 Netherlands EN 140002783873 EHS V2.2 14-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02617944.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF A668 Netherlands NL 140002783873 EHS V2.2 14-JUL-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J2623_002VNF_A246",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550062790",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J2623_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550062791",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

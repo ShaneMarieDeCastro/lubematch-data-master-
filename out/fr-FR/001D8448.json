@@ -1,0 +1,176 @@
+{
+  "id": "001D8448",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S2 V220 0",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base d’huile minérale",
+  "applicationKeys": [
+    "automotive",
+    "axle",
+    "ball",
+    "bearing",
+    "centralised lubrication",
+    "enclosed gear",
+    "ep",
+    "extreme pressure",
+    "final drive",
+    "heavy duty",
+    "high performance",
+    "hinges",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "marine",
+    "multipurpose",
+    "off highway",
+    "plain",
+    "plain bearings",
+    "reduction gears",
+    "roller bearings",
+    "rollers",
+    "shock load",
+    "sliding surfaces",
+    "steel mill",
+    "thrust",
+    "transmissions",
+    "trucks",
+    "versatile",
+    "water resistance",
+    "water washout",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e8a8c914-e6d4-4947-853d-640922b900bc.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220 0 EN TDG V1.8 05-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/5a77b2f0-db66-4e03-a227-39806f1910b9.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220 0 France FR TDG V1.8 14-Jul-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621899.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 0 France EN 140003182031 EHS V3.5 21-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621898.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 0 France FR 140003182031 EHS V3.5 21-JUL-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8448_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550028012",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8448_002VSL_A246",
+      "name": "Tonneau 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550028011",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8448_002XD7_A246",
+      "name": "Sceau 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550028007",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220 sont des graisses destinées à la lubrification des roulements, des paliers, des pivots ... dans les applications industrielles et dans le secteur du transport. ",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "0"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "355-385"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "-"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg minimum",
+      "value": "250"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s2_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

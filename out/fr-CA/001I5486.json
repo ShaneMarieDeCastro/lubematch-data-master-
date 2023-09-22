@@ -1,0 +1,73 @@
+{
+  "id": "001I5486",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Corena S5 A 32",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/37539301-c617-47bd-951a-bcc560125d74.pdf",
+      "type": "GTDS",
+      "name": "Shell Corena S5 A 32 EN TDG V1.3 28-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/bab3c445-ae21-4b2c-ace7-2212f2fc03a4.pdf",
+      "type": "LTDS",
+      "name": "Shell Corena S5 A 32 Canada EN TDG V1.3 28-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290858.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena S5 A 32 Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290847.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena S5 A 32 Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/15abc07a-34d9-4a27-b9ef-b3bff3b8347e.pdf",
+      "type": "LTDS",
+      "name": "Shell Corena S5 A 32 Canada FR TDG V1.3 11-Dec-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5486_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057328",
+      "margin": "6.40083591034102",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Corena S5 A est un lubrifiant synthétique de qualité supérieure à longue durée de vie d'huile, basé sur la technologie polyalkylène glycol (PAG) et conçu pour les compresseurs d'air rotatifs à vis. Le produit permet des intervalles de vidange d'huile plus longs et aide à fonctionner plus proprement et efficacement dans des applications à température et pression plus élevées dans des opérations difficiles.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

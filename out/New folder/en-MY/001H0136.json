@@ -1,0 +1,143 @@
+{
+  "id": "001H0136",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix HX7 X 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/50000c14-32ee-4edd-a0f1-11788f2b18b6.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 X 5W-30 (SN PLUS A3/B4 MB229.3) EN TDG V1.0 30-May-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-MY/1b6096cb-658d-4bfc-abc0-2e1081989a2e.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 X 5W-30 (SN PLUS A3/B4 MB229.3) Malaysia EN TDG V1.0 11-Mar-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554101.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 X 5W-30 (SN PLUS A3/B4 MB229.3) Malaysia EN 140001435555 EHS V1.1 14-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02554102.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 X 5W-30 (SN PLUS A3/B4 MB229.3) Malaysia MS 140001435555 EHS V1.1 14-APR-2023",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0136_002W2M_A04U",
+      "name": "Bottle 4 L Wishbone Plastic Helix Blue (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050598",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H0136_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550050596",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H0136_002W22_A04U",
+      "name": "Bottle 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052873",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 X meets the latest industry specifications and works hard to help keep modern engines clean and protected. It helps to prevent the formation of harmful deposits that can lead to performance loss and helps to reduce engine friction to provide enhanced fuel economy.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "001G1528",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Argina S2 40",
+  "description": "Lubricant for modern and highly rated medium-speed trunk-piston diesel engine applications",
+  "family": "Argina",
+  "parentCategory": "Aceites de motor industriales",
+  "category": "Aceites de motor - Motor de pistón",
+  "applicationKeys": [
+    "bearing",
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy fuel",
+    "industrial",
+    "light fuel",
+    "manual",
+    "marine",
+    "medium speed",
+    "stationary",
+    "synchronised",
+    "transmissions",
+    "two stroke"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/87c40f37-ada7-4ad5-a890-04ef99f6f58c.pdf",
+      "type": "GTDS",
+      "name": "Shell Argina S2 40 EN TDG V1.9 23-Jun-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450808.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S2 40 Spain EN 140003966322 EHS V1.5 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/85aab0b9-327a-4088-956f-1cf4db25d2d9.pdf",
+      "type": "LTDS",
+      "name": "Shell Argina S2 40 Spain ES TDG V1.9 09-Sep-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450809.PDF",
+      "type": "LMSDS",
+      "name": "Shell Argina S2 40 Spain ES 140003966322 EHS V1.5 21-SEP-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1528_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550046775",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G1528_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550046776",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Argina S2 40 es un lubricante para motores diésel de velocidad media de alto rendimiento que funcionan con combustibles o fueles residuales, mezclados o destilados. Shell Argina S2 40 tiene un TBN de 20 y está diseñado para condiciones de trabajo con bajo estrés del aceite.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

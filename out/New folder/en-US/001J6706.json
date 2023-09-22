@@ -1,0 +1,65 @@
+{
+  "id": "001J6706",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Marine Premium Plus 4-Cycle 25W-40",
+  "description": "Leisure Marine 4 stroke Engine Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - Leisure Marine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "25W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d828d2eb-edc3-423c-80f3-9b0664a99259.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Marine Premium Plus 4-Cycle 25W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563023.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Marine Premium Plus 4-Cycle 25W-40 United States EN 140002686046 EHS V1.2 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J6706_002XYN_A0II",
+      "name": "Bottle 1 Quart Americas Tool Plastic Shell Yellow (4)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550063547",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J6706_002XYM_A0II",
+      "name": "Bottle 1 UGL Americas Tool Plastic Shell Yellow (2)",
+      "size": "1",
+      "uom": "UGL",
+      "pack": "Bottle",
+      "materialCode": "550063546",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "001E7179",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Mysella S3 N 30",
+  "description": " Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Industriële motoroliën",
+  "category": "Motoroliën - Stationaire gasmotor",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "gas",
+    "landfill",
+    "lng",
+    "low ash",
+    "lpg",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S3_N_30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 N 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592493.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 Netherlands EN 140002783873 EHS V1.7 13-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/5ac0ab04-7dd0-491d-9f5b-9ba3bcbda4b8.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 N 30 Netherlands NL TDG V3.3 07-Feb-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592494.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 Netherlands NL 140002783873 EHS V1.7 13-JUN-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7179_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550035920",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 N is geschikt voor de nieuwste generatie stationaire \"lean burn\" gasmotoren die ontwikkeld zijn om te voldoen aan strenge emissie eisen betreffende NOx.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-mysella-s3-n-135x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

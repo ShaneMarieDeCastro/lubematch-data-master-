@@ -1,0 +1,82 @@
+{
+  "id": "001A0914",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "AeroShell Grease 14",
+  "description": "Mineral grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "Smeermiddelen voor de luchtvaart",
+  "category": "Smeervetten voor Luchtvaart",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9608ac24-bf32-4d2a-8938-1d92a2221391.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 14 EN TDG V1.3 02-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549908.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Netherlands EN 140002783873 EHS V1.16 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549909.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 14 Netherlands NL 140002783873 EHS V1.16 11-APR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0914_002XN5_A610",
+      "name": "Kan zonder sluiting 3 kg Open head Tinplate Shell Red (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Kan zonder sluiting",
+      "materialCode": "550043677",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation XG-284",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-284"
+    },
+    {
+      "name": "DEF STAN 91-51",
+      "organisation": "DEF STAN",
+      "spec": "91-51"
+    },
+    {
+      "name": "MIL-G-25537C",
+      "organisation": "MIL",
+      "spec": "G-25537C"
+    },
+    {
+      "name": "NATO G-366",
+      "organisation": "NATO",
+      "spec": "G-366"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –54°C to +75°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

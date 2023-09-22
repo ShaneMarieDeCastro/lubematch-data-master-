@@ -1,0 +1,234 @@
+{
+  "id": "001F9103",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S6 CXME 5W-30",
+  "description": "Premium Synthetic Technology Multifunction Oil for Off-Highway Vehicles",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Autres huiles de transmission",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "brakes",
+    "clutch",
+    "differential",
+    "disc",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "mobile",
+    "off highway",
+    "power steering",
+    "powershift",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "tandem drive",
+    "transmissions",
+    "wet brake"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/69500124-f113-4fc6-9f00-3c68d99623ba.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 CXME 5W-30 EN TDG V1.7 22-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534027.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 CXME 5W-30 France FR 140003182031 EHS V1.3 02-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534028.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 CXME 5W-30 France EN 140003182031 EHS V1.3 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 03C",
+      "organisation": "ZF",
+      "spec": "TE-ML 03C"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison C-4",
+      "organisation": "Allison",
+      "spec": "C-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 CXME 5W-30 oil is designed to provide operators with trouble free operation and maximum reliability for the lifetime of the equipment. Spirax S6 CXME 5W-30 meets the demanding requirements of modern transmission, differential gears, final drive, oil immersed brake, reduction gears and hydraulic systems fitted to heavy-duty off-highway in all climates.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J-300",
+      "uom": "",
+      "units": "",
+      "value": "5W-30"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "59"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11"
+    },
+    {
+      "property": "Shear Stability (Kinematic Viscosity after 100 hrs KRL)",
+      "method": "CEC L-45",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "9.8"
+    },
+    {
+      "property": "Dynamic Viscosity (Brookfield)",
+      "method": "ASTM D2983",
+      "uom": "@-25°C",
+      "units": "mPa.s",
+      "value": "3200"
+    },
+    {
+      "property": "Dynamic Viscosity (Brookfield)",
+      "method": "ASTM D2983",
+      "uom": "@-40°C",
+      "units": "mPa.s",
+      "value": "32000"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "843"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "234"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-51"
+    },
+    {
+      "property": "Foaming Tendency",
+      "method": "ASTM D892",
+      "uom": "",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "S1",
+      "method": "",
+      "uom": "",
+      "units": "ml/ml",
+      "value": "0/0"
+    },
+    {
+      "property": "S2",
+      "method": "",
+      "uom": "",
+      "units": "ml/ml",
+      "value": "20/0"
+    },
+    {
+      "property": "S3",
+      "method": "",
+      "uom": "",
+      "units": "ml/ml",
+      "value": "0/0"
+    },
+    {
+      "property": "+0.1% Water",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": ""
+    },
+    {
+      "property": "S1",
+      "method": "",
+      "uom": "",
+      "units": "ml/ml",
+      "value": "0/0"
+    },
+    {
+      "property": "S2",
+      "method": "",
+      "uom": "",
+      "units": "ml/ml",
+      "value": "20/0"
+    },
+    {
+      "property": "S3",
+      "method": "",
+      "uom": "",
+      "units": "ml/ml",
+      "value": "0/0"
+    },
+    {
+      "property": "Copper Corrosion",
+      "method": "ASTM D130",
+      "uom": "3h @150°C",
+      "units": "",
+      "value": "1A"
+    },
+    {
+      "property": "FZG Failure Load Stage",
+      "method": "ASTM D5182",
+      "uom": "",
+      "units": "",
+      "value": "11"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X0000005MTEQA2&field=Attachment__Name__s",
+      "family": "Spirax",
+      "savings": 39000,
+      "title": "Shell Spirax S6 CXME 5W-30"
+    }
+  ],
+  "commerce": null
+}

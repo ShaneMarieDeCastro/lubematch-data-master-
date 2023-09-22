@@ -1,0 +1,77 @@
+{
+  "id": "001J0924",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Coolant Extra Concentrate",
+  "description": "Hybrid antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Koelvloeistof / Antivries - Concentraat ",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/91f4b195-e6ae-4266-b890-617806870292.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Extra Concentrate (Europe) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570509.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Concentrate (Europe) Netherlands NL 140002783873 EHS V3.0 04-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570510.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Concentrate (Europe) Netherlands EN 140002783873 EHS V3.0 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/2038b549-98b1-4bc5-8aef-89356f819cdf.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Extra Concentrate (Europe) Netherlands NL TDG V1.4 07-Jul-2021",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0924_002VSH_A863",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550061779",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0924_002VWL_A863",
+      "name": "Fles 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550061780",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

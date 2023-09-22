@@ -1,0 +1,190 @@
+{
+  "id": "001E7185",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Mysella S5 N 40",
+  "description": "Premium, Long Life, Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Moteur à gaz stationnaire",
+  "applicationKeys": [
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "cng",
+    "cooling",
+    "cooling system",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gas",
+    "gas turbines",
+    "gasoline",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "hydraulics",
+    "landfill",
+    "light fuel",
+    "lng",
+    "low ash",
+    "lpg",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "pump gear",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/888f1862-8dcc-4310-83ea-d3d1fa741a1a.pdf",
+      "type": "GTDS",
+      "name": "Mysella S5 N 40 EN TDG V3.6 28-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545610.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S5 N 40 Canada FR 140006579500 EHS V1.9 29-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545609.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S5 N 40 Canada EN 140006579500 EHS V1.9 29-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/71e1eeb9-a140-4f88-b695-ffb30c603bc0.pdf",
+      "type": "LTDS",
+      "name": "Mysella S5 N 40 Canada FR TDG V3.6 28-Apr-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/f1b83e01-248c-4b5d-8bba-5da30611db24.pdf",
+      "type": "LTDS",
+      "name": "Mysella S5 N 40 Canada EN TDG V3.6 28-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7185_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550036522",
+      "margin": "0.533969697599594",
+      "packShot": ""
+    },
+    {
+      "code": "001E7185_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500007761",
+      "margin": "0.0688548464371338",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3271-2",
+      "organisation": "MAN",
+      "spec": "M 3271-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S5 N a été développée pour permettre l'extension des intervalles de vidange. Elle est destinée aux moteurs stationnaires alimentés au gaz naturel pour lesquels l'augmentation de la durée de vie de l'huile permet un gain en terme d'efficacité opérationnelle. ",
+  "physicalCharacteristics": [
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "890"
+    },
+    {
+      "property": "Flashpoint Cleveland Open Cup",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "264"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "4.5"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ISO 3987",
+      "uom": "",
+      "units": "%wt",
+      "value": "0.48"
+    },
+    {
+      "property": "Phosphorus",
+      "method": "ASTM D4047",
+      "uom": "",
+      "units": "ppm",
+      "value": "300"
+    },
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "125"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "13.5"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DioJQAS&field=Attachment__Name__s",
+      "family": "Mysella",
+      "savings": 11000,
+      "title": "Shell Mysella S5 N 40"
+    }
+  ],
+  "commerce": null
+}

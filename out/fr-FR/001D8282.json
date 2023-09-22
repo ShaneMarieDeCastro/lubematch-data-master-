@@ -1,0 +1,161 @@
+{
+  "id": "001D8282",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S3 AX 85W-140",
+  "description": "High performance, GL-5 axle oil for general applications",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "agricultural",
+    "axle",
+    "bearing",
+    "construction",
+    "differential",
+    "differentials",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy truck",
+    "hypoid gear axles",
+    "industrial",
+    "manual",
+    "manual transmission",
+    "motorcycle",
+    "off highway",
+    "offroad",
+    "passenger car",
+    "reduction gears",
+    "rollers",
+    "separate motorcycle gear",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S3_AX_85W-140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 AX 85W-140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/024c49d4-835a-4ed9-9cfb-eca658efefbc.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 AX 85W-140 France FR TDG V2.2 16-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578493.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AX 85W-140 France EN 140003182031 EHS V5.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578492.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AX 85W-140 France FR 140003182031 EHS V5.2 23-MAY-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8282_002VSI_A246",
+      "name": "Tonneau 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Tonneau",
+      "materialCode": "550037640",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8282_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027988",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8282_002VNA_A1P5",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027955",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 16D",
+      "organisation": "ZF",
+      "spec": "TE-ML 16D"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "ZF TE-ML 07A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 07A - Suitable for use in applications which require"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "MIL-L-2105D",
+      "organisation": "MIL",
+      "spec": "L-2105D"
+    },
+    {
+      "name": "MAN 342 Type M1",
+      "organisation": "MAN",
+      "spec": "342 Type M1"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "ZF TE-ML 07A",
+      "organisation": "ZF",
+      "spec": "TE-ML 07A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 AX 85W-140 est une huile engrenage haute performance API GL-5 destinée aux essieux, modérement ou fortement chargés, de véhicules routiers et aux organes des chaines cinématiques de véhicules non routiers où une huile de viscosité SAE 85W-140 est recommandée.  ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027955_Shell_Spirax_S3_AX_85W-140_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

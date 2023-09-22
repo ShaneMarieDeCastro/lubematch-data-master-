@@ -1,0 +1,204 @@
+{
+  "id": "001F8906",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T5 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "automatic",
+    "bio gas",
+    "cars",
+    "diesel",
+    "engine",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "powershift",
+    "pump vane",
+    "stationary",
+    "transmissions",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/049eb912-905d-4e29-9275-38439ce50409.pdf",
+      "type": "GTDS",
+      "name": "Rotella T5 15W-40 (CK-4) EN TDG V1.7 04-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563186.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 15W-40 (CK-4) United States EN 140002686046 EHS V2.3 16-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/847ec1fb-6927-4f7d-9d37-dc0cf6fe3ec6.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 15W-40 (CK-4) United States EN TDG V1.7 04-Feb-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8906_002VON_A1WJ",
+      "name": "Pail 5 Gal Plastic O/H W (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550067157",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8906_002XEY_A0II",
+      "name": "Bottle 2.5 Gal Local (F Style) Plastic Rimula Grey (2)",
+      "size": "2.5",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550046213",
+      "margin": "1.80138791508929",
+      "packShot": ""
+    },
+    {
+      "code": "001F8906_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550067156",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F8906_002VJ3_A0II",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550046214",
+      "margin": "1.62696580340506",
+      "packShot": ""
+    },
+    {
+      "code": "001F8906_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010132",
+      "margin": "0.970286815993398",
+      "packShot": ""
+    },
+    {
+      "code": "001F8906_002XLW_A0II",
+      "name": "Bottle 1 Gal Americas Tool Plastic Rimula Grey (3)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550045348",
+      "margin": "1.74260714986927",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ROTELLA^® T5 premium synthetic blend heavy duty engine oil with Triple Protection Plus™ technology has been enhanced with premium synthetic base oils plus advanced additive technology to protect against wear, deposits and oil breakdown PLUS better low temperature flow and extended drain capabilities*.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

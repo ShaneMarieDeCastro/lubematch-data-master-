@@ -1,0 +1,62 @@
+{
+  "id": "001A9856",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Alvania Grease S 2",
+  "description": "Very High Performance Multipurpose Grease",
+  "family": "Alvania",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "high performance",
+    "multipurpose"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/3a36d931-355d-4d2b-96bd-e21a74ec152a.pdf",
+      "type": "GTDS",
+      "name": "Alvania S 2 EN TDG V1.1 30-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02439538.PDF",
+      "type": "LMSDS",
+      "name": "Alvania S 2 Germany EN 140001492039 EHS V2.8 23-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02439539.PDF",
+      "type": "LMSDS",
+      "name": "Alvania S 2 Germany DE 140001492039 EHS V2.8 23-SEP-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9856_002VH7_A0H5",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550015447",
+      "margin": "2.09131309052675",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alvania Greases S 2 is a general purpose industrial grease based on a lithium hydroxystearate soap thickener fortified with anti-oxidant, anti-wear and anti-rust additives.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

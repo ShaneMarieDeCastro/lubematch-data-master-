@@ -1,0 +1,72 @@
+{
+  "id": "001G7027",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Hydraulic S1 V 46",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Fluidi idraulici",
+  "category": "Fluidi idraulici",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/05904492-d405-41d4-bbb4-15a688735ea1.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 V 46 EN TDG V1.2 09-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447378.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 46 Italy EN 140007645406 EHS V1.3 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447376.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 46 Italy IT 140007645406 EHS V1.3 21-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/50338ab9-f973-451f-9fdb-c4422f51a739.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 V 46 Italy IT TDG V1.2 28-Jun-2019",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 V 46 è un fluido idraulico antiusura di qualità che assicura una protezione affidabile e prestazioni con un rapporto prezzo/qualità conveniente nella maggioranza delle applicazioni industriali e mobili.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

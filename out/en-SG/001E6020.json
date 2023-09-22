@@ -1,0 +1,67 @@
+{
+  "id": "001E6020",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Calibrating Fluid 2 (US)",
+  "description": "Special kerosine for aircraft fuel system calibration",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/649bb5a7-5afd-4381-a0e0-17b2ea6e6884.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Calibrating Fluid 2 (US) EN TDG V1.2 13-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/aa5d5e5b-6ffe-49ed-8822-90988ab52749.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Calibrating Fluid 2 (US) Singapore EN TDG V1.2 13-Jul-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579672.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Calibrating Fluid 2 (US) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E6020_002WJJ_A1P5",
+      "name": "Drum 202 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "202",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550043790",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-7024G Type II",
+      "organisation": "MIL",
+      "spec": "PRF-7024G Type II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Calibrating Fluid 2 is composed of Specially Run Stoddard Solvent and is used for calibrating aircraft fuel system components.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

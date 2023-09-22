@@ -1,0 +1,144 @@
+{
+  "id": "001A0380",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Nautilus Premium Outboard",
+  "description": "Leisure Marine 2 stroke engine oil",
+  "family": "Nautilus",
+  "parentCategory": null,
+  "category": "Engine Oils - Leisure Marine",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "two stroke"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f0f0b812-446f-4265-ae2b-2a5f6e5c2c8e.pdf",
+      "type": "GTDS",
+      "name": "Nautilus Premium Outboard EN TDG V1.4 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/bb7aa5e3-a1af-408f-96dd-af5b252954e9.pdf",
+      "type": "LTDS",
+      "name": "Nautilus Premium Outboard Singapore EN TDG V1.4 21-Jul-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579913.PDF",
+      "type": "LMSDS",
+      "name": "Nautilus Premium Outboard Singapore EN 140001435547 EHS V2.1 15-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0380_002WX0_A05P",
+      "name": "Bottle 5 L Wishbone Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550054808",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0380_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025491",
+      "margin": "0.438221972684941",
+      "packShot": ""
+    },
+    {
+      "code": "001A0380_002X0A_A685",
+      "name": "Bottle 1 L Wishbone Plastic White (6)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045669",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0380_002WX0_A685",
+      "name": "Bottle 5 L Wishbone Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045652",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "NMMA TC-W3",
+      "organisation": "NMMA",
+      "spec": "TC-W3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Its advanced formulation, which exceeds all outboard motor manufacturers' standards, is a guarantee of long and reliable engine life.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s ",
+      "value": "55"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "8.9"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³ ",
+      "value": "870"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "70"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-35"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "IP 163",
+      "uom": "NULL",
+      "units": "% wt",
+      "value": "0.01"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

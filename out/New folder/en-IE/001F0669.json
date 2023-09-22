@@ -1,0 +1,157 @@
+{
+  "id": "001F0669",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Rimula R4 Multi 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "hydraulic system",
+    "mobile",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/35e421d9-1da6-4f87-875a-02d8e27ae4c5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) EN TDG V1.3 07-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545325.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) Ireland EN 140007731156 EHS V1.6 28-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0669_002VND_A246",
+      "name": "Pail 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550041354",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F0669_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550041358",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20075",
+      "organisation": "Cummins",
+      "spec": "CES 20075"
+    },
+    {
+      "name": "Case New Holland MS 3520 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MS 3520 - Suitable for use in applications which require"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "JASO DH-1",
+      "organisation": "JASO",
+      "spec": "DH-1"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "Mack EO-M Plus",
+      "organisation": "Mack",
+      "spec": "EO-M Plus"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "Mack EO-M",
+      "organisation": "Mack",
+      "spec": "EO-M"
+    },
+    {
+      "name": "Cummins CES 20072",
+      "organisation": "Cummins",
+      "spec": "CES 20072"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 Multi oil protects against changing needs of driving conditions. This technology provides triple action protection: low wear for long engine life, low deposit formation to maintain engine performance and resist breakdown by heat.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

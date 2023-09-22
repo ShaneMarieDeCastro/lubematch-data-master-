@@ -1,0 +1,149 @@
+{
+  "id": "001D8396",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Refrigeration Oil S4 FR-F 68",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": null,
+  "category": "Refrigerator Oils",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b9d2001-9183-4025-b31d-4e836a30935f.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 68 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575282.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 68 Ireland EN 140007731156 EHS V1.4 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8396_002VO8_A1P5",
+      "name": "Pail 20 L T/H Steel Shell Yellow (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025710",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F is a synthetic refrigeration lubricant with a polyol ester base fluid. It has been developed for use with R134a and other HFC refrigerants.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "68"
+    },
+    {
+      "property": "Refrigerator Oil Group",
+      "method": "DIN 51503",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "KD"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "66"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "8.8"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "991"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": ">230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Neutralisation Number",
+      "method": "ASTM D664 (TAN)",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "<0.06"
+    },
+    {
+      "property": "Characteristics when used with R134a - Floc-point",
+      "method": "DIN 51351",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "<-30"
+    },
+    {
+      "property": "Characteristics when used with R134a - Refrigerant Stability",
+      "method": "DIN 51393",
+      "uom": "@250°C",
+      "units": "NULL",
+      "value": ">96"
+    },
+    {
+      "property": "Miscibility",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Miscible over the whole range "
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

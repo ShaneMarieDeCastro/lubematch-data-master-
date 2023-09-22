@@ -1,0 +1,82 @@
+{
+  "id": "001C9600",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix HX3 40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/805624a9-4bb3-45a0-9222-8712b9c384b8.pdf",
+      "type": "GTDS",
+      "name": "Helix HX3 40 (SL/CF) EN TDG V4.1 06-Jul-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02164906.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 40 (SL/CF) Philippines English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/3ba641e5-cb47-4256-b859-597efbb6b18c.pdf",
+      "type": "LTDS",
+      "name": "Helix HX3 40 (SL/CF) Philippines EN TDG V4.1 06-Jul-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C9600_002W1Y_A685",
+      "name": "Bottle 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045644",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C9600_002W2H_A685",
+      "name": "Bottle 4 L Wishbone Plastic Red (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045642",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 helps provide reliable protection for older, high-mileage engines. It helps to prevent sludge and reduce wear. It is suitable for use where API SL/CF is recommended.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/1L_Helix_HX3_SAE_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

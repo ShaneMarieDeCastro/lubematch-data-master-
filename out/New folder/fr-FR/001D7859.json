@@ -1,0 +1,113 @@
+{
+  "id": "001D7859",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Omala S4 WE 460",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "enclosed industrial worm gears",
+    "energy efficiency",
+    "final drive",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "hydraulic system",
+    "industrial",
+    "journal",
+    "long life",
+    "low temperature",
+    "lower operating temperatures",
+    "micropitting",
+    "off highway",
+    "pag",
+    "plain",
+    "pump gear",
+    "reduction gears",
+    "rollers",
+    "splash lubricated bearings",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range",
+    "worm",
+    "worm drive"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b0ea6068-2102-4a8a-8f62-57568aabf917.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 WE 460 EN TDG V4.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/3c711d5d-1be1-4d5e-8f42-dd2bd546f267.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 WE 460 France FR TDG V4.3 30-Aug-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543206.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 460 France EN 140003182031 EHS V1.10 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543205.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 WE 460 France FR 140003182031 EHS V1.10 22-MAR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7859_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027189",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7859_002VNX_A1P5",
+      "name": "Sceau 20 L Tinplate German Cuboid W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550043672",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 WE est une huile synthétique pour engrenages roue et vis chargés, formulée à partir d'huiles de base Polyalkylène glycol et d'additifs spécialement sélectionnés. Elle offre des performances exceptionnelles sous des conditions de service sévères, une durée de vie du produit accrue, une haute protection contre le micro-pitting et des économies d'énergie.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s4_we.png",
+  "valueRecord": [],
+  "commerce": null
+}

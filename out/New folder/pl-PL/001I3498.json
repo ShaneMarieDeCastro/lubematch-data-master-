@@ -1,0 +1,98 @@
+{
+  "id": "001I3498",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Helix Ultra SP 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - pojazdy osobowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b83d01a-daee-45ea-8a1f-2ca4b473a3c4.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) EN TDG V1.1 27-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510655.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) Poland PL 140003791557 EHS V1.2 28-DEC-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510654.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) Poland EN 140003791557 EHS V1.2 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/d3536af0-1eba-4d88-bc27-21a7b403328b.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra SP 0W-20 (C5/SP) Poland PL TDG V1.1 20-Sep-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I3498_002YAN_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550063070",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I3498_002YAP_EURO",
+      "name": "Butelka 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550063071",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I3498_002XS4_A246",
+      "name": "Beczki 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczki",
+      "materialCode": "550061579",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra SP wykorzystuje technologię aktywnego oczyszczania zapewniając silnikom o wysokiej wydajności pracę z maksymalną wydajnością poprzez ochronę przed osadami, które zmiejszają moc silnika i zwiększają jego zużycie. Umożliwia to zmniejszenie tarcia w silniku zapewniając mniejsze zużycie paliwa.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

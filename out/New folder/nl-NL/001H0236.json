@@ -1,0 +1,87 @@
+{
+  "id": "001H0236",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Mysella S6 N 40",
+  "description": "Premium, Long Life, Medium Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Industriële motoroliën",
+  "category": "Motoroliën - Stationaire gasmotor",
+  "applicationKeys": [
+    "automatic",
+    "bio gas",
+    "engine",
+    "gas",
+    "landfill",
+    "low ash",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6961a376-8b32-40b6-b922-63e8593cc5be.pdf",
+      "type": "GTDS",
+      "name": "Mysella S6 N 40 EN TDG V2.4 16-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481847.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 Netherlands EN 140002783873 EHS V1.4 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482238.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 N 40 Netherlands NL 140002783873 EHS V1.4 21-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/95608dc2-55c6-4f51-9f09-07f0d4d6364e.pdf",
+      "type": "LTDS",
+      "name": "Mysella S6 N 40 Netherlands NL TDG V2.4 28-Dec-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H0236_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550050636",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H0236_001176_SBLK",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "",
+      "materialCode": "500011174",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S6 N is een hoogwaardige gasmotorolie speciaal geformuleerd voor gebruik in hoog opgeladen viertakt gasmotoren, veelal uitgerust met stalen zuigers. De voor deze toepassing ontwikkelde smeermiddelen technologie resulteert in superieure reinheid van motor onderdelen en maakt verlengde verversingsintervallen mogelijk. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

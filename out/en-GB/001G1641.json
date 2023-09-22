@@ -1,0 +1,257 @@
+{
+  "id": "001G1641",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Rimula R4 L 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "fuel",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "light fuel",
+    "lng",
+    "locomotive",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b86f42c-61d9-4c00-b77c-481218042d38.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) EN TDG V2.2 24-Aug-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/a86edd67-95c9-49e9-a6f1-b461b4e54dc1.pdf",
+      "type": "LTDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) United Kingdom EN TDG V2.2 24-Aug-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609611.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 L 15W-40 (CK-4) United Kingdom EN 140002340634 EHS V1.9 04-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G1641_002VND_A246",
+      "name": "Pail 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550047251",
+      "margin": "0.669819540335998",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550047252",
+      "margin": "0.441477395339001",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550047250",
+      "margin": "0.588968897168283",
+      "packShot": ""
+    },
+    {
+      "code": "001G1641_002X0G_EURO",
+      "name": "Bottle 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550047337",
+      "margin": "1.38093547298703",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Deutz DQC III-18 LA",
+      "organisation": "Deutz",
+      "spec": "DQC III-18 LA"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "MB DTFR 15C100",
+      "organisation": "Mercedes-Benz",
+      "spec": "DTFR 15C100"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Allison TES-439",
+      "organisation": "Allison",
+      "spec": "TES-439"
+    },
+    {
+      "name": "MTU Category 2.1",
+      "organisation": "MTU",
+      "spec": "Category 2.1"
+    },
+    {
+      "name": "ACEA E11",
+      "organisation": "ACEA",
+      "spec": "E11"
+    },
+    {
+      "name": "Case New Holland MAT 3522 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3522 - Suitable for use in applications which require"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "Case New Holland MAT 3521 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3521 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Iveco T2 E7 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T2 E7 - Meets the requirements"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 L oils use “Low-SAPS” additive technology to protect low emission engines under severe conditions. It delivers improvements in wear and deposit control, resistance to breakdown under high temperatures compared to previous oil.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R4-L-15_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "001I4308",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Rimula R7 AD 5W-30",
+  "description": "MB GPO Truck Motor Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/66d601ee-d3cc-471e-ac8d-1eba26dec612.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) EN TDG V1.4 21-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487748.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) France EN 140003182031 EHS V2.0 20-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487743.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) France FR 140003182031 EHS V2.0 20-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/349d27a6-d6cc-4420-85d7-a17a7acd7155.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 AD 5W-30 (FA-4) France FR TDG V1.4 07-Jan-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Detroit Fluid Specification 93K223",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K223"
+    },
+    {
+      "name": "API FA-4",
+      "organisation": "API",
+      "spec": "FA-4"
+    },
+    {
+      "name": "MB-Approval 228.61",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.61"
+    },
+    {
+      "name": "Cummins CES 20087",
+      "organisation": "Cummins",
+      "spec": "CES 20087"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R7 AD se caractérise par une technologie d'additifs \"Low SAPS\" haute performance et est conçue pour offrir une économie de carburant accrue, ainsi que des avantages en matière de reduction des emissions. La protection est renforcée grace à l'utilisation d'une huile de base à technologie de synthèse, qui réduit considérablement les frictions internes du moteur et qui permet un allongement des intervalles de maintenance. Convient aux moteurs de technologie récente.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

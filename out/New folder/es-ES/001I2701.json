@@ -1,0 +1,108 @@
+{
+  "id": "001I2701",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Ultra ECT MULTI 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/81bc6949-cc30-4fec-a2e9-7fa04fcd9adf.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) EN TDG V1.4 03-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555819.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Spain EN 140003966322 EHS V1.2 11-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/e70e5543-abfe-4fd5-8a84-08b400b4de4c.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Spain ES TDG V1.4 10-Dec-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555820.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT MULTI 5W-30 (ACEA C3/API SN) Spain ES 140003966322 EHS V1.2 11-DEC-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I2701_002XS4_A246",
+      "name": "Bidones 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidones",
+      "materialCode": "550058159",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I2701_002WX1_EURO",
+      "name": "Botella 5 L Wishbone Plastic Helix Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550058158",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "BMW LongLife-04",
+      "organisation": "BMW",
+      "spec": "LongLife-04"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT MULTI 5W-30  ha sido formulado con la tecnología más avanzada compatible con los sistemas de tratamiento de emisiones. Mantiene limpio el filtro de partículas para que el motor funcione a pleno rendimiento. Cumple los requerimientos de varios de los principales fabricantes (OEMs)",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

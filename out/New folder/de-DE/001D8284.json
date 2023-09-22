@@ -1,0 +1,264 @@
+{
+  "id": "001D8284",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S3 AD 80W-90",
+  "description": "High performance, GL-5 axle oil for Mercedes Benz",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "differentials",
+    "engine",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "fuel",
+    "gearbox",
+    "heavy duty",
+    "heavy truck",
+    "high performance",
+    "industrial",
+    "manual",
+    "manual transmission",
+    "off highway",
+    "passenger car",
+    "powershift",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e0a55520-40f3-44e0-8982-5fc825fffe2c.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 AD 80W-90 EN TDG V3.8 21-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578246.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AD 80W-90 Germany EN 140001492039 EHS V3.4 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/62e8c63c-422c-4c13-88bb-568d953c5a04.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 AD 80W-90 Germany DE TDG V3.8 22-Sep-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577898.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 AD 80W-90 Germany DE 140001492039 EHS V3.4 23-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8284_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500006356",
+      "margin": "0.622093662576783",
+      "packShot": ""
+    },
+    {
+      "code": "001D8284_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027909",
+      "margin": "1.16934974189366",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 19B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 16B",
+      "organisation": "ZF",
+      "spec": "TE-ML 16B"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ZF TE-ML 12M",
+      "organisation": "ZF",
+      "spec": "TE-ML 12M"
+    },
+    {
+      "name": "Scania STO 1:0",
+      "organisation": "Scania",
+      "spec": "STO 1:0"
+    },
+    {
+      "name": "ZF TE-ML 17B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 12M - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12M - Suitable for use in applications which require"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 05A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 16B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 16B - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 342 Type M3 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "342 Type M3 - Suitable for use in applications which require"
+    },
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "MB-Approval 235.20 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.20 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 17B",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B"
+    },
+    {
+      "name": "MAN 342 Type M3",
+      "organisation": "MAN",
+      "spec": "342 Type M3"
+    },
+    {
+      "name": "ZF TE-ML 19B",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B"
+    },
+    {
+      "name": "ZF TE-ML 12L",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L"
+    },
+    {
+      "name": "MB-Approval 235.20",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.2"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 12L - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 12L - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 AD 80W-90 ist ein Achsgetriebeöl für den Einsatz unter schweren Einsatzbedingungen, welches basierend auf besonderen Additiven formuliert ist und einen guten Oxidations-, Verschleiß- und Korrosionsschutz sicherstellt. Es ist besonders für Getriebeanwendungen, welche unter ungünstigen Betriebsbedingungen wie hoher Last und niedriger Drehzahl in Stirnrad-, Schnecken- und Hypoidgetrieben laufen, geeignet. Dabei ermöglicht es verlängerte Ölwechselintervalle.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "80W-90"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "137"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "14,4"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "104"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15 °C",
+      "units": "kg/m³",
+      "value": "899"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "204"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

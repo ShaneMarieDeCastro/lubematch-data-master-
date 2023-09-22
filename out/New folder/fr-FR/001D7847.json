@@ -1,0 +1,111 @@
+{
+  "id": "001D7847",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Omala S3 GP 460",
+  "description": "Special Application Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "gearbox",
+    "gears",
+    "heavily shock loaded operations",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "older gear systems",
+    "plain",
+    "shock load",
+    "splash lubricated bearings",
+    "wire rod mill",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S3_GP_460_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 GP 460 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/c3e151af-52f6-4f98-a8fc-395c70e1fe00.pdf",
+      "type": "LTDS",
+      "name": "Omala S3 GP 460 France FR TDG V3.1 14-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487823.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 460 France FR 140003182031 EHS V3.3 21-SEP-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487955.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 460 France EN 140003182031 EHS V3.3 21-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7847_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027178",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Textron Power Transmission S1.53.101E",
+      "organisation": "Textron Power Transmission",
+      "spec": "S1.53.101E"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Les Shell Omala S3 GP sont des huiles spécialisées et développées pour résoudre des problèmes de lubrification de réducteurs industriels soumis à des conditions de service particulièrement difficiles tels que charges et/ou chocs très élevés rencontrés dans l’industrie sidérurgique, les cimenteries et les industries extractives. Elles sont formulées pour les applications où de très hauts niveaux de performances extrême-pression sont requis.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s3_gp_yellow.png",
+  "valueRecord": [],
+  "commerce": null
+}

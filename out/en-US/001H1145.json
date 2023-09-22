@@ -1,0 +1,102 @@
+{
+  "id": "001H1145",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State® High Mileage Full Synthetic 5W-20 Motor Oi",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dbb48331-f7d4-46d0-b3a2-c318ee415617.pdf",
+      "type": "GTDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-20 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/d0a3bc4d-0938-4a37-82fb-e1bf8c31b8cc.pdf",
+      "type": "LTDS",
+      "name": "Quaker State� High Mileage Full Synthetic SAE 5W-20 Motor Oil United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563217.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State® High Mileage Full Synthetic SAE 5W-20 Motor Oil United States EN 140002686046 EHS V1.3 03-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H1145_002XOF_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic QS Green (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550052754",
+      "margin": "2.2980004047787",
+      "packShot": ""
+    },
+    {
+      "code": "001H1145_002XLL_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic QS Green (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550052751",
+      "margin": "0.956044447321675",
+      "packShot": ""
+    },
+    {
+      "code": "001H1145_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550052750",
+      "margin": "0.75603839810353",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^2 ^Based ^on ^Sequence ^IIIH ^& ^VH ^tests ^on ^0W-20 ^engine ^oil",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

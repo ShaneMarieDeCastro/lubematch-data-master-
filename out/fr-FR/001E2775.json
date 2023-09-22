@@ -1,0 +1,72 @@
+{
+  "id": "001E2775",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Risella X 430",
+  "description": "High Quality Technical White Oil",
+  "family": "Risella",
+  "parentCategory": null,
+  "category": "Huiles blanches techniques",
+  "applicationKeys": [
+    "fixed",
+    "heat transfer",
+    "hydraulic system",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8aa6ba0d-f3a0-4bd2-8592-44cac782e075.pdf",
+      "type": "GTDS",
+      "name": "Risella X 430 EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575311.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 France EN 140003182031 EHS V1.7 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575312.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 France FR 140003182031 EHS V1.7 15-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/9ddcd344-3790-49e3-8551-ffa86c5c9fc7.pdf",
+      "type": "LTDS",
+      "name": "Risella X 430 France FR TDG V2.3 17-Nov-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2775_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550031570",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Risella X 430 est un fluide hydrocarboné formulé à partir de la technologie Gas-to-Liquid (GTL). L'huile est hautement saturée avec un degré élevé de structures iso paraffiniques, pratiquement inodore et de couleur très stable.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

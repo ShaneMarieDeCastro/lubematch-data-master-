@@ -1,0 +1,100 @@
+{
+  "id": "001D8471",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S2 V220A 1.5",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base d’huile minérale",
+  "applicationKeys": [
+    "automotive",
+    "bearing",
+    "chassis",
+    "construction",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy duty truck",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "light truck",
+    "lithium",
+    "lithium calcium",
+    "multipurpose",
+    "passenger car",
+    "plain bearings",
+    "roller bearings",
+    "rollers",
+    "shock load",
+    "transmission joints",
+    "trucks",
+    "versatile",
+    "vibrating conditions",
+    "water resistance",
+    "water tolerant",
+    "water washout",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1164f0ff-073c-4d5b-af6c-67563ef855a3.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220A 1.5 EN TDG V1.6 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/60598dfd-faf9-41d5-b2f1-8c985f1ce34d.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220A 1.5 France FR TDG V1.6 16-Oct-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607726.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220A 1.5 France EN 140003182031 EHS V2.3 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607725.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220A 1.5 France FR 140003182031 EHS V2.3 03-JUL-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8471_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550025250",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB",
+      "organisation": "ASTM",
+      "spec": "D4950 LB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220A 1,5 est une graisse multiusage de haute qualité élaborée à partir d'huile minérale à haut index de viscosité et d'un épaississant mixte lithium/calcium. Elle est additivée extrême-pression, anti-usure, anti-oxydant et anti-corrosion pour améliorer ses performances sur une large gamme d'applications.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

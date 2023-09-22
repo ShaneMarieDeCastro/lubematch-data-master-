@@ -1,0 +1,50 @@
+{
+  "id": "001J0927",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Coolant Extra Concentrate",
+  "description": "Hybrid antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/534166e9-6e55-44ba-a6c8-0b6015971676.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Extra Concentrate (Mediterranean) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603462.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Concentrate (Mediterranean) Turkey EN 140003791542 EHS V1.0 27-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603677.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Concentrate (Mediterranean) Turkey TR 140003791542 EHS V1.0 27-JUN-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "001H2258",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a16319e5-6bf5-49d2-a4d2-ba67f7121bf5.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) EN TDG V1.0 20-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/40005fc1-7f11-4a2b-b5ef-5db6ef07a8fb.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Germany DE TDG V1.0 04-Nov-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609241.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Germany DE 140001492039 EHS V1.9 04-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609243.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SN PLUS/CF A3/B3) Germany EN 140001492039 EHS V1.9 04-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2258_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550052344",
+      "margin": "0.935757580746494",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 wurde entwickelt, um die Motorleistung aufrechtzuerhalten. Es verhindert die Bildung von Schlamm und reduziert den Verschleiß. Es ist für eine Vielzahl von Fahrzeugen unter alltäglichen Fahrbedingungen geeignet.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

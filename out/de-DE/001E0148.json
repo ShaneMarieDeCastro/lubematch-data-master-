@@ -1,0 +1,43 @@
+{
+  "id": "001E0148",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "AdBlue",
+  "description": "Aqueous solution of urea",
+  "family": "Non Oil Income (Other)",
+  "parentCategory": null,
+  "category": "KFZ Spezialitäten",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612212.PDF",
+      "type": "LMSDS",
+      "name": "AdBlue Germany DE 140001492039 EHS V2.1 06-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612213.PDF",
+      "type": "LMSDS",
+      "name": "AdBlue Germany EN 140001492039 EHS V2.1 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

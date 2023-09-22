@@ -1,0 +1,61 @@
+{
+  "id": "001I4289",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Varnish Removal Fluid",
+  "description": "Synthetic based solvency enhancer for cleaning varnish in Rotating Equipment",
+  "family": "Turbo",
+  "parentCategory": "Turbinenöle",
+  "category": "Turbinenöle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7ad78095-2462-4cb0-83d6-4a580a1babaa.pdf",
+      "type": "GTDS",
+      "name": "Varnish Removal Fluid EN TDG V1.0 12-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607608.PDF",
+      "type": "LMSDS",
+      "name": "Varnish Removal Fluid Germany DE 140001492039 EHS V1.2 03-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607607.PDF",
+      "type": "LMSDS",
+      "name": "Varnish Removal Fluid Germany EN 140001492039 EHS V1.2 03-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I4289_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550059378",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "This product can be used in any oil application where varnish contamination accelerates the formation of deposit and leads to valve sticking or the accumulation of system deposits. Note: this product should not be used with water based or grease systems.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

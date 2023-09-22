@@ -1,0 +1,83 @@
+{
+  "id": "001G0347",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Heat Transfer Oil S2 S",
+  "description": "High Performance Heat transfer fluid",
+  "family": "Heat Transfer",
+  "parentCategory": "Otros lubricantes industriales",
+  "category": "Aceites de transferencia de calor",
+  "applicationKeys": [
+    "heat transfer"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ce50b6a4-5f3d-46ce-8ef3-e560107a4b6a.pdf",
+      "type": "GTDS",
+      "name": "Heat Transfer Oil S2 S EN TDG V1.6 11-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02454370.PDF",
+      "type": "LMSDS",
+      "name": "Heat Transfer Oil S2 S Spain ES 140003966322 EHS V1.2 21-SEP-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02454369.PDF",
+      "type": "LMSDS",
+      "name": "Heat Transfer Oil S2 S Spain EN 140003966322 EHS V1.2 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/d1aef4bb-5ded-478c-b245-691574ccbbe7.pdf",
+      "type": "LTDS",
+      "name": "Heat Transfer Oil S2 S Spain ES TDG V1.6 24-Aug-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0347_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550046434",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0347_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550045834",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-12",
+      "organisation": "ISO",
+      "spec": "6743-12"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Heat Transfer Oil S2 S está formulado a partir de aceites minerales cuidadosamente seleccionados por su capacidad para ser utilizados en sistemas indirectos de transferencia de calor de circuito cerrado.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

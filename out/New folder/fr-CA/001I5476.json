@@ -1,0 +1,73 @@
+{
+  "id": "001I5476",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell EcoSafe Nuclear 46",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8500d4b8-8ba8-479d-ad88-0aabab47f126.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Nuclear 46 EN TDG V1.3 26-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290848.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Nuclear 46 Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/8745240e-ec50-4edc-bcd0-dc4fa3dc9076.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Nuclear 46 Canada EN TDG V1.3 26-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b771ee9a-9a2d-4e67-9972-ddf25f2974c7.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Nuclear 46 Canada FR TDG V1.3 09-Dec-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290850.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Nuclear 46 Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5476_002VOM_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550057083",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe Nuclear 46 est un fluide hydraulique entièrement synthétique et non aqueux résistant au feu. Il a été spécifiquement formulé pour contrer les sous-produits oxydants et hydrolytiques formés lors d'une utilisation rigoureuse à long terme. Shell EcoSafe Nuclear 46 est parfaitement adapté aux applications au sein de l'industrie nucléaire en raison de la stabilité de notre lubrifiant de base et de sa capacité à prolonger la durée de vie du drain sans formation de boue ou de vernis.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

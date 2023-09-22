@@ -1,0 +1,103 @@
+{
+  "id": "001E9072",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix HX7 ECT 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a9ad1f51-0e2f-4014-a73e-c51d8584c1ec.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/0004d0b0-b40c-4752-94bd-3ad1aa7a9ad0.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) Germany DE TDG V1.5 01-Sep-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604811.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) Germany DE 140001492039 EHS V1.6 28-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604840.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) Germany EN 140001492039 EHS V1.6 28-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9072_002W22_EURO",
+      "name": "Flasche 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550046586",
+      "margin": "2.45295881086521",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "Fiat 9.55535-S2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S2 - Meets the requirements"
+    },
+    {
+      "name": "Chrysler MS 11106",
+      "organisation": "Chrysler",
+      "spec": "MS 11106"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 ECT 5W-40 bietet eine innovative emissionsreduzierende Technologie, zum Schutz von Dieselpartikelfiltern und zur Erhaltung der Leistung des Motors. Shell Helix HX7 ECT 5W-40 schützt vor Verschlammung und Ascheablagerungen im Motor.\n\n\n\n ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX7_5W-40_ECT_4L_600053112.png",
+  "valueRecord": [],
+  "commerce": null
+}

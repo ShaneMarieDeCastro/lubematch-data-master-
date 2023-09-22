@@ -1,0 +1,143 @@
+{
+  "id": "001D7866",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Air Tool Oil S2 A 100",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": null,
+  "category": "Lubrifiants d’outils de forage et pneumatiques",
+  "applicationKeys": [
+    "bearing",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "plain",
+    "trunnion"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/18952fa6-12ab-4c59-a506-6b36bc4a5306.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 100 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/277a1949-4c36-49a9-b0a8-ae8b1ad98601.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 100 France FR TDG V2.2 17-Sep-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586774.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 France FR 140003182031 EHS V1.6 02-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586773.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 France EN 140003182031 EHS V1.6 02-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7866_002VNA_A1P5",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027215",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7866_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027207",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    },
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool S2 A 100 a été développé pour répondre aux exigences particulières de lubrification des outils pneumatiques, y compris de type outils pneumatiques à percussion soumis aux conditions les plus difficiles. Elle est conçue pour offrir une pellicule très résistante et lubrifier efficacement les mécanismes de perforateurs à percussion pneumatiques les plus exigeants, ainsi que pour assurer une excellence lubrification par brouillard aux outils pneumatiques d'usage général.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "102"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "241"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "884"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

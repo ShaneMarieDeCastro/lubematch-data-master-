@@ -1,0 +1,167 @@
+{
+  "id": "228C7561",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shellzone AF/C 50/50",
+  "description": "Conventional technology antifreeze/coolant, prediluted 50%",
+  "family": "Shellzone",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Diluted",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/adb0c5dc-d220-49a3-8107-4f64f057f50f.pdf",
+      "type": "GTDS",
+      "name": "Shellzone AF/C 50/50 EN TDG V1.2 07-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/75e1b1d2-ba13-4a6d-b5f1-9b79904aae03.pdf",
+      "type": "LTDS",
+      "name": "Shellzone AF/C 50/50 United States EN TDG V1.2 07-Jun-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563853.PDF",
+      "type": "LMSDS",
+      "name": "Shellzone AF/C 50/50 United States EN 140002686046 EHS V4.3 22-JUN-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "228C7561_002V2V_A0II",
+      "name": "Bottle 1 Gal Local (F-Style) Plastic White (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "9406706021",
+      "margin": "0.226873133002765",
+      "packShot": ""
+    },
+    {
+      "code": "228C7561_001176_A1SJ",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005289",
+      "margin": "0.313977453473107",
+      "packShot": ""
+    },
+    {
+      "code": "228C7561_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550022525",
+      "margin": "0.249963845484801",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford ESE-M97B44-A",
+      "organisation": "Ford",
+      "spec": "ESE-M97B44-A"
+    },
+    {
+      "name": "US Fed A-A-870-A",
+      "organisation": "US Fed",
+      "spec": "A-A-870-A"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "ASTM D4340",
+      "organisation": "ASTM",
+      "spec": "D4340"
+    },
+    {
+      "name": "JI Case JIC501",
+      "organisation": "JI Case",
+      "spec": "JIC501"
+    },
+    {
+      "name": "ASTM D5345 - for pre-blend heavy duty diesel service",
+      "organisation": "ASTM",
+      "spec": "D5345 - for pre-blend heavy duty diesel service"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "John Deere H24C1",
+      "organisation": "John Deere",
+      "spec": "H24C1"
+    },
+    {
+      "name": "General Motors GM 1899M",
+      "organisation": "General Motors",
+      "spec": "GM 1899M"
+    },
+    {
+      "name": "TMC RP 302A",
+      "organisation": "TMC RP",
+      "spec": "302A"
+    },
+    {
+      "name": "General Motors GM 1825M",
+      "organisation": "General Motors",
+      "spec": "GM 1825M"
+    },
+    {
+      "name": "ASTM D4656 - for pre-blend automotive service",
+      "organisation": "ASTM",
+      "spec": "D4656 - for pre-blend automotive service"
+    },
+    {
+      "name": "Chrysler MS 7170",
+      "organisation": "Chrysler",
+      "spec": "MS 7170"
+    },
+    {
+      "name": "Cummins 90T8-4",
+      "organisation": "Cummins",
+      "spec": "90T8-4"
+    },
+    {
+      "name": "SAE J1034",
+      "organisation": "SAE",
+      "spec": "J1034"
+    },
+    {
+      "name": "John Deere H24B1",
+      "organisation": "John Deere",
+      "spec": "H24B1"
+    },
+    {
+      "name": "General Motors GM 6038M",
+      "organisation": "General Motors",
+      "spec": "GM 6038M"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shellzone® Antifreeze is a high quality, single phase, ethylene glycol based antifreeze. It is a low silicate, all-purpose coolant designed for use in both automotive and heavy duty diesel engines (with the use of SCA’s). Shellzone® Antifreeze Prediluted 50/50 is a 50/50 volume mixture of Shellzone® Antifreeze with deionized water.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

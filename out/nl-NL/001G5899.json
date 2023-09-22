@@ -1,0 +1,85 @@
+{
+  "id": "001G5899",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Corena S5 R 46",
+  "description": "Advanced Synthetic Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressor en vacuümpomp",
+  "category": "Compressor en vacuümpomp",
+  "applicationKeys": [
+    "air compressor",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "pag",
+    "polyglycolester",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9d1d1480-57b0-44c4-a5d3-cea1ec67ed42.pdf",
+      "type": "GTDS",
+      "name": "Corena S5 R 46 EN TDG V1.1 24-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590865.PDF",
+      "type": "LMSDS",
+      "name": "Corena S5 R 46 Netherlands EN 140002783873 EHS V1.2 09-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590866.PDF",
+      "type": "LMSDS",
+      "name": "Corena S5 R 46 Netherlands NL 140002783873 EHS V1.2 09-JUN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/eb28fd6d-284a-4465-8787-df1e469158ee.pdf",
+      "type": "LTDS",
+      "name": "Corena S5 R 46 Netherlands NL TDG V1.1 26-Mar-2020",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5899_002VNF_A1P5",
+      "name": "Emmer 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550049967",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S5 R is een hoogwaardige synthetisch smeermiddel op basis van polyalkyleneglycol- (PAG) en estertechnologie voor gebruik in roterende schroefluchtcompressoren. Shell Corena S5 R maakt langere verversingsintervallen mogelijk en is bij uitstek het product voor ongekende, veeleisende uitdagingen. De specifieke formulatie vermijdt de vorming van lakafzettingen onder extreme condities. Het is een uitstekende keuze voor service fill in situaties waarin smeermiddelen van type polyglycol-ester al in gebruik zijn. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

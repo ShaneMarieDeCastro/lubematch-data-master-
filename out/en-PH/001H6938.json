@@ -1,0 +1,87 @@
+{
+  "id": "001H6938",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Helix HX7 Diesel 10W-30 (CI-4)",
+  "description": "Diesel Engine Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/165065ec-3eac-4fd0-86f9-62d4abdea45c.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix HX7 Diesel 10W-30 (CI-4) EN TDG V1.0 01-May-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01920759.PDF",
+      "type": "LMSDS",
+      "name": "Shell Helix HX7 Diesel 10W-30 (CI-4) Philippines English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/f69d2957-95c1-4644-aa2c-6bdb6f9c02fb.pdf",
+      "type": "LTDS",
+      "name": "Shell Helix HX7 Diesel 10W-30 (CI-4) Philippines EN TDG V1.0 01-May-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H6938_002X2R_A753",
+      "name": "Bottle 6 L Wishbone Plastic Helix Blue (2)",
+      "size": "6",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053337",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H6938_002W22_A685",
+      "name": "Bottle 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550053335",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H6938_002XQU_A685",
+      "name": "Bottle 6L+1L Wishbone Plastic Helix Blue (2)",
+      "size": "6+1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550054280",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 Diesel helps to keep diesel engines clean and running efficiently by helping to prevent the formation of sludge and engine deposits. It is suitable for a wide variety of modern light-duty vehicles driven in demanding traffic conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "001J0918",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Coolant Essential Concentrate",
+  "description": "Conventional antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Refrigerante/Antigelo - Concentrato",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ad9f01fc-0d0b-42aa-88ec-833f9637600a.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Essential Concentrate (Europe) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02462060.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Essential Concentrate (Europe) Italy EN 140007645406 EHS V1.3 17-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02462059.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Essential Concentrate (Europe) Italy IT 140007645406 EHS V1.3 17-OCT-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0918_002YBD_A863",
+      "name": "Bottiglia 1 L Local Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550061760",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

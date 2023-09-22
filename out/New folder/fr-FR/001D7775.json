@@ -1,0 +1,141 @@
+{
+  "id": "001D7775",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Tonna S3 M 220",
+  "description": "Premium Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "",
+  "category": "Huiles pour glissières",
+  "applicationKeys": [
+    "axle",
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "differential",
+    "factory applications",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "manufacturing",
+    "plain",
+    "pump gear",
+    "pump valve",
+    "servo",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4adf0832-0503-4d64-b981-03a2b337c17b.pdf",
+      "type": "GTDS",
+      "name": "Tonna S3 M 220 EN TDG V2.6 14-Sep-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/ffd52ddc-8155-4320-b18e-d060d7332919.pdf",
+      "type": "LTDS",
+      "name": "Tonna S3 M 220 France FR TDG V2.6 16-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02547524.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 220 France FR 140003182031 EHS V2.1 06-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02547523.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S3 M 220 France EN 140003182031 EHS V2.1 06-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7775_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027210",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7775_002VNK_A246",
+      "name": "Sceau 20 L Plastic O/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027208",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HG Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HG Fluid"
+    },
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "ISO 12925-1 CKC",
+      "organisation": "ISO",
+      "spec": "12925-1 CKC"
+    },
+    {
+      "name": "ISO 6743-4 L-HG",
+      "organisation": "ISO",
+      "spec": "6743-4 L-HG"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    },
+    {
+      "name": "ISO 6743-6 CKC",
+      "organisation": "ISO",
+      "spec": "6743-6 CKC"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-50",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-50"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tonna S3 M sont des huiles spécialement conçues pour la lubrification des glissières, des tables et chariots de chargement des machines-outils. Leurs caractéristiques d'adhésivité et de stick-slip améliorées offrent de hautes performances de frottement sur les glissières. Elles sont spécialement recommandées pour les machines de haute précision et faible vitesse ainsi qu'en présence de systèmes de lubrification combinée. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

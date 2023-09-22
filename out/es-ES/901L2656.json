@@ -1,0 +1,197 @@
+{
+  "id": "901L2656",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Catenex Oil S 579",
+  "description": "Paraffinic process oil",
+  "family": "Catenex",
+  "parentCategory": "Otros lubricantes industriales",
+  "category": "Aceites de proceso-Paraf",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Catenex_S_579_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Catenex S 579 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621126.PDF",
+      "type": "LMSDS",
+      "name": "Catenex S 579 Spain ES 140003966322 EHS V1.6 20-JUL-2023",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/bee0ae42-a773-4c0a-a05a-fece8658487f.pdf",
+      "type": "LTDS",
+      "name": "Catenex S 579 Spain ES TDG V2.1 10-Jul-2020",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621125.PDF",
+      "type": "LMSDS",
+      "name": "Catenex S 579 Spain EN 140003966322 EHS V1.6 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Los aceites Shell Catenex S son aceites de proceso parafínicos fabricados mediante el proceso de extracción de disolventes. Son aceites de proceso de uso general,  utilizados como diluyentes o fluidos portadores.",
+  "physicalCharacteristics": [
+    {
+      "property": "Colour (ASTM)",
+      "method": "ASTM D1500",
+      "uom": "",
+      "units": "",
+      "value": "5.5"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "905"
+    },
+    {
+      "property": "Refractive Index",
+      "method": "ASTM D1218",
+      "uom": "@20°C",
+      "units": "",
+      "value": "1.498"
+    },
+    {
+      "property": "Flashpoint (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "300"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-6"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@20°C",
+      "units": "mm²/s",
+      "value": "2300"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "500"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "32.0"
+    },
+    {
+      "property": "Carbon Type Distribution : C/A (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "6"
+    },
+    {
+      "property": "Carbon Type Distribution : C/N (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "23"
+    },
+    {
+      "property": "Carbon Type Distribution : C/P (S-corr.)",
+      "method": "DIN 51378/ASTM D2140 mod.",
+      "uom": "",
+      "units": "%",
+      "value": "71"
+    },
+    {
+      "property": "Refractive Intercept (RI)",
+      "method": "DIN 51378",
+      "uom": "",
+      "units": "",
+      "value": "1.0470"
+    },
+    {
+      "property": "Viscosity Gravity Constant (VGC)",
+      "method": "DIN 51378",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "0.819"
+    },
+    {
+      "property": "Sulphur (X-Ray)",
+      "method": "ISO 14596",
+      "uom": "NULL",
+      "units": "% m/m",
+      "value": "1.3"
+    },
+    {
+      "property": "Aniline Point",
+      "method": "ISO 2977",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "122"
+    },
+    {
+      "property": "Clay Gel Analysis : Polar Components",
+      "method": "ASTM D2007",
+      "uom": "",
+      "units": "% m/m",
+      "value": "3.0"
+    },
+    {
+      "property": "Clay Gel Analysis : Aromatic Components",
+      "method": "ASTM D2007",
+      "uom": "",
+      "units": "% m/m",
+      "value": "48.5"
+    },
+    {
+      "property": "Clay Gel Analysis : Saturated Components",
+      "method": "ASTM D2007",
+      "uom": "",
+      "units": "% m/m",
+      "value": "48.5"
+    },
+    {
+      "property": "Evaporation Loss (22 hrs)",
+      "method": "ASTM D972",
+      "uom": "@107°C",
+      "units": "% m/m",
+      "value": "<0.1"
+    },
+    {
+      "property": "PCA Content (DMSO Method)",
+      "method": "IP 346",
+      "uom": "NULL",
+      "units": "% m/m",
+      "value": "<3.0"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

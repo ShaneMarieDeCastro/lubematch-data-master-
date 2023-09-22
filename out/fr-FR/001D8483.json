@@ -1,0 +1,147 @@
+{
+  "id": "001D8483",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S2 U460L 2",
+  "description": "High Performance Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses non EP à base d’huile minérale",
+  "applicationKeys": [
+    "bearings",
+    "bentonite",
+    "clay",
+    "heavy duty",
+    "heavy load",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "low load",
+    "slow",
+    "slow speed"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4981fb1e-b657-46b4-bcd7-c714669e089c.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 U460L 2 EN TDG V1.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595180.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 France EN 140003182031 EHS V2.6 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/0cb7bce1-d9a3-4803-8f20-e20b9b8a526c.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 U460L 2 France FR TDG V1.2 20-Apr-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595179.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 U460L 2 France FR 140003182031 EHS V2.6 14-JUN-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8483_002VGF_EURO",
+      "name": "Cartouche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartouche ",
+      "materialCode": "550053536",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8483_002XD7_A246",
+      "name": "Sceau 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550028052",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8483_002VH7_A246",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Baril",
+      "materialCode": "550028045",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 U460L est formulée avec une huile minérale de haute qualité, raffinée au solvant à viscosité élevée avec une excellente résistance à l’oxydation et à l’évaporation. La stabilité à l’oxydation est également améliorée par un système d'inhibiteur d'oxydation afin d'offrir d'excellentes performances à hautes températures. ",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Inorganic (clay)"
+    },
+    {
+      "property": "Base Oil (Type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "35"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "300"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

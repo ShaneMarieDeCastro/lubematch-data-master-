@@ -1,0 +1,111 @@
+{
+  "id": "001D7847",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Omala S3 GP 460",
+  "description": "Special Application Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Industriële tandwielkastoliën",
+  "category": "Industriële tandwielkastoliën",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "gearbox",
+    "gears",
+    "heavily shock loaded operations",
+    "high load",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "older gear systems",
+    "plain",
+    "shock load",
+    "splash lubricated bearings",
+    "wire rod mill",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Omala_S3_GP_460_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 GP 460 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/13ace8b7-2892-4308-8148-de382d65bd35.pdf",
+      "type": "LTDS",
+      "name": "Omala S3 GP 460 Netherlands NL TDG V3.1 29-Jul-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02480242.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 460 Netherlands EN 140002783873 EHS V3.4 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02480243.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 GP 460 Netherlands NL 140002783873 EHS V3.4 21-SEP-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7847_002VSH_A1P5",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027178",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Textron Power Transmission S1.53.101E",
+      "organisation": "Textron Power Transmission",
+      "spec": "S1.53.101E"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 GP oliën zijn specifiek ontwikkeld voor het oplossen van smeerproblemen bij tandwielkasten die onder bijzonder moeilijke omstandigheden werken veroorzaakt door zeer hoge en zware schokbelastingen in onder meer de staalindustrie, cementfabrieken, mijnbouw en steengroeven. Hun formulering is aangepast aan toepassingen welke een zeer hoog 'extreme pressure' prestatieniveau vereisen.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_omala_s3_gp_yellow.png",
+  "valueRecord": [],
+  "commerce": null
+}

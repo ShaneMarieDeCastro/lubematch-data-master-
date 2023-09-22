@@ -1,0 +1,98 @@
+{
+  "id": "001H5439",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix Ultra ECT C5 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/22c0a577-be42-4d6b-9c93-e1283e052ecb.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) EN TDG V1.2 14-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631703.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Italy IT 140007645406 EHS V1.4 17-AUG-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631702.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Italy EN 140007645406 EHS V1.4 17-AUG-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/0ee67db0-c392-4dcd-9534-981888824c01.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Italy IT TDG V1.2 18-Oct-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5439_002YAN_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550056346",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5439_002YAP_EURO",
+      "name": "Bottiglia 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550056348",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "BMW Longlife-17 FE+",
+      "organisation": "BMW",
+      "spec": "Longlife-17 FE+"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.71",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.71"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra ECT C5 offre la più avanzata tecnologia compatibile con i sistemi di trattamento dei gas di scarico che aiuta a mantenere puliti i filtri antiparticolato diesel, preservando le prestazioni del motore. Aiuta a ridurre gli attriti del motore per fornire un risparmio di carburante superiore.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550056348_Shell_Helix_Ult_ECT_C5_0W-20_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

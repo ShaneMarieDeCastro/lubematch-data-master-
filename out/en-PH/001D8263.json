@@ -1,0 +1,95 @@
+{
+  "id": "001D8263",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Spirax S2 G 140",
+  "description": "High Quality API GL-4 Oil for Manual Transmissions and Gear Sets",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "off highway",
+    "on highway",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_G_140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 G 140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/74e2dc3b-e7ac-49ff-b8cf-f0cd6ff71999.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 G 140 Philippines EN TDG V1.1 11-Jul-2014",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02232157.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 G 140 Philippines EN 140001435525 EHS V1.6 03-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8263_002VNC_A227",
+      "name": "Pail 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550024925",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8263_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550024987",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 G 140 is an automotive gear lubricant containing multi-functional additives required for mild extreme pressure conditions",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

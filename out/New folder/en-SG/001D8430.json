@@ -1,0 +1,82 @@
+{
+  "id": "001D8430",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Gadus S4 V460D 2",
+  "description": "Advanced Multipurpose Heavy Duty Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "lithium",
+    "moly"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/54728f7f-e9af-4706-ad33-d983e6c2ab1a.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 V460D 2 EN TDG V1.3 23-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580634.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V460D 2 Singapore EN 140001435547 EHS V4.1 03-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/c1e88d56-c1fe-4267-8f1e-30622e1f63a3.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 V460D 2 Singapore EN TDG V1.3 23-May-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8430_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006082",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8430_002VH7_A227",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550027066",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8430_002WWC_A227",
+      "name": "Intermediate Bulk Containers 770 kg Local (Fluid Bag) Fabric White (1)",
+      "size": "770",
+      "uom": "kg",
+      "pack": "IBC",
+      "materialCode": "550043610",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 V460D Grease is high performance high temperature grease for slow moving heavily loaded pins, bushes and large bearings subject to shock loads. They are based on PAO synthetic oil and high viscosity index mineral oil and a lithium complex soap thickener. Apart from containing the latest additives to ensure excellent high temperature, anti corrosion & anti oxidation performance, they also contain solids to ensure the grease can handle shock loads. The enhancement of PAO synthetic base oil allows the grease to be pumped and perform in lubrication systems at much lower temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

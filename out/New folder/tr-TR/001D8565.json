@@ -1,0 +1,87 @@
+{
+  "id": "001D8565",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Gadus S1 V160 2",
+  "description": "Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "lithium"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/e540d797-ff09-4ae1-9bcf-2d90ad6431b0.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V160 2 EN TDG V2.2 21-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319709.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160 2 Turkey EN 140003791542 EHS V1.5 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319710.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160 2 Turkey TR 140003791542 EHS V1.5 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/352b447f-619e-471c-b011-7e7646451ef1.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V160 2 Turkey TR TDG V2.2 29-Nov-2018",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8565_002VH7_A246",
+      "name": "Fıçı 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kilogram",
+      "pack": "Fıçı",
+      "materialCode": "550028213",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8565_002X62_A10E",
+      "name": "Küvet 1 kg Cylindrical Plastic Black (12)",
+      "size": "1",
+      "uom": "kilogram",
+      "pack": "Küvet",
+      "materialCode": "550033050",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8565_002XD7_A246",
+      "name": "Kova 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kilogram",
+      "pack": "Kova",
+      "materialCode": "550028214",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

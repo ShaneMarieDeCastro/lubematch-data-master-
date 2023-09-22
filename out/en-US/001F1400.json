@@ -1,0 +1,67 @@
+{
+  "id": "001F1400",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Platinum Gear 75W-90",
+  "description": "Premium SAE 75W-90 synthetic MTF and Gear Oil for API GL-4",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Platinum_Gear_75W-90_(GL-4)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Platinum Gear 75W-90 (GL-4) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562973.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Platinum Gear 75W-90 (GL-4) United States EN 140002686046 EHS V1.2 27-MAR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_States_Pzl_Platinum_Gear_75W-90_(GL-4)_(en-US)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Pzl Platinum Gear 75W-90 (GL-4) United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1400_002W5M_A1WJ",
+      "name": "Pail 33 lb O/H Plastic White, Black (1)",
+      "size": "33",
+      "uom": "lb",
+      "pack": "Pail",
+      "materialCode": "550042103",
+      "margin": "10.6276400186315",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

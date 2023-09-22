@@ -1,0 +1,90 @@
+{
+  "id": "001D8528",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S4 V45AC 00/000",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van synthetische olie zonder 'EP additieven",
+  "applicationKeys": [
+    "advanced",
+    "automotive",
+    "buses",
+    "centralised chassis lubrication",
+    "centralised lubrication",
+    "industrial",
+    "lithium calcium",
+    "multipurpose",
+    "pneumatic tools",
+    "semifluid",
+    "trucks",
+    "water resistance",
+    "water tolerant"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00/000",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5be8fb75-55c6-479c-837a-f0570957b2a2.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 V45AC 00/000 EN TDG V2.4 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/67b2fafd-0337-4364-8be8-e5ab90b3e030.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 V45AC 00/000 Netherlands NL TDG V2.4 28-Oct-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573368.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V45AC 00/000 Netherlands NL 140002783873 EHS V3.3 09-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573367.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V45AC 00/000 Netherlands EN 140002783873 EHS V3.3 09-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8528_002XEC_A246",
+      "name": "Emmer 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028120",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 264.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "264"
+    },
+    {
+      "name": "MAN 283 Li-P 00/000",
+      "organisation": "MAN",
+      "spec": "283 Li-P 00/000"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 V45AC is een vloeibaar vet voor centrale vetsmeersystemen. Dit vet is samengesteld uit zeer geraffineerde minerale basisoliën en synthetische oliën, een selectie van  zorgvuldig geselecteerde additieven waaronder 'EP'extreme-pressure voor een uitstekende bescherming onder alle omstandigheden.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

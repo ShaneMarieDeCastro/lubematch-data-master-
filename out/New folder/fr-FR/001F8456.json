@@ -1,0 +1,109 @@
+{
+  "id": "001F8456",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Omala S4 GXV 68",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "enclosed gear",
+    "ep",
+    "extra long life",
+    "extreme pressure",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "paints and sealants",
+    "seal compatibility",
+    "splash lubricated bearings",
+    "system efficiency",
+    "wide temperature range"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/60557161-1d2e-4967-8e3a-709d17a49bd8.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GXV 68 EN TDG V1.8 19-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/bafbfb90-5a20-4913-a95c-738a64481f5b.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GXV 68 France FR TDG V1.7 21-Dec-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487675.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 68 France EN 140003182031 EHS V1.1 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488278.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 68 France FR 140003182031 EHS V1.1 21-SEP-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8456_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550047084",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GXV 68 est une huile synthétique pour engrenages industriels. Elle offre des performances de lubrification exceptionnelles en conditions de service sévères, notamment grâce à une grande résistance au micro-pitting pour une protection optimale des engrenages, une longue durée de vie du produit, des coefficients de frottement réduits et une excellente compatibilité avec les élastomères. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

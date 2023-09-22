@@ -1,0 +1,143 @@
+{
+  "id": "001D7866",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Air Tool Oil S2 A 100",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": null,
+  "category": "Rockdrill and Pneumatic Tool Lubricants",
+  "applicationKeys": [
+    "bearing",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "plain",
+    "trunnion"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/18952fa6-12ab-4c59-a506-6b36bc4a5306.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 100 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02517782.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 Turkey TR 140003791542 EHS V1.7 19-JAN-2023",
+      "language": "TR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/6908ab65-077b-499e-a6b6-26e14fd17251.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 100 Turkey TR TDG V2.2 08-Sep-2018",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02517783.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 100 Turkey EN 140003791542 EHS V1.7 19-JAN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7866_002VSH_A1P5",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550027207",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7866_002VNA_A1P5",
+      "name": "Kova 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550027215",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    },
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Air Tool S2 A, darbeli tiplerde dahil olmak üzere her türlü pnömatik aletin en zorlu çalışma koşulları altındaki gereksinimlerini karşılamak üzere geliştirilmiştir. Pnömatik delici mekanizmalarının kullanıldığı en zorlu şartlarda yüksek dayanım ve verimli yağlama sağlar. Ayrıca yüksek hava basıncı ile çalışan araçlarda oil-mist yöntemiyle mükemmel yağlama sağlar.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "11.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "102"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ISO 2592 (COC)",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "241"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "884"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

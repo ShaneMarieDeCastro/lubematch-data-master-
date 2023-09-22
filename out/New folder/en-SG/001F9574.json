@@ -1,0 +1,100 @@
+{
+  "id": "001F9574",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Tellus S2 MX 100 (Fine)",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "better system efficiency",
+    "extended life",
+    "extreme performance",
+    "factory applications",
+    "high tost",
+    "hm",
+    "industrial",
+    "industrial hydraulics",
+    "manufacturing",
+    "marine",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/abb88915-1675-4cec-8f2b-bc2394e76d6f.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 MX 100 (Fine) (2016) EN TDG V4.2 02-Nov-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580108.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 MX 100 (Fine) (2016) Singapore EN 140001435547 EHS V1.2 23-AUG-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9574_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010045",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9574_002VJV_A227",
+      "name": "IBC 1000 L Plastic W (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550045121",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Eaton E-FDGN-TB002-E",
+      "organisation": "Eaton",
+      "spec": "E-FDGN-TB002-E"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 MX fluids are high performance hydraulic fluids based on Group II base oils that provide outstanding protection and performance in most manufacturing and many mobile equipment operations. They resist breakdown under heat or mechanical stress and help prevent damaging deposit formation that can decrease the efficiency of your hydraulic power system.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

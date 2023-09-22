@@ -1,0 +1,83 @@
+{
+  "id": "001I5518",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Water-Glycol Buffer",
+  "description": "Water Glycol Hydraulic Oil - Buffer",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4fed2b6e-542c-4aa1-b415-18ee1a5c97a7.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol Buffer EN TDG V1.1 17-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291462.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol Buffer Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291461.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol Buffer Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/42505c7c-9dfb-42ed-97ea-e321357f72ff.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol Buffer Canada FR TDG V1.1 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/6097da1f-9d54-4223-a98b-357e88ce8e78.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol Buffer Canada EN TDG V1.1 17-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5518_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057093",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5518_002VOM_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550057094",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,84 @@
+{
+  "id": "001G5060",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Gadus S5 V460C 00",
+  "description": "Advanced Fully Synthetic Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Automotive Grease",
+  "applicationKeys": [
+    "coloured",
+    "lithium"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/80084ee0-0b53-43ab-b7e5-6b4aa9613f6b.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V460C 00 EN TDG V1.0 22-May-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543103.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V460C 00 Canada EN 140006579500 EHS V2.0 22-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02543104.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V460C 00 Canada FR 140006579500 EHS V2.0 22-MAR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/f8f2c262-ee27-46b2-9661-44e1894311e7.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V460C 00 Canada EN TDG V1.0 08-Feb-2018",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/70da5455-fe0e-4c7f-9151-f86d69cd6421.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V460C 00 Canada FR TDG V1.0 13-Feb-2018",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5060_002VKN_NAMD",
+      "name": "Keg 50 kg O/H Steel + Liner Shell Red, Shell Yellow(1) WL",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550048880",
+      "margin": "2.62658181035673",
+      "packShot": ""
+    },
+    {
+      "code": "001G5060_002XEC_NAMD",
+      "name": "Pail 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550048881",
+      "margin": "2.63409511840303",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V460C 00 is a multipurpose extreme pressure lithium complex grease for a wide range of bearing lubrication applications. It is based on high viscosity synthetic base oil, PAO, and a lithium complex soap thickener with the latest in additive technology. It has excellent thermal stability and operates very well across both high and low temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

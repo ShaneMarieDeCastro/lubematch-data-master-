@@ -1,0 +1,61 @@
+{
+  "id": "001C9591",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix HX3 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_HX3_(SJ_CF)_(en)_TDS_v2.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix HX3 15W-40 (SJ/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486719.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 15W-40 (SJ/CF) France EN 140003182031 EHS V1.5 21-JUN-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486718.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX3 15W-40 (SJ/CF) France FR 140003182031 EHS V1.5 21-JUN-2016",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX3 has been formulated with cleansing technology to stop dirt and sludge building up and therefore help protect and prolong the life of the engine.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

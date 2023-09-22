@@ -1,0 +1,124 @@
+{
+  "id": "001E9385",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix HX7 Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8a0bf1f7-9a8e-459b-8a03-5c6ed73b284b.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) EN TDG V1.6 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497699.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Spain EN 140003966322 EHS V1.3 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/808b23ef-cab3-4f8b-aaa8-ca284c914557.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Spain ES TDG V1.6 25-Oct-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497700.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Spain ES 140003966322 EHS V1.3 06-DEC-2022",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9385_002WPC_EURO",
+      "name": "Botella 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550046287",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002W22_EURO",
+      "name": "Botella 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550046589",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550040410",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "ILSAC GF-2",
+      "organisation": "ILSAC",
+      "spec": "GF-2"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "Ford WSS-M2C913-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-A"
+    },
+    {
+      "name": "Ford WSS-M2C913-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-B"
+    },
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Diseñado para cumplir los exigentes requerimientos de los fabricantes de motores de elevado rendimiento, incluyendo Ford y aquellos motores que requieren especificaciones API SJ, ILSAC GF-2 o ACEA A1/B1.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX7_5W-30_AF_5L.png",
+  "valueRecord": [],
+  "commerce": null
+}

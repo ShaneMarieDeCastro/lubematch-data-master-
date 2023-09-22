@@ -1,0 +1,84 @@
+{
+  "id": "001D8394",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Refrigeration Oil S4 FR-F 32",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Oliën voor koelcompressoren",
+  "applicationKeys": [
+    "bearing",
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8d9d1c52-0232-47e4-b92d-911cc2f5c74c.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 32 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/b9e3e372-7f9c-422f-b6a0-97061c731c68.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Netherlands NL TDG V1.2 17-Oct-2019",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574684.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Netherlands NL 140002783873 EHS V1.7 15-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574723.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 32 Netherlands EN 140002783873 EHS V1.7 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8394_002VO8_A1P5",
+      "name": "Emmer 20 L T/H Steel Shell Yellow (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550025695",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F is een synthetische olie voor koelcompressoren op basis van polyolesters, ontwikkeld voor gebruik met koelgassen R134a en andere HFC's.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

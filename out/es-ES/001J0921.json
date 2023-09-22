@@ -1,0 +1,87 @@
+{
+  "id": "001J0921",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Coolant Longlife Plus Ready to Use",
+  "description": "Premium antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Refrigerantes / anticongelante - concentrado",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/4938ef1d-f8e0-409c-9d10-de039f4bfe4a.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Plus Ready to Use (Mediterranean) EN TDG V1.5 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/33141a4a-cc4f-48b6-b049-0ce38aa9b8d2.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Longlife Plus Ready to Use (Mediterranean) Spain ES TDG V1.5 21-Jun-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599560.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Plus Ready to Use (Mediterranean) Spain ES 140003966322 EHS V2.1 16-JUN-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599581.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Plus Ready to Use (Mediterranean) Spain EN 140003966322 EHS V2.1 16-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0921_002VJW_A863",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550061769",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0921_002VSH_A863",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550061770",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0921_002VWL_A863",
+      "name": "Botella 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550061771",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

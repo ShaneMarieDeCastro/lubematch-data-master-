@@ -1,0 +1,134 @@
+{
+  "id": "001D8426",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S3 High Speed Coupling Grease",
+  "description": "Premium Gear Coupling Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "ep",
+    "extreme pressure",
+    "flexible gear couplings",
+    "gear coupling",
+    "hi speed coupling",
+    "high speed coupling",
+    "high temperature",
+    "industrial",
+    "lithium complex",
+    "marine",
+    "premium"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_High_Speed_Coupling_Grease_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 High Speed Coupling Grease English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02623557.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 High Speed Coupling Grease Germany DE 140001492039 EHS V4.4 25-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/641e2425-9929-4038-874d-49393791a329.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 High Speed Coupling Grease Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02623556.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 High Speed Coupling Grease Germany EN 140001492039 EHS V4.4 25-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8426_002VME_A1P5",
+      "name": "Eimer 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028096",
+      "margin": "2.05833329094781",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 High Speed Coupling Grease ist ein spezielles Schmierfett  für flexible Zahnkupplungen. Es basiert auf einem hochviskosen Mineralöl und einem Lithiumkomplex-Seifeneindicker.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI-Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "1"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Dunkelbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithiumkomplex"
+    },
+    {
+      "property": "Grundöltyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71/ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "700"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71/ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "34"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50/ASTM D217",
+      "uom": "@25 °C",
+      "units": "0,1 mm",
+      "value": "310-340"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": ">150 °C"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

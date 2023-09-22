@@ -1,0 +1,55 @@
+{
+  "id": "001E7848",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell ATF D97",
+  "description": "Automatic transmission fluid for Mercedes-Benz passenger car automatic transmissions",
+  "family": "Daimler FFO",
+  "parentCategory": "",
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_ATF_D97_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "ATF D97 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562907.PDF",
+      "type": "LMSDS",
+      "name": "ATF D97 United States EN 140002686046 EHS V1.2 04-MAR-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Mercedes-Benz DBL 6624.50",
+      "organisation": "Mercedes-Benz",
+      "spec": "DBL 6624.50"
+    },
+    {
+      "name": "MB-Approval 236.16",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.16"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ATF D97 is a premium technology automatic transmission fluid for the latest generation of Mercedes-Benz 9-speed automatic transmissions (9G-Tronic).",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

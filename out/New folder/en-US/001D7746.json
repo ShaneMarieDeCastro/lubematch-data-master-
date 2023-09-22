@@ -1,0 +1,194 @@
+{
+  "id": "001D7746",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Tellus S2 M 100",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "antiwear",
+    "aviation turbines",
+    "axle",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "engine",
+    "factory applications",
+    "final drive",
+    "fixed",
+    "gas turbines",
+    "gearbox",
+    "gerotor pump",
+    "hm",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "journal",
+    "manufacturing",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "natural gas",
+    "non shiftable",
+    "off highway",
+    "offshore",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller tapered",
+    "rollers",
+    "rotary vane",
+    "screw pump",
+    "servo",
+    "slew",
+    "stationary",
+    "steam",
+    "swing drive",
+    "transmissions",
+    "turbine",
+    "vacuum pumps",
+    "variable",
+    "water",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e6389ff3-8776-42b0-9301-83adc35a623b.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 M 100 EN TDG V4.0 20-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563457.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 M 100 United States EN 140002686046 EHS V1.5 01-OCT-2018",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/b5cbe490-95d4-4073-b93f-da5ab5bb22d8.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 M 100 United States EN TDG V3.9 09-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Bosch RD 90220-01",
+      "organisation": "Bosch",
+      "spec": "RD 90220-01"
+    },
+    {
+      "name": "ASTM D6158-05 HM",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HM"
+    },
+    {
+      "name": "ISO 11158 HM Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HM Fluid"
+    },
+    {
+      "name": "GB 111181-1-94 HM",
+      "organisation": "GB",
+      "spec": "111181-1-94 HM"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "Bosch RD 90220-01/04.11",
+      "organisation": "Bosch",
+      "spec": "RD 90220-01/04.11"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 M fluids are high performance hydraulic fluids that use Shell's unique patented technology to provide outstanding protection and performance in most manufacturing and many mobile equipment operations. They resist breakdown under heat or mechanical stress and help prevent damaging deposit formation that can decrease the efficiency of your hydraulic power system.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "100"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HM"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@0°C",
+      "units": "cSt",
+      "value": "1790"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11.1"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "96"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "891"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

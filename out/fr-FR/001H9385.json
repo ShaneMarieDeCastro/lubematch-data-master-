@@ -1,0 +1,72 @@
+{
+  "id": "001H9385",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Mysella S7 N Ultra 40",
+  "description": "Premium Stationary Gas Engine Oil for Ultra Extended Oil Life",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Moteur à gaz stationnaire",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "low ash",
+    "natural gas",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f5999273-152f-4493-b2ee-7b31e9e40067.pdf",
+      "type": "GTDS",
+      "name": "Mysella S7 N Ultra 40 EN TDG V1.4 14-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607997.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S7 N Ultra 40 France EN 140003182031 EHS V1.4 03-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/07554e81-3ab0-4ec8-8882-c13bafcf2eb3.pdf",
+      "type": "LTDS",
+      "name": "Mysella S7 N Ultra 40 France FR TDG V1.4 15-Apr-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02607916.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S7 N Ultra 40 France FR 140003182031 EHS V1.4 03-JUL-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H9385_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550055080",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S7 N Ultra est une huile de très hautes performances destinée aux moteurs à gaz à 4 temps à allumage commandé et plus particulièrement ceux équipés de pistons en acier. Le moteur reste particulièrement propre en service et les intervalles de vidange sont fortement prolongés grâçe à une haute technologie spécifique.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

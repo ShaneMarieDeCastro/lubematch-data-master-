@@ -1,0 +1,60 @@
+{
+  "id": "001A9109",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Advance VSX 2 (FC/EGD)",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/39b8e8eb-4aa9-4e8e-835e-06f284414e42.pdf",
+      "type": "GTDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) EN TDG V1.4 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552641.PDF",
+      "type": "LMSDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) Ireland EN 140007731156 EHS V2.5 12-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    },
+    {
+      "name": "JASO FC - Meets smoke emission standard",
+      "organisation": "JASO",
+      "spec": "FC - Meets smoke emission standard"
+    },
+    {
+      "name": "JASO FC",
+      "organisation": "JASO",
+      "spec": "FC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance VSX 2 is a synthetic based lubricant specifically designed for excellent engine protection and performance in 2-stroke motorcycle engines. It guarantees superior control against exhaust system blocking and minimises exhaust smoke. Shell Advance VSX 2 is suitable both for all oil-injection and premix systems and exceeds the requirements of leading manufacturers.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_VSX_2T_1L_600059313.png",
+  "valueRecord": [],
+  "commerce": null
+}

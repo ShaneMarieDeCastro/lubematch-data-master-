@@ -1,0 +1,61 @@
+{
+  "id": "001E2770",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Ondina X 415",
+  "description": "High Quality Medicinal White Oil",
+  "family": "Ondina",
+  "parentCategory": "Andere Industrieschmierstoffe",
+  "category": "Medizinische Weißöle",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f4df6b02-b508-4914-9487-8ab8a572cbc1.pdf",
+      "type": "GTDS",
+      "name": "Ondina X 415 EN TDG V1.7 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555028.PDF",
+      "type": "LMSDS",
+      "name": "Ondina X 415 Germany EN 140001492039 EHS V2.1 17-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555029.PDF",
+      "type": "LMSDS",
+      "name": "Ondina X 415 Germany DE 140001492039 EHS V2.1 17-APR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2770_002VSH_A1P5",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550035291",
+      "margin": "5.62801435005152",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Ondina X 415 is a hydrocarbon fluid based on Shell Gas-to-Liquid Technology. It is fully saturated with a high degree of iso paraffinic structures. Shell Ondina X 415 fulfills the stringent international pharmacopoeia purity requirements.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

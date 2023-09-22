@@ -1,0 +1,167 @@
+{
+  "id": "001D5687",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "HD Phosphate Free Antifreeze/Coolant 50/50",
+  "description": "Heavy duty phosphate free antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Diluted",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/235cf932-c06f-43ff-8a42-712bd8603be0.pdf",
+      "type": "GTDS",
+      "name": "HD Phosphate Free Antifreeze/Coolant 50/50 EN TDG V1.4 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563293.PDF",
+      "type": "LMSDS",
+      "name": "HD Phosphate Free Antifreeze/Coolant 50/50 United States EN 140002686046 EHS V2.1 19-JUN-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/91f642e6-8e07-48e2-8560-866ab7db3e98.pdf",
+      "type": "LTDS",
+      "name": "HD Phosphate Free Antifreeze/Coolant 50/50 United States EN TDG V1.4 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D5687_002VIX_NAMD",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550049186",
+      "margin": "0.249540856979712",
+      "packShot": ""
+    },
+    {
+      "code": "001D5687_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500004752",
+      "margin": "0.149534296601001",
+      "packShot": ""
+    },
+    {
+      "code": "001D5687_002V2M_NAMD",
+      "name": "Bottle 1 Gal Rotella Black (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550049185",
+      "margin": "0.382972793424691",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar EC-1",
+      "organisation": "Caterpillar",
+      "spec": "EC-1"
+    },
+    {
+      "name": "Ford ESE-M97B44-A",
+      "organisation": "Ford",
+      "spec": "ESE-M97B44-A"
+    },
+    {
+      "name": "ASTM D4985",
+      "organisation": "ASTM",
+      "spec": "D4985"
+    },
+    {
+      "name": "JI Case JIC501",
+      "organisation": "JI Case",
+      "spec": "JIC501"
+    },
+    {
+      "name": "Waukesha 4-1947D",
+      "organisation": "Waukesha",
+      "spec": "4-1947D"
+    },
+    {
+      "name": "Navistar MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)",
+      "organisation": "Navistar",
+      "spec": "MPAPS B-1 Type IIIA (formerly Int CEMS B-1 Type IIIA)"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "John Deere H24C1",
+      "organisation": "John Deere",
+      "spec": "H24C1"
+    },
+    {
+      "name": "TMC RP 351",
+      "organisation": "TMC RP",
+      "spec": "351"
+    },
+    {
+      "name": "International Truck and Engine B1 Type II",
+      "organisation": "International Truck and Engine",
+      "spec": "B1 Type II"
+    },
+    {
+      "name": "General Motors GM 1899M",
+      "organisation": "General Motors",
+      "spec": "GM 1899M"
+    },
+    {
+      "name": "ASTM D6210",
+      "organisation": "ASTM",
+      "spec": "D6210"
+    },
+    {
+      "name": "General Motors GM 1825M",
+      "organisation": "General Motors",
+      "spec": "GM 1825M"
+    },
+    {
+      "name": "TMC RP 302B",
+      "organisation": "TMC RP",
+      "spec": "302B"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K217",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K217"
+    },
+    {
+      "name": "John Deere H24B1",
+      "organisation": "John Deere",
+      "spec": "H24B1"
+    },
+    {
+      "name": "TMC RP 329",
+      "organisation": "TMC RP",
+      "spec": "329"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell HD Phosphate Free Antifreeze/Coolant 50/50 is a phosphate free, fully formulated antifreeze/coolant (AFC) pre-charged with supplemental coolant additives (SCAs) and pre-diluted to a 50/50 premix level with high quality water.  DO NOT DILUTE - No further water dilution is needed under normal circumstances. This product meets key requirements of engine manufacturers such as Detroit Diesel who specify phosphate free AFC as well as meeting the needs where ASTM D6210, conventional, fully formulated AFCs are needed.  Shell HD Phosphate Free AFC 50/50 is amine free. When used with recommended monitoring and maintenance with SCAs, Shell HD Phosphate Free AFC 50/50 will provide the vehicle manufacturer’s recommended service life for conventional fully formulated AFC. This product is not recommended for passenger cars unless specifically recommended by the manufacturer.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

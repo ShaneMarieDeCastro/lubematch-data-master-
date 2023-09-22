@@ -1,0 +1,72 @@
+{
+  "id": "001E2775",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Risella X 430",
+  "description": "High Quality Technical White Oil",
+  "family": "Risella",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Białe oleje techniczne",
+  "applicationKeys": [
+    "fixed",
+    "heat transfer",
+    "hydraulic system",
+    "pump piston",
+    "rotary vane",
+    "vacuum pumps"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8aa6ba0d-f3a0-4bd2-8592-44cac782e075.pdf",
+      "type": "GTDS",
+      "name": "Risella X 430 EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574553.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 Poland PL 140003791557 EHS V1.8 15-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574545.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 430 Poland EN 140003791557 EHS V1.8 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/cf0d781a-9f59-412b-a956-4adf27d9126a.pdf",
+      "type": "LTDS",
+      "name": "Risella X 430 Poland PL TDG V2.3 15-Mar-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2775_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550031570",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Risella X 430  to oleje węglowodorowe otrzymane z użyciem technologii Shell GtL (Gas-to-Liquid). Jest to mieszanina węglowodorów nasyconych z wysokim udziałem izoparafin cechująca się prawie całkowitym brakiem zapachu i stabilnym kolorem. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

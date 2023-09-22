@@ -1,0 +1,154 @@
+{
+  "id": "001D7228",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "FormulaShell SAE 5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f207ecd6-0d9a-4f90-a044-c699a21729a8.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell 5W-20 EN TDG V1.4 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/d9abe0fc-bace-4a3c-a049-d454a7020eb4.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 5W-20 Canada EN TDG V1.4 05-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02409310.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 5W-20 Canada EN 140006579500 EHS V2.11 10-MAR-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cac36636-07a6-4e8d-85be-dbe8d2b52ff8.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 5W-20 Canada FR TDG V1.4 13-Dec-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02409453.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 5W-20 Canada FR 140006579500 EHS V2.11 10-MAR-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7228_002XMG_A0IK",
+      "name": "Bottle 5 L Americas Vigor Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045247",
+      "margin": "0.736690738753141",
+      "packShot": ""
+    },
+    {
+      "code": "001D7228_002VIA_A0IK",
+      "name": "Drum 208 L T/H VW Y (1)",
+      "size": "208",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550023687",
+      "margin": "0.508748074219061",
+      "packShot": ""
+    },
+    {
+      "code": "001D7228_002XO4_A0IK",
+      "name": "Bottle 0.946 L Americas Tool Plastic White (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550049470",
+      "margin": "0.74584500647483",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "Ford WSS-M2C945-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Ford WSS-M2C930-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C930-A - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "FormulaShell^® Motor Oil is formulated to provide wear protection and helps protect against the formation of sludge, varnish and rust.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

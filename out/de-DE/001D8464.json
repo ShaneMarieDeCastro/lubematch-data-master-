@@ -1,0 +1,172 @@
+{
+  "id": "001D8464",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S2 V100 3",
+  "description": "High Performance Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "electric motor bearings",
+    "electric motors",
+    "general industrial lubrication",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium hydroxystearate",
+    "marine",
+    "multipurpose",
+    "plain bearings",
+    "roller bearings",
+    "sealed bearings",
+    "shock load",
+    "water pump bearings",
+    "wide range of operating conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "3",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S2_V100_3_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V100 3 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595127.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 3 Germany EN 140001492039 EHS V3.14 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02595213.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V100 3 Germany DE 140001492039 EHS V3.14 14-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/b2603d38-8be5-4159-80c4-3e98a4d4257a.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V100 3 Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8464_002XM9_EURO",
+      "name": "Kartusche 0.4 kg Local (Kartusche Lube shuttle) Plastic White (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550053029",
+      "margin": "0.176514549037719",
+      "packShot": ""
+    },
+    {
+      "code": "001D8464_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028035",
+      "margin": "0.580213079095717",
+      "packShot": ""
+    },
+    {
+      "code": "001D8464_002XD7_A246",
+      "name": "Eimer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028034",
+      "margin": "1.57760309688659",
+      "packShot": ""
+    },
+    {
+      "code": "001D8464_002VSL_A246",
+      "name": "Fass 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028037",
+      "margin": "1.23166796903595",
+      "packShot": ""
+    },
+    {
+      "code": "001D8464_002VGF_EURO",
+      "name": "Kartusche 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Kartusche",
+      "materialCode": "550053535",
+      "margin": "2.09906736059049",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V100 3 ist ein Mehrzweckfett, basierend auf einem bewährten Lithium-Hydroxystearat Eindicker und Oxidations-, und Verschleißschutz- sowie Korrosionsschutzadditiven.\n\n",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "3"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium-Hydroxystearate"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445 / DIN 51562-1",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445 / DIN 51562-1",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217 / DIN ISO 2137",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "220-250"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

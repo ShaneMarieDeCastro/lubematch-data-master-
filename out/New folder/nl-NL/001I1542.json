@@ -1,0 +1,96 @@
+{
+  "id": "001I1542",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra SP 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/97228f3e-0db0-4be4-8ffe-9814dd3c5b52.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra SP 5W-30 (SP/GF-6A dexos1 gen2) EN TDG V1.4 05-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532773.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 5W-30 (SP/GF-6A dexos1 gen2) Netherlands NL 140002783873 EHS V1.3 02-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532772.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SP 5W-30 (SP/GF-6A dexos1 gen2) Netherlands EN 140002783873 EHS V1.3 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "Honda HTO-06",
+      "organisation": "Honda",
+      "spec": "HTO-06"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Ford WSS-M2C946-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A"
+    },
+    {
+      "name": "General Motors GM 4718M",
+      "organisation": "General Motors",
+      "spec": "GM 4718M"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra SP uses its latest active cleansing technology to help gasoline and light diesel engines operate to their full potential by keeping them as close as possible to factory clean. It provides unsurpassed sludge and wear protection.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

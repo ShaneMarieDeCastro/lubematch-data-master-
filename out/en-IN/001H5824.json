@@ -1,0 +1,131 @@
+{
+  "id": "001H5824",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Helix Taxi 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f299dcf9-b100-4cba-bf25-4339ec6c27fe.pdf",
+      "type": "GTDS",
+      "name": "Shell Helix Taxi 5W-30 (SN PLUS/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637441.PDF",
+      "type": "LMSDS",
+      "name": "Shell Helix Taxi 5W-30 (SN PLUS/CF) India EN 140006501563 EHS V1.0 04-APR-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5824_002WVA_A343",
+      "name": "Bottle 3.5 L Wishbone Plastic White (4)",
+      "size": "3.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052921",
+      "margin": "1.51689262779975",
+      "packShot": ""
+    },
+    {
+      "code": "001H5824_002W2J_A343",
+      "name": "Bottle 4 L Wishbone Plastic White (4)",
+      "size": "4",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052919",
+      "margin": "1.50261697316669",
+      "packShot": ""
+    },
+    {
+      "code": "001H5824_002W1Z_A343",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052918",
+      "margin": "1.48834632248693",
+      "packShot": ""
+    },
+    {
+      "code": "001H5824_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011534",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5824_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550052917",
+      "margin": "0.838593433783291",
+      "packShot": ""
+    },
+    {
+      "code": "001H5824_002WPG_A343",
+      "name": "Bottle 3 L Wishbone Plastic White (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052920",
+      "margin": "1.41146421826235",
+      "packShot": ""
+    },
+    {
+      "code": "001H5824_002WX0_A343",
+      "name": "Bottle 5 L Wishbone Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550052922",
+      "margin": "1.5109732095757",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Taxi 5W-30 is designed particularly for taxi. It helps to keep engines clean and running efficiently by helping to prevent the formation of sludge and engine deposits.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

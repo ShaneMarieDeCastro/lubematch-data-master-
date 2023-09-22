@@ -1,0 +1,155 @@
+{
+  "id": "001D8294",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Spirax S1 ATF TASA",
+  "description": "Quality Type A Suffix A Automatic Transmission and Hydraulic Fluid",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "bearing",
+    "gearbox",
+    "gm type a suffix a",
+    "heavy truck",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "industrial torque convertor",
+    "manual sequential",
+    "marine",
+    "mobile",
+    "non shiftable",
+    "offroad",
+    "offshore",
+    "older passenger car",
+    "plain",
+    "power steering",
+    "powershift",
+    "powershift torque convertors",
+    "pump gear",
+    "screw pump",
+    "semi automatic",
+    "stern tube seal",
+    "torque converters",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S1_ATF_TASA_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S1 ATF TASA English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/09f2df3a-c726-4ffe-992e-e997c19c7d6f.pdf",
+      "type": "LTDS",
+      "name": "Spirax S1 ATF TASA Canada FR TDG V1.1 12-Aug-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/f5b70424-5877-4f8d-944a-eb00d9335e8c.pdf",
+      "type": "LTDS",
+      "name": "Spirax S1 ATF TASA Canada EN TDG V1.1 11-Jul-2014",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290217.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF TASA Canada EN 140006579500 EHS V1.8 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290034.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 ATF TASA Canada FR 140006579500 EHS V1.8 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8294_002VNE_A246",
+      "name": "Pail 20 L Plastic O/H W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027786",
+      "margin": "0.283166408538818",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors Type 'A' Suffix 'A'",
+      "organisation": "General Motors",
+      "spec": "Type 'A' Suffix 'A'"
+    },
+    {
+      "name": "General Motors Type A Suffix A - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Type A Suffix A - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell S1 ATF TASA is a high quality automotive transmission, power steering and hydraulic oil mainly used for heavy-duty vehicles working in an 'off-road' environment.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "40"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "157"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "880"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "170"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "001C3303",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "AeroShell Smoke Oil",
+  "description": "Smoke oil for use in aerobatic aircraft.",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3efce1b3-452b-4f01-a33a-8b4d990e4f4c.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Smoke Oil EN TDG V1.5 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02474625.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Smoke Oil Turkey TR 140003791542 EHS V2.0 09-NOV-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02474624.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Smoke Oil Turkey EN 140003791542 EHS V2.0 09-NOV-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "AeroShell Smoke Oil is a hydocarbon fluid based on Shell Gas-to-Liquid Technology. It is fully saturated with a high degree of iso paraffinic structures. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

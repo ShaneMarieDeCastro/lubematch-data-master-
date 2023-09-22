@@ -1,0 +1,128 @@
+{
+  "id": "001D8291",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Spirax S6 AXME 75W-140",
+  "description": "Superior performance, extended drain synthetic axle oil for  Scania and others",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    "axle",
+    "buses",
+    "differential",
+    "energy efficiency",
+    "extended drain",
+    "extended life",
+    "final drive",
+    "front axle",
+    "fuel efficiency",
+    "gearbox",
+    "heavily loaded axles",
+    "heavy truck",
+    "hydraulic system",
+    "industrial",
+    "low temperature",
+    "maintenance saving",
+    "manual",
+    "manual sequential",
+    "manual transmission",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "powershift",
+    "pump gear",
+    "reduction gears",
+    "semi manual",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6fc4eb79-22a8-455f-a626-ed4c97bf155d.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 AXME 75W-140 EN TDG V2.5 06-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02622991.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 AXME 75W-140 United Kingdom EN 140002340634 EHS V6.3 24-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/63599dc1-3d6b-41c1-8cf3-c4a72a24da81.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 AXME 75W-140 United Kingdom EN TDG V2.5 06-Oct-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8291_002VNF_A1P5",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550027947",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Scania STO 2:0A",
+      "organisation": "Scania",
+      "spec": "STO 2:0A"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "ZF TE-ML 12N",
+      "organisation": "ZF",
+      "spec": "TE-ML 12N"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "ZF TE-ML 05A",
+      "organisation": "ZF",
+      "spec": "TE-ML 05A"
+    },
+    {
+      "name": "ZF TE-ML 16F",
+      "organisation": "ZF",
+      "spec": "TE-ML 16F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 AXME 75W-140 is a unique fuel-efficient, long life transmission and axle oil, designed to provide ultimate protection to the latest heavy duty manual transmissions and axles. Specially formulated with synthetic base oils and additive technology unique for Shell, gives improved lubrication of the drive train, lowers the operating temperature and helps promote longer life for the equipment.  Spirax S6 AXME 75W-140 is also extended oil drain capable and is approved by several OEMs for their extended drain specifications.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

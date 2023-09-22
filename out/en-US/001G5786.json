@@ -1,0 +1,112 @@
+{
+  "id": "001G5786",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Platinum Euro JL SAE 0W-20 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/007270c0-6747-4cf0-b2e5-4ed9a263c475.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum Euro JL SAE 0W-20 Fully Synthetic Motor Oil (JLR 5122) EN TDG V1.2 19-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563149.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum Euro JL SAE 0W-20 Fully Synthetic Motor Oil (JLR 5122) United States EN 140002686046 EHS V1.1 28-MAY-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/d071081f-a8c0-4571-a6e2-69bbcc63d12a.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum Euro JL SAE 0W-20 Fully Synthetic Motor Oil (JLR 5122) United States EN TDG V1.2 19-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5786_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010770",
+      "margin": "2.32670620867355",
+      "packShot": ""
+    },
+    {
+      "code": "001G5786_002X4L_A1WJ",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550049267",
+      "margin": "1.25604824576962",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    },
+    {
+      "name": "ACEA A5/B5 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A5/B5 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR 51.5122",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR 51.5122"
+    },
+    {
+      "name": "ACEA B5 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B5 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA A5 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A5 - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Platinum^® Euro JL with PurePlus™ Technology is a first of its kind full synthetic motor oil made from natural gas and designed for COMPLETE PROTECTION.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

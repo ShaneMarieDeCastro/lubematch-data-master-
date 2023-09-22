@@ -1,0 +1,89 @@
+{
+  "id": "001F5556",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Omala S2 GX 150 (Fine)",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "compatibility with seals and paints",
+    "enclosed gear",
+    "ep",
+    "excellent water separation",
+    "extreme performance",
+    "extreme pressure",
+    "flender foam test",
+    "gears",
+    "heavy duty",
+    "high load",
+    "industrial",
+    "micropitting",
+    "siemens ag",
+    "splash lubricated bearings"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/09ad0dd0-e4c0-4f3e-826c-e313a9c4099e.pdf",
+      "type": "GTDS",
+      "name": "Omala S2 GX 150 (Fine) EN TDG V1.6 18-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/61893a98-3b52-49b4-b190-76aa561d7da4.pdf",
+      "type": "LTDS",
+      "name": "Omala S2 GX 150 (Fine) Singapore EN TDG V1.6 18-Apr-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580143.PDF",
+      "type": "LMSDS",
+      "name": "Omala S2 GX 150 (Fine) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-77",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-77"
+    },
+    {
+      "name": "AGMA EP 9005-F16",
+      "organisation": "AGMA",
+      "spec": "EP 9005-F16"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S2 GX oils are high quality extreme-pressure oils designed primarily for the lubrication of heavy duty industrial gears.  Their high load carrying capacity and anti-friction characteristics combine to offer superior performance in gears.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

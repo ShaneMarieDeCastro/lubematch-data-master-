@@ -1,0 +1,212 @@
+{
+  "id": "001F4540",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Rimula Ultra 5W-30",
+  "description": "Heavy Duty Diesel Engine oil",
+  "family": "Rimula",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - Trazione pesante",
+  "applicationKeys": [
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "hydraulic system",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "mobile",
+    "off highway",
+    "on highway",
+    "pump gear",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c3e4b458-7527-4795-8025-31918a67b6ff.pdf",
+      "type": "GTDS",
+      "name": "Rimula Ultra 5W-30 (CJ-4) EN TDG V2.1 09-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02500767.PDF",
+      "type": "LMSDS",
+      "name": "Rimula Ultra 5W-30 (CJ-4) Italy EN 140007645406 EHS V1.3 07-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/4883f1f0-595e-4c5a-a4e2-031ecd5079f6.pdf",
+      "type": "LTDS",
+      "name": "Rimula Ultra 5W-30 (CJ-4) Italy IT TDG V2.1 10-Feb-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02500765.PDF",
+      "type": "LMSDS",
+      "name": "Rimula Ultra 5W-30 (CJ-4) Italy IT 140007645406 EHS V1.3 07-DEC-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4540_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550044850",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4540_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550044853",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4540_002VNF_A246",
+      "name": "Secchio 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550044854",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "Deutz DQC IV-10 LA",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10 LA"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    },
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Mack EO-O Premium Plus",
+      "organisation": "Mack",
+      "spec": "EO-O Premium Plus"
+    },
+    {
+      "name": "Iveco TLS E6 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "TLS E6 - Meets the requirements"
+    },
+    {
+      "name": "MAN M 3677",
+      "organisation": "MAN",
+      "spec": "M 3677"
+    },
+    {
+      "name": "Renault Trucks RLD-3",
+      "organisation": "Renault Trucks",
+      "spec": "RLD-3"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "Scania LDF-4",
+      "organisation": "Scania",
+      "spec": "LDF-4"
+    },
+    {
+      "name": "MTU Category 3.1",
+      "organisation": "MTU",
+      "spec": "Category 3.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula Ultra è caratterizzato da additivi “Low-SAPS” e da un particolare sistema antiusura. Il potere protettivo è incrementato dalla tecnologia sintetica che consente estesi intervalli manutentivi e risparmio di carburante. Consigliabile per veicoli Euro 4, 5, 6.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

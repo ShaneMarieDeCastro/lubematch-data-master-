@@ -1,0 +1,97 @@
+{
+  "id": "001F9607",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX8 ECT 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/8546887e-ab63-45bb-8ef0-356a217f554a.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) EN TDG V2.7 31-Aug-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319626.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Turkey EN 140003791542 EHS V1.3 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319627.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Turkey TR 140003791542 EHS V1.3 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/tr/06e57405-4e12-48da-82f6-6e2a47704a95.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) Turkey TR TDG V2.7 20-Apr-2018",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell'in en gelişmiş çevreci tekonolojisi kullanılarak üretilen Shell Helix HX8 ECT, dizel partikül filtrelerini temiz tutarak  motorun sürekli yüksek performansla çalışmasını mümkün kılar.  Motordaki sürtünmeyi azaltıcı özelliği ile  üstün yakıt ekonomisi performansı sağlar.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX8_5W-30_ECT_5L_600048380.png",
+  "valueRecord": [],
+  "commerce": null
+}

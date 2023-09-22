@@ -1,0 +1,56 @@
+{
+  "id": "001G6105",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Spirax S6 ATF 134ME",
+  "description": "Automatic transmission fluid for Mercedes Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": "Transmission fluids",
+  "category": "Transmission fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/710b5ebb-af96-4e5f-ba13-c46843677d9e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF 134ME EN TDG V1.3 06-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611039.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME United Kingdom EN 140002340634 EHS V1.3 05-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/b61879e9-cc28-42ef-b1c9-60ca6f077b10.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF 134ME United Kingdom EN TDG V1.3 06-May-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.15",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.15"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF 134ME is a premium technology automatic transmission fluid for the latest generation of Mercedes-Benz 7-speed automatic transmissions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

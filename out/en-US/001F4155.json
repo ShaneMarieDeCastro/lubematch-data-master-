@@ -1,0 +1,162 @@
+{
+  "id": "001F4155",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Spirax S4 AX 80W-90",
+  "description": "Heavy duty automotive gear oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "manual",
+    "manual unsynchronised",
+    "mobile",
+    "off highway",
+    "power steering",
+    "pump gear",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/65a43a04-3638-442b-bb23-d22e39f68d8c.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 AX 80W-90 EN TDG V1.7 08-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563504.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AX 80W-90 United States EN 140002686046 EHS V3.5 26-FEB-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/6a898699-fe60-48e2-9556-03d202997571.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 AX 80W-90 United States EN TDG V1.7 08-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4155_002VND_A1WJ",
+      "name": "Pail 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550043587",
+      "margin": "1.45370185972435",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_002VSH_A1WJ",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550043588",
+      "margin": "0.702301202861055",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_002VL5_A1WJ",
+      "name": "Keg 60 L O/H Steel Shell Yellow (1)",
+      "size": "60",
+      "uom": "L",
+      "pack": "Keg",
+      "materialCode": "550043589",
+      "margin": "1.30441003840112",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_002XEU_A1WJ",
+      "name": "Bottle 1 qt Local (Gear Oil) Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550043594",
+      "margin": "1.05588731827892",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009746",
+      "margin": "0.542820417292851",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "Mack GO-H",
+      "organisation": "Mack",
+      "spec": "GO-H"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "SAE J 2360",
+      "organisation": "SAE",
+      "spec": "J 2360"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 AX 80W-90 is an extreme-pressure (EP) automotive hypoid gear oil designed to exceed the latest performance standards for heavy duty, severe service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

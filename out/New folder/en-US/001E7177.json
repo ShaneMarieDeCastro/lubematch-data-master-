@@ -1,0 +1,76 @@
+{
+  "id": "001E7177",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Mysella S2 Z 30",
+  "description": "Zero Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "",
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "natural gas",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S2_Z_30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 Z 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562466.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 30 United States EN 140002686046 EHS V1.3 25-JUN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/e0a9fbf9-5d76-4a92-b83d-84a548ed406f.pdf",
+      "type": "LTDS",
+      "name": "Mysella S2 Z 30 United States EN TDG V2.2 27-Jan-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7177_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550036600",
+      "margin": "1.09268571005635",
+      "packShot": ""
+    },
+    {
+      "code": "001E7177_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007880",
+      "margin": "0.704221891758914",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 Z is a heavy-duty lubricant for high performance natural gas engines which require an “ash-less” product. Using ash-less technology Shell Mysella S2 Z minimises engine wear, deposits in combustion chambers and exhaust ports and viscosity increase in service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

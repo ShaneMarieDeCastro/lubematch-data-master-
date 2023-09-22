@@ -1,0 +1,76 @@
+{
+  "id": "001C8216",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Helix HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1e08543c-7526-4745-bd2d-c00732fcb71f.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 15W-40 (SL/CF A2/B2) EN TDG V3.3 05-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575525.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SL/CF A2/B2) Malaysia MS 140001435555 EHS V1.3 16-MAY-2023",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02575526.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SL/CF A2/B2) Malaysia EN 140001435555 EHS V1.3 16-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "ACEA A2/B2",
+      "organisation": "ACEA",
+      "spec": "A2/B2"
+    },
+    {
+      "name": "ACEA A2",
+      "organisation": "ACEA",
+      "spec": "A2"
+    },
+    {
+      "name": "ACEA B2",
+      "organisation": "ACEA",
+      "spec": "B2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 is designed to help provide consistent engine performance. It works hard to help protect against engine sludge and reduce wear. It is suitable for a wide variety of vehicles for everyday driving conditions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

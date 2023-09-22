@@ -1,0 +1,200 @@
+{
+  "id": "001A0608",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax MB 90",
+  "description": "High quality axle oil",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Schaltgetriebe- und Getriebeöle",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy truck",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "mercedes benz",
+    "off highway",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/fd951bed-b8ff-42f5-a1e0-958a7a360a73.pdf",
+      "type": "GTDS",
+      "name": "Spirax MB 90 EN TDG V1.1 20-Aug-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/06ababc6-618f-4b7d-bb23-c23422c02afb.pdf",
+      "type": "LTDS",
+      "name": "Spirax MB 90 Germany DE TDG V1.1 14-May-2021",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550767.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MB 90 Germany DE 140001492039 EHS V4.8 11-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550766.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MB 90 Germany EN 140001492039 EHS V4.8 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0608_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500006343",
+      "margin": "0.365873979666925",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 17B",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B"
+    },
+    {
+      "name": "ZF TE-ML 19B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 19B",
+      "organisation": "ZF",
+      "spec": "TE-ML 19B"
+    },
+    {
+      "name": "Volvo 97310",
+      "organisation": "Volvo",
+      "spec": "97310"
+    },
+    {
+      "name": "MB-Approval 235.0 - Meets the service fill requirements",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.0 - Meets the service fill requirements"
+    },
+    {
+      "name": "ZF TE-ML 17B - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17B - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 342 Type M1",
+      "organisation": "MAN",
+      "spec": "342 Type M1"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "ZF TE-ML 16C",
+      "organisation": "ZF",
+      "spec": "TE-ML 16C"
+    },
+    {
+      "name": "ZF TE-ML 21A",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A"
+    },
+    {
+      "name": "MB-Approval 235.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "235"
+    },
+    {
+      "name": "MIL-L-2105B",
+      "organisation": "MIL",
+      "spec": "L-2105B"
+    },
+    {
+      "name": "ZF TE-ML 21A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 21A - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax MB ist ein Hochdruck-Getriebeschmierstoff mit multifunktionalen Additiven für guten Verschleißschutz, Oxidationsstabilität und Korrosionsschutz. Es ist für Getriebe, welche unter erschwerten Last-Drehzahl-Bedingungen betrieben werden, genauso geeignet wie für mittlere und niedrige Geschwindigkeiten bei Verwendung von gerade-, schräg- und spirax-verzahnten Getrieben und Hypoid-Achsantrieben.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse ",
+      "method": "SAE J 306",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "90"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 40°C",
+      "units": "mm²/s",
+      "value": "184"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@ 100°C",
+      "units": "mm²/s",
+      "value": "16.9"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "97"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@ 15°C",
+      "units": "Kg/m³",
+      "value": "909"
+    },
+    {
+      "property": "Flammpunkt COC",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "175"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3106",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

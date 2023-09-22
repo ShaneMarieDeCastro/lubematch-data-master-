@@ -1,0 +1,93 @@
+{
+  "id": "001I5466",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Water-Glycol S2 C 46",
+  "description": "Water Glycol Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1f86762c-dfc7-439a-b5f2-f7bcce6f9bc4.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol S2 C 46 EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/a1556a46-46b7-45dc-8752-647f249feeec.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol S2 C 46 Canada FR TDG V1.1 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290861.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol S2 C 46 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/4df39aff-8ba4-4d35-9321-cd9826a9b9f6.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol S2 C 46 Canada EN TDG V1.1 30-Sep-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291422.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol S2 C 46 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5466_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012331",
+      "margin": "0.36580291515287",
+      "packShot": ""
+    },
+    {
+      "code": "001I5466_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057309",
+      "margin": "0.456398511307608",
+      "packShot": ""
+    },
+    {
+      "code": "001I5466_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057308",
+      "margin": "0.864766614060354",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Water-Glycol S2 C 46 is a fire-resistant hydraulic fluid and is recognized by FM Global as a less flammable industrial fluid. Shell Water-Glycol S2 C 46 was developed and designed specifically to operate at system pressures of 2000-4000 psi depending on pump type (vane or piston). The formulation contains more than a sufficient amount of water to prevent the propagation of fire in the event of a hydraulic line rupture near an ignition source.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

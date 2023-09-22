@@ -1,0 +1,95 @@
+{
+  "id": "001A0607",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Spirax MA 80W",
+  "description": "High quality heavy duty gearbox oil",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Trasmissione manuale e oli ingranaggi",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "manual",
+    "manual unsynchronised",
+    "non shiftable",
+    "off highway",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/826df998-8c45-4fff-8ffd-925caf860dea.pdf",
+      "type": "GTDS",
+      "name": "Spirax MA 80W EN TDG V1.4 04-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/7ef6737b-330b-4f4f-ab31-9c32c2104798.pdf",
+      "type": "LTDS",
+      "name": "Spirax MA 80W Italy IT TDG V1.4 06-May-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551235.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MA 80W Italy EN 140007645406 EHS V1.3 11-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551236.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MA 80W Italy IT 140007645406 EHS V1.3 11-APR-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MAN 341 Type E1",
+      "organisation": "MAN",
+      "spec": "341 Type E1"
+    },
+    {
+      "name": "MAN 341 Type Z1",
+      "organisation": "MAN",
+      "spec": "341 Type Z1"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MB-Approval 235.1",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.1"
+    },
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax MA è un lubrificante per trasmissioni che contiene un pacchetto di aditivi multifunzionali necessari per l'esercizio in condizioni operative moderate.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

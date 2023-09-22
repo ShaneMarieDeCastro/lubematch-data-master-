@@ -1,0 +1,124 @@
+{
+  "id": "001F7714",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Platinum SAE 0W-16 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-16",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/efc7aa1d-4cd3-416e-9dbd-b413c4de0fcb.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum 0W-16 Full Synthetic Motor Oil (SP/GF-6B) EN TDG V1.7 14-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/d37da49d-c73d-4046-8731-9c7eb4d702d5.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum 0W-16 Full Synthetic Motor Oil (SP/GF-6B) Canada FR TDG V1.7 28-Mar-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/2f0884e7-5af1-4351-ba55-7bc3039e76d7.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum 0W-16 Full Synthetic Motor Oil (SP/GF-6B) Canada EN TDG V1.7 14-Mar-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289947.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum 0W-16 Full Synthetic Motor Oil (SN) Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289949.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum 0W-16 Full Synthetic Motor Oil (SN) Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7714_002XO2_A0IK",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550049265",
+      "margin": "2.93059664456028",
+      "packShot": ""
+    },
+    {
+      "code": "001F7714_002XLH_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550049264",
+      "margin": "2.49899391203726",
+      "packShot": ""
+    },
+    {
+      "code": "001F7714_002X5E_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": " Ecobox",
+      "materialCode": "550048977",
+      "margin": "2.02130319454018",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "ILSAC GF-6B",
+      "organisation": "ILSAC",
+      "spec": "GF-6B"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Platinum^® avec la technologie PurePlus™ est une première huile moteur entièrement synthétique à base de gaz naturel et conçue pour une PROTECTION COMPLÈTE pour des performances de moteur optimales. Formulé pour les moteurs turbo modernes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

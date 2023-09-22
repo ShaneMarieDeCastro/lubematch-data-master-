@@ -1,0 +1,124 @@
+{
+  "id": "001H1059",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Alexia 40",
+  "description": "MCL for use in two-stroke low speed diesel engines. Alexia 40 is a BN40, SAE 50 cylinder oil.",
+  "family": "Alexia",
+  "parentCategory": "Smeermiddelen voor marine",
+  "category": "Motoroliën - Cilinder en smeersysteem",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/204f33da-1105-4eb7-b249-03690cb59501.pdf",
+      "type": "GTDS",
+      "name": "Alexia 40 EN TDG V1.0 21-Dec-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532564.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 40 Netherlands EN 140002783873 EHS V1.9 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532767.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 40 Netherlands NL 140002783873 EHS V1.9 02-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/c9583a0d-e9f9-4fdf-b277-596a266d0d90.pdf",
+      "type": "LTDS",
+      "name": "Alexia 40 Netherlands NL TDG V1.0 18-Jul-2019",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H1059_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550052326",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 40 is een cilinderolie ontwikkeld voor gebruik in tweetakt dieselmotoren met lage snelheid die draaien op brandstoffen met een laag zwavelgehalte. Shell Alexia 40 heeft een BN van 40 en is een SAE 50 cilinderolie samengesteld met bewezen en betrouwbare technologie.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Index",
+      "method": "DIN ISO 2909",
+      "uom": "",
+      "units": "minimum",
+      "value": "95"
+    },
+    {
+      "property": "Density",
+      "method": "DIN EN ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "915"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C maximum",
+      "value": "-20"
+    },
+    {
+      "property": "BN",
+      "method": "ISO 3771",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "40"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "Calculated Sulphated Ash",
+      "uom": "",
+      "units": "% wt",
+      "value": "5.2"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "18.5"
+    },
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "50"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

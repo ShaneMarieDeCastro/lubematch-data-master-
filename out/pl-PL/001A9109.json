@@ -1,0 +1,83 @@
+{
+  "id": "001A9109",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Advance VSX 2 (FC/EGD)",
+  "description": "Motorcycle 2 stroke engine oil",
+  "family": "Advance",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - motocyklowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/39b8e8eb-4aa9-4e8e-835e-06f284414e42.pdf",
+      "type": "GTDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) EN TDG V1.4 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551706.PDF",
+      "type": "LMSDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) Poland EN 140003791557 EHS V2.6 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02551707.PDF",
+      "type": "LMSDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) Poland PL 140003791557 EHS V3.6 12-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/cfe0ce1a-66b6-4453-aa01-4f8715cc6306.pdf",
+      "type": "LTDS",
+      "name": "Advance VSX 2 (FC/EGD) (undyed prediluted) Poland PL TDG V1.4 24-Oct-2018",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9109_002WKZ_EURO",
+      "name": "Butelka 1 L Wishbone Plastic Advance Green (12)",
+      "size": "1",
+      "uom": "l",
+      "pack": "Butelka",
+      "materialCode": "550053703",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    },
+    {
+      "name": "JASO FC",
+      "organisation": "JASO",
+      "spec": "FC"
+    },
+    {
+      "name": "JASO FC - Meets smoke emission standard",
+      "organisation": "JASO",
+      "spec": "FC - Meets smoke emission standard"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance VSX 2 jest zawierającym dodatek bazy sytetycznej olejem zapewniającym doskonałą ochronę i osiągnięcia dwusuwowym silnikom motocyklowym. Zapewnia doskonałą ochronę przed blokowaniem układu wydechowego i minimalizuje ilość gazów wydechowych. Jest on odpowiedni zarówno dla silników smarowanych mieszanką paliwo/olej jak i z systemem bezpośredniego wtrysku oleju przewyższając wymagania wiodoących producentów.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_VSX_2T_1L_600059313.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,87 @@
+{
+  "id": "001I6565",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Coolant Essential Concentrate",
+  "description": "Conventional antifreeze/coolant concentrate",
+  "family": "Antifreeze",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Refrigerante/Antigelo - Concentrato",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b72d85ec-54f3-4c97-a43f-91b79b707723.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Essential Concentrate (Mediterranean) EN TDG V1.5 20-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572812.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Essential Concentrate (Mediterranean) Italy IT 140007645406 EHS V3.0 02-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572811.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Essential Concentrate (Mediterranean) Italy EN 140007645406 EHS V3.0 02-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/82b2e45e-cb27-4447-892f-d271ada2afb9.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Essential Concentrate (Mediterranean) Italy IT TDG V1.5 04-May-2021",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I6565_002VWL_A863",
+      "name": "Bottiglia 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550061756",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6565_002VSH_A863",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550061755",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I6565_002VJW_A863",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550061754",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

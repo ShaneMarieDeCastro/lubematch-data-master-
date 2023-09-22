@@ -1,0 +1,73 @@
+{
+  "id": "001I1038",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Diala S5 BD",
+  "description": "Premium Inhibited, Readily Biodegradable Electrical Insulating Oil",
+  "family": "Diala",
+  "parentCategory": "Otros lubricantes industriales",
+  "category": "Aceites dieléctricos",
+  "applicationKeys": [
+    "biodegradable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c8784210-a127-4280-8760-9089f4a6e8f9.pdf",
+      "type": "GTDS",
+      "name": "Diala S5 BD EN TDG V1.8 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02459478.PDF",
+      "type": "LMSDS",
+      "name": "Diala S5 BD Spain ES 140003966322 EHS V1.1 05-OCT-2022",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/fd9a099d-8503-46ab-adcc-c76568a683b6.pdf",
+      "type": "LTDS",
+      "name": "Diala S5 BD Spain ES TDG V1.8 16-Nov-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02459477.PDF",
+      "type": "LMSDS",
+      "name": "Diala S5 BD Spain EN 140003966322 EHS V1.1 05-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I1038_002VJX_A246",
+      "name": "IBC 1000 L Plastic Black (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550056017",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S5 BD se fabrica a partir de aceites base libres de azufre obtenidos con la tecnología GTL (Gas-To-Liquid) de Shell. Este aceite base tiene una demostrada estabilidad en cuanto a sus características físicoquímicas y excelente comportamiento frente a la oxidación. Además está exento de PCB’s, DBDS y aditivos pasivantes",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

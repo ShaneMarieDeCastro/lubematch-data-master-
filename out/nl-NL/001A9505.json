@@ -1,0 +1,53 @@
+{
+  "id": "001A9505",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell VSI 8235",
+  "description": "Special Purpose Vapor Space Inhibited Circulating Oil",
+  "family": "VSI",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Andere FPM-smeermiddelen",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "natural gas",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1a9b61e5-6eb6-45ad-bc73-f86cf9054c1c.pdf",
+      "type": "GTDS",
+      "name": "VSI 8235 EN TDG V1.2 30-Aug-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481501.PDF",
+      "type": "LMSDS",
+      "name": "VSI 8235 Netherlands EN 140002783873 EHS V6.1 05-NOV-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02481502.PDF",
+      "type": "LMSDS",
+      "name": "VSI 8235 Netherlands NL 140002783873 EHS V6.1 05-NOV-2018",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell VSI 8235 is an oil soluble concentrate that has the ability to protect steel surfaces which are above the normal oil level in a system e.g. the vapour spaces in an oil storage tank or the oil reservoir in a circulation system.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,156 @@
+{
+  "id": "001D7771",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Tonna S2 M 68",
+  "description": "Machine Tool Slideway Oil",
+  "family": "Tonna",
+  "parentCategory": "Altri lubrificanti industriali",
+  "category": "Oli per slitte",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "factory applications",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "manufacturing",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "roller cylindrical",
+    "rollers",
+    "servo",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/56e3954e-4aa5-4ff1-8f6c-329d549a3613.pdf",
+      "type": "GTDS",
+      "name": "Tonna S2 M 68 EN TDG V1.3 04-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572616.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 68 Italy EN 140007645406 EHS V1.7 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Italy_Shell_Tonna_S2_M_68_(it)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Tonna S2 M 68 Italy Italian",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572615.PDF",
+      "type": "LMSDS",
+      "name": "Tonna S2 M 68 Italy IT 140007645406 EHS V1.7 04-MAY-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51502 CGLP",
+      "organisation": "DIN",
+      "spec": "51502 CGLP"
+    },
+    {
+      "name": "GB 11118.1 L-HG",
+      "organisation": "GB",
+      "spec": "11118.1 L-HG"
+    },
+    {
+      "name": "ISO 19378",
+      "organisation": "ISO",
+      "spec": "19378"
+    },
+    {
+      "name": "ISO 6743-13 GA",
+      "organisation": "ISO",
+      "spec": "6743-13 GA"
+    },
+    {
+      "name": "Fives (Cincinnati Machine) P-47",
+      "organisation": "Fives (Cincinnati Machine)",
+      "spec": "P-47"
+    },
+    {
+      "name": "ISO 6743-13 GB",
+      "organisation": "ISO",
+      "spec": "6743-13 GB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Gli oli Shell Tonna S2 M sono appositamente formulati per la lubrificazione di guide, tavole e meccanismi di alimentazione di macchine utensili. La migliorata adesività e le caratteristiche anti stick-slip sono combinate per assicurare prestazioni di attrito superiori nelle guide di scorrimento. Sono specialmente raccomandati in casi dove esiste un'elevata esposizione ai fluidi da taglio solubili.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "8.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "98"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "879"
+    },
+    {
+      "property": "Flash Point (Cleveland Open Cup)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "225"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-24"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

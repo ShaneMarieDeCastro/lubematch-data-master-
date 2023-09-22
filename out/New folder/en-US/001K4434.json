@@ -1,0 +1,60 @@
+{
+  "id": "001K4434",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Full Synthetic High Mileage Motor Oil SAE 10W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/53864865-d6bf-4152-89f5-4d6643a0d02b.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Full Synthetic High Mileage Motor Oil 10W-30 (SP-GF6) EN TDG V1.0 18-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562290.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Full Synthetic High Mileage Motor Oil 10W-30 (SP-GF6) United States EN 140002686046 EHS V1.2 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ILSAC GF-6",
+      "organisation": "ILSAC",
+      "spec": "GF-6"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^* ^Compared ^to ^Pennzoil^® ^Conventional ^High ^Mileage ^Motor ^Oil",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

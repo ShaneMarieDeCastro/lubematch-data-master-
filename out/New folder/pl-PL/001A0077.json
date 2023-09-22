@@ -1,0 +1,103 @@
+{
+  "id": "001A0077",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "AeroShell Oil W 80",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "Środki smarne dla lotnictwa",
+  "category": "Oleje silnikowe - lotnicze/tłokowe",
+  "applicationKeys": [
+    "ashless",
+    "aviation",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "piston engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9b6eba10-c8bc-4e76-b263-4100525a5001.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 80 EN TDG V2.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02548577.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 80 Poland EN 140003791557 EHS V1.9 07-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02548576.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 80 Poland PL 140003791557 EHS V2.9 07-APR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0077_002VJ2_A1P5",
+      "name": "Beczka 55 Gal T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Beczka",
+      "materialCode": "550041048",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OMD-160",
+      "organisation": "Joint Service Designation",
+      "spec": "OMD-160"
+    },
+    {
+      "name": "AIR 3570",
+      "organisation": "AIR",
+      "spec": "3570"
+    },
+    {
+      "name": "Pratt and Whitney 1183-S",
+      "organisation": "Pratt and Whitney",
+      "spec": "1183-S"
+    },
+    {
+      "name": "MHS 24B",
+      "organisation": "MHS",
+      "spec": "24B"
+    },
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Textron Lycoming 301F",
+      "organisation": "Textron Lycoming",
+      "spec": "301F"
+    },
+    {
+      "name": "NATO O-123",
+      "organisation": "NATO",
+      "spec": "O-123"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell W Oils were the first non-ash dispersant oils to be used in aircraft piston engines. They combine non-metallic additives with selected high viscosity index base stocks to give exceptional stability, dispersancy and anti-foaming performance. These additives leave no metallic ash residues that can lead to deposit formation in combustion chambers and on spark plugs, which can cause pre-ignition and possible engine failure.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

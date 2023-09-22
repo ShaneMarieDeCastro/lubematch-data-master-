@@ -1,0 +1,99 @@
+{
+  "id": "001D8530",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S3 A1000XD 2",
+  "description": "Premium Heavy Duty Grease with Extra Solids",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "backup legs",
+    "ball",
+    "ball mill gears",
+    "ball mills",
+    "bearing",
+    "calcium based",
+    "construction",
+    "cutting heads",
+    "dredging cutting heads",
+    "ep",
+    "extra moly",
+    "extreme performance",
+    "extreme pressure",
+    "fifth wheel",
+    "forklifts",
+    "heavy duty",
+    "heavy load",
+    "industrial",
+    "offroad",
+    "premium",
+    "shock load",
+    "slipper drives",
+    "solid lubricant",
+    "traveling water screens",
+    "trucks",
+    "turntables",
+    "water tolerant",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3e233359-26b8-4248-86bd-1e783448cc82.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 A1000XD 2 EN TDG V1.2 09-Aug-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/ba8a1368-d5b7-4d39-9577-866bb932e9ee.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 A1000XD 2 United States EN TDG V1.2 27-Aug-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562574.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 A1000XD 2 United States EN 140002686046 EHS V1.3 31-DEC-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8530_002VME_A1WJ",
+      "name": "Pail 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550026838",
+      "margin": "3.20363765610679",
+      "packShot": ""
+    },
+    {
+      "code": "001D8530_002VKN_A1WJ",
+      "name": "Keg 50 kg O/H Steel + Liner Shell Red, Shell Yellow(1) WL",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550026880",
+      "margin": "3.54588528449702",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 A1000XD is a heavy duty calcium grease formulated with a high level of solid additives for enhanced load carrying capability. The high solids content and heavy base oil utilized in this product are designed to provide an effective lubricant film under the high loads and constant sliding contact.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

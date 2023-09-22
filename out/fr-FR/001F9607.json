@@ -1,0 +1,158 @@
+{
+  "id": "001F9607",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix HX8 ECT 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1e5d7126-b6ca-464d-9d30-4081ea78dc7f.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) EN TDG V2.8 13-Jun-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614166.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) France EN 140003182031 EHS V1.3 10-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614167.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) France FR 140003182031 EHS V1.3 10-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/d9b1a7aa-6cba-4cb7-a7e4-f7281dfd0055.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 ECT 5W-30 (C3 + OEMs) France FR TDG V2.8 14-Jul-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F9607_002X0G_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550048100",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002XN7_EURO",
+      "name": "Bouteille 20 L Local EcoPack PET Bottle 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550048376",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002WL0_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550048140",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002XI2_A246",
+      "name": "Bouteille 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550048096",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002VSI_A246",
+      "name": "Tonneau 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Tonneau",
+      "materialCode": "550048141",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F9607_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550048056",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.51"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 ECT utilise une technologie avancée compatible avec les système de dépollution aidant à maintenir la propreté des filtres à particule et donc aussi le niveau de performance du moteur.  Participe à la réduction des friction internes du moteur permettant des économies de carburant.  \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

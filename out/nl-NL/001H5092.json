@@ -1,0 +1,66 @@
+{
+  "id": "001H5092",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rotella T1 40",
+  "description": "High Quality Straight Grade Heavy Duty Diesel Engine Oil ",
+  "family": "Rotella",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d682740e-8128-4b42-9d4f-7329a441eb32.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 40 (CF/SL) EN TDG V1.1 20-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606292.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 40 (CF/SL) Netherlands NL 140002783873 EHS V1.3 30-JUN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02606293.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 40 (CF/SL) Netherlands EN 140002783873 EHS V1.3 30-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF-2",
+      "organisation": "API",
+      "spec": "CF-2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T1 oils use performance additives to fight engine wear and prevent deposits, providing reliable lubrication.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

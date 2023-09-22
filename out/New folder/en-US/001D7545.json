@@ -1,0 +1,61 @@
+{
+  "id": "001D7545",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State HD SAE 40 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1f95d8a4-1421-4c98-b0ce-9473674b447f.pdf",
+      "type": "GTDS",
+      "name": "Quaker State HD SAE 40 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563523.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State HD SAE 40 Motor Oil United States EN 140002686046 EHS V1.4 28-FEB-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/23fe7872-68ab-4fc0-8fe6-5e1f302b41f0.pdf",
+      "type": "LTDS",
+      "name": "Quaker State HD SAE 40 Motor Oil United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Quaker State^® motor oil provides durable wear protection that helps engines survive daily commutes from sustained high-speed highway operation to repetitive, stop-and-go traffic.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

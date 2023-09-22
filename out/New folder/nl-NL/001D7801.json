@@ -1,0 +1,94 @@
+{
+  "id": "001D7801",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Morlina S1 B 150",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oliën voor lager- en circulatiesmering ",
+  "category": "Oliën voor lager en circulatiesysteem ",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "enclosed gear",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "low load",
+    "machine circulation systems",
+    "oil lubricated bearings",
+    "plain",
+    "pump gear",
+    "roller cylindrical",
+    "rollers",
+    "rollneck bearings",
+    "water separation"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S1_B_150_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S1 B 150 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571330.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 150 Netherlands EN 140002783873 EHS V2.3 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/1bdd6cd3-341d-44e9-a7ab-fbe1a608d6f5.pdf",
+      "type": "LTDS",
+      "name": "Morlina S1 B 150 Netherlands NL TDG V3.1 31-Jul-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02571331.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 150 Netherlands NL 140002783873 EHS V2.3 04-MAY-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7801_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550027233",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    },
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B oliën zijn hoog presterende oliën die een uitzonderlijke bescherming en prestatie bieden in de meeste industriële lagers- en circulatie systemen, met name deze waar waterafscheiding (demulgering) belangrijk is voor een verlengde levensduur van de installatie. Shell Morlina S1 B beantwoordt aan de basisvereisten van de 'Morgan standaard' van olie voor algemene lagersmering.  ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

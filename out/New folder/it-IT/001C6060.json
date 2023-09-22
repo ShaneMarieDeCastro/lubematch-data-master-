@@ -1,0 +1,67 @@
+{
+  "id": "001C6060",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "ATF 134",
+  "description": "Factory fill ATF for DC 7-speed automatic transmission",
+  "family": "Daimler FFO",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Fluidi per trasmissioni automatiche",
+  "applicationKeys": [
+    "automatic",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "pump gear",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_ATF_134_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "ATF 134 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559623.PDF",
+      "type": "LMSDS",
+      "name": "ATF 134 Italy IT 140007645406 EHS V1.9 24-APR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/ecd63e33-c09c-48e1-bcf0-43cb46360bb8.pdf",
+      "type": "LTDS",
+      "name": "ATF 134 Italy IT TDG V1.1 03-Aug-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02559624.PDF",
+      "type": "LMSDS",
+      "name": "ATF 134 Italy EN 140007645406 EHS V1.9 24-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.14",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.14"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ATF 134 è un fluido premium per trasmississioni automatiche Mercedes-Benz a 5 e 7 marce e per trasmissioni NAG2V Sport.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "001I4323",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Shipcare Cooling Water Treat",
+  "description": "Nitrite-based chemical treatment",
+  "family": "Generic Products (Lubricants)",
+  "parentCategory": null,
+  "category": "Engine Cooling Water Treatment",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "n/a",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5e50bff2-f43e-4dad-9621-88db850560cc.pdf",
+      "type": "GTDS",
+      "name": "Shell Shipcare Cooling Water Treat EN TDG V1.2 27-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02203084.PDF",
+      "type": "LMSDS",
+      "name": "Shell Shipcare Cooling Water Treat Germany DE 140010053399 EHS V1.1 16-DEC-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02203085.PDF",
+      "type": "LMSDS",
+      "name": "Shell Shipcare Cooling Water Treat Germany EN 140010053399 EHS V1.1 16-DEC-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

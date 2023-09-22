@@ -1,0 +1,109 @@
+{
+  "id": "001F6357",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Omala S5 Wind 320",
+  "description": "Advanced Synthetic Wind Turbine Gearbox Oil",
+  "family": "Omala",
+  "parentCategory": null,
+  "category": "Huiles pour engrenage industriel",
+  "applicationKeys": [
+    "circulation",
+    "circulation system",
+    "excellent water separation",
+    "foam resistance",
+    "gearbox",
+    "heavy duty",
+    "high cleanliness",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "pao",
+    "rapid air release",
+    "wind turbine transmission",
+    "wind turbines",
+    "yaw and pitch drive gearboxes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/93c5a3c6-42d2-4531-9e2f-6e9ab859e22d.pdf",
+      "type": "GTDS",
+      "name": "Omala S5 Wind 320 EN TDG V1.8 06-Mar-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609538.PDF",
+      "type": "LMSDS",
+      "name": "Omala S5 Wind 320 France FR 140003182031 EHS V3.1 04-JUL-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/8d9d26ee-d391-4df6-8a10-dcb1f3f968ef.pdf",
+      "type": "LTDS",
+      "name": "Omala S5 Wind 320 France FR TDG V1.8 11-May-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609591.PDF",
+      "type": "LMSDS",
+      "name": "Omala S5 Wind 320 France EN 140003182031 EHS V3.1 04-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F6357_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550050988",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "GB 33540.3-2017",
+      "organisation": "GB",
+      "spec": "33540.3-2017"
+    },
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "ISO 81400-4",
+      "organisation": "ISO",
+      "spec": "81400-4"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Une formulation innovante a été développée pour protéger les dentures et les paliers des engrenages d’éoliennes en minimisant l’usure et la formation de mousse, en protégeant contre le micro-pitting, tout en restant fluide à des températures extrêmement basses.  ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

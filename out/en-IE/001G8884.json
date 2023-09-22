@@ -1,0 +1,67 @@
+{
+  "id": "001G8884",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Helix Ultra Professional AR-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/66d2fee1-e48c-41d0-8dbd-1ec2874858e1.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) EN TDG V1.1 12-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603387.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) Ireland EN 140007731156 EHS V1.3 26-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8884_002XN7_EURO",
+      "name": "Bottle 20 L Local EcoPack PET Bottle 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "EcoPack",
+      "materialCode": "550053645",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Renault RN 17 FE",
+      "organisation": "Renault",
+      "spec": "RN 17 FE"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of Renault high-performance passenger car engines and those requiring ACEA C5.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_0W-20_AR-L_5L_600047635.png",
+  "valueRecord": [],
+  "commerce": null
+}

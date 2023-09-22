@@ -1,0 +1,145 @@
+{
+  "id": "001D8557",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Tactic EMV Gadus S3 V220C 2",
+  "description": "Premium Multipurpose Extreme Pressure Grease",
+  "family": "Tactic",
+  "parentCategory": "Greases",
+  "category": "Greases",
+  "applicationKeys": [
+    "automatic lubricator",
+    "automotive",
+    "automotive wheel bearings",
+    "breakers",
+    "coloured",
+    "construction",
+    "continous casting",
+    "continuous casting",
+    "ep",
+    "extreme pressure",
+    "heavy load",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "multipurpose",
+    "offroad",
+    "plain bearings",
+    "premium",
+    "quarries",
+    "quarry",
+    "roller bearings",
+    "roller conveyers",
+    "trucks",
+    "vibrating sieves",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d9bc0465-3b42-488a-a497-f139181f7173.pdf",
+      "type": "GTDS",
+      "name": "Tactic EMV Gadus S3 V220C 2 EN TDG V1.4 21-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_Kingdom_Shell_Tactic_EMV_Gadus_S3_V220C_2_(en-GB)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Tactic EMV Gadus S3 V220C 2 United Kingdom English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02591151.PDF",
+      "type": "LMSDS",
+      "name": "Tactic EMV Gadus S3 V220C 2 United Kingdom EN 140002340634 EHS V7.1 23-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB-GC",
+      "organisation": "ASTM",
+      "spec": "D4950 LB-GC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V220C greases are premium multi-purpose greases based on high viscosity index mineral oil and a lithium complex soap thickener. They contain the latest additives to offer excellent high temperature oxidation performance and other additives to enhance its anti-oxidation, anti-wear and anti-corrosion properties. Shell Gadus S3 V220C greases are especially suitable for bearings operating at high temperature and under load.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Red"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium Complex"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Cone Penetration Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pumpability Long Distance",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,124 @@
+{
+  "id": "001E9385",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix HX7 Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8a0bf1f7-9a8e-459b-8a03-5c6ed73b284b.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) EN TDG V1.6 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/2cfd908a-b9cb-4c93-ad9f-197fee386d02.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Netherlands NL TDG V1.6 17-Nov-2022",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497273.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Netherlands EN 140002783873 EHS V1.3 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497572.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Netherlands NL 140002783873 EHS V1.3 06-DEC-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9385_002W22_EURO",
+      "name": "Fles 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046589",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550040410",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002WPC_EURO",
+      "name": "Fles 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550046287",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    },
+    {
+      "name": "Ford WSS-M2C913-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-B"
+    },
+    {
+      "name": "Ford WSS-M2C913-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-A"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "ILSAC GF-2",
+      "organisation": "ILSAC",
+      "spec": "GF-2"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontworpen voor hoog presterende motoren, waaronder Ford en motoren die voldoen aan de API SJ, ILSAC GF-2 or ACEA A1/B1 specificaties.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX7_5W-30_AF_5L.png",
+  "valueRecord": [],
+  "commerce": null
+}

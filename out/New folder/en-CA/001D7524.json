@@ -1,0 +1,124 @@
+{
+  "id": "001D7524",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Pennzoil Platinum SAE 10W-30 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/248e94a9-da27-4d9d-9d67-d7fffc77d18e.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum 10W-30 Full Synthetic Motor Oil (SP/GF-6A) EN TDG V2.0 19-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02293770.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum 10W-30 Full Synthetic Motor Oil (SN/GF-5) Canada FR 140006579500 EHS V1.11 27-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02293983.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum 10W-30 Full Synthetic Motor Oil (SN/GF-5) Canada EN 140006579500 EHS V1.11 27-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/38df08cf-f7c7-4224-9542-fdff50863346.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum 10W-30 Full Synthetic Motor Oil (SN/GF-5) Canada FR TDG V2.0 05-May-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/3a356b9d-c670-4d84-81bb-bcc2aa614859.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum 10W-30 Full Synthetic Motor Oil (SN/GF-5) Canada EN TDG V2.0 19-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7524_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550023650",
+      "margin": "1.96186046015318",
+      "packShot": ""
+    },
+    {
+      "code": "001D7524_002V78_A0IK",
+      "name": "Bottle 1 Quart Rect PZL Plat (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550023765",
+      "margin": "3.69373365587737",
+      "packShot": ""
+    },
+    {
+      "code": "001D7524_002XLH_A0IK",
+      "name": "Bottle 5 L Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046204",
+      "margin": "2.31125872779665",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Platinum^® with PurePlus™ is a first of its kind full synthetic motor oil made from natural gas and designed for COMPLETE PROTECTION for top engine performance. Formulated for modern turbocharged engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

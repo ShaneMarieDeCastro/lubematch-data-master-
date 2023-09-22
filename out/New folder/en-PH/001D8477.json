@@ -1,0 +1,98 @@
+{
+  "id": "001D8477",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Gadus S1 OG 200",
+  "description": "Open Gear and Wire Rope Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Hvy Oils/Cmpds (not soap/clay thick'd)",
+  "applicationKeys": [
+    "gearbox",
+    "industrial"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "200",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S1_OG_200_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 OG 200 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/155193b4-35a9-468c-a84f-5dde1ca08b8a.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 OG 200 Philippines EN TDG V2.1 28-Aug-2014",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02385837.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 OG 200 Philippines EN 140001435525 EHS V4.0 03-NOV-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8477_002VH7_A227",
+      "name": "Drum 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drum",
+      "materialCode": "550027036",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S1 OG are a range of high viscosity, residual-type (bituminous) lubricants, which are recommended principally for open gears, sugar mills and wire rope applications which require an adhesive, high load-carrying, EP product. All grades are blends of bitumen and heavy mineral based oils, blended in different proportions to suit various applications.",
+  "physicalCharacteristics": [
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Black"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "200"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "",
+      "value": "Min 210°C"
+    },
+    {
+      "property": "4 Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kg",
+      "value": "Min 250"
+    },
+    {
+      "property": "Copper Corrosion",
+      "method": "ASTM D4048",
+      "uom": "",
+      "units": "",
+      "value": "1b"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "001M1740",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus 1963",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "Andere Schmierfette",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": null,
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/75928f25-7bf2-451c-b244-f2242db19e15.pdf",
+      "type": "GTDS",
+      "name": "Gadus 1963 EN TDG V1.2 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599351.PDF",
+      "type": "LMSDS",
+      "name": "Gadus 1963 Germany EN 140001492039 EHS V1.1 16-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599353.PDF",
+      "type": "LMSDS",
+      "name": "Gadus 1963 Germany DE 140001492039 EHS V1.1 16-JUN-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001M1740_002VT9_A1P5",
+      "name": "Fass 170 kg O/H Grease with liner R/Ytop (1) WL",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550070432",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001M1740_002VH1_A1P5",
+      "name": "Fass 170 kg O/H Grease R/Y (1)",
+      "size": "170",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550070431",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

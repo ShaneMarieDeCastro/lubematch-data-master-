@@ -1,0 +1,77 @@
+{
+  "id": "901L3573",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell General Purpose Grease",
+  "description": "Multipurpose Grease",
+  "family": "Generic Branded Product",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/814f022e-e372-4222-bc9d-3097c904e9c9.pdf",
+      "type": "GTDS",
+      "name": "General Purpose Grease EN TDG V1.0 29-Jan-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Germany_General_Purpose_(Industrie-Fett).pdf",
+      "type": "LTDS",
+      "name": "General Purpose Grease Germany German",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581755.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease Germany DE 140001492039 EHS V5.1 25-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581754.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease Germany EN 140001492039 EHS V5.1 25-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L3573_002XD7_A246",
+      "name": "Eimer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550037581",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "901L3573_002VH7_A0H5",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550013808",
+      "margin": "0.71070834212833",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "General purpose grease based on a mineral oil and a lithium thickener.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

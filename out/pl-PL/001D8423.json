@@ -1,0 +1,186 @@
+{
+  "id": "001D8423",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S5 V100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Syntetyczne smary z dodatkami EP",
+  "applicationKeys": [
+    "advanced",
+    "bio gas",
+    "electric motors",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "long life",
+    "low temperature",
+    "marine",
+    "moderate speed",
+    "multipurpose",
+    "natural gas",
+    "outdoor fan",
+    "plain bearings",
+    "roller bearings",
+    "severe conditions",
+    "severe low temperature",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6a8b0726-3d71-4445-acda-f4b835615f84.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V100 2 EN TDG V1.2 19-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580679.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V100 2 Poland EN 140003791557 EHS V1.5 24-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580680.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V100 2 Poland PL 140003791557 EHS V2.5 24-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/5d02cefb-5dc0-4d87-9986-01a73b64e131.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V100 2 Poland PL TDG V1.2 08-Jun-2018",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8423_002VT7_EURO",
+      "name": "Tuba 0.38 kg Standard Grease (12)",
+      "size": "0.38",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550050928",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8423_002XEC_A1P5",
+      "name": "Wiadro 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028433",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8423_002VH7_A246",
+      "name": "Beczka 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Beczka",
+      "materialCode": "550042319",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V100 to litowokompleksowy smar na bazie oleju syntetycznego zawierający dodatki antyutleniające, przeciwzatarciowe, przeciwzużyciowe i antykorozyjne. W skład produktu wchodzi również specjalny modyfikator tarcia, co czyni smar Shell Gadus S5 V100\nodpowiednim do zastosowania w łożyskach wysokoobrotowych, stożkowych i cylindrycznych typu NJ, NUP, a także w łożyskach z pierścieniami kątowymi.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Penetration, worked 60 strokes (0.1 mm)",
+      "method": "IP 50 / ASTM D217",
+      "uom": "",
+      "units": "",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Rust Preventing Properties : SKF Emcor distilled water",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Rust Preventing Properties : SKF Emcor WWO distilled water",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Lubricating Ability SKF R2F A",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Lubricating Ability SKF R2F B",
+      "method": "NULL",
+      "uom": "@150°C",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Mechanical Stability, Shell Roll (50 hrs)",
+      "method": "NULL",
+      "uom": "@80°C",
+      "units": "NULL",
+      "value": "≤+50"
+    },
+    {
+      "property": "Temperature Range (temporarily)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-50/+150 (200)"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_v100.png",
+  "valueRecord": [],
+  "commerce": null
+}

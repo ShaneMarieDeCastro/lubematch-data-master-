@@ -1,0 +1,164 @@
+{
+  "id": "001B1573",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Tegula V 32",
+  "description": "Premium technology oil for hydrodynamic transmissions",
+  "family": "Tegula",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Manuele Transmissie- en Versnellingsbakolie",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "final drive",
+    "fluid coupling",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "locomotive",
+    "mobile",
+    "off highway",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "servo",
+    "torque converter",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/16ec4c3e-74b9-487f-b4ec-8fd4f41bde9a.pdf",
+      "type": "GTDS",
+      "name": "Tegula V 32 EN TDG V1.3 16-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542695.PDF",
+      "type": "LMSDS",
+      "name": "Tegula V 32 Netherlands NL 140002783873 EHS V3.4 22-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/978f5318-58dd-4afc-b951-2c703352aa2d.pdf",
+      "type": "LTDS",
+      "name": "Tegula V 32 Netherlands NL TDG V1.3 21-Apr-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02542696.PDF",
+      "type": "LMSDS",
+      "name": "Tegula V 32 Netherlands EN 140002783873 EHS V3.4 22-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1573_002VNR_A18H",
+      "name": "Emmer 20 L Plastic T/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550023854",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001B1573_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550068413",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Voith 3.285-149",
+      "organisation": "Voith",
+      "spec": "3.285-149"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tegula V 32 is een technologische geavanceerde olie speciaal ontwikkeld om te voldoen aan de huidige vereisten van variatoren en geavanceerde treintransmissies gecombineerd met hydrodynamische koppelingen en krachtomvormers met mechanische koppelingen. ",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "110"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "870"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "211"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "FZG-Test  A/8.3/90  Failure Load Stage",
+      "method": "DIN 51354-2",
+      "uom": "NULL",
+      "units": "°C",
+      "value": ">12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

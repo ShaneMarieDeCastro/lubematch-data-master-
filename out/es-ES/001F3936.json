@@ -1,0 +1,109 @@
+{
+  "id": "001F3936",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Helix Ultra Professional AS-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - PCMO",
+  "applicationKeys": [
+    "cars",
+    "volvo"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/89c12aea-e3f5-4fd7-9040-36bbf68f8e51.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AS-L 0W-20 (VCC RBS0-2AE) EN TDG V1.7 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555846.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AS-L 0W-20 (VCC RBS0-2AE) Spain EN 140003966322 EHS V1.2 13-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/b0b714b1-1e6b-4eaa-b589-c1ec20f716f6.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AS-L 0W-20 (VCC RBS0-2AE) Spain ES TDG V1.7 25-Oct-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555816.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AS-L 0W-20 (VCC RBS0-2AE) Spain ES 140003966322 EHS V1.2 13-APR-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3936_002YAP_EURO",
+      "name": "Botella 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550055736",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3936_002YAN_EURO",
+      "name": "Botella 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550055735",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3936_002XS4_A246",
+      "name": "Bidones 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidones",
+      "materialCode": "550045106",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Volvo VCC RBS0-2AE",
+      "organisation": "Volvo",
+      "spec": "VCC RBS0-2AE"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Especialmente formulado para superar los requerimientos específicos de los motores de alto rendimiento, incluidos los modelos Volvo y aquellos que requieran del cumplimiento de la ACEA C5.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550055736_Shell_Helix_Ult_Pro_AS-L_0W-20_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "001E0950",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gas Compressor Oil S1 P 460",
+  "description": "Reciprocating (Piston) Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "compounded",
+    "compressor",
+    "hydrocarbon gas",
+    "industrial",
+    "natural gas",
+    "reciprocating",
+    "wet air",
+    "wet conditions",
+    "wet hydrocarbon"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/a7dd00d3-c302-43e4-a165-1cfa9f23602c.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S1 P 460 EN TDG V1.2 06-Oct-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562398.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S1 P 460 United States EN 140002686046 EHS V1.3 31-DEC-2015",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/50401349-cc65-4a6c-80ca-089dacc58bd0.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S1 P 460 United States EN TDG V1.2 10-Oct-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0950_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006002",
+      "margin": "0.913643393076611",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S1 P provides reliable performance for cylinder lubrication of reciprocating compressors handling hydrocarbon gas at high pressure. They are compounded with polar or fatty oils which enable the lubricant to resist being washed off cylinder walls by the action of wet air or gas. Shell Gas Compressor Oil S1 P also resists the solvent action of hydrocarbon gases such as propane and butane, as well as certain organic chemicals such as ketones and aldehydes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

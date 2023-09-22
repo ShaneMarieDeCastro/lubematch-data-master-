@@ -1,0 +1,82 @@
+{
+  "id": "001A0903",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "AeroShell Grease 33",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c772bc5b-bfc7-422b-8bd4-6982630a9971.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 33 EN TDG V1.2 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02522433.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 Turkey TR 140003791542 EHS V4.6 09-FEB-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02522420.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 33 Turkey EN 140003791542 EHS V4.6 09-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0903_002XN4_A246",
+      "name": "Kova 17 kg Open head Plastic HDPE Shell Red (1)",
+      "size": "17",
+      "uom": "kilogram",
+      "pack": "Kova",
+      "materialCode": "550043859",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-QPL-CMS-OL-302",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-302"
+    },
+    {
+      "name": "Boeing BMS 3-33C",
+      "organisation": "Boeing",
+      "spec": "BMS 3-33C"
+    },
+    {
+      "name": "Airbus AIMS 09-06-002",
+      "organisation": "Airbus",
+      "spec": "AIMS 09-06-002"
+    },
+    {
+      "name": "MIL-PRF-23827C Type I",
+      "organisation": "MIL",
+      "spec": "PRF-23827C Type I"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

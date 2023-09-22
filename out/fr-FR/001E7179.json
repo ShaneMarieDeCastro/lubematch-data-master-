@@ -1,0 +1,79 @@
+{
+  "id": "001E7179",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Mysella S3 N 30",
+  "description": " Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Moteur à gaz stationnaire",
+  "applicationKeys": [
+    "bio gas",
+    "cng",
+    "diesel",
+    "engine",
+    "gas",
+    "landfill",
+    "lng",
+    "low ash",
+    "lpg",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S3_N_30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 N 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02592881.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 France EN 140003182031 EHS V1.7 13-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/382507c3-80d5-4abe-bd94-98b3413a4cf3.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 N 30 France FR TDG V3.3 14-Feb-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487594.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 N 30 France FR 140003182031 EHS V1.6 21-SEP-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7179_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550035920",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 N répond aux exigences des moteurs stationnaires à gaz conçus pour répondre aux nouvelles normes en termes d'émissions de NOx et plus particulièrement ceux qui utilisent les dernières technologies en matière de mélange pauvre pour atteindre cet objectif. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-mysella-s3-n-135x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

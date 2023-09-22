@@ -1,0 +1,168 @@
+{
+  "id": "001D8298",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S3 ATF MD3",
+  "description": "High Performance Automatic Transmission Fluid in Many Applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "axle",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "buses",
+    "cars",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "fixed",
+    "four stroke",
+    "gasoline",
+    "gearbox",
+    "heavy duty",
+    "heavy duty atf",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "low temperature",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "passenger car",
+    "plain",
+    "power split",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "screw pump",
+    "semi automatic",
+    "semi manual",
+    "servo",
+    "slew",
+    "stationary",
+    "swing drive",
+    "tandem drive",
+    "transmissions",
+    "trucks",
+    "urban",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S3_ATF_MD3_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 ATF MD3 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555235.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ATF MD3 France EN 140003182031 EHS V1.3 17-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555234.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 ATF MD3 France FR 140003182031 EHS V1.3 17-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/12c01d35-fc6f-4c92-9ba6-235f7599dea4.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 ATF MD3 France FR TDG V1.1 26-Feb-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford Mercon - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron III - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron III - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 ATF MD3 est une huile de transmission automatique de haute qualité à base d’huiles minérales avec un indice de viscosité élevé et des additifs soigneusement sélectionnés. Shell Spirax S3 ATF MD3 a été formulée pour répondre aux exigences strictes des principaux fabricants de transmissions de véhicule.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "33.8"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.3"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "175"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "864"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-48"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

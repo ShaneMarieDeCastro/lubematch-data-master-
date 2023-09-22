@@ -1,0 +1,62 @@
+{
+  "id": "001F2925",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Corena S4 R 100",
+  "description": "Advanced Synthetic Rotary  Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "rotary vane",
+    "screw"
+  ],
+  "position": "Top",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/802efb68-4559-48fc-b851-d3f6fdb56a60.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 R 100 EN TDG V1.3 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580507.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 100 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F2925_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010350",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 R 100 is primarily an advanced synthetic air compressor oil designed to deliver the highest performance lubrication of rotary sliding vane and screw air compressors. It uses a unique advanced additive system to provide excellent protection and performance for compressors running with oil maintenance intervals of 8,000 hours and up to 12,000 hours under certain conditions. Shell Corena S4 R is suitable for lubrication of hydrocarbon gas compressors, or to cover applications where a synthetic bearing & circulating oil or R&O oil (ISO VG 100) is required.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,208 @@
+{
+  "id": "001A0576",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Sirius S4 15W-40",
+  "description": "High Performance High-Speed Diesel Engine Oil",
+  "family": "Sirius",
+  "parentCategory": "",
+  "category": "Huiles moteur - Moteur à piston plongeur",
+  "applicationKeys": [
+    "axle",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "pump gear",
+    "pump valve",
+    "reduction gears",
+    "servo",
+    "stationary",
+    "stern tube seal",
+    "transmissions",
+    "two stroke"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/02a7e88f-8e88-4c54-a435-544d4c4276ba.pdf",
+      "type": "GTDS",
+      "name": "Sirius S4 15W-40 (CI-4) EN TDG V2.0 08-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578511.PDF",
+      "type": "LMSDS",
+      "name": "Sirius S4 15W-40 (CI-4) France FR 140003182031 EHS V2.10 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/3ca923a1-c3b4-4577-bdd7-2addeb19aa4b.pdf",
+      "type": "LTDS",
+      "name": "Sirius S4 15W-40 (CI-4) France FR TDG V2.0 16-Mar-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578512.PDF",
+      "type": "LMSDS",
+      "name": "Sirius S4 15W-40 (CI-4) France EN 140003182031 EHS V2.10 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0576_002VNA_A18H",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550014047",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0576_002VSH_A18H",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550014046",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN M 3275",
+      "organisation": "MAN",
+      "spec": "M 3275"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "Cummins CES 20077",
+      "organisation": "Cummins",
+      "spec": "CES 20077"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Volvo VDS-2",
+      "organisation": "Volvo",
+      "spec": "VDS-2"
+    },
+    {
+      "name": "MB-Approval 228.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.3"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "ACEA E5",
+      "organisation": "ACEA",
+      "spec": "E5"
+    },
+    {
+      "name": "Global DHD-1",
+      "organisation": "Global",
+      "spec": "DHD-1"
+    },
+    {
+      "name": "Cummins CES 20072",
+      "organisation": "Cummins",
+      "spec": "CES 20072"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "Cummins CES 20075",
+      "organisation": "Cummins",
+      "spec": "CES 20075"
+    },
+    {
+      "name": "MTU MTL 5044",
+      "organisation": "MTU",
+      "spec": "MTL 5044"
+    },
+    {
+      "name": "MTU Category 2",
+      "organisation": "MTU",
+      "spec": "Category 2"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "JASO DH-1",
+      "organisation": "JASO",
+      "spec": "DH-1"
+    },
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    },
+    {
+      "name": "ACEA E3",
+      "organisation": "ACEA",
+      "spec": "E3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Sirius S4 15W-40 contient des additifs soigneusement sélectionnés apportant une triple protection permettant un allongement de la durée de vie de l'huile et du moteur. Convient à la plupart des moteurs Diesel alimentés en fuels distillés contenant une teneur en soufre allant jusqu’à 0,5% poids.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

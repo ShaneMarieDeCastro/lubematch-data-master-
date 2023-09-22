@@ -1,0 +1,165 @@
+{
+  "id": "001D8544",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S3 T460 1.5",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "concast bearings",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy load",
+    "high load",
+    "high temperature",
+    "industrial",
+    "low speed",
+    "medium speed",
+    "multipurpose",
+    "plain bearings",
+    "polyurea",
+    "premium",
+    "roller bearings",
+    "slow",
+    "slow moving",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1ca0ab23-3dab-4711-ace8-1501393bbbfb.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T460 1.5 EN TDG V1.3 28-Jan-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02600016.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T460 1.5 Germany EN 140001492039 EHS V6.2 20-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599959.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T460 1.5 Germany DE 140001492039 EHS V6.2 20-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/270e293c-8c52-4295-96c0-e84556b2b776.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T460 1.5 Germany DE TDG V1.3 16-Mar-2020",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8544_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028059",
+      "margin": "0.581302459151656",
+      "packShot": ""
+    },
+    {
+      "code": "001D8544_002VK8_A246",
+      "name": "Intermediate Bulk Containers 900 kg Local (Fluid Sack) Fabric White (1)",
+      "size": "900",
+      "uom": "kg",
+      "pack": "IBC",
+      "materialCode": "550028266",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Es basiert auf einem Mineralöl mit einem speziellen Polyharnstoffeindicker, um für eine lange Lebensdauer, niedrigen Verschleiß und eine gute Scherstabilität bei hohen Temperaturen zu sorgen.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "1.5"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Braun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Polyharnstoff"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "29"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217 / DIN ISO 2137",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "305"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Vier-Kugel-Apparat",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kg",
+      "value": "min. 250"
+    },
+    {
+      "property": "Korrosionsschutzeigenschaften - Emcor-Test ",
+      "method": "IP 220",
+      "uom": "",
+      "units": "",
+      "value": "0 - 0"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

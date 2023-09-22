@@ -1,0 +1,80 @@
+{
+  "id": "001E2943",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil 5W-30 Synthetic Blend Motor Oil",
+  "description": "Passenger car motor oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140003971205_20110702170_2.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 5W-30 Synthetic Blend Motor Oil (SN/GF-5, dexos 1) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564161.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 5W-30 Synthetic Blend Motor Oil (SN/GF-5 dexos 1) United States EN 140002686046 EHS V1.5 30-DEC-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors dexos1",
+      "organisation": "General Motors",
+      "spec": "dexos1"
+    },
+    {
+      "name": "ILSAC GF-4",
+      "organisation": "ILSAC",
+      "spec": "GF-4"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "ILSAC GF-2",
+      "organisation": "ILSAC",
+      "spec": "GF-2"
+    },
+    {
+      "name": "ILSAC GF-3",
+      "organisation": "ILSAC",
+      "spec": "GF-3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

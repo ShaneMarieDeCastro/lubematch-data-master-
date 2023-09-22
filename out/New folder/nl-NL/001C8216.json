@@ -1,0 +1,82 @@
+{
+  "id": "001C8216",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix HX5 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/1e08543c-7526-4745-bd2d-c00732fcb71f.pdf",
+      "type": "GTDS",
+      "name": "Helix HX5 15W-40 (SL/CF A2/B2) EN TDG V3.3 05-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_30493_key_140003370319_20091121220_7.pdf",
+      "type": "LTDS",
+      "name": "Helix HX5 15W-40 (SL/CF A2/B2) Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02480155.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SL/CF A2/B2) Netherlands NL 140002783873 EHS V1.5 20-JAN-2016",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02480154.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX5 15W-40 (SL/CF A2/B2) Netherlands EN 140002783873 EHS V1.5 20-JAN-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A2/B2",
+      "organisation": "ACEA",
+      "spec": "A2/B2"
+    },
+    {
+      "name": "ACEA A2",
+      "organisation": "ACEA",
+      "spec": "A2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    },
+    {
+      "name": "ACEA B2",
+      "organisation": "ACEA",
+      "spec": "B2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX5 is designed to help provide consistent engine performance. It works hard to help protect against engine sludge and reduce wear. It is suitable for a wide variety of vehicles for everyday driving conditions.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

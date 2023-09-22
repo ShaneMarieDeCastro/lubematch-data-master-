@@ -1,0 +1,62 @@
+{
+  "id": "001D9606",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell DCT-M1",
+  "description": "MB Double clutch fluid factory fill fluid",
+  "family": "Daimler FFO",
+  "parentCategory": "Płyny przekładniowe",
+  "category": "Płyny do przekładni automatycznych",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139848_201407240915.pdf",
+      "type": "GTDS",
+      "name": "Shell DCT-M1 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02489198.PDF",
+      "type": "LMSDS",
+      "name": "Shell DCT-M1 Poland PL 140003791557 EHS V1.1 30-NOV-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02491094.PDF",
+      "type": "LMSDS",
+      "name": "Shell DCT-M1 Poland EN 140003791557 EHS V1.1 30-NOV-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/2c2c9743-18a9-4beb-be4a-515de6156f71.pdf",
+      "type": "LTDS",
+      "name": "Shell DCT-M1 Poland PL TDG V1.1 12-Aug-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.21",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.21"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell DCT-M1 dzięki zawartości zaawansowanych technologicznie dodatków DCT zapewnia wysoką odporność na ścinanie i stabilną pracę mokrego sprzęgła.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

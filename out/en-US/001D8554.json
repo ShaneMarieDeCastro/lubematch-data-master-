@@ -1,0 +1,98 @@
+{
+  "id": "001D8554",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S1 V160D 2",
+  "description": "Multipurpose Extreme Pressure Grease with Solids",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "automotive",
+    "ep",
+    "extended drain",
+    "extreme pressure",
+    "general chassis",
+    "heavy duty",
+    "lithium based",
+    "multipurpose",
+    "relubrication",
+    "roller bearings",
+    "rolling bearing",
+    "severe conditions",
+    "severe service",
+    "solid lubricant",
+    "trucks",
+    "versatile",
+    "wheel"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/964625c3-3b90-411a-875b-1b33f1750a7a.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V160D 2 EN TDG V1.3 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562779.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160D 2 United States EN 140002686046 EHS V7.0 16-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/92628bb5-3175-46d2-898e-c7f8a8b6569d.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V160D 2 United States EN TDG V1.3 16-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8554_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550027001",
+      "margin": "3.32114917121725",
+      "packShot": ""
+    },
+    {
+      "code": "001D8554_002VGF_NAMD",
+      "name": "Cartridge 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550067117",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Ford ESA-M1C75-B",
+      "organisation": "Ford",
+      "spec": "ESA-M1C75-B"
+    },
+    {
+      "name": "Mack MG-C",
+      "organisation": "Mack",
+      "spec": "MG-C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S1 V160D is an NLGI Grade 2 lithium 12-hydroxystearate thickened grease containing 1% molybdenum disulfide and a special polymer. It was developed in conjunction with two major manufacturers (Mack and Ford). It is specially formulated for heavy-duty, severe service in trucks and other automotive applications where extended lubrication intervals are desired, along with excellent lubrication and protective qualities.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

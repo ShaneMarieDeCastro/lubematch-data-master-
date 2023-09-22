@@ -1,0 +1,143 @@
+{
+  "id": "001E4699",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Alexia S4",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Huiles moteur - Cylindres et lubrifiants système",
+  "applicationKeys": [
+    "bio gas",
+    "diesel",
+    "engine",
+    "gas",
+    "heavy fuel",
+    "landfill",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "sewage",
+    "stationary",
+    "two stroke"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/265b5e3c-4dad-470c-ae62-d3a1e002c7e9.pdf",
+      "type": "GTDS",
+      "name": "Alexia S4 EN TDG V2.5 23-Nov-2015",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291312.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S4 Canada EN 140006579500 EHS V4.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/dc900c6d-9142-44b2-b9e9-fb418deca96a.pdf",
+      "type": "LTDS",
+      "name": "Alexia S4 Canada FR TDG V2.5 21-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291257.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S4 Canada FR 140006579500 EHS V4.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/c066c891-dc80-4a78-9e80-32c4329844d0.pdf",
+      "type": "LTDS",
+      "name": "Alexia S4 Canada EN TDG V2.5 18-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E4699_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500007021",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia S4 est une huile de cylindre BN 60, SAE40.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "40"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270 - IP 226",
+      "uom": "",
+      "units": "",
+      "value": ">95"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052 - IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.926"
+    },
+    {
+      "property": "Flash Point (Closed)",
+      "method": "ASTM D93 - IP 34",
+      "uom": "Pensky Martens",
+      "units": "°C",
+      "value": ">210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97 - IP 15",
+      "uom": "",
+      "units": "°C",
+      "value": "<-6"
+    },
+    {
+      "property": "BN",
+      "method": "ASTM D2896 - IP 276",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "60"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874 - IP 163",
+      "uom": "",
+      "units": "%wt",
+      "value": "7.4"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "15.8"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

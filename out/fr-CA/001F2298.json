@@ -1,0 +1,183 @@
+{
+  "id": "001F2298",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil Platinum Euro SAE 5W-40 Full Synthetic Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/4c786ab9-744e-4a6c-b272-706ba00a5d4a.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil Platinum Euro SAE 5W-40 Full Synthetic Motor Oil (SN A3/B4 + OEMs) EN TDG V1.4 22-Jun-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/56b3039a-342f-48f0-a8fd-6750fc5498ec.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum Euro SAE 5W-40 Full Synthetic Motor Oil (SN A3/B4 + OEMs) Canada EN TDG V1.4 29-Sep-2017",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/1b9d70d7-432e-45b4-bc68-40f1ae0740ce.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil Platinum Euro SAE 5W-40 Full Synthetic Motor Oil (SN A3/B4 + OEMs) Canada FR TDG V1.4 16-Oct-2017",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291103.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum Euro SAE 5W-40 Full Synthetic Motor Oil (SN A3/B4 + OEMs) Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291104.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil Platinum Euro SAE 5W-40 Full Synthetic Motor Oil (SN A3/B4 + OEMs) Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Porsche A40",
+      "organisation": "Porsche",
+      "spec": "A40"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "Chrysler MS 12991",
+      "organisation": "Chrysler",
+      "spec": "MS 12991"
+    },
+    {
+      "name": "BMW Longlife-01",
+      "organisation": "BMW",
+      "spec": "Longlife-01"
+    },
+    {
+      "name": "ACEA A3/B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3/B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Fiat 9.55535-Z2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-Z2 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA A3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "A3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "Chrysler MS 10850",
+      "organisation": "Chrysler",
+      "spec": "MS 10850"
+    },
+    {
+      "name": "Chrysler MS 10725",
+      "organisation": "Chrysler",
+      "spec": "MS 10725"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "ACEA B3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA A3/B3",
+      "organisation": "ACEA",
+      "spec": "A3/B3"
+    },
+    {
+      "name": "ACEA B4 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "B4 - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 226.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.5"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Pennzoil Platinum^® Euro avec technologie PurePlus^MD est une huile de moteur entièrement synthétique première en son genre faite à base de gaz naturel et conçue pour procurer une PROTECTION COMPLÈTE ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

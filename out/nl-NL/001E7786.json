@@ -1,0 +1,97 @@
+{
+  "id": "001E7786",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra SN 0W-20",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_SN_0W-20_(SN_GF-5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra SN 0W-20 (SN/GF-5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/21a028c0-4c1d-42b4-8597-6c01abc4e4dc.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra SN 0W-20 (SN/GF-5) Netherlands NL TDG V1.4 07-Aug-2019",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532706.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SN 0W-20 (SN/GF-5) Netherlands EN 140002783873 EHS V1.7 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532709.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra SN 0W-20 (SN/GF-5) Netherlands NL 140002783873 EHS V1.7 02-MAR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra SN maakt gebruik van de laatste actief reinigende technologie om benzinemotoren zo dicht mogelijk \"fabrieks-schoon\" te houden. Het biedt ongeëvenaarde bescherming tegen sludge en slijtage.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

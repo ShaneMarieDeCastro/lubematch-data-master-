@@ -1,0 +1,88 @@
+{
+  "id": "001E0212",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S2 V145KP 2",
+  "description": "High Performance Multipurpose Low Temperature Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie met 'EP additieven",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/f405e45e-b63f-48c8-9582-624da7033b42.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V145KP 2 EN TDG V2.3 10-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479900.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V145KP 2 Netherlands EN 140002783873 EHS V4.3 23-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479899.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V145KP 2 Netherlands NL 140002783873 EHS V4.3 23-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/6187770c-968f-4afd-aa13-cded2562d934.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V145KP 2 Netherlands NL TDG V2.3 15-Oct-2018",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0212_002VH7_A246",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028051",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E0212_002XD7_A246",
+      "name": "Emmer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028125",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 267.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "267"
+    },
+    {
+      "name": "MAN 283 Li-P 2",
+      "organisation": "MAN",
+      "spec": "283 Li-P 2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

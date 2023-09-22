@@ -1,0 +1,136 @@
+{
+  "id": "001C4571",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Rimula R3 20W-20 (CF)",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    "brakes",
+    "diesel",
+    "engine",
+    "fixed",
+    "heavy duty",
+    "hydraulic system",
+    "mobile",
+    "off highway",
+    "pump gear",
+    "pump piston",
+    "slew",
+    "swing drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/eef94e89-fe10-4c56-a668-9fabedf81ed5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 20W-20 (CF) EN TDG V1.2 29-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557625.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 20W-20 (CF) Germany DE 140001492039 EHS V2.3 20-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557568.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 20W-20 (CF) Germany EN 140001492039 EHS V2.3 20-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/b4ab93ed-9a9b-428b-9dcd-73a9a30dac0e.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 20W-20 (CF) Germany DE TDG V1.2 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4571_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550043121",
+      "margin": "1.10008532286071",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 Öl passt sich den Bedürfnissen beim Fahren mit zusätzlichem Schutz an. Aktiv wirkende Reinigungsadditive halten den Kolben und andere Motorteile sauber, schützen vor Verschleiß und sorgen damit für eine hohe Motorlebensdauer und einen effizienten Betrieb.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@ 40 °C",
+      "units": "mm²/s",
+      "value": "68"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "8,8"
+    },
+    {
+      "property": "Dynamische Viskosität",
+      "method": "ASTM D5293",
+      "uom": "@–15 °C",
+      "units": "mPa s",
+      "value": "8910"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "102"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@ 15 °C",
+      "units": "kg/L",
+      "value": "0,890"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "236"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–21"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

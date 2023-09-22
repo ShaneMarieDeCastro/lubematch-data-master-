@@ -1,0 +1,155 @@
+{
+  "id": "001D8482",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell GadusRail S2 Traction Motor Bearing Grease",
+  "description": "High Performance Traction Motor Bearing Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses non EP à base d’huile minérale",
+  "applicationKeys": [
+    "antifriction bearings",
+    "fill for life",
+    "high performance",
+    "lithium based",
+    "long life",
+    "rail",
+    "railroad",
+    "traction motor bearings",
+    "train"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "3",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_GadusRail_S2_Traction_Motor_Bearing_Grease_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "GadusRail S2 Traction Motor Bearing Grease English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/add75e3a-9e5f-442f-b023-19d87f5b96b8.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S2 Traction Motor Bearing Grease Canada FR TDG V1.2 21-May-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02341215.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S2 Traction Motor Bearing Grease Canada EN 140006579500 EHS V1.7 10-JUN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/cb415693-2bfe-4c20-ba99-7e89fd72dca9.pdf",
+      "type": "LTDS",
+      "name": "GadusRail S2 Traction Motor Bearing Grease Canada EN TDG V1.2 22-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02341217.PDF",
+      "type": "LMSDS",
+      "name": "GadusRail S2 Traction Motor Bearing Grease Canada FR 140006579500 EHS V1.8 10-JUN-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8482_002VKN_A1WJ",
+      "name": "",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Tonneau",
+      "materialCode": "550026895",
+      "margin": "1.79316745758057",
+      "packShot": ""
+    },
+    {
+      "code": "001D8482_002XL3_A1WJ",
+      "name": "",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartouche ",
+      "materialCode": "550027628",
+      "margin": "1.3485105843814",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "La graisse pour roulements Shell GadusRail S2 est l'une des graisses à base de savon de lithium de la plus haute qualité de Shell. Il est fabriqué selon des spécifications qui offrent une excellente stabilité mécanique et une longue durée de vie. Ces propriétés sont nécessaires pour de nombreuses applications critiques de paliers antifriction. La graisse Shell GadusRail S2 est une graisse NLGI Grade 3 formulée à partir d'huiles de base minérales.",
+  "physicalCharacteristics": [
+    {
+      "property": "Colour",
+      "method": "Appearance",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Amber, Buttery"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "110 - 120"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "10.2"
+    },
+    {
+      "property": "Penetration, dmm Worked, 60X",
+      "method": "IP 50 / ASTM D217",
+      "uom": "",
+      "units": "",
+      "value": "230"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "Mettler",
+      "uom": "NULL",
+      "units": "°F",
+      "value": "380"
+    },
+    {
+      "property": "Bomb Oxidation Pressure drop at 100h",
+      "method": "ASTM D942",
+      "uom": "",
+      "units": "psi",
+      "value": "0.8 (5.5 kPa)"
+    },
+    {
+      "property": "Wheel Bearing Leakage",
+      "method": "ASTM D4290",
+      "uom": "@160°C",
+      "units": "gm",
+      "value": "1.1"
+    },
+    {
+      "property": "4 Ball Wear Scar, 1 hr / 1200 rpm / 40 kg",
+      "method": "ASTM D2266",
+      "uom": "@75°C",
+      "units": "",
+      "value": "0.6"
+    },
+    {
+      "property": "Oil Separation, 24 hrs",
+      "method": "FTM-321",
+      "uom": "@100°C",
+      "units": "%",
+      "value": "0.6"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

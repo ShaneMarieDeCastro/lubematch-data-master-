@@ -1,0 +1,67 @@
+{
+  "id": "001B8316",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Catenex T 121",
+  "description": "High quality paraffinic process oil",
+  "family": "Catenex",
+  "parentCategory": "",
+  "category": "Process Oils-Paraf",
+  "applicationKeys": [
+    "paraffinic"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0b172c53-fba9-457c-bc05-0e09e1580945.pdf",
+      "type": "GTDS",
+      "name": "Catenex T 121 EN TDG V1.4 04-Oct-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/78fcc429-b9b5-4c9e-9980-d058f286f57b.pdf",
+      "type": "LTDS",
+      "name": "Catenex T 121 France FR TDG V1.4 07-Oct-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557415.PDF",
+      "type": "LMSDS",
+      "name": "Catenex T 121 France FR 140003182031 EHS V4.1 19-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557420.PDF",
+      "type": "LMSDS",
+      "name": "Catenex T 121 France EN 140003182031 EHS V4.1 19-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B8316_002VSH_A18H",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550014136",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Catenex T sont des huiles de procédé paraffiniques fortement raffinées et hydrotraitées, pratiquement incolores et exemptes de soufre. Ces huiles sont hautement saturées, sans aromatiques ni composés polaires. Les huiles Catenex T sont inodores et sont recommandées pour les applications nécessitant une stabilité de la couleur, une faible volatilité et une faible teneur en soufre. Ces huiles hautement raffinées sont idéales pour être utilisées comme huiles de traitement dans les processus de fabrication du caoutchouc, élastomères, plastiques, d'adhésifs et de nombreux autres procédés de fabrication.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

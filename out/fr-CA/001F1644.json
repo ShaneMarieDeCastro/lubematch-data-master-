@@ -1,0 +1,88 @@
+{
+  "id": "001F1644",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Alexia S6",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Huiles moteur - Cylindres et lubrifiants système",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "light fuel",
+    "marine",
+    "medium speed"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/9fbf3c58-3423-4856-945a-12e00db2001a.pdf",
+      "type": "GTDS",
+      "name": "Alexia S6 EN TDG V1.4 07-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291237.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S6 Canada EN 140006579500 EHS V3.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291236.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S6 Canada FR 140006579500 EHS V3.1 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F1644_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500009020",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F1644_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550040851",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia S6 has a BN of 100 and is an SAE50 oil cylinder lubricant. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVVQA0&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 50000,
+      "title": "Shell Alexia S6"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVQQA0&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 113000,
+      "title": "Shell Alexia S6"
+    }
+  ],
+  "commerce": null
+}

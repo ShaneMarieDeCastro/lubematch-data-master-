@@ -1,0 +1,50 @@
+{
+  "id": "001H3831",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Alexia 25",
+  "description": "High performance engine oil for cylinder lubrication of 2-stroke low speed dual fuel engines operating on fuels with < 0.1% Sulphur",
+  "family": "Alexia",
+  "parentCategory": "Lubrificanti per Marina",
+  "category": "Oli motore - Cilindro e sistema di lubrificazione",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/2f9ad16c-872e-4b97-91d9-b6282ced1caa.pdf",
+      "type": "GTDS",
+      "name": "Alexia 25 EN TDG V1.4 05-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613945.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 25 Italy EN 140007645406 EHS V2.5 07-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613946.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 25 Italy IT 140007645406 EHS V2.5 07-JUL-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 25 has a BN of 25 and is an SAE50 cylinder oil.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,161 @@
+{
+  "id": "001D8396",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Refrigeration Oil S4 FR-F 68",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Andere industriële smeermiddelen",
+  "category": "Oliën voor koelcompressoren",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b9d2001-9183-4025-b31d-4e836a30935f.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 68 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/b13f261a-7ea2-42fe-bad2-1c34b7a63686.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 68 Netherlands NL TDG V1.2 17-Oct-2019",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574737.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 68 Netherlands NL 140002783873 EHS V1.6 15-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574739.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 68 Netherlands EN 140002783873 EHS V1.6 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8396_002VO8_A1P5",
+      "name": "Emmer 20 L T/H Steel Shell Yellow (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550025710",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F is een synthetische olie voor koelcompressoren op basis van polyolesters, ontwikkeld voor gebruik met koelgassen R134a en andere HFC's.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "68"
+    },
+    {
+      "property": "Refrigerator Oil Group",
+      "method": "DIN 51503",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "KD"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "66"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "8.8"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "991"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": ">230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Neutralisation Number",
+      "method": "ASTM D664 (TAN)",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "<0.06"
+    },
+    {
+      "property": "Characteristics when used with R134a - Floc-point",
+      "method": "DIN 51351",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "<-30"
+    },
+    {
+      "property": "Characteristics when used with R134a - Refrigerant Stability",
+      "method": "DIN 51393",
+      "uom": "@250°C",
+      "units": "NULL",
+      "value": ">96"
+    },
+    {
+      "property": "Miscibility",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Miscible over the whole range "
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

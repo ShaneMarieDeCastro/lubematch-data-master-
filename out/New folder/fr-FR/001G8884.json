@@ -1,0 +1,99 @@
+{
+  "id": "001G8884",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Helix Ultra Professional AR-L 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/66d2fee1-e48c-41d0-8dbd-1ec2874858e1.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) EN TDG V1.1 12-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/5805e166-cf28-4197-9c9b-911fcbbdf30a.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) France FR TDG V1.1 12-Oct-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488809.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) France EN 140003182031 EHS V1.2 29-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488806.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-20 (RN 17 FE) France FR 140003182031 EHS V1.2 29-SEP-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8884_002YAN_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Copper Gold (12) ",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550051981",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8884_002YAP_EURO",
+      "name": "Bouteille 5 L Wishbone Plastic Copper Gold (3) ",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550050916",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8884_002XS4_A246",
+      "name": "Barils 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550050917",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Renault RN 17 FE",
+      "organisation": "Renault",
+      "spec": "RN 17 FE"
+    },
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Conçue pour satisfaire aux exigences des moteurs \"haute performance\" des voitures particulières de marque Renault et ceux où une huile ACEA C5 est recommandée.  \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550050916_Shell_Helix_Ult_Pro_AR-L_0W-20_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

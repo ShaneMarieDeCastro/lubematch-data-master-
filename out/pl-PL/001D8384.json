@@ -1,0 +1,89 @@
+{
+  "id": "001D8384",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gas Compressor Oil S3 PY 220",
+  "description": "Special Application Ethylene Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Sprężarki i pompy próżniowe",
+  "category": "Sprężarki i pompy próżniowe",
+  "applicationKeys": [
+    "ethylene",
+    "fda",
+    "food grade",
+    "hypercompressor",
+    "industrial",
+    "ldpe",
+    "pharmaceutical"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fbf51261-c178-4cbb-a4b7-2e5bee2a1aaf.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S3 PY 220 EN TDG V2.3 06-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573837.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 220 Poland PL 140003791557 EHS V1.5 11-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573838.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 220 Poland EN 140003791557 EHS V1.5 11-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/ad16a837-1e6a-42cb-ba43-0edf1bb383ec.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S3 PY 220 Poland PL TDG V2.3 10-Jun-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8384_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550027251",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "FDA Regulation 21 CFR 178.3570",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3570"
+    },
+    {
+      "name": "FDA Regulation 21 CFR 178.3620",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3620"
+    },
+    {
+      "name": "European Regulation 10/2011",
+      "organisation": "European Regulation",
+      "spec": "10/2011"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S3 PY  to wysokiej jakości środek smarny przeznaczony do smarowania cylindrów kompresorów tłokowych stosowanych w produkcji polietylenu o niskiej gęstości (LDPE), w tym LDPE przeznaczonego do zastosowań specjalnych, takich jak produkty dla żywności, leków, izolacji kabli oraz do produkcji kopolimeru etylenu i octanu winylu (EVA). Możliwość użycia przy niskich prędkościach  posuwów oraz wysokiej jakości składniki pomagają zapewnić minimalny wpływ oleju na jakość powstających polimerów.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

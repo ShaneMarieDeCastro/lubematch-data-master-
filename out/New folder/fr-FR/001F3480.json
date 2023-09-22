@@ -1,0 +1,80 @@
+{
+  "id": "001F3480",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Diala S4 ZX-IG",
+  "description": "Premium inhibited gas absorbing electrical insulating oil",
+  "family": "Diala",
+  "parentCategory": "",
+  "category": "Huiles électriques",
+  "applicationKeys": [
+    "gas absorbing",
+    "inhibited",
+    "insulating"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/57731b6c-edec-4785-9ade-5d7ee76077fc.pdf",
+      "type": "GTDS",
+      "name": "Diala S4 ZX-IG EN TDG V3.9 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488556.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG France EN 140003182031 EHS V3.6 05-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02486340.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG France FR 140003182031 EHS V3.6 05-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/74418b78-2322-42ce-a420-ccbabfb70758.pdf",
+      "type": "LTDS",
+      "name": "Diala S4 ZX-IG France FR TDG V3.9 19-Jul-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3480_002VSH_A1P5",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550042452",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D3487 Type II",
+      "organisation": "ASTM",
+      "spec": "D3487 Type II"
+    },
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S4 ZX-IG passe avec succès la totalité des anciens et nouveaux tests relatifs au soufre corrosif. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

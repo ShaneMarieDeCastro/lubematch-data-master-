@@ -1,0 +1,70 @@
+{
+  "id": "001E7176",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Mysella S2 Z 15W-40",
+  "description": "Zero Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Huiles moteur - Moteur à gaz stationnaire",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "hydraulic system",
+    "natural gas",
+    "pump gear",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Mysella_S2_Z_15W-40_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Mysella S2 Z 15W-40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/df23a200-bf45-4b16-b84e-6dc610cae544.pdf",
+      "type": "LTDS",
+      "name": "Mysella S2 Z 15W-40 France FR TDG V2.2 27-Feb-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605068.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 15W-40 France FR 140003182031 EHS V2.3 28-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605023.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S2 Z 15W-40 France EN 140003182031 EHS V2.3 28-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S2 Z est un lubrifiant haute performance pour moteurs à gaz naturel qui nécessitent un lubrifiant sans cendres. Graçe à la technologie sans cendres, Shell Mysella S2 Z minimise l'usure du moteur, les dépôts dans les chambres de combustion et dans les lumières de transfert et minimise l'augmentation de viscosité en service.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000Inn5QAC&field=Attachment__Name__s",
+      "family": "Mysella",
+      "savings": 25000,
+      "title": "Shell Mysella S2 Z 15W-40"
+    }
+  ],
+  "commerce": null
+}

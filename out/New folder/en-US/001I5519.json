@@ -1,0 +1,71 @@
+{
+  "id": "001I5519",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Water-Glycol Concentrate",
+  "description": "Water Glycol Hydraulic Oil - Concentrate",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/65d9bd76-db1b-4254-a6d2-c2a9a81b98e0.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol Concentrate EN TDG V1.0 22-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564038.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol Concentrate United States EN 140002686046 EHS V1.0 22-SEP-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/37f49f04-5fdb-4676-9c49-a72b7a6ec0f5.pdf",
+      "type": "LTDS",
+      "name": "Shell Water-Glycol Concentrate  United States EN TDG V1.0 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5519_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057095",
+      "margin": "5.06945233625476",
+      "packShot": ""
+    },
+    {
+      "code": "001I5519_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057096",
+      "margin": "5.47458339134517",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

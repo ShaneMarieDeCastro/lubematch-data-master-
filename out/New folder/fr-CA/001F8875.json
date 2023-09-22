@@ -1,0 +1,284 @@
+{
+  "id": "001F8875",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Rotella T6 5W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Huiles moteur - Usage intensif",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bio gas",
+    "brakes",
+    "cars",
+    "cng",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "lng",
+    "low speed",
+    "lpg",
+    "manual",
+    "marine",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "powershift",
+    "pump vane",
+    "stationary",
+    "synchronised",
+    "tandem drive",
+    "transmissions",
+    "two stroke",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/41601c7d-f34e-49a7-8fa5-bad287287d75.pdf",
+      "type": "GTDS",
+      "name": "Rotella T6 5W-40 (CK-4) EN TDG V1.6 13-Sep-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289972.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 5W-40 (CK-4) Canada FR 140006579500 EHS V2.2 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/a20c93d7-5408-4270-8309-484f77d6f6d3.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 5W-40 (CK-4) Canada EN TDG V1.6 06-Oct-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290728.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T6 5W-40 (CK-4) Canada EN 140006579500 EHS V2.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/4de31f17-ea7d-4eb3-bd80-82616b8392e4.pdf",
+      "type": "LTDS",
+      "name": "Rotella T6 5W-40 (CK-4) Canada FR TDG V1.6 08-Nov-2017",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8875_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500010133",
+      "margin": "1.73880864251641",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002X4L_A1WJ",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550047504",
+      "margin": "1.53313671578377",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002XLT_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550045390",
+      "margin": "1.66460400839915",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002X67_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": "Ecobox",
+      "materialCode": "550046218",
+      "margin": "1.51932926918739",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002XNX_A0IK",
+      "name": "",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550049478",
+      "margin": "1.98102312008369",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002VON_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550046217",
+      "margin": "1.73603584559742",
+      "packShot": ""
+    },
+    {
+      "code": "001F8875_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550046219",
+      "margin": "1.75797317683405",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "ACEA E9",
+      "organisation": "ACEA",
+      "spec": "E9"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K222",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K222"
+    },
+    {
+      "name": "MB-Approval 228.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.31"
+    },
+    {
+      "name": "Volvo VDS-4.5",
+      "organisation": "Volvo",
+      "spec": "VDS-4.5"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "JASO DH-2",
+      "organisation": "JASO",
+      "spec": "DH-2"
+    },
+    {
+      "name": "Mack EO-S 4.5",
+      "organisation": "Mack",
+      "spec": "EO-S 4.5"
+    },
+    {
+      "name": "Detroit Fluid Specification 93K218",
+      "organisation": "Detroit Fluid Specification",
+      "spec": "93K218"
+    },
+    {
+      "name": "Cummins CES 20086",
+      "organisation": "Cummins",
+      "spec": "CES 20086"
+    },
+    {
+      "name": "JASO MA",
+      "organisation": "JASO",
+      "spec": "MA"
+    },
+    {
+      "name": "Volvo VDS-4",
+      "organisation": "Volvo",
+      "spec": "VDS-4"
+    },
+    {
+      "name": "API CI-4 Plus",
+      "organisation": "API",
+      "spec": "CI-4 Plus"
+    },
+    {
+      "name": "Caterpillar ECF-3",
+      "organisation": "Caterpillar",
+      "spec": "ECF-3"
+    },
+    {
+      "name": "Ford WSS-M2C171-F1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C171-F1"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "MAN M 3575",
+      "organisation": "MAN",
+      "spec": "M 3575"
+    },
+    {
+      "name": "Cummins CES 20081",
+      "organisation": "Cummins",
+      "spec": "CES 20081"
+    },
+    {
+      "name": "API CJ-4",
+      "organisation": "API",
+      "spec": "CJ-4"
+    },
+    {
+      "name": "API CK-4",
+      "organisation": "API",
+      "spec": "CK-4"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Allison TES-439",
+      "organisation": "Allison",
+      "spec": "TES-439"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L’huile moteur diesel synthétique de haute tenue Shell  ROTELLA^®^ T6 à technologie Triple Protection Plus^TM^ a été améliorée avec une huile de base entièrement synthétique et des additifs d’une technologie de pointe pour procurer une protection contre l’usure, la formation de dépôts et la décomposition de l’huile, EN PLUS d’un meilleur écoulement à basse température et une meilleure économie d’essence.* ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiZIQA0&field=Attachment__Name__s",
+      "family": "Rotella",
+      "savings": 49500,
+      "title": "Shell Rotella T5 10W-30"
+    }
+  ],
+  "commerce": null
+}

@@ -1,0 +1,209 @@
+{
+  "id": "001F0676",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Rotella HD Tractor Fluid",
+  "description": "Universal Tractor Transmission Oil",
+  "family": "Rotella",
+  "parentCategory": "",
+  "category": "Autres huiles multifonctionnelles",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/74669178-27ad-44f6-913e-9401f99b0a15.pdf",
+      "type": "GTDS",
+      "name": "Rotella HD Tractor Fluid EN TDG V1.2 07-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291242.PDF",
+      "type": "LMSDS",
+      "name": "Rotella HD Tractor Fluid Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291241.PDF",
+      "type": "LMSDS",
+      "name": "Rotella HD Tractor Fluid Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cd8316d5-fe1f-4a9a-a2a2-2ca5ecef91b0.pdf",
+      "type": "LTDS",
+      "name": "Rotella HD Tractor Fluid Canada FR TDG V1.2 03-May-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/0da5aa80-4678-4dd1-888b-81ad77e582b7.pdf",
+      "type": "LTDS",
+      "name": "Rotella HD Tractor Fluid Canada EN TDG V1.2 07-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0676_002VON_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550039811",
+      "margin": "1.30613182828744",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Case New Holland FNHA-2-D.201.00",
+      "organisation": "Case New Holland",
+      "spec": "FNHA-2-D.201.00"
+    },
+    {
+      "name": "Volvo WB 101",
+      "organisation": "Volvo",
+      "spec": "WB 101"
+    },
+    {
+      "name": "ZF TE-ML 06D",
+      "organisation": "ZF",
+      "spec": "TE-ML 06D"
+    },
+    {
+      "name": "Case MS 1210 - Suitable for use in applications which require",
+      "organisation": "Case",
+      "spec": "MS 1210 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 21F",
+      "organisation": "ZF",
+      "spec": "TE-ML 21F"
+    },
+    {
+      "name": "Case New Holland M2C134-C",
+      "organisation": "Case New Holland",
+      "spec": "M2C134-C"
+    },
+    {
+      "name": "ZF TE-ML 06M",
+      "organisation": "ZF",
+      "spec": "TE-ML 06M"
+    },
+    {
+      "name": "John Deere JDM J20C",
+      "organisation": "John Deere",
+      "spec": "JDM J20C"
+    },
+    {
+      "name": "Case New Holland MAT 3525",
+      "organisation": "Case New Holland",
+      "spec": "MAT 3525"
+    },
+    {
+      "name": "Case New Holland M2C134-B",
+      "organisation": "Case New Holland",
+      "spec": "M2C134-B"
+    },
+    {
+      "name": "Case MS 1209 - Suitable for use in applications which require",
+      "organisation": "Case",
+      "spec": "MS 1209 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 06K",
+      "organisation": "ZF",
+      "spec": "TE-ML 06K"
+    },
+    {
+      "name": "Case MS 1207 - Suitable for use in applications which require",
+      "organisation": "Case",
+      "spec": "MS 1207 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Massey Ferguson M-1143",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1143"
+    },
+    {
+      "name": "Volvo 97303:015",
+      "organisation": "Volvo",
+      "spec": "97303:015"
+    },
+    {
+      "name": "ZF TE-ML 05F",
+      "organisation": "ZF",
+      "spec": "TE-ML 05F"
+    },
+    {
+      "name": "Caterpillar TO-2 - Suitable for use in applications which require",
+      "organisation": "Caterpillar",
+      "spec": "TO-2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "ZF TE-ML 03E",
+      "organisation": "ZF",
+      "spec": "TE-ML 03E"
+    },
+    {
+      "name": "Caterpillar TO-2",
+      "organisation": "Caterpillar",
+      "spec": "TO-2"
+    },
+    {
+      "name": "ZF TE-ML 06R",
+      "organisation": "ZF",
+      "spec": "TE-ML 06R"
+    },
+    {
+      "name": "Massey Ferguson M-1145",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1145"
+    },
+    {
+      "name": "Case New Holland M2C134-A",
+      "organisation": "Case New Holland",
+      "spec": "M2C134-A"
+    },
+    {
+      "name": "Case New Holland M2C134-D",
+      "organisation": "Case New Holland",
+      "spec": "M2C134-D"
+    },
+    {
+      "name": "ZF TE-ML 06N",
+      "organisation": "ZF",
+      "spec": "TE-ML 06N"
+    },
+    {
+      "name": "ZF TE-ML 17E",
+      "organisation": "ZF",
+      "spec": "TE-ML 17E"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "«L'huile universelle de transmission de tracteurs» (UTTO), conçue pour être utilisée dans les transmissions, les systèmes hydrauliques, les freins immergés à l'huile et d'autres systèmes auxiliaires adaptés aux tracteurs agricoles et aux équipements hors route. Le fluide de tracteur de Rotella HD est reconnu par les fabricants principaux d'équipement agricole et approprié à l'utilisation dans la plupart des équipements modernes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

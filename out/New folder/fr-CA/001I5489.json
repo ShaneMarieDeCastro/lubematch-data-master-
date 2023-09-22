@@ -1,0 +1,73 @@
+{
+  "id": "001I5489",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Water Soluble Hydraulic Fluid 32",
+  "description": "Water Soluble Hydraulic Oil",
+  "family": "Hydraulic",
+  "parentCategory": "",
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/934adb9a-d6b3-4021-991d-2afd7bd5de81.pdf",
+      "type": "GTDS",
+      "name": "Water Soluble Hydraulic Fluid 32 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/9da4b281-36e8-4660-979e-49877e0db57c.pdf",
+      "type": "LTDS",
+      "name": "Water Soluble Hydraulic Fluid 32 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/14410036-0667-46fb-b80f-3c4c0ae16b88.pdf",
+      "type": "LTDS",
+      "name": "Water Soluble Hydraulic Fluid 32 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290905.PDF",
+      "type": "LMSDS",
+      "name": "Water Soluble Hydraulic Fluid 32 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290854.PDF",
+      "type": "LMSDS",
+      "name": "Water Soluble Hydraulic Fluid 32 Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5489_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057331",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

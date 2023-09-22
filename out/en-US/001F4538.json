@@ -1,0 +1,56 @@
+{
+  "id": "001F4538",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Rotella T5 NG 15W-40",
+  "description": "LNG/CNG Heavy Duty Engine Oil",
+  "family": "Rotella",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ec58296d-10c7-40bd-aec6-c6e7be25f6ea.pdf",
+      "type": "GTDS",
+      "name": "Rotella T5 NG 15W-40 EN TDG V1.1 25-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/84ac57be-53ce-4899-b384-5d9cbdef07ab.pdf",
+      "type": "LTDS",
+      "name": "Rotella T5 NG 15W-40 United States EN TDG V1.1 11-Jan-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562905.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T5 NG 15W-40 United States EN 140002686046 EHS V3.0 03-SEP-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20085",
+      "organisation": "Cummins",
+      "spec": "CES 20085"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "If further information is required please contact the Owning Product Manager or Deputy Product Manager as indicated in the GPC",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

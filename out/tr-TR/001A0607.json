@@ -1,0 +1,116 @@
+{
+  "id": "001A0607",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Spirax MA 80W",
+  "description": "High quality heavy duty gearbox oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "manual",
+    "manual unsynchronised",
+    "non shiftable",
+    "off highway",
+    "powershift",
+    "reduction gears",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/826df998-8c45-4fff-8ffd-925caf860dea.pdf",
+      "type": "GTDS",
+      "name": "Spirax MA 80W EN TDG V1.4 04-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/cbee7698-e08c-40f9-8e9d-047f1fd5bf9d.pdf",
+      "type": "LTDS",
+      "name": "Spirax MA 80W Turkey TR TDG V1.4 19-Nov-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02437172.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MA 80W Turkey TR 140003791542 EHS V2.7 14-SEP-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02437173.PDF",
+      "type": "LMSDS",
+      "name": "Spirax MA 80W Turkey EN 140003791542 EHS V2.7 14-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0607_002VNQ_A246",
+      "name": "Kova 20 L Plastic T/H W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550034600",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001A0607_002VSH_A18N",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550026039",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    },
+    {
+      "name": "MB-Approval 235.1",
+      "organisation": "Mercedes-Benz",
+      "spec": "235.1"
+    },
+    {
+      "name": "MAN 341 Type Z1",
+      "organisation": "MAN",
+      "spec": "341 Type Z1"
+    },
+    {
+      "name": "MAN 341 Type E1",
+      "organisation": "MAN",
+      "spec": "341 Type E1"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax MA 80W,  çok fonksiyonlu katık paketi ile yüksek basınç özelliğine sahip bir otomotiv dişli yağıdır.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

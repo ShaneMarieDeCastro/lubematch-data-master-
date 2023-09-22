@@ -1,0 +1,88 @@
+{
+  "id": "001E9392",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra Professional AR-L 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/40d1e374-7ff9-42f4-a63f-87db3d99145c.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L 5W-30 (C4 Renault) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603961.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 5W-30 (C4 Renault) United Kingdom EN 140002340634 EHS V1.8 27-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/77a5b02b-8eae-4703-b09e-ffa6bea375fb.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L 5W-30 (C4 Renault) United Kingdom EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9392_002XS4_A246",
+      "name": "Drums 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550040210",
+      "margin": "1.15515339346233",
+      "packShot": ""
+    },
+    {
+      "code": "001E9392_002VNF_A246",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550040212",
+      "margin": "1.82273318289107",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 226.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "226.51"
+    },
+    {
+      "name": "Renault RN 0720",
+      "organisation": "Renault",
+      "spec": "RN 0720"
+    },
+    {
+      "name": "ACEA C4",
+      "organisation": "ACEA",
+      "spec": "C4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance passenger car diesel engines, including Renault and those requiring ACEA C4.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550046684_Shell_Helix_Ult_Pro_AR-L_5W-30_5L_en.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-helix-ultra-professional-ar-l-5w-30-5ltr-521772301"
+}

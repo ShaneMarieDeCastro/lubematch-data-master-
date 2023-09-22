@@ -1,0 +1,61 @@
+{
+  "id": "001I5478",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe S1 DU 32",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Vegetable",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1a581539-79d7-46b8-ba24-670a909e7f9c.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S1 DU 32 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/eeedd2e2-d3ed-4e5c-a124-9a5a220e29ae.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S1 DU 32 United States English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563994.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S1 DU 32 United States EN 140002686046 EHS V1.1 24-SEP-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5478_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057322",
+      "margin": "2.59169741377871",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe S1 DU 32 is a less flammable hydraulic fluid designed for systems requiring readily biodegradable, low toxicity, hydraulic fluids. It can be used in environmentally sensitive area applications in industrial, marine and mobile applications including high pressure systems where fire hazards are a concern. It is formulated from high quality high VI vegetable oils and additives providing the properties required for hydraulic performance. Shell EcoSafe S1 DU 32 is a USDA Certified BioPreferred^® product.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

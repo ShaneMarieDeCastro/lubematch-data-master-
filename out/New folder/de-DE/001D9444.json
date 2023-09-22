@@ -1,0 +1,151 @@
+{
+  "id": "001D9444",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Tactic EMV Gadus S5 V100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Tactic",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische EP-Schmierfette",
+  "applicationKeys": [
+    "advanced",
+    "automatic lubricator",
+    "electric motors",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "long life",
+    "low temperature",
+    "moderate speed",
+    "multipurpose",
+    "outdoor fan",
+    "plain bearings",
+    "roller bearings",
+    "severe conditions",
+    "severe low temperature"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Tactic_EMV_Gadus_S5_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Tactic EMV Gadus S5 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562209.PDF",
+      "type": "LMSDS",
+      "name": "Tactic EMV Gadus S5 V100 2 Germany EN 140001492039 EHS V1.9 27-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Germany_Shell_Tactic_EMV_Gadus_S5_V100_2_(de)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Tactic EMV Gadus S5 V100 2 Germany German",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562212.PDF",
+      "type": "LMSDS",
+      "name": "Tactic EMV Gadus S5 V100 2 Germany DE 140001492039 EHS V1.9 27-APR-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Tactic EMS Gadus S5 V100 ist ein Lithiumkomplex-Schmierfett, das auf synthetischen Grundölen basiert und zusätzlich Antioxidantien und EP-Verschleißschutz- und Korrosionsschutzadditive enthält. Aufgrund seines speziellen Reibwertminderers eignet es sich besonders für den Einsatz in Hochgeschwindigkeits-, Rollen- und zylindrischen Lagern des Typs NJ, NUP sowie für Andwendungen mit Winkelring.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Walkpenetration, 60 Hübe (0.1 mm)",
+      "method": "ASTM D217",
+      "uom": "",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Grundöltyp Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Grundöltyp Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Korrosionsschutzeigenschaft: SKF Emcor Test mit destilliertem Wasser",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Korrosionsschutzeigenschaft: SKF Emcor WWO Test mit destilliertem Wasser",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Schmierfähigkeit nach SKF R2F A",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Schmierfähigkeit nach SKF R2F B",
+      "method": "",
+      "uom": "@150°C",
+      "units": "",
+      "value": "Bestanden"
+    },
+    {
+      "property": "Mechanische Stabilität, Shell Rollen (50 Std.)",
+      "method": "",
+      "uom": "@80°C",
+      "units": "",
+      "value": "≤+50"
+    },
+    {
+      "property": "Temperatureinsatzbereich (kurzzeitig)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-50/+150 (200)"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

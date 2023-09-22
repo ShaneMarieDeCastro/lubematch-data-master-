@@ -1,0 +1,112 @@
+{
+  "id": "001H1171",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State® High Mileage Full Synthetic 0W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c1b3ebb7-1758-414f-8968-6f847f92c630.pdf",
+      "type": "GTDS",
+      "name": "Quaker State High Mileage Full Synthetic SAE 0W-20 Motor Oil EN TDG V1.4 30-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563218.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State High Mileage Full Synthetic SAE 0W-20 Motor Oil United States EN 140002686046 EHS V1.3 17-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/41b5084d-9337-49e4-a603-ae43cfdc28d1.pdf",
+      "type": "LTDS",
+      "name": "Quaker State High Mileage Full Synthetic SAE 0W-20 Motor Oil United States EN TDG V1.4 30-Mar-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H1171_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550052755",
+      "margin": "0.754998716370552",
+      "packShot": ""
+    },
+    {
+      "code": "001H1171_002XLL_A0II",
+      "name": "Bottle 5 qt Americas Tool Plastic QS Green (3)",
+      "size": "5",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550052756",
+      "margin": "0.668609879355157",
+      "packShot": ""
+    },
+    {
+      "code": "001H1171_002XOF_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic QS Green (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550052759",
+      "margin": "2.102874683157",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^2 ^Based ^on ^Sequence ^IIIH ^& ^VH ^tests ^on ^0W-20 ^engine ^oil",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,228 @@
+{
+  "id": "001D8250",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Spirax S4 CX 30",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Autres huiles de transmission",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "clutch",
+    "construction",
+    "continuously variable",
+    "cooling",
+    "cooling system",
+    "diesel",
+    "differential",
+    "disc",
+    "engine",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "high altitude",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "non shiftable",
+    "off highway",
+    "offroad",
+    "offroad hydraulic",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "on highway",
+    "plain",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "semi automatic",
+    "semi manual",
+    "servo",
+    "slew",
+    "spindle",
+    "spindle oil",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "variable",
+    "wet brake"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S4_CX_30_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291152.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 30 Canada FR 140006579500 EHS V1.10 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/bbac557c-6db6-41ae-bc11-798a15097078.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 30 Canada EN TDG V2.1 28-Sep-2015",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/8eb38763-9f95-4670-9fe7-9907442b8628.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 30 Canada FR TDG V2.1 18-Jun-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291153.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 30 Canada EN 140006579500 EHS V1.9 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8250_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500005682",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8250_002X4L_A1WJ",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550027604",
+      "margin": "0.646570945935372",
+      "packShot": ""
+    },
+    {
+      "code": "001D8250_002XEK_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550026901",
+      "margin": "0.600140602342217",
+      "packShot": ""
+    },
+    {
+      "code": "001D8250_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550026900",
+      "margin": "0.836267683430911",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    },
+    {
+      "name": "ZF TE-ML 07F",
+      "organisation": "ZF",
+      "spec": "TE-ML 07F"
+    },
+    {
+      "name": "ZF TE-ML 03C",
+      "organisation": "ZF",
+      "spec": "TE-ML 03C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 30 est conçu pour fournir aux opérateurs un fonctionnement sans problème et une fiabilité maximale pour la durée de vie de l'équipement. Le Spirax S4 CX répond aux exigences élevées de la transmission moderne, de la transmission finale, des freins immergés dans l'huile et des systèmes hydrauliques montés sur les véhicules hors route à usage intensif.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "SAE J 300",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "30"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "93.9"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "10.9"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "899"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "205"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-30"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/Rotella Spirax Family.png",
+  "valueRecord": [],
+  "commerce": null
+}

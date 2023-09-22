@@ -1,0 +1,65 @@
+{
+  "id": "001G8169",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Tellus S1 V 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    "versatile"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/27e3f59d-4560-4e47-a2c3-14314d09a068.pdf",
+      "type": "GTDS",
+      "name": "Tellus S1 V 68 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636744.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S1 V 68 India EN 140006501563 EHS V1.1 08-JUN-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8169_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550049827",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8169_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010949",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "If further information is required please contact the Owning Product Manager or Deputy Product Manager as indicated in the GPC",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

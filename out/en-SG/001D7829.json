@@ -1,0 +1,90 @@
+{
+  "id": "001D7829",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Morlina S4 B 460",
+  "description": "Advanced Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": null,
+  "category": "Bearing & Circulating Oils",
+  "applicationKeys": [
+    "air release",
+    "axle",
+    "bearing",
+    "bearing and circulating",
+    "circulation",
+    "circulation system",
+    "extreme temperatures",
+    "final drive",
+    "fzg",
+    "fzg 12",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "long life",
+    "low temperature",
+    "mobile",
+    "off highway",
+    "plain",
+    "pump gear",
+    "pump vane",
+    "reduction gears",
+    "roller cylindrical",
+    "rollers",
+    "screw pump",
+    "transmissions",
+    "vacuum pumps",
+    "variation temperature",
+    "water separation",
+    "worm",
+    "worm gears"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/bda1889e-2c48-4002-910b-df8bf4d70f6d.pdf",
+      "type": "GTDS",
+      "name": "Morlina S4 B 460 EN TDG V3.5 13-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580325.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S4 B 460 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7829_002VNF_A227",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550032890",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 12925-1 CKS",
+      "organisation": "ISO",
+      "spec": "12925-1 CKS"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S4 B oils are high performance synthetic bearing and circulation lubricants, based on high performance base fluids.  They offer outstanding lubrication performance under severe operating conditions, including improved energy efficiency and long service life even in severe operating conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "001E7842",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Omala S3 Wind",
+  "description": "Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Aceites de engranajes industriales",
+  "category": "Aceites de engranajes industriales",
+  "applicationKeys": [
+    "high cleanliness",
+    "industrial",
+    "low temperature",
+    "wind turbine transmission",
+    "wind turbines",
+    "yaw and pitch drive gearboxes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/bac1c508-5946-43fc-8d49-340880c813dd.pdf",
+      "type": "GTDS",
+      "name": "Omala S3 Wind EN TDG V1.3 07-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604863.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 Wind Spain EN 140003966322 EHS V1.8 28-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02604862.PDF",
+      "type": "LMSDS",
+      "name": "Omala S3 Wind Spain ES 140003966322 EHS V1.8 28-JUN-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Spain_Shell_Omala_S3_Wind_(es)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Omala S3 Wind Spain Spanish; Castilian",
+      "language": "ES"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-E02",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-E02"
+    },
+    {
+      "name": "IEC 61400-4",
+      "organisation": "IEC",
+      "spec": "61400-4"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S3 Wind is a mineral oil based industrial gear lubricant offering high performance in wind turbine gearbox applications. It has been specifically designed to efficiently operate in low temperatures, assures excellent wear protection under high loads and shock load conditions, guards against micropitting and offers a high level of cleanliness. Please consider that use in systems with fine filtration is not recommended/supported by Shell because sustained foam control performance is not assured.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

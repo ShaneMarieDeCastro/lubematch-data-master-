@@ -1,0 +1,66 @@
+{
+  "id": "001A9053",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Sirius X 30",
+  "description": "Very High Performance Lubricants for high speed super high performance marine diesel engines (SHPD engines)",
+  "family": "Sirius",
+  "parentCategory": "Oli motore industriali",
+  "category": "Oli motore - Pistone del motore - Trunk",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139848_201407240554.pdf",
+      "type": "GTDS",
+      "name": "Sirius X 30 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534238.PDF",
+      "type": "LMSDS",
+      "name": "Sirius X 30 Italy IT 140007645406 EHS V3.6 02-MAR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534239.PDF",
+      "type": "LMSDS",
+      "name": "Sirius X 30 Italy EN 140007645406 EHS V3.6 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Sirius X is especially suitable for the high power/weight units used in fast vessels and compact generator sets.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

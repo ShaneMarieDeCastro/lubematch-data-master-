@@ -1,0 +1,110 @@
+{
+  "id": "001F4018",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Advance 4T AX7 15W-50 (SM/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": null,
+  "category": "Engine Oils - Motorcycle",
+  "applicationKeys": [
+    "engine",
+    "four stroke",
+    "gasoline",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/76682f83-6097-4b7f-804f-72c0958bb4ae.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) EN TDG V1.6 22-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637480.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T AX7 15W-50 (SM/MA2) India EN 140006501563 EHS V1.4 03-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4018_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550052485",
+      "margin": "1.19863038883099",
+      "packShot": ""
+    },
+    {
+      "code": "001F4018_002WZP_A1W8",
+      "name": "Bottle 3 L Wishbone Plastic Helix Blue (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045433",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4018_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009624",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4018_002XS7_A343",
+      "name": "Bottle 2.5 L Wishbone Plastic Helix Blue (4)",
+      "size": "2.5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050874",
+      "margin": "1.18647708523044",
+      "packShot": ""
+    },
+    {
+      "code": "001F4018_002WZP_A343",
+      "name": "Bottle 3 L Wishbone Plastic Helix Blue (4)",
+      "size": "3",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046322",
+      "margin": "0.936394939388054",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    },
+    {
+      "name": "API SM",
+      "organisation": "API",
+      "spec": "SM"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T AX7 4 stroke motorcycle engine oil meets the requirements of most motorcycle manufacturers.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

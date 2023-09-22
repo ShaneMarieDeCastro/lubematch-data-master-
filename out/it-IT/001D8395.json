@@ -1,0 +1,72 @@
+{
+  "id": "001D8395",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Refrigeration Oil S4 FR-F 46",
+  "description": "Advanced Synthetic Refrigerator Compressor Lubricant ",
+  "family": "Refrigeration",
+  "parentCategory": "Altri lubrificanti industriali",
+  "category": "Oli per frigoriferi",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "hermetic compressor",
+    "hfc",
+    "industrial",
+    "long life",
+    "open compressor",
+    "polyol ester",
+    "r134a",
+    "refrigerant",
+    "semi open compressor"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6b10740f-2711-4d5b-81e2-7ac2799321ef.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S4 FR-F 46 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/7b2cc685-dc1c-4982-9981-056d740c1ab8.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S4 FR-F 46 Italy IT TDG V1.2 31-Jan-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01283046.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 46 Italy EN 140007645406 EHS V1.2 02-JUN-2016",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01283047.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S4 FR-F 46 Italy IT 140007645406 EHS V1.2 02-JUN-2016",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KD",
+      "organisation": "DIN",
+      "spec": "51503 KD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S4 FR-F è un lubrificante sintetico frigorifero a base di esteri di polioli. E’ stato sviluppato per l’impiego con R134a e gli altri fluidi HFC.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

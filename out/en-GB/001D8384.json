@@ -1,0 +1,72 @@
+{
+  "id": "001D8384",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gas Compressor Oil S3 PY 220",
+  "description": "Special Application Ethylene Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Compressor and Vacuum Pump",
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "ethylene",
+    "fda",
+    "food grade",
+    "hypercompressor",
+    "industrial",
+    "ldpe",
+    "pharmaceutical"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fbf51261-c178-4cbb-a4b7-2e5bee2a1aaf.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S3 PY 220 EN TDG V2.3 06-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/b256f22d-c7e0-4de5-bd26-72499c7fca91.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S3 PY 220 United Kingdom EN TDG V2.3 06-Sep-2019",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574237.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S3 PY 220 United Kingdom EN 140002340634 EHS V1.4 11-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "FDA Regulation 21 CFR 178.3570",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3570"
+    },
+    {
+      "name": "FDA Regulation 21 CFR 178.3620",
+      "organisation": "FDA Regulation",
+      "spec": "21 CFR 178.3620"
+    },
+    {
+      "name": "European Regulation 10/2011",
+      "organisation": "European Regulation",
+      "spec": "10/2011"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S3 PY lubricants are high quality blends designed for total loss lubrication of the cylinders of reciprocating hypercompressors in the manufacture of low density polyethylene (LDPE), including LDPE used in special applications such as food, pharmaceuticals and cable insulation, and ethylene vinyl acetate (EVA). Low feed rates and high quality components help ensure minimal impact on production quality of the finished polymers.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

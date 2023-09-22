@@ -1,0 +1,71 @@
+{
+  "id": "001F0284",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Power Plus 15W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Power Plus",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140007560279_20130521150_9.pdf",
+      "type": "GTDS",
+      "name": "Power Plus 15W-40 (SL/CF) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498736.PDF",
+      "type": "LMSDS",
+      "name": "Power Plus 15W-40 (SL/CF) Italy EN 140007645406 EHS V1.2 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498853.PDF",
+      "type": "LMSDS",
+      "name": "Power Plus 15W-40 (SL/CF) Italy IT 140007645406 EHS V1.2 06-DEC-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0284_002W2H_A14T",
+      "name": "Bottiglia 4 L Wishbone Plastic Red (4)",
+      "size": "4",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550039632",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F0284_002W1Y_A14T",
+      "name": "Bottiglia 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550039700",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

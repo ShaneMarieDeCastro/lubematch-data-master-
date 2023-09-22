@@ -1,0 +1,51 @@
+{
+  "id": "001F3709",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Corena S3 RJ 46",
+  "description": "Advanced Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressore e pompa a vuoto",
+  "category": "Compressore e pompa a vuoto",
+  "applicationKeys": [
+    "rotary vane",
+    "screw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Corena_S3_RJ_46_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Corena S3 RJ 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599468.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RJ 46 Italy EN 140007645406 EHS V1.0 19-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599466.PDF",
+      "type": "LMSDS",
+      "name": "Corena S3 RJ 46 Italy IT 140007645406 EHS V1.0 19-JUN-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Corena S3 RJ is a premium quality air compressor oil, formulated with synthetic technology base oils and designed to deliver high performance lubrication of rotary screw air compressors. It uses an advanced additive system to provide excellent protection and performance, particularly in Japanese compressor machinery where very low sludge, excellent thermal-oxidation stability and very high flash point are required.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

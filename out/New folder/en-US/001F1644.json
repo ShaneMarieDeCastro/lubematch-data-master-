@@ -1,0 +1,61 @@
+{
+  "id": "001F1644",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Alexia S6",
+  "description": "High Performance Cylinder Oil for Low-speed Crosshead Diesel Engines",
+  "family": "Alexia",
+  "parentCategory": "",
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "light fuel",
+    "marine",
+    "medium speed"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/9fbf3c58-3423-4856-945a-12e00db2001a.pdf",
+      "type": "GTDS",
+      "name": "Alexia S6 EN TDG V1.4 07-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563937.PDF",
+      "type": "LMSDS",
+      "name": "Alexia S6 United States EN 140002686046 EHS V5.0 19-APR-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia S6 has a BN of 100 and is an SAE50 oil cylinder lubricant. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVVQA0&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 50000,
+      "title": "Shell Alexia S6"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000DiVQQA0&field=Attachment__Name__s",
+      "family": "Alexia",
+      "savings": 113000,
+      "title": "Shell Alexia S6"
+    }
+  ],
+  "commerce": null
+}

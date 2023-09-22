@@ -1,0 +1,152 @@
+{
+  "id": "001E9385",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Helix HX7 Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8a0bf1f7-9a8e-459b-8a03-5c6ed73b284b.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) EN TDG V1.6 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02498747.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Ireland EN 140007731156 EHS V1.3 06-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9385_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500008950",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002WPC_A291",
+      "name": "Bottle 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550040378",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550040410",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002W22_EURO",
+      "name": "Bottle 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046589",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002W22_A291",
+      "name": "Bottle 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550040627",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002XI2_A246",
+      "name": "Bottle 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045936",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9385_002WPC_EURO",
+      "name": "Bottle 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046287",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "Ford WSS-M2C913-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-A"
+    },
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    },
+    {
+      "name": "Ford WSS-M2C913-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-B"
+    },
+    {
+      "name": "ILSAC GF-2",
+      "organisation": "ILSAC",
+      "spec": "GF-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including Ford and those requiring API SJ, ILSAC GF-2 or ACEA A1/B1.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX7_5W-30_AF_5L.png",
+  "valueRecord": [],
+  "commerce": null
+}

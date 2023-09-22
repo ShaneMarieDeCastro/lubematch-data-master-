@@ -1,0 +1,54 @@
+{
+  "id": "001B1107",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil Synthetic 75W-140 (GL-5)",
+  "description": "Heavy duty gear oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "extended drain",
+    "extreme low temperature",
+    "light truck",
+    "limited slip differentials",
+    "long life",
+    "low temperature",
+    "manual transmission",
+    "passenger car",
+    "suv",
+    "van"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "75W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Pzl_Synthetic_75W-140_(GL-5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Pzl Synthetic 75W-140 (GL-5) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563866.PDF",
+      "type": "LMSDS",
+      "name": "Pzl Synthetic 75W-140 (GL-5) United States EN 140002686046 EHS V2.3 11-AUG-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "PENNZOIL^® SYNTHETIC SAE 75W-140 GL-5 meets all the requirements of API Service Classification GL-5.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

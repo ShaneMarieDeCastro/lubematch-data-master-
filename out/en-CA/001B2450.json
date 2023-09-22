@@ -1,0 +1,104 @@
+{
+  "id": "001B2450",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "AeroShell Ascender",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Engine Oils - Aviation/Turbine",
+  "applicationKeys": [
+    "aviation turbines",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3cb5cfa3-1a81-4a8a-884a-989264e57028.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Ascender EN TDG V1.2 20-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02459174.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Ascender Canada EN 140006579500 EHS V1.6 04-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02459173.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Ascender Canada FR 140006579500 EHS V1.6 04-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/4fa2ebaf-8ae8-4172-8dbc-92ed5edcb7ec.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Ascender Canada EN TDG V1.2 28-May-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/4e86d715-ff68-4cbf-a395-4c105bcdae02.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Ascender Canada FR TDG V1.2 10-Aug-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DCSEA 2999/A",
+      "organisation": "DCSEA",
+      "spec": "2999/A"
+    },
+    {
+      "name": "Joint Service Designation OX-27",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-27"
+    },
+    {
+      "name": "Pratt and Whitney 521C Type II",
+      "organisation": "Pratt and Whitney",
+      "spec": "521C Type II"
+    },
+    {
+      "name": "MIL-PRF-23699G Grade HTS",
+      "organisation": "MIL",
+      "spec": "PRF-23699G Grade HTS"
+    },
+    {
+      "name": "NATO O-154",
+      "organisation": "NATO",
+      "spec": "O-154"
+    },
+    {
+      "name": "General Electric D-50 TF 1",
+      "organisation": "General Electric",
+      "spec": "D-50 TF 1"
+    },
+    {
+      "name": "SAE AS5780B",
+      "organisation": "SAE",
+      "spec": "AS5780B"
+    },
+    {
+      "name": "DEF STAN 91-101",
+      "organisation": "DEF STAN",
+      "spec": "91-101"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Ascender is a “fourth generation” turbine engine oil developed with a high performance, low coking, 5 mm²/s synthetic hindered ester basestock combined with a state of the art additive system, to both improve thermal and oxidation stability and provide superior elastomer compatibility.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

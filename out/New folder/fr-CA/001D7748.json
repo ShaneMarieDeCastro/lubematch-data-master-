@@ -1,0 +1,191 @@
+{
+  "id": "001D7748",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Tellus S2 V 22",
+  "description": "Industrial Hydraulic Fluid for wide temperature range\n",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "bearing",
+    "cranes",
+    "cutting heads",
+    "excavators",
+    "gearbox",
+    "hv",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "industrial hydraulics",
+    "journal",
+    "low temperature",
+    "marine",
+    "marine hydraulic",
+    "metal working",
+    "mobile",
+    "mobile equipment",
+    "power steering",
+    "precision",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "transmissions",
+    "turbine",
+    "variable",
+    "versatile",
+    "water",
+    "wide temperature range",
+    "zinc antiwear"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "22",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/eeed9535-d3e0-4fb4-8cb6-e1adc098f793.pdf",
+      "type": "GTDS",
+      "name": "Tellus S2 V 22 EN TDG V5.5 20-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289301.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 V 22 Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289307.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S2 V 22 Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/acbdd379-fc24-4f5b-ae7b-7203e349390d.pdf",
+      "type": "LTDS",
+      "name": "Tellus S2 V 22 Canada EN TDG V5.4 11-Jul-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ASTM D6158-05 HV",
+      "organisation": "ASTM",
+      "spec": "D6158-05 HV"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694 - Meets performance requirements",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694 - Meets performance requirements"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "Eaton (Vickers) Brochure 694",
+      "organisation": "Eaton (Vickers)",
+      "spec": "Brochure 694"
+    },
+    {
+      "name": "GB 111181-1-94 HV",
+      "organisation": "GB",
+      "spec": "111181-1-94 HV"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S2 V fluids are high performance hydraulic fluids with excellent viscosity control under both severe mechanical stress and across a wide range of temperatures. They provide outstanding protection and performance in most mobile equipment and other applications subjected to wider ranges of ambient or operating temperatures.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "22"
+    },
+    {
+      "property": "ISO Fluid Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "HV"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@-20°C",
+      "units": "cSt",
+      "value": "695"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "22"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "4.8"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "142"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "872"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "190"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-42"
+    },
+    {
+      "property": "Dielectric Strength*",
+      "method": "ASTM D877",
+      "uom": "",
+      "units": "kV",
+      "value": ">30"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

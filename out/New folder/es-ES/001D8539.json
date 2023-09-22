@@ -1,0 +1,82 @@
+{
+  "id": "001D8539",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Gadus S3 Wirerope A",
+  "description": "Premium Wire Cable Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas EP con base de aceite mineral",
+  "applicationKeys": [
+    "arctic environment",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy load",
+    "high load",
+    "industrial",
+    "lithium calcium complex",
+    "marine",
+    "premium",
+    "rov",
+    "rov cable",
+    "salt water",
+    "tropical environment",
+    "water resistance",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_Wirerope_A_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 Wirerope A English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02439512.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Wirerope A Spain EN 140003966322 EHS V3.1 23-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02439511.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Wirerope A Spain ES 140003966322 EHS V3.1 23-SEP-2022",
+      "language": "ES"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/c036153f-55c4-430c-8c34-1ecba9984da6.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 Wirerope A Spain ES TDG V2.1 11-Apr-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8539_002VTA_A1P5",
+      "name": "Bidón 180 kg O/H Grease with liner R/Ytop (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Bidón",
+      "materialCode": "550028241",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 Wirerope A es una grasa de complejo de Litio/Calcio formulada con aceite base mineral de alta viscosidad que contiene antioxidantes e inhibidores de la corrosión. Diseñada especialmente para potenciar su capacidad de carga, incorporando componentes de extrema presión (EP) y antidesgaste  a su agente espesante.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,152 @@
+{
+  "id": "001B1573",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Tegula V 32",
+  "description": "Premium technology oil for hydrodynamic transmissions",
+  "family": "Tegula",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "engine",
+    "final drive",
+    "fluid coupling",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "locomotive",
+    "mobile",
+    "off highway",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "servo",
+    "torque converter",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/16ec4c3e-74b9-487f-b4ec-8fd4f41bde9a.pdf",
+      "type": "GTDS",
+      "name": "Tegula V 32 EN TDG V1.3 16-Apr-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579927.PDF",
+      "type": "LMSDS",
+      "name": "Tegula V 32 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B1573_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025195",
+      "margin": "0.891112405147279",
+      "packShot": ""
+    },
+    {
+      "code": "001B1573_002VNR_A18H",
+      "name": "Pail 20 L Plastic T/H Y (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550023854",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Voith 3.285-149",
+      "organisation": "Voith",
+      "spec": "3.285-149"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tegula V 32 is an advanced technology oil designed to meet the latest requirements of variators and advanced railway transmission systems combining hydrodynamic couplings and torque converters with mechanical gears.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "32"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "5.6"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "110"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "870"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "211"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "FZG-Test  A/8.3/90  Failure Load Stage",
+      "method": "DIN 51354-2",
+      "uom": "NULL",
+      "units": "°C",
+      "value": ">12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

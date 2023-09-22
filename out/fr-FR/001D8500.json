@@ -1,0 +1,67 @@
+{
+  "id": "001D8500",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Gadus S3 Wirerope T",
+  "description": "Premium Wire Cable and Open Gear Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Graisses EP à base d’huile minérale",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_Wirerope_T_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 Wirerope T English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02600851.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Wirerope T France EN 140003182031 EHS V2.4 21-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02600852.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 Wirerope T France FR 140003182031 EHS V2.4 21-JUN-2023",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr/b3152c89-7669-43b3-84b4-9fc8f0844dc6.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 Wirerope T France FR TDG V1.1 05-Mar-2018",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8500_002VME_A246",
+      "name": "Sceau 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Sceau",
+      "materialCode": "550028424",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 Wirerope T est une graisse extrême-pression développé pour la lubrification et la protection des engrenages ouverts, des câbles en acier et des surfaces de glissement. La graisse est basée sur des huiles minérales à haute viscosité, un épaississant inorganique et des additifs soigneusement sélectionnés pour fournir une performance optimale. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

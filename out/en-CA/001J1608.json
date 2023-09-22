@@ -1,0 +1,83 @@
+{
+  "id": "001J1608",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Corena S5 A 46",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0dadff79-9910-4743-aeca-696a282e39f3.pdf",
+      "type": "GTDS",
+      "name": "Shell Corena S5 A 46 EN TDG V1.0 19-Nov-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291400.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena S5 A 46 Canada EN 140006579500 EHS V1.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291399.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena S5 A 46 Canada FR 140006579500 EHS V1.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/419d4c9a-9b8e-45ec-a144-e6a0d68fef0c.pdf",
+      "type": "LTDS",
+      "name": "Shell Corena S5 A 46 Canada EN TDG V1.0 19-Nov-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/7b449d8a-ca90-4c56-b2f5-66008f0fce1c.pdf",
+      "type": "LTDS",
+      "name": "Shell Corena S5 A 46 Canada FR TDG V1.0 27-Aug-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J1608_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550060813",
+      "margin": "8.23188570796191",
+      "packShot": ""
+    },
+    {
+      "code": "001J1608_002XD6_NAMD",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550060814",
+      "margin": "6.32430682866113",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Corena S5 A is a long oil life, top tier synthetic lubricant based on polyalkylene glycol (PAG) technology and is designed for rotary screw air compressors. The product allows for longer oil drain intervals and helps to operate cleaner and efficiently  in higher temperature and pressure applications in challenging operations.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

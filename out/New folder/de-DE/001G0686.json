@@ -1,0 +1,73 @@
+{
+  "id": "001G0686",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S5 DCT 11",
+  "description": "High performance Dual Clutch Transmission Fluid",
+  "family": "Spirax DCT",
+  "parentCategory": "Transmission fluids",
+  "category": "ATF - Automatic Transmission Fluids",
+  "applicationKeys": [
+    "cars",
+    "engine",
+    "gasoline",
+    "semi automatic",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0989d059-bed1-4e14-bd12-d67fa26df25d.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 DCT 11 EN TDG V1.5 27-Sep-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511630.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 DCT 11 Germany EN 140001492039 EHS V1.5 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02511629.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 DCT 11 Germany DE 140001492039 EHS V1.5 28-DEC-2022",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/dad11a76-bc07-497d-bdc1-62a438853ef6.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 DCT 11 Germany DE TDG V1.5 15-Mar-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0686_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550051222",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 DCT 11 ist ein Doppelkupplungsgetriebeöl der neuesten Generation, das von Shell für Great Wall DCT Motoren entwickelt wurde. Shell Spirax S5 DCT 11 kombiniert fortschrittliche Additivtechnologie, mit hervorragender Scherstabilität, mit sehr guter Reibungsleistung bei nasser Kupplung, ausgezeichneter Oxidationsstabilität und fortschrittlicher Getriebeleistung unter rauesten Betriebsbedingungen.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

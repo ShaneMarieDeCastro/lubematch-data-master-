@@ -1,0 +1,98 @@
+{
+  "id": "001H5439",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix Ultra ECT C5 0W-20",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/22c0a577-be42-4d6b-9c93-e1283e052ecb.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) EN TDG V1.2 14-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555931.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Turkey TR 140003791542 EHS V1.2 28-DEC-2022",
+      "language": "TR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/4e541da5-c39e-4513-96e4-202b8ed72a26.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Turkey TR TDG V1.2 18-Oct-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555930.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra ECT C5 0W-20 (SN C5 MB229.71 BMW LL17FE) Turkey EN 140003791542 EHS V1.2 28-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H5439_002YAP_EURO",
+      "name": "Şişe 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550056348",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H5439_002YAN_EURO",
+      "name": "Şişe 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550056346",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "BMW Longlife-17 FE+",
+      "organisation": "BMW",
+      "spec": "Longlife-17 FE+"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "MB-Approval 229.71",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.71"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell'in en gelişmiş çevreci tekonolojisi kullanılarak üretilen Shell Helix Ultra ECT C5, dizel partikül filtrelerini temiz tutarak  motorun sürekli yüksek performansla çalışmasını mümkün kılar.  Sürtünmeyi azaltıcı özelliği ile  üstün yakıt ekonomisi performansı sağlar.\n\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

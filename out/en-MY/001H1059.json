@@ -1,0 +1,138 @@
+{
+  "id": "001H1059",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Alexia 40",
+  "description": "MCL for use in two-stroke low speed diesel engines. Alexia 40 is a BN40, SAE 50 cylinder oil.",
+  "family": "Alexia",
+  "parentCategory": null,
+  "category": "Engine Oils - Cylinder and System Lubes",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/204f33da-1105-4eb7-b249-03690cb59501.pdf",
+      "type": "GTDS",
+      "name": "Alexia 40 EN TDG V1.0 21-Dec-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02272191.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 40 Malaysia EN 140001435555 EHS V1.5 31-MAR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02272192.PDF",
+      "type": "LMSDS",
+      "name": "Alexia 40 Malaysia MS 140001435555 EHS V1.5 31-MAR-2021",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H1059_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550051998",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H1059_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500011355",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H1059_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550051997",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Alexia 40 is a cylinder lubricant designed for use in two stroke low speed diesel engines specifically using low Sulphur fuel. It is a BN 40 and SAE 50 lubricant, formulated with proven and reliable technology.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Index",
+      "method": "DIN ISO 2909",
+      "uom": "",
+      "units": "minimum",
+      "value": "95"
+    },
+    {
+      "property": "Density",
+      "method": "DIN EN ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "915"
+    },
+    {
+      "property": "Flash Point",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "210"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C maximum",
+      "value": "-20"
+    },
+    {
+      "property": "BN",
+      "method": "ISO 3771",
+      "uom": "",
+      "units": "mg/KOH/g",
+      "value": "40"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "Calculated Sulphated Ash",
+      "uom": "",
+      "units": "% wt",
+      "value": "5.2"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "18.5"
+    },
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "50"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

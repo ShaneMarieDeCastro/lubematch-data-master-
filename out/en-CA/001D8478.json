@@ -1,0 +1,83 @@
+{
+  "id": "001D8478",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Gadus S1 OG 1600",
+  "description": "Open Gear and Wire Rope Fluid",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Hvy Oils/Cmpds (not soap/clay thick'd)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "1600",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S1_OG_1600_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 OG 1600 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02388522.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 OG 1600 Canada EN 140006579500 EHS V2.0 08-NOV-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b389aea9-befb-4494-aeb7-2e847f5b3349.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 OG 1600 Canada FR TDG V1.1 14-Jun-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02388521.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 OG 1600 Canada FR 140006579500 EHS V2.0 08-NOV-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/93278214-0d88-4487-849f-dd4e394e4b4d.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 OG 1600 Canada EN TDG V1.1 28-Aug-2014",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8478_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550026781",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8478_002XD7_A1WJ",
+      "name": "Pail 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550026782",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S1 OG 1600 is a blend of bitumen, highly refined mineral oils, selected EP additives and high flash point, non-chlorinated, volatile aliphatic diluent ensuring fluidity during application, even at low temperatures.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,104 @@
+{
+  "id": "001F7729",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Rimula R2 Extra 20W-50",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "lng",
+    "low speed",
+    "lpg",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c75d11a0-1e1f-412c-8c16-33d11ef0003b.pdf",
+      "type": "GTDS",
+      "name": "Rimula R2 Extra 20W-50 (CF-4) EN TDG V1.3 06-Aug-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02413086.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 Extra 20W-50 (CF-4) Malaysia EN 140001435555 EHS V1.9 19-APR-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02413088.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 Extra 20W-50 (CF-4) Malaysia MS 140001435555 EHS V1.9 19-APR-2022",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7729_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500009913",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7729_002VNC_A227",
+      "name": "Pail 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550044592",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F7729_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550044595",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R2 Extra oils keep the engine clean. Additives ensure protection against deposits, wear and resist thickening by heat, suitable for most heavy duty applications including turbo-charged engines. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

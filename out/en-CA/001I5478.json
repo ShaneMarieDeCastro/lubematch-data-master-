@@ -1,0 +1,73 @@
+{
+  "id": "001I5478",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe S1 DU 32",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Vegetable",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1a581539-79d7-46b8-ba24-670a909e7f9c.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S1 DU 32 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/370bc9b3-d55b-4841-b8d8-30eaaa8e324a.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S1 DU 32 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/02ca30f4-85a7-41c8-8d19-60367f549b5e.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S1 DU 32 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290914.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S1 DU 32 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290897.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S1 DU 32 Canada French",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5478_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057322",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe S1 DU 32 is a less flammable hydraulic fluid designed for systems requiring readily biodegradable, low toxicity, hydraulic fluids. It can be used in environmentally sensitive area applications in industrial, marine and mobile applications including high pressure systems where fire hazards are a concern. It is formulated from high quality high VI vegetable oils and additives providing the properties required for hydraulic performance. Shell EcoSafe S1 DU 32 is a USDA Certified BioPreferred^® product.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

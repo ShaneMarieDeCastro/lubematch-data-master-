@@ -1,0 +1,119 @@
+{
+  "id": "001G0570",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX8 Professional AG 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "gm"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/400cc0a8-d200-4305-8546-92b545e5be37.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SP/GF-6A meet dexos1gen2) EN TDG V3.2 10-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02351536.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Turkey English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02351579.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Turkey Turkish",
+      "language": "TR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/64939f3e-4518-4f15-85fc-8b83e33e3140.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 Professional AG 5W-30 (SN/GF-5 meet dexos1gen2) Turkey TR TDG V3.2 11-May-2023",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G0570_002X0G_EURO",
+      "name": "Şişe 5 L Wishbone Plastic Rimula Grey (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550054289",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G0570_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550048138",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "Ford WSS M2C961-A1",
+      "organisation": "Ford",
+      "spec": "WSS M2C961-A1"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Opel OV0401547",
+      "organisation": "Opel",
+      "spec": "OV0401547"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "General Motors dexos1 Gen2",
+      "organisation": "General Motors",
+      "spec": "dexos1 Gen2"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "Chrysler MS 13340",
+      "organisation": "Chrysler",
+      "spec": "MS 13340"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "General Motors, Opel/Vauxhall ve API SP veya ILSAC GF-6A spesifikasyonları gerektiren yüksek performanslı motorların zorlu gereksinimlerini karşılamak için tasarlanmıştır.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX8_5W-30_AG_5L_600055099.png",
+  "valueRecord": [],
+  "commerce": null
+}

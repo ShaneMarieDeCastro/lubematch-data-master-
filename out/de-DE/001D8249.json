@@ -1,0 +1,189 @@
+{
+  "id": "001D8249",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S4 CX 10W",
+  "description": "High Performance Off-Highway Transmission and Hydraulic Oil for Many Applications",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Getriebeöle Andere",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "cng",
+    "construction",
+    "diesel",
+    "differential",
+    "disc",
+    "engine",
+    "final drive",
+    "fixed",
+    "front axle",
+    "gearbox",
+    "heavy duty",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "lng",
+    "lpg",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "mobile",
+    "multiple oem",
+    "off highway",
+    "offroad",
+    "offroad hydraulic",
+    "offroad transmissions",
+    "oil immersed brakes",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "reduction gears",
+    "screw pump",
+    "semi manual",
+    "servo",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "tractor drivetrain",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "variable",
+    "wet brake"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S4_CX_10W_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 CX 10W English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577893.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 10W Germany EN 140001492039 EHS V2.10 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02577894.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 CX 10W Germany DE 140001492039 EHS V2.10 23-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/de37424c-81ee-43ff-b21a-4b673ecdd652.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 CX 10W Germany DE TDG V3.1 14-May-2021",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8249_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550027805",
+      "margin": "0.99834376680006",
+      "packShot": ""
+    },
+    {
+      "code": "001D8249_002VND_A246",
+      "name": "Eimer 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550027807",
+      "margin": "1.49400383713154",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ZF TE-ML 03C",
+      "organisation": "ZF",
+      "spec": "TE-ML 03C"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Caterpillar TO-4",
+      "organisation": "Caterpillar",
+      "spec": "TO-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 CX 10W gewährleistet einen störungsfreien Betrieb und eine maximale Zuverlässigkeit von Achs- und Lastschaltgetrieben, nassen Bremsen und hydraulischen Komponenten von Baumaschinen.",
+  "physicalCharacteristics": [
+    {
+      "property": "SAE Viskositätsklasse (ISO VG)",
+      "method": "SAE J 300",
+      "uom": "",
+      "units": "",
+      "value": "10W"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "36"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104 / DIN 51562-1",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185 / DIN 51757",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "884"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "200"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "DIN ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-36"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

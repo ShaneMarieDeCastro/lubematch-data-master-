@@ -1,0 +1,76 @@
+{
+  "id": "001E7183",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Mysella S3 Z 40",
+  "description": "Very Low Ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "natural gas",
+    "stationary",
+    "stationary gas engine",
+    "zero ash"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b31318f9-481d-4476-8d05-031beb0124e0.pdf",
+      "type": "GTDS",
+      "name": "Mysella S3 Z 40 EN TDG V2.3 25-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/55f53d0b-b422-4938-b5d3-c0c099435364.pdf",
+      "type": "LTDS",
+      "name": "Mysella S3 Z 40 United States EN TDG V2.3 25-Nov-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562463.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S3 Z 40 United States EN 140002686046 EHS V2.0 14-JUL-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7183_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500007800",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7183_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550036434",
+      "margin": "0.622515537057694",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S3 Z is ideal for operators who have both two stroke and four stroke engines and who are looking to use a single engine lubricant.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

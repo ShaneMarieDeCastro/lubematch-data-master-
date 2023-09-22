@@ -1,0 +1,81 @@
+{
+  "id": "001J4394",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "ShellZone Multi-Vehicle Antifreeze/Coolant 50/50",
+  "description": "Light duty OAT coolant",
+  "family": "Shellzone",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Diluted",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/655d2e86-5a96-49d0-9591-a2b7abb2870b.pdf",
+      "type": "GTDS",
+      "name": "ShellZone Multi-Vehicle Antifreeze/Coolant 50/50 (2021) EN TDG V1.0 10-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614770.PDF",
+      "type": "LMSDS",
+      "name": "ShellZone Multi-Vehicle Antifreeze/Coolant 50/50 (2021) United States EN 140002686046 EHS V1.1 11-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J4394_002V2N_A0II",
+      "name": "Bottle 1 Gal Rotella W (6)",
+      "size": "1",
+      "uom": "Gal",
+      "pack": "Bottle",
+      "materialCode": "550062811",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J4394_002VIX_A0II",
+      "name": "Drum 55 Gal T/H AG B (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550062812",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J4394_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500013349",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "ShellZone^® Multi-Vehicle Extended Life Antifreeze/Coolant 50/50 is a premium quality, pre-diluted antifreeze/coolant that has been tested to be compatible with all automotive and light duty truck antifreeze/coolant products available in the market today. It does not contain any amine, borate, nitrite or phosphate. When used in a flush and refill service of the cooling system, the product will provide 5 years, or 150,000 miles of service (which ever occurs first). ShellZone^® Multi-Vehicle Extended Life Antifreeze/Coolant not only guards against freezing and boil-over, it also provides critical protection against corrosion forming on system components, including aluminium.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

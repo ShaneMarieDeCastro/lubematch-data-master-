@@ -1,0 +1,67 @@
+{
+  "id": "001G4838",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra Professional AT-L 5W-30",
+  "description": "Passenger Car Engine Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    "cars",
+    "fiat"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/80ca024a-3619-474b-bb21-1acf18721c75.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) EN TDG V1.4 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02611036.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) United Kingdom EN 140002340634 EHS V1.3 05-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/4891da08-da04-406c-a399-bfb98f901434.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AT-L 5W-30 (C2 Fiat 955535.S1) United Kingdom EN TDG V1.4 19-Aug-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Iveco 18-1811 Sp-SC1 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "18-1811 Sp-SC1 - Meets the requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "Fiat 9.55535-S1 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S1 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance engines, including Fiat and those requiring ACEA C2. ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_Ultra_5W-30_AT-L_1L_600039970.png",
+  "valueRecord": [],
+  "commerce": "https://www.eurocarparts.com/p/shell-helix-ultra-professional-at-l-engine-oil-5w-30-1ltr-521773682"
+}

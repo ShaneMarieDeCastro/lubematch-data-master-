@@ -1,0 +1,141 @@
+{
+  "id": "001D8536",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S2 A320 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi EP a base di olio minerale",
+  "applicationKeys": [
+    "arduous conditions",
+    "bearing",
+    "calcium based",
+    "cranes",
+    "davits",
+    "ep",
+    "extreme pressure",
+    "general open gear",
+    "general wire rope",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "open gears",
+    "plain bearings",
+    "rollers",
+    "severe conditions",
+    "stern tube bearings",
+    "water",
+    "water tolerant",
+    "winches",
+    "windlass",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f4a02365-ce7f-47f9-a9b0-cccf951fb375.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 A320 2 EN TDG V3.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612616.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 A320 2 Italy EN 140007645406 EHS V2.12 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/b1b65640-f636-4009-9f3a-5ab57bfebb45.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 A320 2 Italy IT TDG V3.2 17-Mar-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612617.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 A320 2 Italy IT 140007645406 EHS V2.12 06-JUL-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 A320 è un grasso filante, con ispessente a base calcio, per applicazioni industriali e marine a temperatura moderata che richiedono prestazioni per pressioni estreme.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Calcium"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral Oil"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "16.5"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "85"
+    },
+    {
+      "property": "Pumpability, Long Distances",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Fair"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "001E2774",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Risella X 420",
+  "description": "High Quality Technical White Oil",
+  "family": "Risella",
+  "parentCategory": null,
+  "category": "Technical White Oils",
+  "applicationKeys": [
+    "cutting heads",
+    "heat transfer",
+    "metal working"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d04a4ad8-a967-41be-9e0a-59f80e3aa16a.pdf",
+      "type": "GTDS",
+      "name": "Risella X 420 EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637518.PDF",
+      "type": "LMSDS",
+      "name": "Risella X 420 India EN 140006501563 EHS V1.7 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-IN/4165baac-cac8-4acd-a9a3-ada051c520f6.pdf",
+      "type": "LTDS",
+      "name": "Risella X 420 India EN TDG V2.3 27-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2774_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550031580",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E2774_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500006740",
+      "margin": "0.159399658031238",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Risella X 420 is a hydocarbon fluid based on Shell Gas-to-Liquid Technology. It´s highly saturated with a high degree of iso paraffinic structures and is almost odourless and very stable in colour.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

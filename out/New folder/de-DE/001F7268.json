@@ -1,0 +1,67 @@
+{
+  "id": "001F7268",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "AeroShell Fluid 61 (NA)",
+  "description": "Synthetic hydrocarbon hydraulic fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "Aviation Schmierstoffe ",
+  "category": "Hydrauliköle  (Aviation)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/28d3c04e-e180-45b7-911a-1927e1a39bce.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 61 (NA) EN TDG V1.4 31-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609272.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 61 (NA) Germany DE 140001492039 EHS V1.6 04-JUL-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609270.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 61 (NA) Germany EN 140001492039 EHS V1.6 04-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F7268_002VJ2_A1P5",
+      "name": "Fass 55 Gallone T/H AeroShell R (1)",
+      "size": "55",
+      "uom": "Gallone",
+      "pack": "Fass",
+      "materialCode": "550049978",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-46170E Type I",
+      "organisation": "MIL",
+      "spec": "PRF-46170E Type I"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 61 is a synthetic hydrocarbon base hydraulic fluid specifically inhibited to provide excellent oxidation stability for the oil and good corrosion preventive protection to the hydraulic system.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

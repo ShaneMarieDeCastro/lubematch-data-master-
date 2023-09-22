@@ -1,0 +1,61 @@
+{
+  "id": "001I5467",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Water-Glycol S3 Food Grade 46",
+  "description": "Water Glycol & Food Grade Hydraulic Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Water-Extendible Cutting Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/920511f7-9d99-438c-b58b-f123f59af6ed.pdf",
+      "type": "GTDS",
+      "name": "Shell Water-Glycol S3 Food Grade 46 EN TDG V1.1 28-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291423.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol S3 Food Grade 46 Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290868.PDF",
+      "type": "LMSDS",
+      "name": "Shell Water-Glycol S3 Food Grade 46 Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5467_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057081",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

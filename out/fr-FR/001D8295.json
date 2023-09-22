@@ -1,0 +1,235 @@
+{
+  "id": "001D8295",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S2 ATF AX",
+  "description": "High Performance ATF, PSF and Hydraulic Oil in Many MAN, Voith and ZF Vehicles",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Fluides de transmission automatique",
+  "applicationKeys": [
+    "atf",
+    "automatic",
+    "automatic transmissions",
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "fixed",
+    "gearbox",
+    "heavy duty",
+    "heavy duty atf",
+    "heavy truck",
+    "hydraulic power system",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "passenger car",
+    "power steering",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "semi manual",
+    "servo",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5514f0a2-2111-420f-8b9f-2cd218672948.pdf",
+      "type": "GTDS",
+      "name": "Spirax S2 ATF AX EN TDG V1.4 20-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578696.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ATF AX France EN 140003182031 EHS V5.2 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578695.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ATF AX France FR 140003182031 EHS V5.2 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/2c6c2a2f-263f-46d5-8cda-2499d01d257e.pdf",
+      "type": "LTDS",
+      "name": "Spirax S2 ATF AX France FR TDG V1.4 24-Nov-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8295_002VNC_A246",
+      "name": "Sceau 20 L Plastic O/H R (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027799",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8295_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550027804",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8295_002W1Y_A621",
+      "name": "Bouteille 1 L Wishbone Plastic Red (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550043343",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN 339 Type V1",
+      "organisation": "MAN",
+      "spec": "339 Type V1"
+    },
+    {
+      "name": "ZF TE-ML 04D",
+      "organisation": "ZF",
+      "spec": "TE-ML 04D"
+    },
+    {
+      "name": "ZF TE-ML 03D",
+      "organisation": "ZF",
+      "spec": "TE-ML 03D"
+    },
+    {
+      "name": "Ford Mercon",
+      "organisation": "Ford",
+      "spec": "Mercon"
+    },
+    {
+      "name": "MB-Approval 236.6",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.6"
+    },
+    {
+      "name": "ZF TE-ML 09 - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 09 - Suitable for use in applications which require"
+    },
+    {
+      "name": "Ford Mercon - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron IID - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron IID - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 14A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 14A - Suitable for use in applications which require"
+    },
+    {
+      "name": "MB-Approval 236.6 - Suitable for use in applications which require",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.6 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 04D - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 04D - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 09",
+      "organisation": "ZF",
+      "spec": "TE-ML 09"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 11A - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 11A - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 14A",
+      "organisation": "ZF",
+      "spec": "TE-ML 14A"
+    },
+    {
+      "name": "Voith 55.6335",
+      "organisation": "Voith",
+      "spec": "55.6335"
+    },
+    {
+      "name": "ZF TE-ML 17C - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 17C - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 11A",
+      "organisation": "ZF",
+      "spec": "TE-ML 11A"
+    },
+    {
+      "name": "MAN 339 Type Z1",
+      "organisation": "MAN",
+      "spec": "339 Type Z1"
+    },
+    {
+      "name": "MAN 339 Type V1 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "339 Type V1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "MAN 339 Type Z1 - Suitable for use in applications which require",
+      "organisation": "MAN",
+      "spec": "339 Type Z1 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 03D - Suitable for use in applications which require",
+      "organisation": "ZF",
+      "spec": "TE-ML 03D - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Huile de grande qualité destinée aux transmissions automatiques, directions assistées et systèmes hydrauliques de véhicules lourds ou légers. \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027799_Shell_Spirax_S2_ATF_AX_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

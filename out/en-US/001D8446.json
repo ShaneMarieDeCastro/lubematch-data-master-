@@ -1,0 +1,111 @@
+{
+  "id": "001D8446",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Gadus S2 High Speed Coupling Grease",
+  "description": "High Performance Gear Coupling Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    "couplings",
+    "ep",
+    "extended drain",
+    "extended service",
+    "extreme pressure",
+    "flexible chain couplings",
+    "gear coupling",
+    "geared couplings",
+    "heavy load",
+    "high speed coupling",
+    "industrial",
+    "lithium polymer",
+    "low speed",
+    "shock load",
+    "steel grid couplings"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/c411027c-c795-4d97-ad06-9fca62920f42.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 High Speed Coupling Grease EN TDG V1.3 01-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562402.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 High Speed Coupling Grease United States EN 140002686046 EHS V3.0 10-AUG-2018",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/2f137260-3cf2-47d4-9b14-4a0a4f454047.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 High Speed Coupling Grease United States EN TDG V1.3 01-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8446_002XL3_A1WJ",
+      "name": "Cartridges 0.4 kg Local (Fiber Grease) Composite Multi-coloured (10)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridges",
+      "materialCode": "550027655",
+      "margin": "4.22010059989426",
+      "packShot": ""
+    },
+    {
+      "code": "001D8446_002VKN_A1WJ",
+      "name": "Keg 50 kg O/H Steel + Liner Shell Red, Shell Yellow(1) WL",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Keg",
+      "materialCode": "550026877",
+      "margin": "5.2278371864387",
+      "packShot": ""
+    },
+    {
+      "code": "001D8446_002WWP_A1WJ",
+      "name": "Drums 180 kg Open head + liner Steel Shell Red, Shell Yellow (1) WL",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Drums",
+      "materialCode": "550026784",
+      "margin": "3.54442454196276",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "AGMA Type CG-2",
+      "organisation": "AGMA",
+      "spec": "Type CG-2"
+    },
+    {
+      "name": "AGMA Type CG-3",
+      "organisation": "AGMA",
+      "spec": "Type CG-3"
+    },
+    {
+      "name": "AGMA Type CG-1",
+      "organisation": "AGMA",
+      "spec": "Type CG-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 High Speed Coupling Grease is specially formulated with a lithium soap/polymer thickener, which has superior resistance to oil separation when subjected to the high centrifugal forces normally found in couplings.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

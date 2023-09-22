@@ -1,0 +1,108 @@
+{
+  "id": "001D7788",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Corena S4 P 68",
+  "description": "Advanced Synthetic Reciprocating  (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compressore e pompa a vuoto",
+  "category": "Compressore e pompa a vuoto",
+  "applicationKeys": [
+    "air compressor",
+    "bearing",
+    "breathing air compressor",
+    "diesel",
+    "engine",
+    "extended life",
+    "extended valve maintenance",
+    "high pressure",
+    "high temperature",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "light fuel",
+    "long life",
+    "marine",
+    "medium speed",
+    "piston",
+    "reciprocating",
+    "severe conditions",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/ff8bfbbe-c61e-4006-8527-386a2fb20eb3.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 P 68 EN TDG V1.3 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/29d41860-96c4-45e6-91f1-c11d06a16984.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 P 68 Italy IT TDG V1.3 05-Oct-2018",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572608.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 68 Italy IT 140007645406 EHS V3.4 04-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572607.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 P 68 Italy EN 140007645406 EHS V3.4 04-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7788_002VNF_A1P5",
+      "name": "Secchio 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550027229",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO/DP 6521 L-DAB",
+      "organisation": "ISO",
+      "spec": "/DP 6521 L-DAB"
+    },
+    {
+      "name": "ISO 6743-3 2003 L-DAB",
+      "organisation": "ISO",
+      "spec": "6743-3 2003 L-DAB"
+    },
+    {
+      "name": "BS EN 12021",
+      "organisation": "BS",
+      "spec": "EN 12021"
+    },
+    {
+      "name": "DIN 51506 VDL",
+      "organisation": "DIN",
+      "spec": "51506 VDL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 P è un olio sintetico avanzato per compressori d'aria che incorpora fluidi sintetici a base estere e un particolare pacchetto additivi di elevate prestazioni. E' formulato per assicurare le più elevate prestazioni di lubrificazione per compressori alternativi ad alta pressione operanti con temperature di scarico aria superiori a 220°C ad elevate pressioni.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s4_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

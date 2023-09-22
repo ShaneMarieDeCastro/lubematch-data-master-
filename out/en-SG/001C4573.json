@@ -1,0 +1,114 @@
+{
+  "id": "001C4573",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Rimula R3+ 40",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "biofuel",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "locomotive",
+    "low speed",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "servo",
+    "stationary",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1b10bd32-4c44-4b9e-8829-c8e93719db93.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3+ 40 (CF/228.0) EN TDG V1.6 29-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/7722cf86-d340-4053-b44e-00b616e326f8.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3+ 40 (CF/228.0) Singapore EN TDG V1.6 29-Jul-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580006.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3+ 40 (CF/228.0) Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MTU Category 1",
+      "organisation": "MTU",
+      "spec": "Category 1"
+    },
+    {
+      "name": "MB-Approval 228.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "228"
+    },
+    {
+      "name": "ACEA E2",
+      "organisation": "ACEA",
+      "spec": "E2"
+    },
+    {
+      "name": "MAN 270",
+      "organisation": "MAN",
+      "spec": "270"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 oils adapts to your driving needs to provide extra protection and keep pistons and other engine parts clean. It provides protection against wear for long engine life and protection against deposits for efficient engine performance.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R3-Plus-40.png",
+  "valueRecord": [],
+  "commerce": null
+}

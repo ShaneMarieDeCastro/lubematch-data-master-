@@ -1,0 +1,103 @@
+{
+  "id": "001I5458",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell EcoSafe S3 DU 46",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3b271612-e3b9-49ba-91fd-d5301f5f10bb.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe S3 DU 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/ed535235-1708-46e8-829b-e2420fa71c04.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 46 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289627.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 46 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289628.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe S3 DU 46 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/f66fa532-162f-4056-bbaa-d5fe169de80a.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe S3 DU 46 Canada English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5458_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500012145",
+      "margin": "1.01384571682962",
+      "packShot": ""
+    },
+    {
+      "code": "001I5458_002VOP_NAMD",
+      "name": "Pail 5 Gal Plastic O/H Y (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057077",
+      "margin": "3.15187310433179",
+      "packShot": ""
+    },
+    {
+      "code": "001I5458_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057078",
+      "margin": "1.5389967022798",
+      "packShot": ""
+    },
+    {
+      "code": "001I5458_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057076",
+      "margin": "0.142973469198333",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe S3 DU 46 is a synthetic fire-resistant hydraulic fluid, based on very high VI, polyalkylene glycol (PAG) base stocks, coupled with a proven ashless additive package. Shell EcoSafe S3 DU 46 has been designed to minimize fluid degradation and thus extend fluid changeout intervals under even the most severe operating conditions. Shell EcoSafe S3 DU 46 provides the performance properties demanded by today’s high-performance hydraulic systems. Shell EcoSafe S3 DU 46 is readily biodegradable.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

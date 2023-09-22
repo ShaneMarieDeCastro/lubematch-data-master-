@@ -1,0 +1,149 @@
+{
+  "id": "001D7229",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "FormulaShell SAE 5W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "FormulaShell",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e8342efd-93ba-4d29-8d26-2f9fcb98c812.pdf",
+      "type": "GTDS",
+      "name": "FormulaShell 5W-30 EN TDG V1.3 05-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/b1837c9b-74b4-4040-8bd5-3bdb235757f0.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 5W-30 Canada EN TDG V1.3 05-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b96c8284-0970-4a3a-9be3-07d56e051f19.pdf",
+      "type": "LTDS",
+      "name": "FormulaShell 5W-30 Canada FR TDG V1.3 13-Dec-2020",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02409974.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 5W-30 Canada FR 140006579500 EHS V2.10 14-MAR-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02409973.PDF",
+      "type": "LMSDS",
+      "name": "FormulaShell 5W-30 Canada EN 140006579500 EHS V2.10 14-MAR-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7229_002XO4_A0IK",
+      "name": "Bottle 0.946 L Americas Tool Plastic White (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550049472",
+      "margin": "0.73754446339545",
+      "packShot": ""
+    },
+    {
+      "code": "001D7229_002VIA_A0IK",
+      "name": "Drum 208 L T/H VW Y (1)",
+      "size": "208",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550023688",
+      "margin": "0.665113914754317",
+      "packShot": ""
+    },
+    {
+      "code": "001D7229_002XMG_A0IK",
+      "name": "Bottle 5 L Americas Vigor Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045246",
+      "margin": "0.753094341789977",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C946-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A"
+    },
+    {
+      "name": "Ford WSS-M2C946-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-A - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "Ford WSS-M2C929-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C929-A - Meets the requirements"
+    },
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    },
+    {
+      "name": "Ford WSS-M2C946-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C946-B1"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Formula Shell^® Motor Oil is formulated to provide wear protection and helps protect against the formation of sludge, varnish and rust.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

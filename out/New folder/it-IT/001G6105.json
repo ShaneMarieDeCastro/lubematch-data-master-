@@ -1,0 +1,83 @@
+{
+  "id": "001G6105",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Spirax S6 ATF 134ME",
+  "description": "Automatic transmission fluid for Mercedes Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Fluidi per trasmissioni automatiche",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/710b5ebb-af96-4e5f-ba13-c46843677d9e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF 134ME EN TDG V1.3 06-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02439118.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME Italy IT 140007645406 EHS V1.2 22-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02439117.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134ME Italy EN 140007645406 EHS V1.2 22-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/6e1cea9d-13ab-41f2-a4a2-d3c01009dc10.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF 134ME Italy IT TDG V1.3 05-May-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G6105_002W21_A0IP",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550059925",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G6105_002VNF_A246",
+      "name": "Secchio 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550059470",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.15",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.15"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF 134ME è un fluido premium per trasmissioni automatiche Mercedes-Benz a 7 marce.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

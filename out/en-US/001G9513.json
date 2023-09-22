@@ -1,0 +1,61 @@
+{
+  "id": "001G9513",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Spirax S6 DCT E 75W-80",
+  "description": "High performance Transmission Fluid for Eaton Dual Clutch Transmissions",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "75W-80",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/d23cbda8-235d-4f8b-800f-2a37acd3f592.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 DCT E 75W-80 EN TDG V1.1 06-Dec-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564046.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 DCT E 75W-80 United States EN 140002686046 EHS V1.0 06-DEC-2018",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/61188e9a-f1c8-4019-a217-aa1275e43606.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 DCT E 75W-80 United States EN TDG V1.1 18-Apr-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G9513_002XEM_NAMD",
+      "name": "Keg 16 Gal Open head Steel Shell Red, Shell Yellow (1)",
+      "size": "16",
+      "uom": "Gal",
+      "pack": "Keg",
+      "materialCode": "550050555",
+      "margin": "2.20427237801668",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Outstanding oxidation stability",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

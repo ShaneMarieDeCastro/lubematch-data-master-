@@ -1,0 +1,73 @@
+{
+  "id": "001G7026",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Hydraulic S1 V 32",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Fluidi idraulici",
+  "category": "Fluidi idraulici",
+  "applicationKeys": [
+    "hydraulic system",
+    "hydraulics"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e9949667-6bf0-4d50-913a-1d2c2b13268a.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 V 32 EN TDG V1.3 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/d5f04fb8-2b9e-4f9b-8324-b66a5ca0336f.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 V 32 Italy IT TDG V1.3 11-Oct-2020",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447382.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 32 Italy EN 140007645406 EHS V1.3 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02447380.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 32 Italy IT 140007645406 EHS V1.3 21-SEP-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    },
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 V 32 è un fluido idraulico antiusura di qualità che assicura una protezione affidabile e prestazioni con un rapporto prezzo/qualità conveniente nella maggioranza delle applicazioni industriali e mobili. \n",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

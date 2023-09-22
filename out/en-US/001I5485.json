@@ -1,0 +1,61 @@
+{
+  "id": "001I5485",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Corena S6 A 46",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/58536cdb-4f66-4781-a29e-dd8618371246.pdf",
+      "type": "GTDS",
+      "name": "Shell Corena S6 A 46 EN TDG V1.1 28-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/8e54e0cd-354c-428c-9bf2-a4902cd576b2.pdf",
+      "type": "LTDS",
+      "name": "Shell Corena S6 A 46 Unites States EN TDG V1.1 21-Jan-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563715.PDF",
+      "type": "LMSDS",
+      "name": "Shell Corena S6 A 46 United States EN 140002686046 EHS V1.1 02-NOV-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5485_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057327",
+      "margin": "10.5867457315359",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Corena S6 A is an extended oil life, top tier synthetic lubricant based on polyalkylene glycol (PAG) and pentaerythritol ester technology with next generation additives for rotary screw air compressors. The product helps provide extended oil drain intervals together with varnish formation protection benefits in higher temperature and pressure applications in challenging operations.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

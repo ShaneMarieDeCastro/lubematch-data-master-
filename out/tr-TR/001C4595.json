@@ -1,0 +1,127 @@
+{
+  "id": "001C4595",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Rimula R6 ME E4 5W-30",
+  "description": "Energy Saving - Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "biodiesel",
+    "cars",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "multi fuel",
+    "off highway",
+    "on highway",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cc1e2433-89a7-414d-bbef-ade86beb38ae.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 ME 5W-30 (E4/228.5) EN TDG V2.6 14-Jan-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02406804.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 ME 5W-30 (E4/228.5) Turkey EN 140003791542 EHS V1.10 24-FEB-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/4e895dcc-2ea3-4d30-9961-b09cc491ed3e.pdf",
+      "type": "LTDS",
+      "name": "Rimula R6 ME 5W-30 (E4/228.5) Turkey TR TDG V2.6 17-Feb-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02407020.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 ME 5W-30 (E4/228.5) Turkey TR 140003791542 EHS V1.10 24-FEB-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4595_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550040121",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Iveco Standard TFE - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "Standard TFE - Meets the requirements"
+    },
+    {
+      "name": "MAN M 3277",
+      "organisation": "MAN",
+      "spec": "M 3277"
+    },
+    {
+      "name": "MB-Approval 228.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.5"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "ACEA E4",
+      "organisation": "ACEA",
+      "spec": "E4"
+    },
+    {
+      "name": "MTU Category 3",
+      "organisation": "MTU",
+      "spec": "Category 3"
+    },
+    {
+      "name": "Scania LDF-3",
+      "organisation": "Scania",
+      "spec": "LDF-3"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 ME, uzun yağ değişim aralığına sahip, yakıt ekonomisi, bakım maliyetlerinden tasarruf, kurum kaynaklı aşınma ve depozit oluşumuna karşı üstün koruma sağlar.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R6-ME-5_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

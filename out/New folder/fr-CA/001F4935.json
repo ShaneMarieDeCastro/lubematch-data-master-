@@ -1,0 +1,67 @@
+{
+  "id": "001F4935",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Quaker State Defy High Mileage 10W-40 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Quaker_State_Defy_High_Mileage_10W-40_Motor_Oil_(SN_GF-5)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Quaker State Defy High Mileage 10W-40 Motor Oil (SN) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Canada_Quaker_State_Defy_High_Mileage_10W-40_Motor_Oil_(SN_GF-5)_(en-CA)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Quaker State Defy High Mileage 10W-40 Motor Oil (SN) Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01009292.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Defy High Mileage 10W-40 Motor Oil (SN) Canada FR 140006579500 EHS V1.0 15-JUN-2015",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01009291.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State Defy High Mileage 10W-40 Motor Oil (SN) Canada EN 140006579500 EHS V1.0 15-JUN-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "^*^Compared ^to ^industry ^standard ^Sequence ^IVA",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

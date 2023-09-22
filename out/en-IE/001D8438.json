@@ -1,0 +1,78 @@
+{
+  "id": "001D8438",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Gadus S3 V100 2",
+  "description": "Premium Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    "air blowers",
+    "electric motor bearings",
+    "electric motors",
+    "high speed",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "low speed",
+    "multipurpose",
+    "plain bearings",
+    "premium",
+    "roller bearings",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V100_2_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V100 2 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621258.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V100 2 Ireland EN 140009869348 EHS V5.1 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8438_002VGF_A310",
+      "name": "Cartridge 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Cartridge",
+      "materialCode": "550028072",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8438_002VME_A246",
+      "name": "Pail 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550028075",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 V100 grease is especially suitable for bearings operating at high temperatures, low and high speeds and in the presence of moisture.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

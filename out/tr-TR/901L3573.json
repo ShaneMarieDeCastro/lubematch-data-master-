@@ -1,0 +1,61 @@
+{
+  "id": "901L3573",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell General Purpose Grease",
+  "description": "Multipurpose Grease",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Mineral oil based non EP Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/814f022e-e372-4222-bc9d-3097c904e9c9.pdf",
+      "type": "GTDS",
+      "name": "General Purpose Grease EN TDG V1.0 29-Jan-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02379324.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease Turkey EN 140003791542 EHS V3.0 05-OCT-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02379323.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease Turkey TR 140003791542 EHS V3.0 05-OCT-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L3573_002VH7_A0H5",
+      "name": "Fıçı 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kilogram",
+      "pack": "Fıçı",
+      "materialCode": "550013808",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "General purpose grease based on a mineral oil and a lithium thickener.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

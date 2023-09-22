@@ -1,0 +1,93 @@
+{
+  "id": "001D7800",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Morlina S1 B 100",
+  "description": "Industrial Bearing & Circulating Oils",
+  "family": "Morlina",
+  "parentCategory": "Oleje obiegowe i łożyskowe",
+  "category": "Oleje łożyskowe i obiegowe",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "enclosed gear",
+    "gearbox",
+    "industrial",
+    "journal",
+    "low load",
+    "machine circulation systems",
+    "morgoil",
+    "oil lubricated bearings",
+    "plain",
+    "pump piston",
+    "rollneck bearings",
+    "rotary vane",
+    "vacuum pumps",
+    "water separation"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Morlina_S1_B_100_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Morlina S1 B 100 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570938.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 100 Poland EN 140003791557 EHS V2.2 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02570939.PDF",
+      "type": "LMSDS",
+      "name": "Morlina S1 B 100 Poland PL 140003791557 EHS V3.2 04-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/c78dcbc4-3d87-46d1-9df5-d170d14ca76c.pdf",
+      "type": "LTDS",
+      "name": "Morlina S1 B 100 Poland PL TDG V3.1 09-Oct-2020",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7800_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550026395",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51517-1 C",
+      "organisation": "DIN",
+      "spec": "51517-1 C"
+    },
+    {
+      "name": "Morgan MORGOIL New Oil Rev. 1.1",
+      "organisation": "Morgan",
+      "spec": "MORGOIL New Oil Rev. 1.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Morlina S1 B to najwyższej jakości oleje zapewniające doskonałą ochronę łożysk i układów obiegowych w większości instalacji przemysłowych. Są szczególnie przydatne wszędzie tam, gdzie w celu zapewnienia długiego okresu użytkowania urządzeń wymagane jest bardzo dobre oddzielanie wody (deemulgacja). Spełniają wymagania firmy Morgan dla olejów łożyskowych.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

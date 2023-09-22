@@ -1,0 +1,171 @@
+{
+  "id": "001A0046",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "AeroShell Fluid 2XN",
+  "description": "Corrosion inhibited mineral oil for aircraft engine preservation",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Lubrifiants spécialisés (aviation)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8b2dd92b-a66d-4d75-b777-f9850980eacc.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 2XN EN TDG V1.3 07-Nov-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549054.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 2XN Canada EN 140006579500 EHS V1.6 07-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/0027dfef-13ad-4272-a622-d218801f0b9d.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 2XN Canada EN TDG V1.3 07-Nov-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02549053.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 2XN Canada FR 140006579500 EHS V1.6 07-APR-2023",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/6c1fba9c-fcef-4c09-8f9a-947b0f31671e.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Fluid 2XN Canada FR TDG V1.3 07-Nov-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DTD.900",
+      "organisation": "DTD",
+      "spec": "900"
+    },
+    {
+      "name": "AIR 1503/B Type B Concentrate",
+      "organisation": "AIR",
+      "spec": "1503/B Type B Concentrate"
+    },
+    {
+      "name": "DTD.4913A",
+      "organisation": "DTD",
+      "spec": "4913A"
+    },
+    {
+      "name": "NATO C-608",
+      "organisation": "NATO",
+      "spec": "C-608"
+    },
+    {
+      "name": "Joint Service Designation ZX-21",
+      "organisation": "Joint Service Designation",
+      "spec": "ZX-21"
+    },
+    {
+      "name": "MIL-C-6529C Type I",
+      "organisation": "MIL",
+      "spec": "C-6529C Type I"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 2XN est un concentré anticorrosion à partir duquel AeroShell Fluid 2F a été mélangé ; les proportions de mélange sont d'une partie d'AeroShell Fluid 2XN pour trois parties d'AeroShell Oil 100. En général, les opérateurs doivent obtenir des fournitures mélangées prêtes à l'emploi dans les moteurs, sauf si l'utilisation du concentré est spécifiée.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@37.8°C",
+      "units": "mm²/s",
+      "value": "254"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "",
+      "uom": "@98.9°C",
+      "units": "mm²/s",
+      "value": "20.0"
+    },
+    {
+      "property": "Flashpoint (Cleveland Open Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "254"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-17"
+    },
+    {
+      "property": "Relative Density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "0.9"
+    },
+    {
+      "property": "Carbon residue",
+      "method": "Cleveland Open Cup",
+      "uom": "NULL",
+      "units": "%m",
+      "value": "0.5"
+    },
+    {
+      "property": "Ash",
+      "method": "Cleveland Open Cup",
+      "uom": "NULL",
+      "units": "%m",
+      "value": "0.01"
+    },
+    {
+      "property": "Lead corrosion, 4 hrs",
+      "method": "NULL",
+      "uom": "@149°C",
+      "units": "mg/in2",
+      "value": "35"
+    },
+    {
+      "property": "Copper corrosion, 3 hrs",
+      "method": "",
+      "uom": "@100°C",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Rust protection (humidity cabinet)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

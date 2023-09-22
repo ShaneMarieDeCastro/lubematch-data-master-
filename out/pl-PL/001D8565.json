@@ -1,0 +1,77 @@
+{
+  "id": "001D8565",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S1 V160 2",
+  "description": "Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne bez dodatków EP",
+  "applicationKeys": [
+    "lithium"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/e540d797-ff09-4ae1-9bcf-2d90ad6431b0.pdf",
+      "type": "GTDS",
+      "name": "Gadus S1 V160 2 EN TDG V2.2 21-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02600405.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160 2 Poland EN 140003791557 EHS V1.2 21-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/82dacf3a-82d0-48f8-bfbf-1b052666dcc6.pdf",
+      "type": "LTDS",
+      "name": "Gadus S1 V160 2 Poland PL TDG V2.2 07-May-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02600368.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S1 V160 2 Poland PL 140003791557 EHS V1.2 21-JUN-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8565_002XD7_A246",
+      "name": "Wiadro 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028214",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8565_002VH7_A246",
+      "name": "Beczka 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Beczka",
+      "materialCode": "550028213",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "001A0065",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "AeroShell Grease 7",
+  "description": "Synthetic grease for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6ae9df16-e5d0-448a-b312-38230cd7dc02.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 7 EN TDG V1.5 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/d623a8ff-4303-41fe-b2ed-d37222c7f619.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Grease 7 Singapore EN TDG V1.5 23-Jun-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02579891.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 7 Singapore EN 140001435547 EHS V2.5 15-MAR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0065_002VFN_A616",
+      "name": "Can 3 kg Local (6.6lb Aeroshell Grease) Tinplate Pre-printed (4)",
+      "size": "3",
+      "uom": "kg",
+      "pack": "Can",
+      "materialCode": "550043634",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-PRF-23827C Type II",
+      "organisation": "MIL",
+      "spec": "PRF-23827C Type II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/AeroShell-Grease-7.png",
+  "valueRecord": [],
+  "commerce": null
+}

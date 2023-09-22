@@ -1,0 +1,93 @@
+{
+  "id": "001E9385",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX7 Professional AF 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8a0bf1f7-9a8e-459b-8a03-5c6ed73b284b.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) EN TDG V1.6 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319902.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Turkey TR 140003791542 EHS V1.4 12-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319901.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Turkey EN 140003791542 EHS V1.4 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/6afba188-0a32-40df-82f6-741cf04d5f60.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 Professional AF 5W-30 (A1/B1 M2C-913A/B) Turkey TR TDG V1.5 10-May-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford WSS-M2C913-B",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-B"
+    },
+    {
+      "name": "ILSAC GF-2",
+      "organisation": "ILSAC",
+      "spec": "GF-2"
+    },
+    {
+      "name": "Ford WSS-M2C913-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-A"
+    },
+    {
+      "name": "ACEA A1/B1",
+      "organisation": "ACEA",
+      "spec": "A1/B1"
+    },
+    {
+      "name": "ACEA A1",
+      "organisation": "ACEA",
+      "spec": "A1"
+    },
+    {
+      "name": "ACEA B1",
+      "organisation": "ACEA",
+      "spec": "B1"
+    },
+    {
+      "name": "API SJ",
+      "organisation": "API",
+      "spec": "SJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ford ve API SJ, ILSAC GF-2 veya ACEA A1/B1 sınıfı motor yağı talep edilen diğer yüksek performans araçlarının gereksinimlerini karşılamak üzere tasarlanmıştır.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX7_5W-30_AF_5L.png",
+  "valueRecord": [],
+  "commerce": null
+}

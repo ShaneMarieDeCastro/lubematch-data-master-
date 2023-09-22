@@ -1,0 +1,122 @@
+{
+  "id": "001D8265",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Spirax S3 G 80W-90",
+  "description": "High Performance Manual Transmission and Gear Oil for MAN, ZF and other OEMs",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "industrial",
+    "manual",
+    "manual sequential",
+    "manual unsynchronised",
+    "off highway",
+    "on highway",
+    "reduction gears",
+    "semi automatic",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/dba55b5e-9f07-4dd1-bd06-01fa0d6ddc5e.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 G 80W-90 EN TDG V2.4 19-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/b8f9b66d-936e-434e-9905-e023ac9fb630.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 G 80W-90 Turkey TR TDG V2.4 21-May-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02446741.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W-90 Turkey TR 140003791542 EHS V1.9 19-SEP-2022",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02446739.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 G 80W-90 Turkey EN 140003791542 EHS V1.9 19-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8265_002VNA_A246",
+      "name": "Kova 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Kova",
+      "materialCode": "550027961",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN 341 Type Z2",
+      "organisation": "MAN",
+      "spec": "341 Type Z2"
+    },
+    {
+      "name": "ZF TE-ML 17A",
+      "organisation": "ZF",
+      "spec": "TE-ML 17A"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "MAN 341 Type E2",
+      "organisation": "MAN",
+      "spec": "341 Type E2"
+    },
+    {
+      "name": "ZF TE-ML 02B",
+      "organisation": "ZF",
+      "spec": "TE-ML 02B"
+    },
+    {
+      "name": "ZF TE-ML 16A",
+      "organisation": "ZF",
+      "spec": "TE-ML 16A"
+    },
+    {
+      "name": "ZF TE-ML 19A",
+      "organisation": "ZF",
+      "spec": "TE-ML 19A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 G 80W-90, özel seçilmiş mineral baz yağ ve yeni nesil katık teknolojisi ile geliştirilen formülasyonu sayesinde aktarma organlarının verimli yağlanmasını sağlayan yüksek performanslı bir şanzıman yağıdır.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550027961_Shell_Spirax_S3_G_80W-90_20L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

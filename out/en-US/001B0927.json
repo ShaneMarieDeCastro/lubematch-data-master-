@@ -1,0 +1,95 @@
+{
+  "id": "001B0927",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Quaker State Automatic Transmission Fluid",
+  "description": "ATF fluid",
+  "family": "Quaker State Brand",
+  "parentCategory": null,
+  "category": "Automatic Transmission Fluids",
+  "applicationKeys": [
+    "agricultural",
+    "atf",
+    "automatic transmissions",
+    "buses",
+    "construction",
+    "heavy duty",
+    "heavy duty atf",
+    "industrial",
+    "mobile hydraulics",
+    "multifunctional",
+    "offroad",
+    "passenger car",
+    "powershift",
+    "trucks"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_QS_Automatic_Transmission_Fluid_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "QS Automatic Transmission Fluid English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563710.PDF",
+      "type": "LMSDS",
+      "name": "QS Automatic Transmission Fluid United States EN 140002686046 EHS V6.0 08-JUN-2017",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/895acc56-8f8d-4bcd-a1f1-501b6c10f04d.pdf",
+      "type": "LTDS",
+      "name": "QS Automatic Transmission Fluid United States EN TDG V1.0 04-Dec-2017",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B0927_002V7F_A0II",
+      "name": "Bottle 1 Quart Rect QS G (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550035470",
+      "margin": "0.883483328758726",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Motors Dexron IIIH",
+      "organisation": "General Motors",
+      "spec": "Dexron IIIH"
+    },
+    {
+      "name": "Ford Mercon - Suitable for use in applications which require",
+      "organisation": "Ford",
+      "spec": "Mercon - Suitable for use in applications which require"
+    },
+    {
+      "name": "General Motors Dexron IIIH - Suitable for use in applications which require",
+      "organisation": "General Motors",
+      "spec": "Dexron IIIH - Suitable for use in applications which require"
+    },
+    {
+      "name": "Allison C-4 - Suitable for use in applications which require",
+      "organisation": "Allison",
+      "spec": "C-4 - Suitable for use in applications which require"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "To meet the lubrication demands of specialized equipment design, Quaker State incorporated a complex additive system in QUAKER STATE^®^ AUTOMATIC TRANSMISSION FLUID. Specially selected friction modifiers allow friction retention for long life performance. Enhanced oxidation, thermal stability and corrosion resistance insure long mileage component protection",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

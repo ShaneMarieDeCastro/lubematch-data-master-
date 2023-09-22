@@ -1,0 +1,67 @@
+{
+  "id": "001F9488",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix HX8 Synthetic ECT C3 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c2f07e0f-620a-4ad1-8fd3-d08a272edbed.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 Synthetic ECT C3 5W-30 (C3) EN TDG V2.3 15-Jan-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02501230.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Synthetic ECT C3 5W-30 (C3) Italy EN 140007645406 EHS V1.2 08-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02501232.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 Synthetic ECT C3 5W-30 (C3) Italy IT 140007645406 EHS V1.2 08-DEC-2022",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/56b87a19-05ed-472d-a0f8-2215db244014.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 Synthetic ECT C3 5W-30 (C3) Italy IT TDG V2.3 20-Mar-2017",
+      "language": "IT"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 Synthetic ECT C3 utilizza la tecnologia più avanzata compatibile ad emissioni che aiuta a mantenere i filtri antiparticolato diesel puliti mantenendo le prestazioni del motore. Aiuta a ridurre l'attrito di componenti del motore per fornire un maggior risparmio di carburante.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Helix_Rimula_Advance_Packshot-Group_ref_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

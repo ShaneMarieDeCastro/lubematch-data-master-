@@ -1,0 +1,55 @@
+{
+  "id": "001G0144",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "AeroShell Oil W 80 Plus",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "Aviation lubricants",
+  "category": "Aviation lubricants",
+  "applicationKeys": [
+    "ashless"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "80",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/6381f573-a710-4222-9490-d81f52d94e2a.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 80 Plus (10-2015) EN TDG V1.2 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590749.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 80 Plus (10-2015) United Kingdom EN 140002340634 EHS V1.5 07-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Continental SIL 99-2",
+      "organisation": "Continental",
+      "spec": "SIL 99-2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Oil W80 Plus is a single grade oil that combines the single grade, ashless dispersant performance found in AeroShell Oil W80 Plus and the anti-wear/anti-corrosion additives of AeroShell Oil W 15W-50 Multigrade. It is the oil for pilots who prefer a single grade but who also want the extra protection and performance.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

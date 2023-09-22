@@ -1,0 +1,188 @@
+{
+  "id": "001D7780",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Corena S2 P 150",
+  "description": "Reciprocating (Piston) Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": "Compresor y bomba de vacío.",
+  "category": "Compresor y bomba de vacío.",
+  "applicationKeys": [
+    "air compressor",
+    "breathing air compressor",
+    "gearbox",
+    "high pressure",
+    "industrial",
+    "piston",
+    "reciprocating"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "150",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff861dce-c72d-478f-b207-1365c1901cff.pdf",
+      "type": "GTDS",
+      "name": "Corena S2 P 150 EN TDG V2.4 27-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572450.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 150 Spain ES 140003966322 EHS V2.7 04-MAY-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02572449.PDF",
+      "type": "LMSDS",
+      "name": "Corena S2 P 150 Spain EN 140003966322 EHS V2.7 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/71ae3b0e-810c-409c-9fa8-10ded66ea0e8.pdf",
+      "type": "LTDS",
+      "name": "Corena S2 P 150 Spain ES TDG V2.4 28-Feb-2020",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7780_002VNA_A246",
+      "name": "Cubo 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Cubo",
+      "materialCode": "550026198",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3A L-DAA",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAA"
+    },
+    {
+      "name": "ISO 6743-3A L-DAB",
+      "organisation": "ISO",
+      "spec": "6743-3A L-DAB"
+    },
+    {
+      "name": "DIN 51506 VBL",
+      "organisation": "DIN",
+      "spec": "51506 VBL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S2 P es un lubricante de alta calidad específicamente diseñado para proporcionar un gran rendimiento de lubricación para compresores de aire de alta presión. Es idóneo para la mayoría de compresores de aire alternativos con temperaturas de descarga de hasta 220ºC.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "150"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "155"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "12.1"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "902"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-30"
+    },
+    {
+      "property": "Neutralisation Value",
+      "method": "ASTM D974",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "0.3"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "DIN 51575",
+      "uom": "",
+      "units": "% m",
+      "value": "0.06"
+    },
+    {
+      "property": "Oxidation Stability (delta CCR)",
+      "method": "DIN 51352-2",
+      "uom": "NULL",
+      "units": "% m",
+      "value": "2.3"
+    },
+    {
+      "property": "Properties Of The Distillation Residue (20%) - Carbon Residue (C",
+      "method": "DIN 51551",
+      "uom": "",
+      "units": "% m",
+      "value": "0.3"
+    },
+    {
+      "property": "Properties Of The Distillation Residue (20%) - Kinematic Viscosi",
+      "method": "DIN 51562",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "280"
+    },
+    {
+      "property": "Rust Prevention - Synthetic Sea Water",
+      "method": "ASTM D665B",
+      "uom": "",
+      "units": "degree",
+      "value": "Pass"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@54°C",
+      "units": "min",
+      "value": "-"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@82°C",
+      "units": "min",
+      "value": "20"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_corena_s2_p.png",
+  "valueRecord": [],
+  "commerce": null
+}

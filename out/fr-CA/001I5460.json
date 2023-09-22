@@ -1,0 +1,83 @@
+{
+  "id": "001I5460",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell EcoSafe Revive",
+  "description": "Special Purpose Turbine Oil - TF",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Huiles pour turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/400f7798-37a7-47b9-a2f5-fe0ebf8ebd1d.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Revive EN TDG V1.2 08-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/3f1cb344-8d3f-43a8-a4ea-71e69ddde5dd.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Revive Canada FR TDG V1.2 05-May-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02266268.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Revive Canada FR 140006579500 EHS V1.1 22-MAR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/a5459e29-b3f1-41df-9b4d-d479ed901d05.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Revive Canada EN TDG V1.2 08-Mar-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02266271.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Revive Canada EN 140006579500 EHS V1.1 22-MAR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5460_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057297",
+      "margin": "9.08682753134116",
+      "packShot": ""
+    },
+    {
+      "code": "001I5460_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057298",
+      "margin": "9.15873347355769",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe Revive est un exhausteur de solvabilité à base synthétique, qui peut être incorporé dans des fluides de turbine à base d'hydrocarbures pour réduire les problèmes associés à la formation de vernis et à l'instabilité du produit. Shell EcoSafe Revive est conçu pour améliorer la solubilité des fluides de turbine à base d'hydrocarbures préexistants afin de réparer ces fluides à potentiel de vernis élevé et élevé. Shell EcoSafe Revive ne reconstitue pas les antioxydants existants dans les fluides de turbine usagés, mais aide plutôt à réactiver les additifs emprisonnés dans les dépôts de vernis en les remettant en solution.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "001G8165",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Hydraulic Oil 32",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/20e7f3e1-417a-4c1e-8dc8-93dff96ea7b4.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic Oil 32 EN TDG V1.2 06-Mar-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636816.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic Oil 32 India EN 140006501563 EHS V1.1 08-NOV-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8165_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500010923",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8165_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550049313",
+      "margin": "0.290412599242053",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic oil is a general purpose Zinc based hydraulic oil based on refined petroleum mineral oil based fluids, incorporates additives to control rust and corrosion, and minimizes oxidation and foaming.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

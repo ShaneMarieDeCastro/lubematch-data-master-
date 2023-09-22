@@ -1,0 +1,77 @@
+{
+  "id": "001I5477",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe Turbine Fluid S5 GX 25",
+  "description": "Special Purpose Turbine Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Turbine Oils",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "25",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/868171a9-8e00-4655-9cba-5f55accc434f.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 GX 25 EN TDG V1.1 28-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563995.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 GX 25 United States EN 140002686046 EHS V1.1 23-SEP-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/573ee0c7-5e81-4dd5-8c89-9a77cbe35221.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 GX 25 United States EN TDG V1.1 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5477_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057320",
+      "margin": "3.79212632166544",
+      "packShot": ""
+    },
+    {
+      "code": "001I5477_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057321",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Electric GEK 32568K",
+      "organisation": "General Electric",
+      "spec": "GEK 32568K"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,168 @@
+{
+  "id": "001F8462",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Omala S4 GXV 680",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "Oleje do przekładni przemysłowych",
+  "category": "Oleje do przekładni przemysłowych",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "enclosed gear",
+    "ep",
+    "extra long life",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "front axle",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "industrial",
+    "journal",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "off highway",
+    "paints and sealants",
+    "reduction gears",
+    "rollers",
+    "seal compatibility",
+    "siemens ag",
+    "splash lubricated bearings",
+    "system efficiency",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "680",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/13825d8e-6924-44b5-8a82-68d721726b74.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GXV 680 EN TDG V1.9 19-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/e1313427-8a05-4a0d-930f-a7160efe2be7.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GXV 680 Poland PL TDG V1.9 20-Apr-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02443381.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 680 Poland EN 140003791557 EHS V1.2 21-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02443380.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 680 Poland PL 140003791557 EHS V1.2 21-SEP-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GXV 680 to zaawansowany, wysokowydajny, syntetyczny, przemysłowy olej przekładniowy zatwierdzony przez Siemens AG o doskonałych parametrach eksploatacych w ciężkich warunkach: zmniejszenie tarcia, długi okres użytkowania oraz wysoka odporność na powstawanie wżerów. Zapewnia optymalną ochronę przekładni i znakomitą kompatybilność z uszczelnieniami.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "680"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "74"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "191"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C  minimum",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C  ",
+      "value": "-42"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C ",
+      "units": "kg/m³",
+      "value": "868"
+    },
+    {
+      "property": "Four Ball EP Weld load",
+      "method": "ASTM D2783",
+      "uom": "",
+      "units": "kg minimum",
+      "value": "250"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/8,3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "14"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

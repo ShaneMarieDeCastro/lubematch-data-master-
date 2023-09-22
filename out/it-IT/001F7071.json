@@ -1,0 +1,121 @@
+{
+  "id": "001F7071",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Omala Wind Oil F 320",
+  "description": "Industrial Gear Oil",
+  "family": "Omala",
+  "parentCategory": "Oli per ingranaggi industriali",
+  "category": "Oli per ingranaggi industriali",
+  "applicationKeys": [
+    "bearings",
+    "circulating and splash lubricated systems",
+    "ep",
+    "excellent water separation",
+    "extreme pressure",
+    "flender foam test",
+    "gearbox",
+    "high performance",
+    "industrial",
+    "industrial gears",
+    "lead free",
+    "micropitting",
+    "outstanding thermal stability",
+    "oxidation stability",
+    "steel gear transmissions",
+    "wind turbines"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fbae8468-578f-44a3-9463-7a6cb192fdf1.pdf",
+      "type": "GTDS",
+      "name": "Omala F Wind 320 EN TDG V3.4 03-Jul-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609125.PDF",
+      "type": "LMSDS",
+      "name": "Omala F Wind 320 Italy IT 140007645406 EHS V1.5 04-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/8a414498-5619-4031-b4ff-ef396bd05f09.pdf",
+      "type": "LTDS",
+      "name": "Omala F Wind 320 Italy IT TDG V3.4 09-Aug-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02609124.PDF",
+      "type": "LMSDS",
+      "name": "Omala F Wind 320 Italy EN 140007645406 EHS V1.5 04-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [
+    {
+      "property": "Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "25"
+    },
+    {
+      "property": "Viscosity Index ",
+      "method": "IP 226",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "100"
+    },
+    {
+      "property": "Density",
+      "method": "IP 365",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.903"
+    },
+    {
+      "property": "Flash Point (PMCC)",
+      "method": "IP 34",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "202"
+    },
+    {
+      "property": "Pour Point",
+      "method": "IP 15",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-18"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

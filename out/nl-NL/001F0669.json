@@ -1,0 +1,169 @@
+{
+  "id": "001F0669",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rimula R4 Multi 10W-30",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "high altitude",
+    "hydraulic system",
+    "mobile",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/35e421d9-1da6-4f87-875a-02d8e27ae4c5.pdf",
+      "type": "GTDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) EN TDG V1.3 07-Nov-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545213.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) Netherlands EN 140002783873 EHS V1.6 28-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545084.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) Netherlands NL 140002783873 EHS V1.6 28-MAR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/208e1c65-1b15-4977-b94f-90c2fa951ca1.pdf",
+      "type": "LTDS",
+      "name": "Rimula R4 Multi 10W-30 (CI-4) Netherlands NL TDG V1.3 07-Feb-2017",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F0669_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550041358",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F0669_002VND_A246",
+      "name": "Emmer 20 L Plastic O/H Rimula Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Emmer",
+      "materialCode": "550041354",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20078",
+      "organisation": "Cummins",
+      "spec": "CES 20078"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "Cummins CES 20075",
+      "organisation": "Cummins",
+      "spec": "CES 20075"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "Caterpillar ECF-2",
+      "organisation": "Caterpillar",
+      "spec": "ECF-2"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "Mack EO-M Plus",
+      "organisation": "Mack",
+      "spec": "EO-M Plus"
+    },
+    {
+      "name": "API CI-4",
+      "organisation": "API",
+      "spec": "CI-4"
+    },
+    {
+      "name": "Case New Holland MS 3520 - Suitable for use in applications which require",
+      "organisation": "Case New Holland",
+      "spec": "MS 3520 - Suitable for use in applications which require"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "JASO DH-1",
+      "organisation": "JASO",
+      "spec": "DH-1"
+    },
+    {
+      "name": "Cummins CES 20072",
+      "organisation": "Cummins",
+      "spec": "CES 20072"
+    },
+    {
+      "name": "Mack EO-M",
+      "organisation": "Mack",
+      "spec": "EO-M"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R4 Multi olie beschermt tegen de voortdurende veranderingen van de rijomstandigheden. Deze technologie geeft een drievoudige bescherming: lage slijtage voor een langer motorleven, voorkomen van ongewenste afzettingen voor een optimale werking van de motor en een uitstekende weerstand tegen hoge temperaturen. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

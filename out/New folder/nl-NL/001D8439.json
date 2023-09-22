@@ -1,0 +1,102 @@
+{
+  "id": "001D8439",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S3 V770D 1",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie met 'EP additieven",
+  "applicationKeys": [
+    "bearing",
+    "bushes",
+    "bushing",
+    "cement",
+    "chemical industry",
+    "continuous high load",
+    "ep",
+    "extreme pressure",
+    "flexible gear couplings",
+    "heavy duty",
+    "high load",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "mining",
+    "moly",
+    "multipurpose",
+    "premium",
+    "roller bearings",
+    "rollers",
+    "shock load",
+    "slow",
+    "solid lubricant",
+    "steel",
+    "very slow",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_V770D_1_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 V770D 1 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479787.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V770D 1 Netherlands EN 140002783873 EHS V5.1 26-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/9c9dd42e-b488-4b10-bb76-d427394a7adc.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 V770D 1 Netherlands NL TDG V1.1 07-Mar-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479788.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 V770D 1 Netherlands NL 140002783873 EHS V5.1 26-OCT-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8439_002VME_A246",
+      "name": "Emmer 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028099",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8439_002VH7_A246",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028097",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": null,
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

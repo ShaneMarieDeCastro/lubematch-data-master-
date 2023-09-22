@@ -1,0 +1,80 @@
+{
+  "id": "001B3348",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Irus Fluid C",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Irus",
+  "parentCategory": "Hydraulische vloeistoffen",
+  "category": "Hydraulische vloeistoffen",
+  "applicationKeys": [
+    "brakes",
+    "fire resistance",
+    "fixed",
+    "hydraulic system",
+    "hydraulics",
+    "mobile",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "steam",
+    "turbine",
+    "variable"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Irus_C_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Irus C English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556553.PDF",
+      "type": "LMSDS",
+      "name": "Irus C (2005) Netherlands NL 140002783873 EHS V2.5 19-APR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02556552.PDF",
+      "type": "LMSDS",
+      "name": "Irus C (2005) Netherlands EN 140002783873 EHS V2.5 19-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51502 HFC",
+      "organisation": "DIN",
+      "spec": "51502 HFC"
+    },
+    {
+      "name": "ISO 12922 HFC",
+      "organisation": "ISO",
+      "spec": "12922 HFC"
+    },
+    {
+      "name": "ISO 6743-4 L-HFC",
+      "organisation": "ISO",
+      "spec": "6743-4 L-HFC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Irus Fluid C is an advanced water-glycol fire resistant hydraulic fluid containing powerful additives to enhance its anti-wear, anti-corrosion and anti-oxidation properties. The water content is approximately 40% by weight.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

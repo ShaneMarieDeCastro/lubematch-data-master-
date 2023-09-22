@@ -1,0 +1,89 @@
+{
+  "id": "001D8391",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Refrigeration Oil S2 FR-A 46",
+  "description": "Refrigerator Compressor Lubricant",
+  "family": "Refrigeration",
+  "parentCategory": "Pozostałe oleje przemysłowe",
+  "category": "Oleje do sprężarek chłodniczych",
+  "applicationKeys": [
+    "commercial",
+    "domestic",
+    "heat transfer",
+    "hermetic compressor",
+    "industrial",
+    "open compressor",
+    "r290",
+    "r717",
+    "refrigerant",
+    "semi open compressor",
+    "steam",
+    "turbine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3aaa0883-9198-4a99-a254-4cce986b650b.pdf",
+      "type": "GTDS",
+      "name": "Refrigeration Oil S2 FR-A 46 EN TDG V1.2 26-Sep-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573800.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Poland PL 140003791557 EHS V1.5 15-MAY-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02574541.PDF",
+      "type": "LMSDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Poland EN 140003791557 EHS V1.5 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/a96716f8-685e-44f2-a95e-c8fbfde5908f.pdf",
+      "type": "LTDS",
+      "name": "Refrigeration Oil S2 FR-A 46 Poland PL TDG V1.2 08-Feb-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8391_002VSH_A1P5",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550025693",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51503 KAA",
+      "organisation": "DIN",
+      "spec": "51503 KAA"
+    },
+    {
+      "name": "DIN 51503 KE",
+      "organisation": "DIN",
+      "spec": "51503 KE"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Refrigeration Oil S2 FR-A jest olejem sprężarkowym oznaczającym się niską mieszalnościa z czynnikiem i jest przeznaczony do stosowania w układach zawierających amoniak jako czynnik chłodniczy. Połaczenie bazy olejowej zawierającej odpowiednio rafinowane oleje parafinowe ze specjalnie dobranymi dodatkami minimalizuje powstawanie osadów w układzie i zapewnia długi czas eksploatacji oleju i urządzenia.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

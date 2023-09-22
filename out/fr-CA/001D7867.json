@@ -1,0 +1,84 @@
+{
+  "id": "001D7867",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Air Tool Oil S2 A 320",
+  "description": "Pneumatic Tool and Rock Drill Oils",
+  "family": "Air Tool",
+  "parentCategory": null,
+  "category": "Lubrifiants d’outils de forage et pneumatiques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "320",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/cbe96ffa-96ac-4a07-8531-a31d0c190a3a.pdf",
+      "type": "GTDS",
+      "name": "Air Tool Oil S2 A 320 EN TDG V2.2 07-Sep-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289470.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 320 Canada EN 140006579500 EHS V1.8 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/f9895e9a-7b0c-47a1-99c1-046e0f7154d3.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 320 Canada FR TDG V2.2 11-Sep-2018",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/7ff49944-2161-46c2-8030-df09062f2761.pdf",
+      "type": "LTDS",
+      "name": "Air Tool Oil S2 A 320 Canada EN TDG V2.2 10-Sep-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289469.PDF",
+      "type": "LMSDS",
+      "name": "Air Tool Oil S2 A 320 Canada FR 140006579500 EHS V1.9 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7867_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550026754",
+      "margin": "0.964169108720339",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-11 PBC",
+      "organisation": "ISO",
+      "spec": "6743-11 PBC"
+    },
+    {
+      "name": "ISO 6743-11 PAC",
+      "organisation": "ISO",
+      "spec": "6743-11 PAC"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile Shell Air Tool S2 A a été conçue pour répondre aux exigences de lubrification particulières des outils pneumatiques, tels que les outils pneumatiques à percussion soumis à des conditions extrêmes. Elle est conçue pour maintenir une épaisse pellicule d'huile protectrice et pour lubrifier efficacement les systèmes les plus exigeants des mécanismes de percussion pneumatiques ainsi que pour assurer une excellente lubrification par brouillard d'huile des outils pneumatiques à usage général.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

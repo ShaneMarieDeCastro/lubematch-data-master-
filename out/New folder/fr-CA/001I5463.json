@@ -1,0 +1,99 @@
+{
+  "id": "001I5463",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell EcoSafe Turbine Fluid S5 X 32",
+  "description": "Special Purpose Turbine Oil",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Huiles pour turbine",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/49142945-6609-4897-bbcd-ecf90e1f7e96.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 32 EN TDG V1.0 23-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/88834a91-2858-481f-ba89-92d5019571b8.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 32 Canada FR TDG V1.0 08-Oct-2020",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/48a5644a-a75d-4110-932f-75a86e23e1c8.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 32 Canada EN TDG V1.0 23-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290870.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 32 Canada EN 140006579500 EHS V1.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290718.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe Turbine Fluid S5 X 32 Canada FR 140006579500 EHS V1.2 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5463_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500012328",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5463_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057302",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5463_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057303",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "General Electric GEK 32568K",
+      "organisation": "General Electric",
+      "spec": "GEK 32568K"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

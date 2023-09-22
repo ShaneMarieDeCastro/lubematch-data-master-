@@ -1,0 +1,106 @@
+{
+  "id": "901L4304",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Gadinia AL 30",
+  "description": "Very High Performance Medium-speed Diesel Engine Oil for use with Distillate Fuels",
+  "family": "Gadinia",
+  "parentCategory": "",
+  "category": "Engine Oils - Trunk Piston Engine",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "distillates",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "off highway",
+    "pump gear",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "servo",
+    "stern tube seal",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/14c07a79-f083-4dc2-8c8f-6888620fa89d.pdf",
+      "type": "GTDS",
+      "name": "Gadinia AL 30 EN TDG V1.1 15-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02580283.PDF",
+      "type": "LMSDS",
+      "name": "Gadinia AL 30 Singapore EN 140001435547 EHS V1.4 02-AUG-2019",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-SG/978245de-eb84-4365-be50-ffffba656afa.pdf",
+      "type": "LTDS",
+      "name": "Gadinia AL 30 Singapore EN TDG V1.1 15-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L4304_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500003131",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "901L4304_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550032764",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell GADINIA AL is a premium quality marine diesel engine oil designed for use in medium speed trunk piston engines, which operate on distillate fuels. Shell GADINIA AL is specially designed to control oil consumption in modern engines, where liner -lacquering is a potential problem. Being multifunctional Shell GADINIA AL can also be used for other shipboard applications such as reduction gears.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

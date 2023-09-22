@@ -1,0 +1,170 @@
+{
+  "id": "001G2944",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Gadus S2 V150C 3",
+  "description": "Primium Multi-Purpose Extreme Pressure and Wheel Hub Grease",
+  "family": "Gadus",
+  "parentCategory": "",
+  "category": "Automotive Grease",
+  "applicationKeys": [
+    "coloured",
+    "lithium"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "3",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ff15a6a6-12a0-4d55-8089-82d9530d0698.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V150C 3 EN TDG V1.1 19-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576136.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V150C 3 India EN 140006501563 EHS V1.4 17-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G2944_002XPO_A1W8",
+      "name": "Tub 2 kg Cylindrical Plastic Black (6)",
+      "size": "2",
+      "uom": "kg",
+      "pack": "Tub",
+      "materialCode": "550047566",
+      "margin": "0.745587395800795",
+      "packShot": ""
+    },
+    {
+      "code": "001G2944_002XE3_A04W",
+      "name": "Tub 0.5 kg Cylindrical Plastic Black (24)",
+      "size": "0.5",
+      "uom": "kg",
+      "pack": "Tub",
+      "materialCode": "550048515",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G2944_002XPO_A04W",
+      "name": "Tub 2 kg Cylindrical Plastic Black (6)",
+      "size": "2",
+      "uom": "kg",
+      "pack": "Tub",
+      "materialCode": "550048517",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G2944_002XPE_ARME",
+      "name": "Flexible Pouches 0.2 kg Local Plastic PET Multi-coloured (60)",
+      "size": "0.2",
+      "uom": "kg",
+      "pack": "Flexible Pouches",
+      "materialCode": "550052307",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G2944_002XPE_A04W",
+      "name": "Flexible Pouches 0.2 kg Local Plastic PET Multi-coloured (60)",
+      "size": "0.2",
+      "uom": "kg",
+      "pack": "Flexible Pouches",
+      "materialCode": "550048516",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G2944_002X62_ARME",
+      "name": "Tub 1 kg Cylindrical Plastic Black (12)",
+      "size": "1",
+      "uom": "kg",
+      "pack": "Tub",
+      "materialCode": "550052241",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V150C 3 grease is a premium multi-purpose grease based on high viscosity index mineral oil and a lithium soap thickener. It contains the latest state of the art additives to offer excellent anti wear and anti-corrosion properties and other additives to enhance its anti-oxidation properties. Shell Gadus S2 V150C 3 grease is especially suitable for wheel bearings operating in severe conditions and under load.\n",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "3"
+    },
+    {
+      "property": "Soap Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil Type",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineral"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "150"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "11"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "220-250"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C minimum",
+      "value": "180"
+    },
+    {
+      "property": "Colour",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Red"
+    },
+    {
+      "property": "Pumpability Long Distance",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Fair"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

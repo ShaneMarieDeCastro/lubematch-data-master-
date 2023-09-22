@@ -1,0 +1,67 @@
+{
+  "id": "001I4289",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Varnish Removal Fluid",
+  "description": "Synthetic based solvency enhancer for cleaning varnish in Rotating Equipment",
+  "family": "Turbo",
+  "parentCategory": "Oleje turbinowe",
+  "category": "Oleje turbinowe",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7ad78095-2462-4cb0-83d6-4a580a1babaa.pdf",
+      "type": "GTDS",
+      "name": "Varnish Removal Fluid EN TDG V1.0 12-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02445497.PDF",
+      "type": "LMSDS",
+      "name": "Varnish Removal Fluid Poland EN 140003791557 EHS V1.1 22-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/c63aa130-5a5f-46a9-9cd7-d9f504f6fc55.pdf",
+      "type": "LTDS",
+      "name": "Varnish Removal Fluid Poland PL TDG V1.0 29-Sep-2020",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02442405.PDF",
+      "type": "LMSDS",
+      "name": "Varnish Removal Fluid Poland PL 140003791557 EHS V1.1 22-SEP-2022",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I4289_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550059378",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Produkt ten może być stosowany z każdym typem oleju, gdy powstawanie laków prowadzi do przywierania zaworów lub gromadzenia się osadów w układach. \nUwaga: tego produktu nie należy stosować ze środkami smarnymi na bazie wody ani ze smarami.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

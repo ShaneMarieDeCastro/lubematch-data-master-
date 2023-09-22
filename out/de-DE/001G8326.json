@@ -1,0 +1,130 @@
+{
+  "id": "001G8326",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Spirax S5 CVT X",
+  "description": "Synthetic Technology CVT Fluid",
+  "family": "Spirax",
+  "parentCategory": "Getriebeöle",
+  "category": "Getriebeöle Andere",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bcb2d48d-ecb1-4774-8746-2bf999af2ff8.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 CVT X EN TDG V1.7 11-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552311.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CVT X Germany EN 140001492039 EHS V1.2 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552312.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CVT X Germany DE 140001492039 EHS V1.2 12-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/25c8be9c-3e56-4bf5-b26c-52b5aecd8640.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 CVT X Germany DE TDG V1.7 01-Aug-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8326_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550054193",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8326_002W22_EURO",
+      "name": "Flasche 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550054194",
+      "margin": "2.14822916189829",
+      "packShot": ""
+    },
+    {
+      "code": "001G8326_002VNG_A246",
+      "name": "Eimer 20 L Plastic O/H w/lid Helix Blue (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Eimer",
+      "materialCode": "550054192",
+      "margin": "3.88001758890194",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 CVT X ist ein Hochleistungs-CVT-Getriebeöl auf der Basis von Synthesetechnologie-Grundölen, geeignet für den Einsatz in stufenlosen Automatik-Getrieben mit Ketten und Schubgliederbändern verschiedenster Hersteller. Spirax S5 CVT X verwendet eine einzigartige Formulierungstechnologie.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "26.3"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6.2"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "199"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "831.7"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "208"
+    },
+    {
+      "property": "Brookfield Viscosity",
+      "method": "ASTM D2983",
+      "uom": "@-40°C",
+      "units": "cP",
+      "value": "4 620"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550054194_Shell_Spirax_S5_CVT_X_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

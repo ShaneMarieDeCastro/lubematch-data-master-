@@ -1,0 +1,123 @@
+{
+  "id": "001F3999",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Advance 4T Ultra 10W-40 (SN/MA2)",
+  "description": "4 stroke motorcycle engine oil",
+  "family": "Advance",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - Motocicletta",
+  "applicationKeys": [
+    "four stroke",
+    "motorbikes",
+    "motorcycles"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/40989b40-6440-4887-b136-304916214f68.pdf",
+      "type": "GTDS",
+      "name": "Advance 4T Ultra 10W-40 (SN/MA2) EN TDG V1.5 11-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534271.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Ultra 10W-40 (SN/MA2) Italy IT 140007645406 EHS V1.9 02-MAR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/a2aee41d-080e-45c7-a1a7-3cb182f8868f.pdf",
+      "type": "LTDS",
+      "name": "Advance 4T Ultra 10W-40 (SN/MA2) Italy IT TDG V1.5 27-Feb-2019",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02534272.PDF",
+      "type": "LMSDS",
+      "name": "Advance 4T Ultra 10W-40 (SN/MA2) Italy EN 140007645406 EHS V1.9 02-MAR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3999_002W21_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Grey (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550053785",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "JASO MA2",
+      "organisation": "JASO",
+      "spec": "MA2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance 4T Ultra  è stato sperimentato in gara e approvato dai principali costruttori di moto. Il prodotto supera i requisiti di tutti i costruttori di moto.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "90.2"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "14.2"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "163"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "858"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-33"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Advance_Ultra_10W-40_4T_4L.png",
+  "valueRecord": [],
+  "commerce": null
+}

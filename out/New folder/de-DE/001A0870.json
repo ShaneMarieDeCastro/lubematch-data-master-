@@ -1,0 +1,145 @@
+{
+  "id": "001A0870",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Naturelle Fluid HF-E 15",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Hydrauliköle",
+  "category": "Hydrauliköle",
+  "applicationKeys": [
+    "biodegradable",
+    "fixed",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "mobile",
+    "offshore",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "servo",
+    "synthetic",
+    "turbine",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "15",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ad457c92-28ec-4e2c-bc39-0d2f2a6dd3d6.pdf",
+      "type": "GTDS",
+      "name": "Naturelle HF-E 15 EN TDG V5.0 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/8a09fcd4-94aa-406d-ae38-370c798b3eba.pdf",
+      "type": "LTDS",
+      "name": "Naturelle HF-E 15 Germany DE TDG V5.0 02-Mar-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550765.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 15 Germany DE 140001492039 EHS V2.2 11-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02550764.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 15 Germany EN 140001492039 EHS V2.2 11-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    },
+    {
+      "name": "VDMA 24568",
+      "organisation": "VDMA",
+      "spec": "24568"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle HF-E ist ein fortschrittliches Hydrauliköl für den Einsatz in Hydraulikanlagen und Getrieben. Es ist biologisch leicht abbaubar mit nur einer geringen Ökotoxizität und somit insbesondere für den Einsatz in ökologisch empfindlichen Bereichen geeignet. Die Verbindung aus vollsynthetischen Estern und aschefreien Additiven führt zu ausgezeichneten Schmiereigenschaften und schont die Umwelt.",
+  "physicalCharacteristics": [
+    {
+      "property": "Viskositätsklasse ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "15"
+    },
+    {
+      "property": "ISO Flüssigkeitstyp",
+      "method": "ISO 6743-4",
+      "uom": "",
+      "units": "",
+      "value": "HEES"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@–20 °C",
+      "units": "cSt",
+      "value": "299"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "14,9"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ISO 3104",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "4,0"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "177"
+    },
+    {
+      "property": "Dichte",
+      "method": "ISO 12185",
+      "uom": "@15 °C",
+      "units": "kg/m3",
+      "value": "912"
+    },
+    {
+      "property": "Flammpunkt (Cleveland Offen Cup)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": "220"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "–36"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

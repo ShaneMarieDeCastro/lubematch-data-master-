@@ -1,0 +1,57 @@
+{
+  "id": "001I1611",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Mysella S6 SM 40",
+  "description": "Long Life, Medium Ash Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": "Industrial engine oils",
+  "category": "Industrial engine oils",
+  "applicationKeys": [
+    "gas engine oil",
+    "long life",
+    "medium ash"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b747a456-a1a6-44f3-aa9b-87b8c8454307.pdf",
+      "type": "GTDS",
+      "name": "Mysella S6 SM 40 EN TDG V1.1 16-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612521.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S6 SM 40 United Kingdom EN 140002340634 EHS V1.2 06-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I1611_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550055148",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S6 SM has been specially developed to give extended oil life even in applications with very sour gases, such as those with high H2S content. Shell Mysella S6 SM uses a formulation which has been optimised to resist the corrosive and oxidative effects of sulphuric and halogenic acids which are often present in these environments.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,87 @@
+{
+  "id": "001J0922",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Coolant Longlife Ready to Use",
+  "description": "Premium antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Refrigerantes / anticongelante - concentrado",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bd0be07e-e296-4c23-8041-d69ee70f0e4c.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Longlife Ready to Use (Mediterranean) EN TDG V1.4 17-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/a9358a73-1f8f-46fd-bc73-b7669cccf356.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Longlife Ready to Use (Mediterranean) Spain ES TDG V1.4 21-Jun-2021",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02474396.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Ready to Use (Mediterranean) Spain ES 140003966322 EHS V2.0 08-NOV-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02474513.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Longlife Ready to Use (Mediterranean) Spain EN 140003966322 EHS V2.0 08-NOV-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0922_002VWL_A863",
+      "name": "Botella 20 L Jerrycan Plastic Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Botella",
+      "materialCode": "550061774",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0922_002VJW_A863",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550061772",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001J0922_002VSH_A863",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550061773",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

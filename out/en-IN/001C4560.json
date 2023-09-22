@@ -1,0 +1,116 @@
+{
+  "id": "001C4560",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Rimula R1 Multi 20W-50",
+  "description": "Reliable Lubrication - Multigrade Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "heavy duty",
+    "high altitude",
+    "light fuel",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "20W-50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/0dbab565-7c0e-412a-802c-3f92761c512a.pdf",
+      "type": "GTDS",
+      "name": "Rimula R1 Multi 20W-50 (CD/SE) EN TDG V2.2 10-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637433.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R1 Multi 20W-50 (CD/SE) India EN 140006501563 EHS V1.4 08-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4560_002VNI_A699",
+      "name": "Pail 20 L Plastic O/H w/lid W (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550046452",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4560_002VSH_A1W8",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550046409",
+      "margin": "0.392390503541573",
+      "packShot": ""
+    },
+    {
+      "code": "001C4560_002WX0_A699",
+      "name": "Bottle 5 L Wishbone Plastic White (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046451",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4560_002W1Z_A699",
+      "name": "Bottle 1 L Wishbone Plastic White (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550046450",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4560_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500003420",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CD",
+      "organisation": "API",
+      "spec": "CD"
+    },
+    {
+      "name": "API SE",
+      "organisation": "API",
+      "spec": "SE"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R1 Multi oils fight engine wear and maintain the right thickness for continuous protection and consistent performance. It results in lower fuel consumption* and suitable for non-turbocharged engines. *Compared to standard SAE 40 oils. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

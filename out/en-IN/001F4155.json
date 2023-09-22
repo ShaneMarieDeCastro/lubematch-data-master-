@@ -1,0 +1,126 @@
+{
+  "id": "001F4155",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Spirax S4 AX 80W-90",
+  "description": "Heavy duty automotive gear oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "final drive",
+    "gearbox",
+    "hydraulic system",
+    "industrial",
+    "manual",
+    "manual unsynchronised",
+    "mobile",
+    "off highway",
+    "power steering",
+    "pump gear",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "80W-90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/65a43a04-3638-442b-bb23-d22e39f68d8c.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 AX 80W-90 EN TDG V1.7 08-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637508.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AX 80W-90 India EN 140006501563 EHS V1.2 26-FEB-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4155_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550051333",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4155_002VSH_A1WJ",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550043588",
+      "margin": "0.166785204778987",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "SAE J 2360",
+      "organisation": "SAE",
+      "spec": "J 2360"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "Mack GO-H",
+      "organisation": "Mack",
+      "spec": "GO-H"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 AX 80W-90 is an extreme-pressure (EP) automotive hypoid gear oil designed to exceed the latest performance standards for heavy duty, severe service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

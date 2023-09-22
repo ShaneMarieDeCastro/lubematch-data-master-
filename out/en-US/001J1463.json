@@ -1,0 +1,65 @@
+{
+  "id": "001J1463",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Gas Compressor Oil S4 PGI 220",
+  "description": "Special Purpose Compressor Lubricant",
+  "family": "Gas Compressor",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/82039f94-14f3-4267-8b7e-969dadd15fd1.pdf",
+      "type": "GTDS",
+      "name": "Shell Gas Compressor Oil S4 PGI 220 EN TDG V1.1 17-Mar-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564031.PDF",
+      "type": "LMSDS",
+      "name": "Shell Gas Compressor Oil S4 PGI 220 United States EN 140002686046 EHS V1.1 15-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J1463_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550060805",
+      "margin": "2.322429847215",
+      "packShot": ""
+    },
+    {
+      "code": "001J1463_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550060804",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 PGI 220 is a high performance, synthetic, natural gas compressor lubricant for use in rotary screw gas compressors demanding minimal hydrocarbon gas dilution of the compressor lubricant. This product is particularly well suited for propane/butane in refrigeration or unloading service.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

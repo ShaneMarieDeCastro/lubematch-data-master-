@@ -1,0 +1,83 @@
+{
+  "id": "001G5899",
+  "countryCode": "SG",
+  "locale": "en-SG",
+  "name": "Shell Corena S5 R 46",
+  "description": "Advanced Synthetic Rotary Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "air compressor",
+    "industrial",
+    "long life",
+    "mobile",
+    "oil flooded",
+    "oil injected",
+    "pag",
+    "polyglycolester",
+    "rotary vacuum pumps",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane"
+  ],
+  "position": "Top",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/9d1d1480-57b0-44c4-a5d3-cea1ec67ed42.pdf",
+      "type": "GTDS",
+      "name": "Corena S5 R 46 EN TDG V1.1 24-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02589408.PDF",
+      "type": "LMSDS",
+      "name": "Corena S5 R 46 Singapore English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G5899_002VNF_A1P5",
+      "name": "Pail 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550049967",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G5899_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550049968",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S5 R is a top tier synthetic lubricant based on polyalkylene glycol (PAG) and ester technology designed for use in rotary screw air compressors. It enables long oil drain intervals with varnish free operation and is the product of choice for unprecedented, challenging operations. It is an excellent choice for service fill in situations where polyglycol-ester type lubricants are already in use.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "001J2271",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Formula Shell Synthetic 5W-20",
+  "description": "Fully Synthetic Motor Oil",
+  "family": "Private Label",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/21e416e1-567e-4836-9931-18adbf239f6a.pdf",
+      "type": "GTDS",
+      "name": "Formula Shell Synthetic 5W-20 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562995.PDF",
+      "type": "LMSDS",
+      "name": "Formula Shell Synthetic 5W-20 United States EN 140002686046 EHS V1.1 09-JUN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/086aafc0-6434-44ca-af74-0d0f06f0b093.pdf",
+      "type": "LTDS",
+      "name": "Formula Shell Synthetic 5W-20 United States English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J2271_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500013180",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SP-RC",
+      "organisation": "API",
+      "spec": "SP-RC"
+    },
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "ILSAC GF-6A",
+      "organisation": "ILSAC",
+      "spec": "GF-6A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,204 @@
+{
+  "id": "001D8456",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Gadus S2 V220AC 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Smary",
+  "category": "Smary mineralne z dodatkami EP",
+  "applicationKeys": [
+    "automotive",
+    "chassis",
+    "coloured",
+    "construction",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy duty truck",
+    "high performance",
+    "high temperature",
+    "industrial",
+    "light truck",
+    "lithium",
+    "lithium calcium",
+    "marine",
+    "multipurpose",
+    "passenger car",
+    "plain bearings",
+    "roller bearings",
+    "shock load",
+    "transmission joints",
+    "trucks",
+    "versatile",
+    "vibrating conditions",
+    "water resistance",
+    "water tolerant",
+    "water washout",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c428986b-86fb-49be-a2f3-ec94e1087846.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220AC 2 EN TDG V1.5 09-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605463.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220AC 2 Poland PL 140003791557 EHS V3.8 29-JUN-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02605465.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220AC 2 Poland EN 140003791557 EHS V2.8 29-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/pl/0f202278-24ec-4499-9c31-99c1c6651425.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220AC 2 Poland PL TDG V1.5 11-Oct-2018",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8456_002VGF_EURO",
+      "name": "Tuba 0.4 kg Standard Grease W (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550050007",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8456_002VH7_A246",
+      "name": "Beczka 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Beczka",
+      "materialCode": "550025252",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8456_002XD7_A246",
+      "name": "Wiadro 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Wiadro",
+      "materialCode": "550028042",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8456_002XM9_EURO",
+      "name": "Tuba 0.4 kg Local (Cartridge Lube shuttle) Plastic White (12)",
+      "size": "0.4",
+      "uom": "kg",
+      "pack": "Tuba",
+      "materialCode": "550053027",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8456_002VSL_A246",
+      "name": "Mała beczka 50 Kg O/H Steel Shell Red, Shell Yellow (1)",
+      "size": "50",
+      "uom": "kg",
+      "pack": "Mała beczka",
+      "materialCode": "550028043",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D4950 LB",
+      "organisation": "ASTM",
+      "spec": "D4950 LB"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220AC to wysokiej jakości smar łożyskowy przewidziany do zastosowania w ciężkich warunkach. Formulacja oparta jest na bazowym oleju mineralnym o wysokim wskaźniku lepkości zagęszczonym mydłem litowo wapniowym. Zawiera dodatki przeciwzużyciowe, przeciwzatarciowe, antyutleniające i antykorozyjne, aby poprawić jego parametry w szerokim zakresie zastosowań.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Red"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium/Calcium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "18"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg minimum",
+      "value": "315"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

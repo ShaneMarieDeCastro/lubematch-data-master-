@@ -1,0 +1,160 @@
+{
+  "id": "001D8423",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Gadus S5 V100 2",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Synthetics based EP Greases",
+  "applicationKeys": [
+    "advanced",
+    "bio gas",
+    "electric motors",
+    "engine",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "lithium",
+    "lithium complex",
+    "long life",
+    "low temperature",
+    "marine",
+    "moderate speed",
+    "multipurpose",
+    "natural gas",
+    "outdoor fan",
+    "plain bearings",
+    "roller bearings",
+    "severe conditions",
+    "severe low temperature",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/6a8b0726-3d71-4445-acda-f4b835615f84.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V100 2 EN TDG V1.2 19-Feb-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02086570.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V100 2 Malaysia EN 140001435555 EHS V1.4 30-MAR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02081333.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V100 2 Malaysia MS 140001435555 EHS V1.4 30-MAR-2020",
+      "language": "MS"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8423_002XEC_A1P5",
+      "name": "Pail 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550028433",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V100 is a lithium complex grease based on synthetic base oils, containing antioxidants, EP-, wear- and rust preventing additives The product contains a special friction modifier which is suitable for high speed bearings, taper roller bearings and cylindrical bearings, type NJ, NUP plus applications with an angle ring.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "2"
+    },
+    {
+      "property": "Penetration, worked 60 strokes (0.1 mm)",
+      "method": "IP 50 / ASTM D217",
+      "uom": "",
+      "units": "",
+      "value": "265-295"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "260"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "100"
+    },
+    {
+      "property": "Base Oil Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Rust Preventing Properties : SKF Emcor distilled water",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Rust Preventing Properties : SKF Emcor WWO distilled water",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Lubricating Ability SKF R2F A",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Lubricating Ability SKF R2F B",
+      "method": "NULL",
+      "uom": "@150°C",
+      "units": "NULL",
+      "value": "Pass"
+    },
+    {
+      "property": "Mechanical Stability, Shell Roll (50 hrs)",
+      "method": "NULL",
+      "uom": "@80°C",
+      "units": "NULL",
+      "value": "≤+50"
+    },
+    {
+      "property": "Temperature Range (temporarily)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "-50/+150 (200)"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s5_v100.png",
+  "valueRecord": [],
+  "commerce": null
+}

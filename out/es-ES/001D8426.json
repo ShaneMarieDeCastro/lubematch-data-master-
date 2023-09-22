@@ -1,0 +1,134 @@
+{
+  "id": "001D8426",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Gadus S3 High Speed Coupling Grease",
+  "description": "Premium Gear Coupling Grease",
+  "family": "Gadus",
+  "parentCategory": "Grasas",
+  "category": "Grasas EP con base de aceite mineral",
+  "applicationKeys": [
+    "ep",
+    "extreme pressure",
+    "flexible gear couplings",
+    "gear coupling",
+    "hi speed coupling",
+    "high speed coupling",
+    "high temperature",
+    "industrial",
+    "lithium complex",
+    "marine",
+    "premium"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gadus_S3_High_Speed_Coupling_Grease_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 High Speed Coupling Grease English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_Spain_Shell_Gadus_S3_High_Speed_Coupling_Grease_(es)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 High Speed Coupling Grease Spain Spanish; Castilian",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02623457.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 High Speed Coupling Grease Spain EN 140003966322 EHS V4.3 25-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02623580.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 High Speed Coupling Grease Spain ES 140003966322 EHS V4.3 25-JUL-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8426_002VME_A1P5",
+      "name": "Cubo 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Cubo",
+      "materialCode": "550028096",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S3 High Speed Coupling Grease es una grasa especial para acoplamientos flexibes / dentados. Esta formulado con un aceite base mineral de alta viscosidad y un jabon de complejo de Litio como espesante.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Dark brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium complex"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "700"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "34"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "310-340"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": ">150°C"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

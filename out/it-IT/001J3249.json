@@ -1,0 +1,78 @@
+{
+  "id": "001J3249",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Rimula R7 Plus AM 5W-20",
+  "description": "Fully Synthetic Low HTHSV Heavy Duty Diesel Engine Oil (MAN)",
+  "family": "Rimula",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - Trazione pesante",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d969da2-a5c3-422c-a553-fca0899f5842.pdf",
+      "type": "GTDS",
+      "name": "Rimula R7 Plus AM 5W-20 EN TDG V1.6 22-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545297.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Italy EN 140007645406 EHS V1.3 28-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02545296.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R7 Plus AM 5W-20 Italy IT 140007645406 EHS V1.3 28-MAR-2023",
+      "language": "IT"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/5a693d30-25ef-4694-8ee1-c58aac143410.pdf",
+      "type": "LTDS",
+      "name": "Rimula R7 Plus AM 5W-20 Italy IT TDG V1.6 13-Feb-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J3249_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550062543",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Scania LDF-5",
+      "organisation": "Scania",
+      "spec": "LDF-5"
+    },
+    {
+      "name": "MAN M 3977",
+      "organisation": "MAN",
+      "spec": "M 3977"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

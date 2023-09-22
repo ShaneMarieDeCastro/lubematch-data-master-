@@ -1,0 +1,102 @@
+{
+  "id": "001C6099",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Rimula R2 Extra 15W-40",
+  "description": "Turbocharger Performance - Multigrade Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Oleje dla motoryzacji",
+  "category": "Oleje silnikowe - samochody ciężarowe i maszyny robocze",
+  "applicationKeys": [
+    "biodiesel",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "off highway",
+    "on highway",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Rimula_R2_Extra_15W-40_(CG-4_228.1)_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Rimula R2 Extra 15W-40 (CG-4/228.1) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02560310.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 Extra 15W-40 (CG-4/228.1) Poland EN 140003791557 EHS V2.8 24-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02560311.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R2 Extra 15W-40 (CG-4/228.1) Poland PL 140003791557 EHS V3.8 24-APR-2023",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140002686014_4208.pdf",
+      "type": "LTDS",
+      "name": "Rimula R2 Extra 15W-40 (CG-4/228.1) Poland Polish",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "Volvo VDS",
+      "organisation": "Volvo",
+      "spec": "VDS"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "ACEA E2",
+      "organisation": "ACEA",
+      "spec": "E2"
+    },
+    {
+      "name": "MAN 271",
+      "organisation": "MAN",
+      "spec": "271"
+    },
+    {
+      "name": "MB-Approval 228.1",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R2 Extra Energised Protection oils use proven combinations of additives that react to the varying needs of your engine. They include active dispersants to carry away dirt, keeping the engine clean. Each dedicated additive releases its protective energy when needed, to ensure reliable and consistent protection against deposits and wear and to resist thickening by heat. Approved by leading engine makers, suitable for most heavy duty applications including turbo-charged engines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

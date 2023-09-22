@@ -1,0 +1,73 @@
+{
+  "id": "001G0145",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "AeroShell Oil W 100 Plus",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": null,
+  "category": "Huiles moteur - Aviation/Piston",
+  "applicationKeys": [
+    "ashless"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d37cf232-fb2c-4b91-b897-fd8c34446cf7.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) EN TDG V1.5 17-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/6fbdc69f-4cb5-4247-9cbd-8c1f581a8d16.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) Canada EN TDG V1.5 17-Jul-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290834.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) Canada EN 140006579500 EHS V1.4 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290637.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) Canada FR 140006579500 EHS V1.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/1f31f26f-eeb5-40e4-8459-c8f9529cefa9.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil W 100 Plus (10-2015) Canada FR TDG V1.5 04-Aug-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Continental SIL 99-2",
+      "organisation": "Continental",
+      "spec": "SIL 99-2"
+    },
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Oil W100 Plus est une huile de qualité unique qui combine la performance de dispersant sans cendres de qualité unique que l’on retrouve dans AeroShell Oil W100 et les additifs anti-usure/anticorrosion d’AeroShell Oil W 15W-50 Multigrade. C’est l’huile pour les pilotes qui préfèrent une seule catégorie, mais qui veulent aussi la protection supplémentaire et la performance.\n",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

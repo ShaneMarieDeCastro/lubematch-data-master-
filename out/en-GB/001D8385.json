@@ -1,0 +1,62 @@
+{
+  "id": "001D8385",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gas Compressor Oil S4 PN 220",
+  "description": "Advanced Synthetic Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Compressor and Vacuum Pump",
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "bio gas",
+    "carbon dioxide",
+    "engine",
+    "gas reinjection",
+    "helium",
+    "high pressure",
+    "hydrocarbon process gas",
+    "hydrogen",
+    "industrial",
+    "natural gas",
+    "nitrogen",
+    "reciprocating",
+    "stationary"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "220",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Gas_Compressor_Oil_S4_PN_220_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S4 PN 220 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02591181.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 PN 220 United Kingdom EN 140002340634 EHS V5.1 15-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_Kingdom_Shell_Gas_Compressor_Oil_S4_PN_220_(en-GB)_TDS.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S4 PN 220 United Kingdom English",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 PN has been specially developed for cylinder lubrication of reciprocating compressors handling natural gas at high pressure.  They are based on synthetic polyglycol base fluids and offer significant benefits over mineral oil-based products, especially in gas re-injection compressor applications.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

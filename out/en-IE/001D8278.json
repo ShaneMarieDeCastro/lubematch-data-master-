@@ -1,0 +1,73 @@
+{
+  "id": "001D8278",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Spirax S2 ALS 90",
+  "description": "High quality, GL-5 axle oil for limited slip differentials",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "heavy truck",
+    "industrial",
+    "limited slip differentials",
+    "off highway",
+    "passenger car",
+    "reduction gears",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "90",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S2_ALS_90_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell Spirax S2 ALS 90 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578644.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S2 ALS 90 Ireland EN 140007731156 EHS V4.2 23-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8278_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550027905",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-5 Limited Slip",
+      "organisation": "API",
+      "spec": "GL-5 Limited Slip"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Spirax S2 ALS 90 oil is blended for use in a wide variety of automotive axle units with limited slip differentials.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

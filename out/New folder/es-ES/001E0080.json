@@ -1,0 +1,68 @@
+{
+  "id": "001E0080",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Vacuum Pump Oil S3 RX 100",
+  "description": "Rotary Vacuum Pump Oil",
+  "family": "Vacuum Pump",
+  "parentCategory": "Compresor y bomba de vacío.",
+  "category": "Compresor y bomba de vacío.",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Vacuum_Pump_Oil_S3_RX_100_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Vacuum Pump Oil S3 RX 100 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02449917.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S3 RX 100 Spain ES 140003966322 EHS V1.3 20-SEP-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02449916.PDF",
+      "type": "LMSDS",
+      "name": "Vacuum Pump Oil S3 RX 100 Spain EN 140003966322 EHS V1.3 20-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E0080_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550027225",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Vacuum Pump Oil S3 RX 100 is formulated from selected premium performance, highly refined mineral oils. This provides the very low vapour pressure and high performance, desired for the effective lubrication of rotary vacuum pumps.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000ImtMQAS&field=Attachment__Name__s",
+      "family": "Vacuum Pump",
+      "savings": 27000,
+      "title": "Shell VacuumPump Oil S3 RX 100"
+    }
+  ],
+  "commerce": null
+}

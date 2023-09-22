@@ -1,0 +1,83 @@
+{
+  "id": "001G7027",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Hydraulic S1 V 46",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/05904492-d405-41d4-bbb4-15a688735ea1.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 V 46 EN TDG V1.2 09-Nov-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/863200ef-66d5-4818-9f12-ef706d61ac5f.pdf",
+      "type": "LTDS",
+      "name": "Hydraulic S1 V 46 France FR TDG V1.2 22-Jan-2019",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487878.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 46 France FR 140003182031 EHS V1.3 21-SEP-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02488443.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 46 France EN 140003182031 EHS V1.3 21-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G7027_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550051340",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    },
+    {
+      "name": "DIN 51524-2 HLP",
+      "organisation": "DIN",
+      "spec": "51524-2 HLP"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 V 46 est un fluide hydraulique anti-usure de qualité qui offrent une protection et une performance efficace pour un coût maîtrisé dans la plupart des applications industrielles et mobiles. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

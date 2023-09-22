@@ -1,0 +1,469 @@
+{
+  "id": "001A0055",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "AeroShell Fluid 71",
+  "description": "Mineral hydraulic fluid for aircraft",
+  "family": "AeroShell",
+  "parentCategory": "Smeermiddelen voor de luchtvaart",
+  "category": "Hydraulische vloeistoffen (luchtvaart)",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139011_201407231044.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Fluid 71 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02548530.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 71 Netherlands NL 140002783873 EHS V4.2 07-APR-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02548529.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Fluid 71 Netherlands EN 140002783873 EHS V4.2 07-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation PX-26",
+      "organisation": "Joint Service Designation",
+      "spec": "PX-26"
+    },
+    {
+      "name": "DCSEA 535/A",
+      "organisation": "DCSEA",
+      "spec": "535/A"
+    },
+    {
+      "name": "MIL-PRF-6083F",
+      "organisation": "MIL",
+      "spec": "PRF-6083F"
+    },
+    {
+      "name": "NATO C-635",
+      "organisation": "NATO",
+      "spec": "C-635"
+    },
+    {
+      "name": "DEF STAN 80-142",
+      "organisation": "DEF STAN",
+      "spec": "80-142"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Fluid 71 is dyed red. The useful operating temperature range is –54°C to +121°C.",
+  "physicalCharacteristics": [
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@-40°C",
+      "units": "mm²/s",
+      "value": "800 max"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@-54°C",
+      "units": "mm²/s",
+      "value": "3500 max"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "13 min"
+    },
+    {
+      "property": "Flashpoint (Pensky Martin Closed Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "82 min"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.2 max"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "-59 max"
+    },
+    {
+      "property": "Relative density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "-"
+    },
+    {
+      "property": "Water Content",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "500"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Red"
+    },
+    {
+      "property": "Trace sediment",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mg/l",
+      "value": "0.005 max"
+    },
+    {
+      "property": "Corrosiveness & oxidation stability (168 hrs @ 121°C) - metal weight change",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Must Pass"
+    },
+    {
+      "property": "Corrosiveness & oxidation stability (168 hrs @ 121°C) - viscosity change",
+      "method": "",
+      "uom": "@40°C",
+      "units": "%",
+      "value": "-5 to +20"
+    },
+    {
+      "property": "Corrosiveness & oxidation stability (168 hrs @ 121°C) - acid number change",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "0.2 max"
+    },
+    {
+      "property": "Copper corrosion",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "3a max"
+    },
+    {
+      "property": "Corrosion inhibition",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Particle Size per 100ml",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "5 to 25 μm",
+      "value": "10000 max"
+    },
+    {
+      "property": "Particle Size per 100ml",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "26 to 50 μm",
+      "value": "250 max"
+    },
+    {
+      "property": "Particle Size per 100ml",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "51 to 100 μm",
+      "value": "50 max"
+    },
+    {
+      "property": "Particle Size per 100ml",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "over 100 μm",
+      "value": "10 max"
+    },
+    {
+      "property": "Low temperature stability 72 hrs",
+      "method": "NULL",
+      "uom": "@-54°C",
+      "units": "NULL",
+      "value": "Must pass"
+    },
+    {
+      "property": "Shear stability change in viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "%",
+      "value": "2.0 max"
+    },
+    {
+      "property": "Rubber Swell L rubber",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "%",
+      "value": "19 to 28"
+    },
+    {
+      "property": "Evaporation loss 22hrs",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "%m",
+      "value": "75 max"
+    },
+    {
+      "property": "Foaming tendency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Must Pass"
+    },
+    {
+      "property": "Steel on steel wear, scar diam",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mm",
+      "value": "1.0 max"
+    },
+    {
+      "property": "Gravimetric filtration ",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mg/100ml",
+      "value": "0.5 max"
+    },
+    {
+      "property": "Filtration time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mins",
+      "value": "15 max"
+    },
+    {
+      "property": "Oil type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@-40°C",
+      "units": "mm²/s",
+      "value": "525"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@-54°C",
+      "units": "mm²/s",
+      "value": "2400"
+    },
+    {
+      "property": "Kinematic viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "14.3"
+    },
+    {
+      "property": "Flashpoint (Pensky Martin Closed Cup)",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "88"
+    },
+    {
+      "property": "Total Acidity",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mgKOH/g",
+      "value": "0.12"
+    },
+    {
+      "property": "Pour point",
+      "method": "",
+      "uom": "",
+      "units": "°C",
+      "value": "Below -59"
+    },
+    {
+      "property": "Relative density",
+      "method": "",
+      "uom": "@15.6/15.6°C",
+      "units": "",
+      "value": "0.879"
+    },
+    {
+      "property": "Water Content",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "ppm",
+      "value": "200"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Red"
+    },
+    {
+      "property": "Trace sediment",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mg/l",
+      "value": "0.002"
+    },
+    {
+      "property": "Corrosiveness & oxidation stability (168 hrs @ 121°C) - metal weight change",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosiveness & oxidation stability (168 hrs @ 121°C) - viscosity change",
+      "method": "",
+      "uom": "@40°C",
+      "units": "%",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosiveness & oxidation stability (168 hrs @ 121°C) - acid number change",
+      "method": "",
+      "uom": "",
+      "units": "mgKOH/g",
+      "value": "Less than 0.2"
+    },
+    {
+      "property": "Copper corrosion",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Passes"
+    },
+    {
+      "property": "Corrosion inhibition",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    },
+    {
+      "property": "Particle Size per 100ml",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "5 to 25 μm",
+      "value": "1170"
+    },
+    {
+      "property": "Particle Size per 100ml",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "26 to 50 μm",
+      "value": "90"
+    },
+    {
+      "property": "Particle Size per 100ml",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "51 to 100 μm",
+      "value": "10"
+    },
+    {
+      "property": "Particle Size per 100ml",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "over 100 μm",
+      "value": "1"
+    },
+    {
+      "property": "Low temperature stability 72 hrs",
+      "method": "NULL",
+      "uom": "@-54°C",
+      "units": "NULL",
+      "value": "Passes"
+    },
+    {
+      "property": "Shear stability change in viscosity",
+      "method": "NULL",
+      "uom": "@40°C",
+      "units": "%",
+      "value": "0.06"
+    },
+    {
+      "property": "Rubber Swell L rubber",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "%",
+      "value": "23"
+    },
+    {
+      "property": "Evaporation loss 22hrs",
+      "method": "NULL",
+      "uom": "@100°C",
+      "units": "%m",
+      "value": "62"
+    },
+    {
+      "property": "Foaming tendency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Passes"
+    },
+    {
+      "property": "Steel on steel wear, scar diam",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mm",
+      "value": "Passes"
+    },
+    {
+      "property": "Gravimetric filtration ",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mg/100ml",
+      "value": "Less than 0.5"
+    },
+    {
+      "property": "Filtration time",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "mins",
+      "value": "12"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

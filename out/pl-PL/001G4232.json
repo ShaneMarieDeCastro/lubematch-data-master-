@@ -1,0 +1,98 @@
+{
+  "id": "001G4232",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "Shell Tellus S4 VX 32",
+  "description": "Special Application Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "Ciecze hydrauliczne",
+  "category": "Płyny hydrauliczne",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "extra wide temperature range",
+    "extreme low temperature",
+    "high performance",
+    "hv",
+    "industrial",
+    "industrial hydraulics",
+    "low temperature",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "precision",
+    "versatile",
+    "wide temperature range",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3621522d-515b-4ecb-8d0d-18969e6e5d75.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) EN TDG V1.3 16-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463123.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) Poland PL 140003791557 EHS V2.0 20-OCT-2022",
+      "language": "PL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02463065.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) Poland EN 140003791557 EHS V2.0 20-OCT-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/pl/ae206eef-5d24-46ce-a5ef-b59091682ec1.pdf",
+      "type": "LTDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) Poland PL TDG V1.3 20-Apr-2021",
+      "language": "PL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G4232_002VJW_A246",
+      "name": "Kontener 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "l",
+      "pack": "Kontener",
+      "materialCode": "550048616",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G4232_002VSH_A246",
+      "name": "Beczka 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "l",
+      "pack": "Beczka",
+      "materialCode": "550048620",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VX to zaawansowany technolognicznie płyn hydrauliczny dostosowany do użycia w ekstremalnie niskich temperaturach np. w w rejonach arktycznych lub na terenach otwartych.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

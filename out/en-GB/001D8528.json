@@ -1,0 +1,84 @@
+{
+  "id": "001D8528",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gadus S4 V45AC 00/000",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Greases",
+  "category": "Greases",
+  "applicationKeys": [
+    "advanced",
+    "automotive",
+    "buses",
+    "centralised chassis lubrication",
+    "centralised lubrication",
+    "industrial",
+    "lithium calcium",
+    "multipurpose",
+    "pneumatic tools",
+    "semifluid",
+    "trucks",
+    "water resistance",
+    "water tolerant"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00/000",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5be8fb75-55c6-479c-837a-f0570957b2a2.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 V45AC 00/000 EN TDG V2.4 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/99a5e9de-02aa-4b83-8096-a5c650af36c1.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 V45AC 00/000 United Kingdom EN TDG V2.4 23-Oct-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02591109.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V45AC 00/000 United Kingdom EN 140002340634 EHS V4.3 09-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8528_002XEC_A246",
+      "name": "Pail 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Pail",
+      "materialCode": "550028120",
+      "margin": "2.49795959983209",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN 283 Li-P 00/000",
+      "organisation": "MAN",
+      "spec": "283 Li-P 00/000"
+    },
+    {
+      "name": "MB-Approval 264.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "264"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 V45AC Grease is a fluid grease for use in centralised lubrication systems. This grease is based on highly refined mineral as well as selected synthetic base oils, extreme-pressure and other carefully selected additives to provide excellent protection in all conditions.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

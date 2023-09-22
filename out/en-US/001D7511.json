@@ -1,0 +1,72 @@
+{
+  "id": "001D7511",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Pennzoil SAE 40 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/10f55e50-f123-4f7c-a893-ec57f8b52857.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 40 Motor Oil (SN) EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563459.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 40 Motor Oil (SN) United States EN 140002686046 EHS V1.4 21-APR-2020",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/2976b050-307e-4d03-a75d-e1692a508659.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 40 Motor Oil (SN) United States EN TDG V1.2 13-May-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7511_002XOI_A0II",
+      "name": "Bottle 1 qt Americas Tool Plastic Shell Yellow Reformulated (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550049496",
+      "margin": "1.05149644306181",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

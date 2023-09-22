@@ -1,0 +1,93 @@
+{
+  "id": "001I5455",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell EcoSafe EHC S3 DU 46",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5699068c-3b5a-42e7-b148-c202b375d8d7.pdf",
+      "type": "GTDS",
+      "name": "EcoSafe EHC S3 DU 46 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/5aa45af5-864a-4aa4-98ef-602ae1bff988.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe EHC S3 DU 46 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289377.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe EHC S3 DU 46 Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290690.PDF",
+      "type": "LMSDS",
+      "name": "EcoSafe EHC S3 DU 46 Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/3a274c49-b199-405f-9dc8-83a99a10ef70.pdf",
+      "type": "LTDS",
+      "name": "EcoSafe EHC S3 DU 46 Canada English",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5455_002VJ3_NAMD",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550057290",
+      "margin": "16.8735911280005",
+      "packShot": ""
+    },
+    {
+      "code": "001I5455_002VOP_NAMD",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550057291",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5455_002X4L_NAMD",
+      "name": "",
+      "size": "975",
+      "uom": "L",
+      "pack": "Réservoir",
+      "materialCode": "550057292",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "\nShell EcoSafe EHC S3 DU 46 est un fluide synthétique formulé pour le service des vannes de commande électrohydraulique (EHC) dans les turbines à vapeur et à gaz et d'autres applications dans les opérations de centrales à combustibles fossiles, y compris les systèmes haute pression et les systèmes avec servo-vannes. Formulé avec des huiles de base de polyalkylène glycol (PAG) à haut VI, associé à un ensemble d'additifs sans cendres éprouvé, Shell EcoSafe EHC S3 DU 46 fournit les propriétés exigées par les systèmes hydrauliques haute performance d'aujourd'hui. Avec un rinçage et une surveillance de l'état appropriés, les systèmes peuvent être facilement convertis en Shell EcoSafe EHC S3 DU 46 à partir de fluides à base d'ester phosphate et d'ester polyol.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

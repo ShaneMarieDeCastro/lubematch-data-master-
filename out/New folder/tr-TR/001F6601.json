@@ -1,0 +1,92 @@
+{
+  "id": "001F6601",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "AeroShell Grease 64",
+  "description": "Synthetic grease for aircraft, containing molybdenum disulphide",
+  "family": "AeroShell",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/68a5d740-ba98-4955-9b3c-507d8a3ddeea.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Grease 64 EN TDG V1.1 27-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02527334.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 64 Turkey TR 140003791542 EHS V2.7 23-FEB-2023",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02527333.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Grease 64 Turkey EN 140003791542 EHS V2.7 23-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F6601_002XN5_A634",
+      "name": "Kapaklı Teneke 3 kg Open head Tinplate Shell Red (4)",
+      "size": "3",
+      "uom": "kilogram",
+      "pack": "Kapaklı Teneke",
+      "materialCode": "550043657",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MIL-G-21164D",
+      "organisation": "MIL",
+      "spec": "G-21164D"
+    },
+    {
+      "name": "Joint Service Designation XG-276",
+      "organisation": "Joint Service Designation",
+      "spec": "XG-276"
+    },
+    {
+      "name": "DEF STAN 91-57",
+      "organisation": "DEF STAN",
+      "spec": "91-57"
+    },
+    {
+      "name": "NATO G-353",
+      "organisation": "NATO",
+      "spec": "G-353"
+    },
+    {
+      "name": "MIL-QPL-CMS-OL-311",
+      "organisation": "MIL",
+      "spec": "QPL-CMS-OL-311"
+    },
+    {
+      "name": "DCSEA 353/A",
+      "organisation": "DCSEA",
+      "spec": "353/A"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The useful operating temperature range is –73°C to +121°C.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

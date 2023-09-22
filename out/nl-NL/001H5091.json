@@ -1,0 +1,61 @@
+{
+  "id": "001H5091",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Rotella T1 Hydraulic 10W",
+  "description": "High Quality Hydraulic Oil",
+  "family": "Rotella",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - Zwaar belaste motoren",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "10W",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bb280ddf-7e2e-4601-9362-67df17f6f1a9.pdf",
+      "type": "GTDS",
+      "name": "Rotella T1 Hydraulic 10W EN TDG V1.0 05-Mar-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613438.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 Hydraulic 10W Netherlands NL 140002783873 EHS V1.2 07-JUL-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02613440.PDF",
+      "type": "LMSDS",
+      "name": "Rotella T1 Hydraulic 10W Netherlands EN 140002783873 EHS V1.2 07-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "Vickers 35VQ25",
+      "organisation": "Vickers",
+      "spec": "35VQ25"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rotella^®^ T1 Hydraulic uses performance additives to  prevent wear providing reliable lubrication.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

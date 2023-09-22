@@ -1,0 +1,61 @@
+{
+  "id": "001I4005",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "SL2972",
+  "description": "CaZx - trial product for industry sector",
+  "family": "SL",
+  "parentCategory": null,
+  "category": "Mineral oil based EP Greases",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/292b186d-0cd5-4435-bdd5-60e7cd6172ea.pdf",
+      "type": "GTDS",
+      "name": "SL2972 EN TDG V1.1 20-May-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02318861.PDF",
+      "type": "LMSDS",
+      "name": "SL2972 Turkey EN 140003791542 EHS V1.1 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02318918.PDF",
+      "type": "LMSDS",
+      "name": "SL2972 Turkey TR 140003791542 EHS V1.1 11-MAY-2021",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I4005_002VME_A246",
+      "name": "Kova 18 kg Open head Plastic Shell Yellow (1)",
+      "size": "18",
+      "uom": "kilogram",
+      "pack": "Kova",
+      "materialCode": "550055955",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell SL2972  is a new, state of the art product unique to Shell multi purpose greases for steel and industrial bearings based on a  Shell patented modified CaCx thickener.. The product offers excellent performance in a multitude of applications and working conditions that experience sustained heavy loads.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

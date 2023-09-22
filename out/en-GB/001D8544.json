@@ -1,0 +1,149 @@
+{
+  "id": "001D8544",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gadus S3 T460 1.5",
+  "description": "Premium Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Greases",
+  "category": "Greases",
+  "applicationKeys": [
+    "concast bearings",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "heavy load",
+    "high load",
+    "high temperature",
+    "industrial",
+    "low speed",
+    "medium speed",
+    "multipurpose",
+    "plain bearings",
+    "polyurea",
+    "premium",
+    "roller bearings",
+    "slow",
+    "slow moving",
+    "steel"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1.5",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1ca0ab23-3dab-4711-ace8-1501393bbbfb.pdf",
+      "type": "GTDS",
+      "name": "Gadus S3 T460 1.5 EN TDG V1.3 28-Jan-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/e991b393-d777-4fee-9858-87f5f122eca5.pdf",
+      "type": "LTDS",
+      "name": "Gadus S3 T460 1.5 United Kingdom EN TDG V1.3 28-Jan-2020",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599981.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S3 T460 1.5 United Kingdom EN 140002340634 EHS V8.2 20-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8544_002VK1_A246",
+      "name": "IBC 1200 kg Local - SCHAELLER CONTAINER (1)",
+      "size": "1200",
+      "uom": "kg",
+      "pack": "IBC",
+      "materialCode": "550028201",
+      "margin": "0.109238891601562",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "It is based on mineral oil with a special diurea thickener to give long life, low wear and shear-stable properties at high temperatures.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1.5"
+    },
+    {
+      "property": "Colour",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Brown"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Polyurea"
+    },
+    {
+      "property": "Base Oil (type)",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "29"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "305"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "NULL",
+      "units": "°C",
+      "value": "250"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "kg",
+      "value": "min 250"
+    },
+    {
+      "property": "Emcor Rust Test Rating",
+      "method": "IP 220",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "0 - 0"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

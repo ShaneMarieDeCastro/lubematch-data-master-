@@ -1,0 +1,146 @@
+{
+  "id": "001E7457",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Shell Rimula R6 MS 10W-40",
+  "description": "Maintenance Saving - Fully Synthetic Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": null,
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "bio gas",
+    "biodiesel",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gasoline",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "light fuel",
+    "lng",
+    "low speed",
+    "lpg",
+    "manual",
+    "marine",
+    "medium speed",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "synchronised",
+    "torque converter",
+    "transmissions",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e3d69894-84d1-4371-b98d-943f304d37e7.pdf",
+      "type": "GTDS",
+      "name": "Rimula R6 MS 10W-40 (E7/LDF-3) EN TDG V2.5 31-May-2023",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02621253.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R6 MS 10W-40 (E7/LDF-3) Ireland EN 140007731156 EHS V1.8 20-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E7457_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550035977",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E7457_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550035976",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 228.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.5"
+    },
+    {
+      "name": "Scania LDF-3",
+      "organisation": "Scania",
+      "spec": "LDF-3"
+    },
+    {
+      "name": "Iveco T3 E4 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "T3 E4 - Meets the requirements"
+    },
+    {
+      "name": "MTU Category 3",
+      "organisation": "MTU",
+      "spec": "Category 3"
+    },
+    {
+      "name": "ACEA E4",
+      "organisation": "ACEA",
+      "spec": "E4"
+    },
+    {
+      "name": "MAN M 3277",
+      "organisation": "MAN",
+      "spec": "M 3277"
+    },
+    {
+      "name": "Scania LDF-2",
+      "organisation": "Scania",
+      "spec": "LDF-2"
+    },
+    {
+      "name": "Volvo VDS-3",
+      "organisation": "Volvo",
+      "spec": "VDS-3"
+    },
+    {
+      "name": "Renault Trucks RXD",
+      "organisation": "Renault Trucks",
+      "spec": "RXD"
+    },
+    {
+      "name": "ACEA E7",
+      "organisation": "ACEA",
+      "spec": "E7"
+    },
+    {
+      "name": "Deutz DQC IV-10",
+      "organisation": "Deutz",
+      "spec": "DQC IV-10"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R6 MS fully synthetic oils deliver highly responsive protection, maintenance saving long drain performance, protection against soot, wear, deposits and fuel economy. Suitable for most Euro 4, 5 engines and Euro 6 Scania engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

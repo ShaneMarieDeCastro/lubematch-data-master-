@@ -1,0 +1,119 @@
+{
+  "id": "001D7346",
+  "countryCode": "PL",
+  "locale": "pl-PL",
+  "name": "AeroShell Oil Diesel Ultra",
+  "description": "Synthetic lubricating oil for aircraft diesel engines",
+  "family": "AeroShell",
+  "parentCategory": "Środki smarne dla lotnictwa",
+  "category": "Oleje silnikowe - lotnicze/tłokowe",
+  "applicationKeys": [
+    "aviation",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "piston engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/7005dcd9-afe3-43d9-a880-72ea8f4be93d.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil Diesel Ultra EN TDG V1.3 03-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564666.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil Diesel Ultra Poland EN 140003791557 EHS V2.8 28-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02564669.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil Diesel Ultra Poland PL 140003791557 EHS V2.8 28-APR-2023",
+      "language": "PL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MB-Approval 229.5",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.5"
+    },
+    {
+      "name": "API SL",
+      "organisation": "API",
+      "spec": "SL"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "The formulation has been selected to be suitable in piston engines fuelled by Jet A or Jet A-1 and is designed for use in the latest highly rated turbocharged diesel engines under all operating conditions.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "68.2"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "12.2"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/L",
+      "value": "0.84"
+    },
+    {
+      "property": "Flash Point Cleveland Open Cup",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "215"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-39"
+    },
+    {
+      "property": "HTHS Viscosity",
+      "method": "ASTM D4683",
+      "uom": "@150°C",
+      "units": "mPaS",
+      "value": "3.50"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

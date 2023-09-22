@@ -1,0 +1,123 @@
+{
+  "id": "001H2220",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Helix HX8 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/99d04091-7b3d-4931-b6ae-c7ef52bf1040.pdf",
+      "type": "GTDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) EN TDG V1.4 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319430.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) Turkey TR 140003791542 EHS V1.2 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02319428.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) Turkey EN 140003791542 EHS V1.2 11-MAY-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/tr/cfbcd0bb-dc85-4d4b-99aa-5bb63bc89d80.pdf",
+      "type": "LTDS",
+      "name": "Helix HX8 5W-40 (SN Plus A3/B4 MB229.3) Turkey TR TDG V1.4 23-Aug-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2220_002WL0_EURO",
+      "name": "Şişe 1 L Wishbone Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Şişe",
+      "materialCode": "550052794",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2220_002VSH_A246",
+      "name": "Fıçı 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fıçı",
+      "materialCode": "550052836",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Renault RN 0710",
+      "organisation": "Renault",
+      "spec": "RN 0710"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "Fiat 9.55535-M2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-M2 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX8 sentetik motor yağı, yeni nesil motorları temiz tutmak ve korumak için çok çalışır. Performans kayıplarına yol açabilecek zararlı depozit oluşumlarını engellemeye yardımcı olur. Depozitlere karşı mükemmel koruması sayesinde tüm üreticiler tarafından tavsiye edilen yağ değişim aralıklarıyla uyumludur.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

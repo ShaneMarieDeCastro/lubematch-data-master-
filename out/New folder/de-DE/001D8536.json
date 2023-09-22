@@ -1,0 +1,162 @@
+{
+  "id": "001D8536",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S2 A320 2",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "mineralölbasierte EP-Schmierfette",
+  "applicationKeys": [
+    "arduous conditions",
+    "bearing",
+    "calcium based",
+    "cranes",
+    "davits",
+    "ep",
+    "extreme pressure",
+    "general open gear",
+    "general wire rope",
+    "industrial",
+    "marine",
+    "multipurpose",
+    "open gears",
+    "plain bearings",
+    "rollers",
+    "severe conditions",
+    "stern tube bearings",
+    "water",
+    "water tolerant",
+    "winches",
+    "windlass",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f4a02365-ce7f-47f9-a9b0-cccf951fb375.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 A320 2 EN TDG V3.2 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/2e18faf9-de2e-4ee0-acda-af330f6f3165.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 A320 2 Germany DE TDG V3.2 27-Oct-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612207.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 A320 2 Germany EN 140001492039 EHS V2.13 06-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02612206.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 A320 2 Germany DE 140001492039 EHS V2.13 06-JUL-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8536_002XD7_A246",
+      "name": "Eimer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028061",
+      "margin": "3.08686379049059",
+      "packShot": ""
+    },
+    {
+      "code": "001D8536_002VH7_A246",
+      "name": "Fass 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fass",
+      "materialCode": "550028050",
+      "margin": "2.35920826699999",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 A320 ist ein Kalzium-Schmierfett mit glatter Struktur und Hochdruckadditiven für Anwendungen im normalen Temperaturbereich in der Industrie und Schifffahrt.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Braun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Kalzium"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Mineralöl"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "320"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "16.5"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "265-295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "85"
+    },
+    {
+      "property": "Pumpbarkeit, lange Distanz",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Angemessen"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,147 @@
+{
+  "id": "001D8528",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S4 V45AC 00/000",
+  "description": "Advanced Multipurpose Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische Schmierfette (ohne EP-Zusätze)",
+  "applicationKeys": [
+    "advanced",
+    "automotive",
+    "buses",
+    "centralised chassis lubrication",
+    "centralised lubrication",
+    "industrial",
+    "lithium calcium",
+    "multipurpose",
+    "pneumatic tools",
+    "semifluid",
+    "trucks",
+    "water resistance",
+    "water tolerant"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "00/000",
+  "viscosityType": "NLGI",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/5be8fb75-55c6-479c-837a-f0570957b2a2.pdf",
+      "type": "GTDS",
+      "name": "Gadus S4 V45AC 00/000 EN TDG V2.4 23-Oct-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573175.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V45AC 00/000 Germany DE 140001492039 EHS V3.3 09-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/2875a273-4695-4b6b-961a-0988536b5e3c.pdf",
+      "type": "LTDS",
+      "name": "Gadus S4 V45AC 00/000 Germany DE TDG V2.4 28-Oct-2020",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02573174.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S4 V45AC 00/000 Germany EN 140001492039 EHS V3.3 09-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8528_002XEC_A246",
+      "name": "Eimer 18 kg Open head Plastic Helix Grey (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Eimer",
+      "materialCode": "550028120",
+      "margin": "2.00612387379232",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 264.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "264"
+    },
+    {
+      "name": "MAN 283 Li-P 00/000",
+      "organisation": "MAN",
+      "spec": "283 Li-P 00/000"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S4 V45AC ist ein Fließfett für den Einsatz in Zentralschmieranlagen. Dieses Schmierfett basiert auf einer Mischung von hoch raffinierten und synthetischen Grundölen, Hochdruckadditiven und anderen speziell ausgewählten Additiven für einen sehr guten Schutz in vielfältigen Anwendungen.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Konsistenz",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "00/000"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Rot"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithium-Kalzium"
+    },
+    {
+      "property": "Grundöltyp ",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Teilsynthetisch"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "45"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "7"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "440"
+    },
+    {
+      "property": "Pumpbarkeit in langen Leitungen",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Sehr gut"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

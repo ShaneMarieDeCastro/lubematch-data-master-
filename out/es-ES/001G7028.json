@@ -1,0 +1,61 @@
+{
+  "id": "001G7028",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Hydraulic S1 V 68",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Hydraulic",
+  "parentCategory": "Fluidos hidráulicos",
+  "category": "Fluidos hidráulicos",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/eed8dfc3-f5e4-40fc-8ab8-0d3af86f9c0a.pdf",
+      "type": "GTDS",
+      "name": "Hydraulic S1 V 68 EN TDG V1.3 28-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02585651.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 68 Spain ES 140003966322 EHS V1.3 31-MAY-2023",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02585652.PDF",
+      "type": "LMSDS",
+      "name": "Hydraulic S1 V 68 Spain EN 140003966322 EHS V1.3 31-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Hydraulic S1 V 68 is a quality anti-wear hydraulic fluid which provides cost effective and reliable protection and performance in most industrial and mobile applications.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

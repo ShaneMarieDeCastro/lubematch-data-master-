@@ -1,0 +1,123 @@
+{
+  "id": "001D8386",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Gas Compressor Oil S4 PV 190",
+  "description": "Advanced Synthetic Gas Compressor Oil",
+  "family": "Gas Compressor",
+  "parentCategory": "Compressor and Vacuum Pump",
+  "category": "Compressor and Vacuum Pump",
+  "applicationKeys": [
+    "ammonia",
+    "bio gas",
+    "butadiene",
+    "butane",
+    "butylene",
+    "engine",
+    "ethane",
+    "ethylene",
+    "gas compressors",
+    "industrial",
+    "inert gases",
+    "labyrinth compressors",
+    "methane",
+    "natural gas",
+    "propane",
+    "propylene",
+    "reciprocating",
+    "stationary",
+    "versatile applications",
+    "vinyl chloride monomer"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAG",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/93fb02e3-9c0e-4b18-8690-c8241a504882.pdf",
+      "type": "GTDS",
+      "name": "Gas Compressor Oil S4 PV 190 EN TDG V3.4 10-Jul-2017",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-GB/0b84dc63-b686-4576-85bc-d5278a6a82e0.pdf",
+      "type": "LTDS",
+      "name": "Gas Compressor Oil S4 PV 190 United Kingdom EN TDG V3.4 24-Jul-2017",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590815.PDF",
+      "type": "LMSDS",
+      "name": "Gas Compressor Oil S4 PV 190 United Kingdom EN 140002340634 EHS V3.1 15-MAY-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8386_002VI7_A18H",
+      "name": "Drum 208 L T/H RYtop (1)",
+      "size": "208",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550035100",
+      "margin": "1.00259825218481",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gas Compressor Oil S4 PV has been specially developed as a versatile cylinder lubricant for reciprocating compressors handling a range of hydrocarbon and other gases. It is based on polyalkylene glycol base fluids and is fully approved by leading gas compressor manufacturers.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "190"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ISO 3104",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "35"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "234"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ISO 2592",
+      "uom": "",
+      "units": "°C",
+      "value": ">260"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ISO 3016",
+      "uom": "",
+      "units": "°C",
+      "value": "-36"
+    },
+    {
+      "property": "Density",
+      "method": "ISO 12185",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "1055"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

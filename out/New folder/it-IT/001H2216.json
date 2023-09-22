@@ -1,0 +1,163 @@
+{
+  "id": "001H2216",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Helix HX7 10W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Lubrificanti per l'automotive",
+  "category": "Oli motore - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/cace9aa7-2cb3-42d2-ac36-92eb9e42ab79.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) EN TDG V1.2 23-Aug-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576567.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) Italy IT 140007645406 EHS V1.4 18-MAY-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02576566.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) Italy EN 140007645406 EHS V1.4 18-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/a8365457-c8bd-42c4-9345-52420cc43618.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 10W-40 (SN Plus A3/B4) Italy IT TDG V1.2 31-Aug-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H2216_002XI2_A246",
+      "name": "Bottiglia 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550054630",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2216_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550052508",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2216_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550053708",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2216_002W22_EURO",
+      "name": "Bottiglia 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "libbre",
+      "pack": "Bottiglia",
+      "materialCode": "550053736",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H2216_002VSI_A246",
+      "name": "Barile 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "libbre",
+      "pack": "Barile",
+      "materialCode": "550053787",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 501.01",
+      "organisation": "VW",
+      "spec": "Standard 501.01"
+    },
+    {
+      "name": "Renault RN 0710 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0710 - Meets the requirements"
+    },
+    {
+      "name": "MB-Approval 229.3",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.3"
+    },
+    {
+      "name": "ACEA A3/B4",
+      "organisation": "ACEA",
+      "spec": "A3/B4"
+    },
+    {
+      "name": "ACEA B3",
+      "organisation": "ACEA",
+      "spec": "B3"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Renault RN 0700 - Meets the requirements",
+      "organisation": "Renault",
+      "spec": "RN 0700 - Meets the requirements"
+    },
+    {
+      "name": "ACEA A3",
+      "organisation": "ACEA",
+      "spec": "A3"
+    },
+    {
+      "name": "ACEA B4",
+      "organisation": "ACEA",
+      "spec": "B4"
+    },
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix HX7 aiuta a mantenere i motori puliti ed efficienti prevenendo la formazione di morchie e depositi. E' adatto per un'ampia varietà di veicoli moderni condotti in condizioni di traffico impegnative.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550053737_Shell_Helix_HX7_10W-40_4L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

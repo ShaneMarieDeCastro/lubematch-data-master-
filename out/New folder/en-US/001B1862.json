@@ -1,0 +1,75 @@
+{
+  "id": "001B1862",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Power Steering Fluid",
+  "description": "General purpose power steering fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": "",
+  "category": "Other Specialities",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Power_Steering_Fluid.pdf",
+      "type": "GTDS",
+      "name": "Power Steering Fluid English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563097.PDF",
+      "type": "LMSDS",
+      "name": "Power Steering Fluid United States EN 140002686046 EHS V1.2 25-MAR-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Ford ESW-M2C128-D",
+      "organisation": "Ford",
+      "spec": "ESW-M2C128-D"
+    },
+    {
+      "name": "VW Standard TL 570.26",
+      "organisation": "VW",
+      "spec": "Standard TL 570.26"
+    },
+    {
+      "name": "TMS 6810",
+      "organisation": "TMS",
+      "spec": "6810"
+    },
+    {
+      "name": "Daimler Chrysler MS 5931",
+      "organisation": "Daimler Chrysler",
+      "spec": "MS 5931"
+    },
+    {
+      "name": "General Motors GM 9985010",
+      "organisation": "General Motors",
+      "spec": "GM 9985010"
+    },
+    {
+      "name": "Ford ESW-M2C128-C",
+      "organisation": "Ford",
+      "spec": "ESW-M2C128-C"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

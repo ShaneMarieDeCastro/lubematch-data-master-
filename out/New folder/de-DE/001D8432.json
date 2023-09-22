@@ -1,0 +1,140 @@
+{
+  "id": "001D8432",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Gadus S5 V460 2",
+  "description": "Advanced Multipurpose Heavy Duty Grease",
+  "family": "Gadus",
+  "parentCategory": "Schmierfette",
+  "category": "synthetische EP-Schmierfette",
+  "applicationKeys": [
+    "advanced",
+    "automotive",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "high temperature",
+    "industrial",
+    "leaky gear boxes",
+    "lithium",
+    "lithium complex",
+    "long life",
+    "multipurpose",
+    "paper",
+    "paper mill",
+    "plain bearings",
+    "roller bearings",
+    "severe conditions",
+    "shock load",
+    "truck wheel hibs",
+    "trucks",
+    "water resistance"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/696f8ff7-a43f-40eb-b49c-c536f27c8be6.pdf",
+      "type": "GTDS",
+      "name": "Gadus S5 V460 2 EN TDG V2.3 27-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578128.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V460 2 Germany EN 140001492039 EHS V2.5 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578127.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S5 V460 2 Germany DE 140001492039 EHS V2.5 23-MAY-2023",
+      "language": "DE"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/1d2d3858-f3a0-4efb-93c7-b9bfa585834c.pdf",
+      "type": "LTDS",
+      "name": "Gadus S5 V460 2 Germany DE TDG V2.3 28-Sep-2022",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S5 V460 2 ist ein Mehrzweck-Lithiumkomplex-Fett, anwendbar bei hoher Belastung für eine Vielzahl von Lagerschmieranwendungen. Das Fett besteht aus einem hochviskosen Grundöl, basierend auf der Synthesetechnologie, PAO und einem Eindicker auf Basis von Lithiumkomplex-Seifen in Kombination mit neuester Additivtechnologie. Durch die ausgezeichnete thermische Stabilität einsetzbar bei hohen wie auch bei niedrigen Temperaturen.\n\n\n",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Klasse",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "2"
+    },
+    {
+      "property": "Farbe",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Hellbraun"
+    },
+    {
+      "property": "Eindicker",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Lithiumkomplex"
+    },
+    {
+      "property": "Grundöltyp",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Synthetisch"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "cSt",
+      "value": "460"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "cSt",
+      "value": "45"
+    },
+    {
+      "property": "Walkpenetration",
+      "method": "ASTM D217",
+      "uom": "@25 °C",
+      "units": "",
+      "value": "265 - 295"
+    },
+    {
+      "property": "Tropfpunkt",
+      "method": "IP 396",
+      "uom": "",
+      "units": "",
+      "value": "260"
+    },
+    {
+      "property": "Pumpbarkeit in langen Leitungen",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "Gut"
+    }
+  ],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

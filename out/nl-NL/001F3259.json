@@ -1,0 +1,114 @@
+{
+  "id": "001F3259",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AP-L 0W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "psa"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e1e9214e-1cb5-4313-a0cf-e4d9f237e712.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) EN TDG V1.5 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596114.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Netherlands NL 140002783873 EHS V1.7 14-JUN-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02596171.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Netherlands EN 140002783873 EHS V1.7 14-JUN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/964918ad-f97e-4f25-8f17-7ce795aa38b8.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AP-L 0W-30 (PSA B71 2312) Netherlands NL TDG V1.5 17-Nov-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3259_002XS4_A246",
+      "name": "Vaten 209 L Tight head Steel R-R-R White Branding (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vaten",
+      "materialCode": "550043466",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3259_002XI2_A246",
+      "name": "Fles 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550054607",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3259_002YAN_EURO",
+      "name": "Fles 1 L Wishbone Plastic Copper Gold (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550054034",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F3259_002YAP_EURO",
+      "name": "Fles 5 L Wishbone Plastic Copper Gold (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550050863",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    },
+    {
+      "name": "PSA B71 2312",
+      "organisation": "PSA",
+      "spec": "B71 2312"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Ontworpen om aan de hoge eisen van hoogpresterende motoren te voldoen, waaronder Peugeot en Citroën en andere motoren die een ACEA C2 specificatie vereisen. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550050863_Shell_Helix_Ult_Pro_AP-L_0W-30_5L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

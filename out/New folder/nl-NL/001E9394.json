@@ -1,0 +1,84 @@
+{
+  "id": "001E9394",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra Professional AV-L 5W-30",
+  "description": "Passenger Car Motor Oil ",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1db58b94-a2ce-408a-9a45-2d45ca765d4a.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AV-L 5W-30 (VW 504/507) EN TDG V1.3 03-Dec-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/3b7f2d45-3f8e-40e2-90a6-c09fae1466a9.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AV-L 5W-30 (VW 504/507) Netherlands NL TDG V1.1 13-Sep-2017",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497418.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 5W-30 (VW 504/507) Netherlands EN 140002783873 EHS V1.7 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497515.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AV-L 5W-30 (VW 504/507) Netherlands NL 140002783873 EHS V1.7 06-DEC-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 507.00",
+      "organisation": "VW",
+      "spec": "Standard 507.00"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 504.00",
+      "organisation": "VW",
+      "spec": "Standard 504.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of Audi and VW high-performance engines.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_Ultra_Pro_AVL_5W_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,155 @@
+{
+  "id": "001C4572",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Rimula R3+ 30",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "ball",
+    "bearing",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "fixed",
+    "front axle",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "manual",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "on highway",
+    "plain",
+    "power steering",
+    "power take off pto",
+    "powershift",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "rotary vane",
+    "servo",
+    "slew",
+    "stationary",
+    "stern tube seal",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "vacuum pumps",
+    "wheel"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b11ecdcc-b4da-43f8-ad55-12e7fa6ba77a.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3+ 30 (CF/228.0) EN TDG V1.5 29-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/4cc7ddd8-abf1-4976-aff7-c5a31cef3b14.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3+ 30 (CF/228.0) Philippines EN TDG V1.5 29-Jul-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02427065.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3+ 30 (CF/228.0) Philippines EN 140001435525 EHS V1.8 12-JUL-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4572_002VJW_A227",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550041104",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4572_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025492",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4572_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500003293",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MAN 270",
+      "organisation": "MAN",
+      "spec": "270"
+    },
+    {
+      "name": "MB-Approval 228.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "228"
+    },
+    {
+      "name": "MTU Category 1",
+      "organisation": "MTU",
+      "spec": "Category 1"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 oils adapts to your driving needs to provide extra protection and keep pistons and other engine parts clean. It provides protection against wear for long engine life and protection against deposits for efficient engine performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,77 @@
+{
+  "id": "001D7595",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Helix Ultra AF 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    "cars",
+    "ford"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Helix_Ultra_AF_5W-30_(A5_B5_Ford_913_C)_(en)_TDS_v2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra AF 5W-30 (A5/B5 Ford 913 C) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_01167184.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AF 5W-30 (A5/B5 Ford 913 C) Philippines EN 140001435525 EHS V1.1 31-DEC-2015",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7595_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500005451",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA A5/B5",
+      "organisation": "ACEA",
+      "spec": "A5/B5"
+    },
+    {
+      "name": "Ford WSS-M2C913-C - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C913-C - Meets the requirements"
+    },
+    {
+      "name": "ACEA B5",
+      "organisation": "ACEA",
+      "spec": "B5"
+    },
+    {
+      "name": "ACEA A5",
+      "organisation": "ACEA",
+      "spec": "A5"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Helix Ultra AF is the latest generation fully synthetic engine oil designed specifically to meet the needs of all Ford gasoline and diesel engines. Maximising engine performance right up to the next oil change.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,160 @@
+{
+  "id": "001C4578",
+  "countryCode": "ES",
+  "locale": "es-ES",
+  "name": "Shell Rimula R3 Turbo 15W-40",
+  "description": "Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Lubricantes para automoción",
+  "category": "Aceites de motor - vehículo pesado",
+  "applicationKeys": [
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "heavy fuel",
+    "high altitude",
+    "hydraulic system",
+    "light fuel",
+    "lng",
+    "lpg",
+    "marine",
+    "medium speed",
+    "mobile",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "15W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/60c5f601-b150-4200-ba74-d5b3a3048b15.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3 Turbo 15W-40 (CH-4/228 1) EN TDG V1.7 22-Dec-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/es/af8e97d6-b759-4ec0-a34c-5993f0eb17e3.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3 Turbo 15W-40 (CH-4/228 1) Spain ES TDG V1.7 23-Dec-2022",
+      "language": "ES"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557692.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 Turbo 15W-40 (CH-4/228 1) Spain EN 140003966322 EHS V2.5 20-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02557693.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3 Turbo 15W-40 (CH-4/228 1) Spain ES 140003966322 EHS V2.5 20-APR-2023",
+      "language": "ES"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4578_002VNA_A246",
+      "name": "Cubo 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Cubo",
+      "materialCode": "550041567",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4578_002VSH_A246",
+      "name": "Bidón 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Bidón",
+      "materialCode": "550041568",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Cummins CES 20076",
+      "organisation": "Cummins",
+      "spec": "CES 20076"
+    },
+    {
+      "name": "ACEA E2",
+      "organisation": "ACEA",
+      "spec": "E2"
+    },
+    {
+      "name": "Caterpillar ECF-1A",
+      "organisation": "Caterpillar",
+      "spec": "ECF-1A"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "API CF-4",
+      "organisation": "API",
+      "spec": "CF-4"
+    },
+    {
+      "name": "API CH-4",
+      "organisation": "API",
+      "spec": "CH-4"
+    },
+    {
+      "name": "API CG-4",
+      "organisation": "API",
+      "spec": "CG-4"
+    },
+    {
+      "name": "Mack EO-M",
+      "organisation": "Mack",
+      "spec": "EO-M"
+    },
+    {
+      "name": "MAN 271",
+      "organisation": "MAN",
+      "spec": "271"
+    },
+    {
+      "name": "Volvo VDS",
+      "organisation": "Volvo",
+      "spec": "VDS"
+    },
+    {
+      "name": "MB-Approval 228.1",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.1"
+    },
+    {
+      "name": "Cummins CES 20071",
+      "organisation": "Cummins",
+      "spec": "CES 20071"
+    },
+    {
+      "name": "Mack EO-M Plus",
+      "organisation": "Mack",
+      "spec": "EO-M Plus"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La alta resistencia a la oxidación y la estabilidad térmica del Shell Rimula R3 Turbo  proporcionan un alto nivel de protección frente a la formación de depósitos en los pistones. Mayor limplieza  mediante el uso de dispersantes de alto rendimiento para el control de lodos y depósitos en otras partes del motor.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

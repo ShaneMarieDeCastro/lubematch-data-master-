@@ -1,0 +1,55 @@
+{
+  "id": "001I8258",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Shell Tellus S1 V 100 (India)",
+  "description": "Industrial Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "100",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/63d668ce-8159-4073-a24f-950032505eb4.pdf",
+      "type": "GTDS",
+      "name": "Tellus S1 V 100 (India) EN TDG V1.0 26-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02637078.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S1 V 100 (India) India EN 140006501563 EHS V1.0 18-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "DIN 51524-3 HVLP",
+      "organisation": "DIN",
+      "spec": "51524-3 HVLP"
+    },
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S1 V fluids are a quality anti-wear hydraulic fluid which provides cost effective and reliable protection and performance in most industrial and mobile applications.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,109 @@
+{
+  "id": "001C7851",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Advance Snow Ultra Synthetic",
+  "description": "Synthetic 2 stroke snowmobile engine oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Engine Oils - Other",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Generic Grade",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/34343232-daa6-46ac-bd87-fae8cb7e7cc2.pdf",
+      "type": "GTDS",
+      "name": "Advance Snow Ultra Synthetic EN TDG V1.3 03-Dec-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/aa23c7a3-ffef-4248-8bc8-7b9086ae7130.pdf",
+      "type": "LTDS",
+      "name": "Advance Snow Ultra Synthetic Canada EN TDG V1.3 04-Dec-2018",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290010.PDF",
+      "type": "LMSDS",
+      "name": "Advance Snow Ultra Synthetic Canada EN 140006579500 EHS V2.1 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290009.PDF",
+      "type": "LMSDS",
+      "name": "Advance Snow Ultra Synthetic Canada FR 140006579500 EHS V2.1 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/6420a581-b454-4c4c-bb65-13c933b7f415.pdf",
+      "type": "LTDS",
+      "name": "Advance Snow Ultra Synthetic Canada FR TDG V1.3 24-Dec-2018",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C7851_002XP5_A0IK",
+      "name": "Bottle 5 L Americas Tool Plastic Advance Green (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045950",
+      "margin": "3.35518232802114",
+      "packShot": ""
+    },
+    {
+      "code": "001C7851_002XR8_CHEP",
+      "name": "Bottle 0.946 L Americas Tool Plastic Advance Green (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050183",
+      "margin": "3.04441990884765",
+      "packShot": ""
+    },
+    {
+      "code": "001C7851_002XR8_A0IK",
+      "name": "Bottle 0.946 L Americas Tool Plastic Advance Green (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050182",
+      "margin": "3.58129868654888",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO-L-EGD",
+      "organisation": "ISO",
+      "spec": "L-EGD"
+    },
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    },
+    {
+      "name": "JASO FD",
+      "organisation": "JASO",
+      "spec": "FD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell ADVANCE SNOW ULTRA is a dedicated snowmobile oil designed for high performance 2-cycle engines. Meeting API TC and JASO FD standards, Shell ADVANCE SNOW ULTRA protects  under the higher operating temperatures of air cooled, 2-cycle engines with a synthetic formula ideal for advanced direct injection engines.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2A-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

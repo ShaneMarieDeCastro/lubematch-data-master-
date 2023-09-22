@@ -1,0 +1,149 @@
+{
+  "id": "001F4154",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Spirax S4 AX 85W-140",
+  "description": "Heavy duty automotive gear oil",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Transmission manuelle et huiles d’engrenage",
+  "applicationKeys": [
+    "axle",
+    "circulation",
+    "circulation system",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "manual",
+    "off highway",
+    "powershift",
+    "reduction gears",
+    "slew",
+    "swing drive",
+    "synchronised",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "85W-140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0829cbe5-3578-4af1-b8af-5741da53fa62.pdf",
+      "type": "GTDS",
+      "name": "Spirax S4 AX 85W-140 EN TDG V1.4 05-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/27f37232-8abf-436f-89f3-1552f96ccfbe.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 AX 85W-140 Canada EN TDG V1.4 05-May-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/648b4077-4aa4-4065-8a1c-17e57b74f1b3.pdf",
+      "type": "LTDS",
+      "name": "Spirax S4 AX 85W-140 Canada FR TDG V1.4 03-May-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291549.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AX 85W-140 Canada FR 140006579500 EHS V2.4 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291548.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S4 AX 85W-140 Canada EN 140006579500 EHS V2.4 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F4154_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500009747",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001F4154_002VND_A1WJ",
+      "name": "",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550043591",
+      "margin": "0.708910859381488",
+      "packShot": ""
+    },
+    {
+      "code": "001F4154_002VSH_A1WJ",
+      "name": "",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550043592",
+      "margin": "0.54148325353596",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "API MT-1",
+      "organisation": "API",
+      "spec": "MT-1"
+    },
+    {
+      "name": "Mack GO-H",
+      "organisation": "Mack",
+      "spec": "GO-H"
+    },
+    {
+      "name": "SAE J2360",
+      "organisation": "SAE",
+      "spec": "J2360"
+    },
+    {
+      "name": "MIL-PRF-2105E - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "PRF-2105E - Meets the requirements"
+    },
+    {
+      "name": "Mack GO-J",
+      "organisation": "Mack",
+      "spec": "GO-J"
+    },
+    {
+      "name": "API GL-5",
+      "organisation": "API",
+      "spec": "GL-5"
+    },
+    {
+      "name": "MIL-L-2105D - Meets the requirements",
+      "organisation": "MIL",
+      "spec": "L-2105D - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S4 AX 85W-140 est une huile pour engrenages hypoïdes extrême pression (EP) conçue pour dépasser les dernières normes de performance en matière de service sévère et sévère.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

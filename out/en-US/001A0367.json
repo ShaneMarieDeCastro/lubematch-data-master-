@@ -1,0 +1,86 @@
+{
+  "id": "001A0367",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Mysella LA 40",
+  "description": "High Performance Low-ash Stationary Gas Engine Oil",
+  "family": "Mysella",
+  "parentCategory": null,
+  "category": "Engine Oils - Stationary Gas Engine",
+  "applicationKeys": [
+    "bearing",
+    "bio gas",
+    "circulation",
+    "circulation system",
+    "cng",
+    "diesel",
+    "engine",
+    "four stroke",
+    "gas",
+    "gas turbines",
+    "gasoline",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "landfill",
+    "light fuel",
+    "lng",
+    "low ash",
+    "lpg",
+    "manual sequential",
+    "marine",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "plain",
+    "pump gear",
+    "sewage",
+    "stationary",
+    "transmissions",
+    "turbine",
+    "urban"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Mysella_LA_30.pdf",
+      "type": "GTDS",
+      "name": "Mysella LA 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563313.PDF",
+      "type": "LMSDS",
+      "name": "Mysella LA 40 United States EN 140002686046 EHS V5.5 17-FEB-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API CD",
+      "organisation": "API",
+      "spec": "CD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

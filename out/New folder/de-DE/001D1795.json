@@ -1,0 +1,170 @@
+{
+  "id": "001D1795",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Rimula R5 LM 10W-40",
+  "description": "Low Emissions Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - Nutzfahrzeuge",
+  "applicationKeys": [
+    "bio gas",
+    "cars",
+    "cng",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "lng",
+    "lpg",
+    "multi fuel",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "stationary",
+    "urban"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "10W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fcbfe1f4-53a0-4514-9b31-6249ad939a34.pdf",
+      "type": "GTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) EN TDG V1.5 28-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/71a7d39d-bab0-4453-9b89-84c32648e8e8.pdf",
+      "type": "LTDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Germany DE TDG V1.5 29-Jul-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561422.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Germany DE 140001492039 EHS V2.7 26-APR-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02561421.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R5 LM 10W-40 (E6/228.51) Germany EN 140001492039 EHS V2.7 26-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D1795_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550029381",
+      "margin": "0.52684390877282",
+      "packShot": ""
+    },
+    {
+      "code": "001D1795_001176_SBLK",
+      "name": "No Packaging (Bulkware)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "Keine Verpackung",
+      "materialCode": "500006369",
+      "margin": "0.603667965836152",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA E6",
+      "organisation": "ACEA",
+      "spec": "E6"
+    },
+    {
+      "name": "MB-Approval 228.51",
+      "organisation": "Mercedes-Benz",
+      "spec": "228.51"
+    },
+    {
+      "name": "MAN M 3477",
+      "organisation": "MAN",
+      "spec": "M 3477"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R5 LM zeichnet sich durch die Verwendung neuester „Low-SAPS\"-Additivtechnologie aus. Die Kombination mit ausgewählten Grundölen trägt dazu bei, den Motor effektiv zu schützen, und gewährleistet einen sicheren und verlässlichen Betrieb. Dies führt zu Einsparungen bei der Wartung und verlängert die Ölwechselintervallen.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40 °C",
+      "units": "mm²/s",
+      "value": "98,8"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100 °C",
+      "units": "mm²/s",
+      "value": "14,5"
+    },
+    {
+      "property": "Dynamische Viskosität",
+      "method": "ASTM D5293",
+      "uom": "@–25 °C",
+      "units": "mPa s",
+      "value": "6133"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "152"
+    },
+    {
+      "property": "Gesamtbasenzahl",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "10,4"
+    },
+    {
+      "property": "Sulfatasche",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "%",
+      "value": "1,0"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@15 °C",
+      "units": "kg/l",
+      "value": "0,866"
+    },
+    {
+      "property": "Flammpunkt (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "232"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "–42"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L-Rimula-R5-LM-10_40.png",
+  "valueRecord": [],
+  "commerce": null
+}

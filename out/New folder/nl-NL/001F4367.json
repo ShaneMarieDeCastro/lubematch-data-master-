@@ -1,0 +1,56 @@
+{
+  "id": "001F4367",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell D971",
+  "description": "Automatic transmission fluid for Mercedes-Benz passenger car automatic transmissions",
+  "family": "Daimler FFO",
+  "parentCategory": "Transmissie-oliën",
+  "category": "Automatische transmissie oliën",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_D971_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Shell D971 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482428.PDF",
+      "type": "LMSDS",
+      "name": "Shell D971 Netherlands NL 140002783873 EHS V1.7 16-SEP-2022",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/a22b25a4-145e-4ddd-84f2-af9fbe071ee2.pdf",
+      "type": "LTDS",
+      "name": "Shell D971 Netherlands NL TDG V3.2 30-Oct-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02482427.PDF",
+      "type": "LMSDS",
+      "name": "Shell D971 Netherlands EN 140002783873 EHS V1.7 16-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell D971 is een hoogwaardige transmissieolie voor laatste generaties Mercedes-Benz 9-speed automatische versnellingsbakken (9G-Tronic). ",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

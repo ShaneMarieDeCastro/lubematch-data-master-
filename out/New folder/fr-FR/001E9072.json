@@ -1,0 +1,113 @@
+{
+  "id": "001E9072",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Helix HX7 ECT 5W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    "emission control technology"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-40",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/a9ad1f51-0e2f-4014-a73e-c51d8584c1ec.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/dddb2138-41fa-411a-adef-fdca48b4e1aa.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) France French",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497724.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) France EN 140003182031 EHS V1.5 06-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02497726.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 ECT 5W-40 (C3 229.31) France FR 140003182031 EHS V1.5 06-DEC-2022",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9072_002VSH_A246",
+      "name": "Baril 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Baril",
+      "materialCode": "550040238",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001E9072_002W22_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550046586",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 11106",
+      "organisation": "Chrysler",
+      "spec": "MS 11106"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "MB-Approval 229.31",
+      "organisation": "Mercedes-Benz",
+      "spec": "229.31"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "Fiat 9.55535-S2 - Meets the requirements",
+      "organisation": "Fiat",
+      "spec": "9.55535-S2 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "La compatibilité de Shell HX7 ECT avec les systèmes de dépollution garde le filtre à particules propre et donc aide au maintien des performantes du moteur.  Minimise la formation des boues et des dépôts.     \n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Shell_Helix_HX7_5W-40_ECT_4L_600053112.png",
+  "valueRecord": [],
+  "commerce": null
+}

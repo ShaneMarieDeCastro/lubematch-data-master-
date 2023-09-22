@@ -1,0 +1,87 @@
+{
+  "id": "001B3353",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "AeroShell Oil W80 Plus",
+  "description": "Mineral ashless dispersant oil for aircraft piston engines",
+  "family": "AeroShell",
+  "parentCategory": "Aviation lubricants",
+  "category": "Aviation lubricants",
+  "applicationKeys": [
+    "aviation",
+    "piston engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139011_201407230546.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Oil W80 Plus English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_Local_TDS_United_Kingdom_AeroShell_Oil_W80_Plus_(en-GB)_TDS.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Oil W80 Plus United Kingdom English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590807.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Oil W80 Plus United Kingdom EN 140002340634 EHS V4.5 27-JUN-2019",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "SAE J1899",
+      "organisation": "SAE",
+      "spec": "J1899"
+    },
+    {
+      "name": "Continental SIL 99-2",
+      "organisation": "Continental",
+      "spec": "SIL 99-2"
+    },
+    {
+      "name": "Textron Lycoming 1409C",
+      "organisation": "Textron Lycoming",
+      "spec": "1409C"
+    },
+    {
+      "name": "Textron Lycoming 301F",
+      "organisation": "Textron Lycoming",
+      "spec": "301F"
+    },
+    {
+      "name": "Textron Lycoming 471B",
+      "organisation": "Textron Lycoming",
+      "spec": "471B"
+    },
+    {
+      "name": "FAA Airworthiness Directive 80-04-03 R2",
+      "organisation": "FAA Airworthiness Directive",
+      "spec": "80-04-03 R2"
+    },
+    {
+      "name": "Textron Lycoming 446E",
+      "organisation": "Textron Lycoming",
+      "spec": "446E"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Oil W80 Plus is a new single grade oil that combines the single grade, ashless dispersant performance found in AeroShell Oil W80 Plus and the anti-wear/anti-corrosion additives of Aeroshell Oil W15W-50 Multigrade. It is the oil for pilots who prefer a single grade but who also want the extra protection and performance.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "001J0929",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Shell Coolant Extra Ready to Use",
+  "description": "Hybrid antifreeze/coolant premix",
+  "family": "Antifreeze",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0d7b6d00-472b-43a6-aa24-cc82488d9f7b.pdf",
+      "type": "GTDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02590571.PDF",
+      "type": "LMSDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) United Kingdom EN 140002340634 EHS V2.0 04-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/44ddb4a2-9f42-4624-af00-36a72a68c78c.pdf",
+      "type": "LTDS",
+      "name": "Shell Coolant Extra Ready to Use (Europe) United Kingdom EN TDG V1.4 24-May-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001J0929_002YBD_A863",
+      "name": "Bottle 1 L Local Plastic Rimula Grey (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550061799",
+      "margin": "1.09130957391527",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,77 @@
+{
+  "id": "001A0081",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "AeroShell Turbine Oil 390",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "Aviation lubricants",
+  "category": "Aviation lubricants",
+  "applicationKeys": [
+    "aero derivative",
+    "circulation",
+    "circulation system",
+    "gas",
+    "gas turbines",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/36f3aa91-a8be-40ea-9755-fdd43a04d03e.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 390 EN TDG V1.3 08-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-GB/801ec127-d4a6-4e55-aac7-450b89923159.pdf",
+      "type": "LTDS",
+      "name": "AeroShell Turbine Oil 390 United Kingdom EN TDG V1.3 08-Jun-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02586275.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 390 United Kingdom EN 140002340634 EHS V5.2 01-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A0081_002VFJ_AEU1",
+      "name": "Can 1 q AeroShell (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Can",
+      "materialCode": "550049741",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Joint Service Designation OX-7",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-7"
+    },
+    {
+      "name": "DEF STAN 91-94",
+      "organisation": "DEF STAN",
+      "spec": "91-94"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "AeroShell Turbine Oil 390 is a 3 mm²/s synthetic diester oil incorporating a carefully selected and balanced combination of additives to improve thermal and oxidation stability and to increase the load carrying ability of the base oil.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

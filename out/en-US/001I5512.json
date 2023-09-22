@@ -1,0 +1,81 @@
+{
+  "id": "001I5512",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell EcoSafe EAL 68",
+  "description": "Special Purpose Hydraulic Fluid",
+  "family": "Generic Branded Product",
+  "parentCategory": null,
+  "category": "Hydraulic Fluids",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "68",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fb619d85-f471-4240-92f6-5a94d1c0fea4.pdf",
+      "type": "GTDS",
+      "name": "Shell EcoSafe EAL 68 EN TDG V1.0 21-Jul-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619741.PDF",
+      "type": "LMSDS",
+      "name": "Shell EcoSafe EAL 68 United States EN 140002686046 EHS V1.1 18-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-US/b7f10dd8-9ce9-4c13-a755-6d727c1fa4d4.pdf",
+      "type": "LTDS",
+      "name": "Shell EcoSafe EAL 68 United States EN TDG V1.0 21-Jan-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001I5512_002X4L_NAMD",
+      "name": "IBC 975 L Plastic W (1)",
+      "size": "975",
+      "uom": "L",
+      "pack": "IBC",
+      "materialCode": "550057362",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5512_002VJ3_NAMD",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550057360",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001I5512_002VOM_NAMD",
+      "name": "Pail 5 Gal Plastic O/H B (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550057361",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell EcoSafe EAL 68  is a high-performance, environmentally acceptable hydraulic fluid. Shell EcoSafe EAL 68 is produced from biodegradable base stocks and can replace traditional mineral oil hydraulic fluids in in systems with little to no equipment modifications and minimal downtime to provide outstanding performance across a wide range of conditions. Shell EcoSafe EAL 68 fluids can be relied on to provide optimal performance in a wide range of outdoor climates, across a wide temperature operating window.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

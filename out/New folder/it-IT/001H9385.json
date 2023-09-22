@@ -1,0 +1,82 @@
+{
+  "id": "001H9385",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Mysella S7 N Ultra 40",
+  "description": "Premium Stationary Gas Engine Oil for Ultra Extended Oil Life",
+  "family": "Mysella",
+  "parentCategory": "Oli motore industriali",
+  "category": "Oli motore - Motore a gas stazionario",
+  "applicationKeys": [
+    "bio gas",
+    "engine",
+    "low ash",
+    "natural gas",
+    "stationary",
+    "stationary gas engine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "40",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/f5999273-152f-4493-b2ee-7b31e9e40067.pdf",
+      "type": "GTDS",
+      "name": "Mysella S7 N Ultra 40 EN TDG V1.4 14-Apr-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450233.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S7 N Ultra 40 Italy IT 140007645406 EHS V1.3 22-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02450234.PDF",
+      "type": "LMSDS",
+      "name": "Mysella S7 N Ultra 40 Italy EN 140007645406 EHS V1.3 22-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/35b8408e-8907-491f-9b41-0f9903c1bf44.pdf",
+      "type": "LTDS",
+      "name": "Mysella S7 N Ultra 40 Italy IT TDG V1.4 15-Apr-2021",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001H9385_002VSH_A246",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550055080",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001H9385_002VJW_A246",
+      "name": "IBC 1000 L Plastic T (1)",
+      "size": "1000",
+      "uom": "libbre",
+      "pack": "IBC",
+      "materialCode": "550055029",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Mysella S7N Ultra è un lubrificante estremamente performante sviluppato per motori stazionari a 4 tempi ad accensione comandata, specialmente quelli con pistoni in acciaio. Offre eccellente pulizia del motore e intervalli di cambio olio ultra prolungati grazie alla sua formulazione con una avanzata tecnologia.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

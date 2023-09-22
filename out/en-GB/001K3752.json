@@ -1,0 +1,66 @@
+{
+  "id": "001K3752",
+  "countryCode": "GB",
+  "locale": "en-GB",
+  "name": "Helix Ultra Professional AJ-L LE 0W-20",
+  "description": "Passenger Car Engine Oil",
+  "family": "Helix",
+  "parentCategory": "Automotive lubricants",
+  "category": "Automotive lubricants",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/33d31e17-95c2-4861-9841-40ba933d42c4.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AJ-L LE 0W-20 (JLR.03.5006) EN TDG V1.0 31-May-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02555681.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AJ-L LE 0W-20 (JLR.03.5006) United Kingdom EN 140002340634 EHS V1.1 18-APR-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001K3752_002VSH_A246",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550070250",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA C5",
+      "organisation": "ACEA",
+      "spec": "C5"
+    },
+    {
+      "name": "Jaguar Land Rover STJLR.03.5006",
+      "organisation": "Jaguar Land Rover",
+      "spec": "STJLR.03.5006"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Designed to meet the demanding requirements of particular high-performance gasoline engines from Jaguar Land Rover and those requiring ACEA C5. It helps to reduce engine friction to provide enhanced fuel economy",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

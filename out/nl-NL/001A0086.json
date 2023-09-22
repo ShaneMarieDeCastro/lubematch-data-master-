@@ -1,0 +1,73 @@
+{
+  "id": "001A0086",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "AeroShell Turbine Oil 750",
+  "description": "Synthetic lubricating oil for aircraft turbine engines",
+  "family": "AeroShell",
+  "parentCategory": "Smeermiddelen voor de luchtvaart",
+  "category": "Motoroliën - Luchtvaart / turbine",
+  "applicationKeys": [
+    "aviation turbines",
+    "gas turbines",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/888020ab-a6a2-4ad3-a077-c20c3dba56d7.pdf",
+      "type": "GTDS",
+      "name": "AeroShell Turbine Oil 750 EN TDG V1.3 21-Jul-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619698.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 750 Netherlands NL 140002783873 EHS V4.2 18-JUL-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02619832.PDF",
+      "type": "LMSDS",
+      "name": "AeroShell Turbine Oil 750 Netherlands EN 140002783873 EHS V4.2 18-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "NATO O-149",
+      "organisation": "NATO",
+      "spec": "O-149"
+    },
+    {
+      "name": "Joint Service Designation OX-38",
+      "organisation": "Joint Service Designation",
+      "spec": "OX-38"
+    },
+    {
+      "name": "AIR 3517/A",
+      "organisation": "AIR",
+      "spec": "3517/A"
+    },
+    {
+      "name": "DEF STAN 91-98",
+      "organisation": "DEF STAN",
+      "spec": "91-98"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

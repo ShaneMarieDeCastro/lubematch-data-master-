@@ -1,0 +1,99 @@
+{
+  "id": "001C7848",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Advance Premium Snowmobile Oil",
+  "description": "TC-W3, 2 stroke outboard motor oil",
+  "family": "Advance",
+  "parentCategory": "",
+  "category": "Engine Oils - Other",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Generic Grade",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/14a4f62a-b276-4de4-b195-67dd3ac0ed58.pdf",
+      "type": "GTDS",
+      "name": "Advance Premium Snowmobile Oil EN TDG V1.2 24-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/fr-CA/9d66bdc1-4805-4bc9-9b24-8331c8776f98.pdf",
+      "type": "LTDS",
+      "name": "Advance Premium Snowmobile Oil Canada FR TDG V1.2 31-Oct-2018",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291181.PDF",
+      "type": "LMSDS",
+      "name": "Advance Premium Snowmobile Oil Canada FR 140006579500 EHS V12.7 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02291187.PDF",
+      "type": "LMSDS",
+      "name": "Advance Premium Snowmobile Oil Canada EN 140006579500 EHS V10.7 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-CA/61478ecc-1449-4978-a5d0-780b32e16502.pdf",
+      "type": "LTDS",
+      "name": "Advance Premium Snowmobile Oil Canada EN TDG V1.2 25-Oct-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C7848_002XR8_A0IK",
+      "name": "Bottle 0.946 L Americas Tool Plastic Advance Green (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550050181",
+      "margin": "1.55095804121134",
+      "packShot": ""
+    },
+    {
+      "code": "001C7848_002XLH_A0IK",
+      "name": "Bottle 5 L Americas Tool Plastic Shell Yellow Reformulated (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550045899",
+      "margin": "1.3712210831188",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API TC",
+      "organisation": "API",
+      "spec": "TC"
+    },
+    {
+      "name": "JASO FC - Meets smoke emission standard",
+      "organisation": "JASO",
+      "spec": "FC - Meets smoke emission standard"
+    },
+    {
+      "name": "NMMA TC-W3",
+      "organisation": "NMMA",
+      "spec": "TC-W3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Advance^® Premium Snowmobile Oil is a high performance, low smoke, 2 stroke oil for premixed and injected 2 stroke gasoline engines.  Meeting the requirements of API TC, NMMA TC-W3, and JASO FC this oil may be used in all 2 stroke gasoline engines requiring these performance qualifications including air and water cooled engines and equipment beyond snowmobiles such as lawn equipment, scooters, and other recreational vehicles (ATVs and dirt bikes).",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2A-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

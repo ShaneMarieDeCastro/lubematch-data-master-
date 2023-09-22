@@ -1,0 +1,155 @@
+{
+  "id": "001C4573",
+  "countryCode": "PH",
+  "locale": "en-PH",
+  "name": "Shell Rimula R3+ 40",
+  "description": "Extra Performance - Monograde Heavy Duty Diesel Engine Oil",
+  "family": "Rimula",
+  "parentCategory": "",
+  "category": "Engine Oils - Heavy Duty",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "bio gas",
+    "biodiesel",
+    "biofuel",
+    "cars",
+    "diesel",
+    "differential",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "locomotive",
+    "low speed",
+    "manual sequential",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "natural gas",
+    "off highway",
+    "on highway",
+    "power steering",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "servo",
+    "stationary",
+    "tandem drive",
+    "transfer case",
+    "transmissions",
+    "urban",
+    "vacuum pumps"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/1b10bd32-4c44-4b9e-8829-c8e93719db93.pdf",
+      "type": "GTDS",
+      "name": "Rimula R3+ 40 (CF/228.0) EN TDG V1.6 29-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02223752.PDF",
+      "type": "LMSDS",
+      "name": "Rimula R3+ 40 (CF/228.0) Philippines EN 140001435525 EHS V1.5 22-JAN-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-PH/22bbe00d-8673-4561-ac3c-3121190a74d7.pdf",
+      "type": "LTDS",
+      "name": "Rimula R3+ 40 (CF/228.0) Philippines EN TDG V1.6 29-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001C4573_002W20_A685",
+      "name": "Bottle 1 L Wishbone Plastic Black (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044565",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4573_002VSH_A227",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550025494",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4573_002VNA_A227",
+      "name": "Pail 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Pail",
+      "materialCode": "550025197",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001C4573_002X33_A685",
+      "name": "Bottle 6 L Wishbone Plastic Black (2)",
+      "size": "6",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044564",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ACEA E2",
+      "organisation": "ACEA",
+      "spec": "E2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    },
+    {
+      "name": "MAN 270",
+      "organisation": "MAN",
+      "spec": "270"
+    },
+    {
+      "name": "MB-Approval 228.0",
+      "organisation": "Mercedes-Benz",
+      "spec": "228"
+    },
+    {
+      "name": "MTU Category 1",
+      "organisation": "MTU",
+      "spec": "Category 1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Rimula R3 oils adapts to your driving needs to provide extra protection and keep pistons and other engine parts clean. It provides protection against wear for long engine life and protection against deposits for efficient engine performance.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/Rimula_Family_Packshots2.png",
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,112 @@
+{
+  "id": "901L4304",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadinia AL 30",
+  "description": "Very High Performance Medium-speed Diesel Engine Oil for use with Distillate Fuels",
+  "family": "Gadinia",
+  "parentCategory": "Industriële motoroliën",
+  "category": "Motoroliën - Zuigermotoren",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "circulation",
+    "circulation system",
+    "diesel",
+    "differential",
+    "distillates",
+    "engine",
+    "final drive",
+    "gearbox",
+    "heat transfer",
+    "heavy duty",
+    "heavy fuel",
+    "hydraulic system",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "marine reversing gears",
+    "medium speed",
+    "mobile",
+    "off highway",
+    "pump gear",
+    "pump valve",
+    "reduction gears",
+    "rollers",
+    "servo",
+    "stern tube seal",
+    "tandem drive",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/14c07a79-f083-4dc2-8c8f-6888620fa89d.pdf",
+      "type": "GTDS",
+      "name": "Gadinia AL 30 EN TDG V1.1 15-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581026.PDF",
+      "type": "LMSDS",
+      "name": "Gadinia AL 30 Netherlands EN 140002783873 EHS V1.8 25-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581027.PDF",
+      "type": "LMSDS",
+      "name": "Gadinia AL 30 Netherlands NL 140002783873 EHS V1.8 25-MAY-2023",
+      "language": "NL"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/e74b0f6e-39b5-46ec-a167-43050f45414f.pdf",
+      "type": "LTDS",
+      "name": "Gadinia AL 30 Netherlands NL TDG V1.1 19-Jul-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L4304_002XI2_A246",
+      "name": "Fles 20 L Jerrycan Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Fles",
+      "materialCode": "550063535",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "901L4304_002VSH_A246",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550033308",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell GADINIA AL is een hoogwaardige scheepsdieselmotorolie samengesteld voor gebruik in middelhoge snelheid zuigermotoren op destillaatbrandstoffen. Shell GADINIA AL is specifiek samengesteld om het verbruik in moderne motoren te reguleren, waar lakvorming in cilindervoering een potentieel probleem is. Shell GADINIA AL is multifunctioneel en kan gebruikt worden voor andere scheepvaarttoepassingen zoals reductietandwielen. ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-gadinia-al-135-190.png",
+  "valueRecord": [],
+  "commerce": null
+}

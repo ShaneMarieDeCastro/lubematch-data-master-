@@ -1,0 +1,184 @@
+{
+  "id": "001D7553",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Quaker State SAE 5W-20 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Quaker State Brand",
+  "parentCategory": "",
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/fe345881-0314-4906-8d5d-1c5d27382e59.pdf",
+      "type": "GTDS",
+      "name": "Quaker State SAE 5W-20 Motor Oil English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/cd767b32-8990-4ea6-b031-08fc9f8ecf78.pdf",
+      "type": "LTDS",
+      "name": "Quaker State SAE 5W-20 Motor Oil Canada French",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/66c3423a-77b9-42c9-b9cd-54db7ef6a7c2.pdf",
+      "type": "LTDS",
+      "name": "Quaker State SAE 5W-20 Motor Oil Canada English",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289995.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State SAE 5W-20 Motor Oil Canada FR 140006579500 EHS V1.8 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289865.PDF",
+      "type": "LMSDS",
+      "name": "Quaker State SAE 5W-20 Motor Oil Canada EN 140006579500 EHS V1.8 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7553_002X67_A1WK",
+      "name": "Bag in Box 1 qt Composite Ecobox 1 (24)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bag in Box",
+      "materialCode": "550022593",
+      "margin": "0.206801660221736",
+      "packShot": ""
+    },
+    {
+      "code": "001D7553_002V7F_A0IK",
+      "name": "Bottle 1 Quart Rect QS G (6)",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bottle",
+      "materialCode": "550042176",
+      "margin": "0.792280595094498",
+      "packShot": ""
+    },
+    {
+      "code": "001D7553_002VI4_A0IK",
+      "name": "Drums 208 L Tight head Steel Reconditioned Black (1)",
+      "size": "208",
+      "uom": "L",
+      "pack": "Drums",
+      "materialCode": "550023714",
+      "margin": "0.277405706268405",
+      "packShot": ""
+    },
+    {
+      "code": "001D7553_002XNZ_CHEP",
+      "name": "Bottle 0.946 L Americas Tool Plastic QS Green (6)",
+      "size": "0.946",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550049440",
+      "margin": "1.13368881401221",
+      "packShot": ""
+    },
+    {
+      "code": "001D7553_002XLM_A0IK",
+      "name": "Bottle 5 L Americas Tool Plastic QS Green (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bottle",
+      "materialCode": "550044948",
+      "margin": "0.674970062085768",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Chrysler MS 6395",
+      "organisation": "Chrysler",
+      "spec": "MS 6395"
+    },
+    {
+      "name": "Ford WSS-M2C930-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C930-A"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A - Meets the requirements"
+    },
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "Ford WSS-M2C945-B1",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-B1"
+    },
+    {
+      "name": "Ford WSS-M2C930-A - Meets the requirements",
+      "organisation": "Ford",
+      "spec": "WSS-M2C930-A - Meets the requirements"
+    },
+    {
+      "name": "Ford WSS-M2C945-A",
+      "organisation": "Ford",
+      "spec": "WSS-M2C945-A"
+    },
+    {
+      "name": "Chrysler MS 6395 - Meets the requirements",
+      "organisation": "Chrysler",
+      "spec": "MS 6395 - Meets the requirements"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Quaker State^® is a synthetic blend motor oil that provides durable wear protection that helps engines survive daily commutes from sustained high-speed highway operation to repetitive, stop-and-go traffic.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

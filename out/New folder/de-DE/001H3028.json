@@ -1,0 +1,73 @@
+{
+  "id": "001H3028",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix Ultra Professional AR-L 0W-40",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "cars",
+    "renault"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ee2fa3ea-0453-4bff-818c-f4cd3d7cd4d2.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra Professional AR-L 0W-40 (RN17 RSA) EN TDG V1.4 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/f4c70c27-e1d0-4b1a-81a1-edf19b12ddee.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra Professional AR-L 0W-40 (RN17 RSA) Germany DE TDG V1.4 25-Oct-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599641.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-40 (RN17 RSA) Germany DE 140001492039 EHS V1.2 19-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02599620.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra Professional AR-L 0W-40 (RN17 RSA) Germany EN 140001492039 EHS V1.2 19-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "Renault RSA",
+      "organisation": "Renault",
+      "spec": "RSA"
+    },
+    {
+      "name": "Renault RN 17",
+      "organisation": "Renault",
+      "spec": "RN 17"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Entwickelt, um die anspruchsvollen Anforderungen bestimmter Hochleistungs-PKW-Benzin- und-Dieselmotoren, und insbesondere Renault Sportmodellen, zu erfüllen.\n",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

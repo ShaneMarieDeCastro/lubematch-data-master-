@@ -1,0 +1,55 @@
+{
+  "id": "001K4212",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Helix SUV 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": null,
+  "category": "Engine Oils - PCMO",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/8e6a94a5-1922-4095-9beb-5302be165bb0.pdf",
+      "type": "GTDS",
+      "name": "Helix SUV 5W-40 (SP A3/B4 MB229.3) EN TDG V1.1 20-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636841.PDF",
+      "type": "LMSDS",
+      "name": "Helix SUV 5W-30 (SP/C3) India EN 140006501563 EHS V1.0 09-DEC-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SP",
+      "organisation": "API",
+      "spec": "SP"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "A Fully Synthetic Motor Oil Expertly Engineered for SUV engines for various demanding conditons such as urban and cruiser driving.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

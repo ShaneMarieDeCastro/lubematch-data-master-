@@ -1,0 +1,185 @@
+{
+  "id": "001E9386",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Helix HX7 Professional AV 5W-30",
+  "description": "Passenger Car Motor Oil",
+  "family": "Helix",
+  "parentCategory": "Motoröle",
+  "category": "Motoröle - PKW",
+  "applicationKeys": [
+    "cars",
+    "volkswagen",
+    "vw"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/d6cbb3a5-3595-46d0-b5c1-e2141b371e8b.pdf",
+      "type": "GTDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) EN TDG V1.4 24-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/de/30b89aee-959a-4ccc-851b-f6016c5deb74.pdf",
+      "type": "LTDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Germany DE TDG V1.4 28-Oct-2022",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603719.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Germany DE 140001492039 EHS V1.5 27-JUN-2023",
+      "language": "DE"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02603629.PDF",
+      "type": "LMSDS",
+      "name": "Helix HX7 Professional AV 5W-30 (C3 VW 505.01) Germany EN 140001492039 EHS V1.5 27-JUN-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E9386_002WPC_EURO",
+      "name": "Flasche 5 L Wishbone Plastic Helix Blue (3)",
+      "size": "5",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550046292",
+      "margin": "0.853117325414062",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002VSI_A246",
+      "name": "Fass 55 L T/H Steel Shell Red, Shell Yellow (1)",
+      "size": "55",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550040406",
+      "margin": "0.371059597598182",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002XN7_EURO",
+      "name": "Flasche 20 L Local EcoPack PET Flasche 20L Plastic Pet Colourless (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "EcoPack",
+      "materialCode": "550048288",
+      "margin": "1.0752444274558",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002W22_EURO",
+      "name": "Flasche 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Flasche",
+      "materialCode": "550046311",
+      "margin": "1.93107722325265",
+      "packShot": ""
+    },
+    {
+      "code": "001E9386_002VSH_A246",
+      "name": "Fass 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Fass",
+      "materialCode": "550040412",
+      "margin": "0.533749495604669",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "VW Standard 505.00",
+      "organisation": "VW",
+      "spec": "Standard 505.00"
+    },
+    {
+      "name": "ACEA C3 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C3 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C3",
+      "organisation": "ACEA",
+      "spec": "C3"
+    },
+    {
+      "name": "VW Standard 505.01",
+      "organisation": "VW",
+      "spec": "Standard 505.01"
+    },
+    {
+      "name": "VW Standard 502.00",
+      "organisation": "VW",
+      "spec": "Standard 502.00"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Erfüllt die anspruchsvollen Anforderungen bestimmter Hochleistungsmotoren insbesondere von Audi und Volkswagen sowie jener, die ACEA C3 Öle benötigen.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "12.18"
+    },
+    {
+      "property": "Kinematische Viskosität",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "70.82"
+    },
+    {
+      "property": "Viskositätsindex",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "171"
+    },
+    {
+      "property": "Dynamische Viskosität (MRV)",
+      "method": "ASTM D4684",
+      "uom": "@-35°C",
+      "units": "cP",
+      "value": "32900"
+    },
+    {
+      "property": "Dichte",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "853.4"
+    },
+    {
+      "property": "Flammpunkt",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pourpoint",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-36"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/4L_Helix_HX7_Pro_AV_5W_30.png",
+  "valueRecord": [],
+  "commerce": null
+}

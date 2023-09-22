@@ -1,0 +1,148 @@
+{
+  "id": "001A9054",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Sirius X 40",
+  "description": "Very High Performance Lubricants for high speed super high performance marine diesel engines (SHPD engines)",
+  "family": "Sirius",
+  "parentCategory": "Industriële motoroliën",
+  "category": "Motoroliën - Zuigermotoren",
+  "applicationKeys": [
+    "diesel",
+    "engine",
+    "gearbox",
+    "heavy duty",
+    "heavy fuel",
+    "industrial",
+    "light fuel",
+    "low speed",
+    "marine",
+    "medium speed",
+    "multi fuel",
+    "off highway",
+    "stationary",
+    "stern tube seal"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "40",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140008139848_201407240552.pdf",
+      "type": "GTDS",
+      "name": "Sirius X 40 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/1cfb95f3-f915-460d-af4b-afe54fe0d55f.pdf",
+      "type": "LTDS",
+      "name": "Sirius X 40 Netherlands NL TDG V1.0 17-Jul-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532586.PDF",
+      "type": "LMSDS",
+      "name": "Sirius X 40 Netherlands EN 140002783873 EHS V3.7 02-MAR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02532587.PDF",
+      "type": "LMSDS",
+      "name": "Sirius X 40 Netherlands NL 140002783873 EHS V3.7 02-MAR-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001A9054_002VSH_A18H",
+      "name": "Vat 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Vat",
+      "materialCode": "550019115",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MTU Category 2",
+      "organisation": "MTU",
+      "spec": "Category 2"
+    },
+    {
+      "name": "API CF",
+      "organisation": "API",
+      "spec": "CF"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Sirius X is speciaal geschikt voor eenheden met hoog vermogen/gewicht die worden gebruikt in snelle schepen en compacte generatoren.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "139"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "14"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/l",
+      "value": "0.890"
+    },
+    {
+      "property": "Flash Point CC",
+      "method": "ASTM D93",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-18"
+    },
+    {
+      "property": "TBN-E",
+      "method": "ASTM D2896",
+      "uom": "",
+      "units": "mg KOH/g",
+      "value": "17"
+    },
+    {
+      "property": "Sulphated Ash",
+      "method": "ASTM D874",
+      "uom": "",
+      "units": "% wt",
+      "value": "1.85"
+    },
+    {
+      "property": "SAE Viscosity Grade",
+      "method": "",
+      "uom": "",
+      "units": "",
+      "value": "40"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell-sirius-x-135x190.png",
+  "valueRecord": [],
+  "commerce": null
+}

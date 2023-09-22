@@ -1,0 +1,144 @@
+{
+  "id": "001D7518",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil SAE 10W-30 Motor Oil",
+  "description": "Passenger Car Motor Oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "10W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/ed0aadab-f7f3-4250-8fc4-5a4237c4c3a9.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 10W-30 Motor Oil (SP/GF-6A) EN TDG V1.5 07-Oct-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/0a336ace-e479-47f8-b63a-f61f91228d97.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 10W-30 Motor Oil (SP/GF-6A) Canada EN TDG V1.5 07-Oct-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/19979071-c7e7-43fc-9d87-9412a647a28c.pdf",
+      "type": "LTDS",
+      "name": "Pennzoil 10W-30 Motor Oil (SP/GF-6A) Canada FR TDG V1.5 10-Oct-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02404989.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 10W-30 Motor Oil (SP/GF-6A) Canada FR 140006579500 EHS V1.8 19-FEB-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02404988.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 10W-30 Motor Oil (SP/GF-6A) Canada EN 140006579500 EHS V1.8 19-FEB-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7518_002V7A_CHEP",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550042179",
+      "margin": "0.913041122178798",
+      "packShot": ""
+    },
+    {
+      "code": "001D7518_002XLH_A0IK",
+      "name": "",
+      "size": "5",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550045215",
+      "margin": "1.04644037965977",
+      "packShot": ""
+    },
+    {
+      "code": "001D7518_001176_A03Q",
+      "name": "",
+      "size": "",
+      "uom": "",
+      "pack": "Vrac ",
+      "materialCode": "500005372",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D7518_002X5E_A1WK",
+      "name": "",
+      "size": "24 X 1",
+      "uom": "qt",
+      "pack": " Ecobox",
+      "materialCode": "550022682",
+      "margin": "0.575071967958867",
+      "packShot": ""
+    },
+    {
+      "code": "001D7518_002V7A_A0IK",
+      "name": "",
+      "size": "1",
+      "uom": "qt",
+      "pack": "Bouteille",
+      "materialCode": "550042184",
+      "margin": "1.55317965573918",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "API SN Plus - Meets the requirements",
+      "organisation": "API",
+      "spec": "SN Plus - Meets the requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "API SN Plus",
+      "organisation": "API",
+      "spec": "SN Plus"
+    },
+    {
+      "name": "API SN-RC",
+      "organisation": "API",
+      "spec": "SN-RC"
+    },
+    {
+      "name": "General Motors GM 6094M - Meets the requirements",
+      "organisation": "General Motors",
+      "spec": "GM 6094M - Meets the requirements"
+    },
+    {
+      "name": "General Motors GM 6094M",
+      "organisation": "General Motors",
+      "spec": "GM 6094M"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "L'huile moteur Pennzoil^® avec technologie de nettoyage actif. Aide à empêcher la saleté et les contaminants de se transformer en dépôts dépouillant les performances. Parce que chez Pennzoil^® nous le savons, un moteur plus propre est mieux protégé et réactif. Il satisfait ou dépasse la protection du moteur requise par ILSAC GF-6A, et est spécialement formulé pour fournir une protection éprouvée contre l'usure.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

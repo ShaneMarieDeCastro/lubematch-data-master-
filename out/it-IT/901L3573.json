@@ -1,0 +1,77 @@
+{
+  "id": "901L3573",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell General Purpose Grease",
+  "description": "Multipurpose Grease",
+  "family": "Generic Branded Product",
+  "parentCategory": "Grassi",
+  "category": "Grassi non-EP a base di olio minerale",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "2",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/814f022e-e372-4222-bc9d-3097c904e9c9.pdf",
+      "type": "GTDS",
+      "name": "General Purpose Grease EN TDG V1.0 29-Jan-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140007530709_201304101444.pdf",
+      "type": "LTDS",
+      "name": "General Purpose Grease Italy Italian",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581975.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease Italy EN 140007645406 EHS V4.1 25-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581976.PDF",
+      "type": "LMSDS",
+      "name": "General Purpose Grease Italy IT 140007645406 EHS V4.1 25-MAY-2023",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "901L3573_002XD7_A246",
+      "name": "Secchio 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550037581",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "901L3573_002VH7_A0H5",
+      "name": "Fusto 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fusto",
+      "materialCode": "550013808",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "General purpose grease based on a mineral oil and a lithium thickener.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

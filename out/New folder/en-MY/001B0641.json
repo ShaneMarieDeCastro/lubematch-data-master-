@@ -1,0 +1,81 @@
+{
+  "id": "001B0641",
+  "countryCode": "MY",
+  "locale": "en-MY",
+  "name": "Shell Brake and Clutch Fluid DOT 4",
+  "description": "Brake fluid",
+  "family": "Brake Fluids",
+  "parentCategory": "",
+  "category": "-",
+  "applicationKeys": [
+    "clutch",
+    "diesel",
+    "engine",
+    "heavy duty",
+    "on highway",
+    "transmissions"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Brake_and_Clutch_Fluid_DOT_4_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Brake and Clutch Fluid DOT 4 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02379793.PDF",
+      "type": "LMSDS",
+      "name": "Brake and Clutch Fluid DOT 4 Malaysia MS 140001435555 EHS V2.0 08-OCT-2021",
+      "language": "MS"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02379792.PDF",
+      "type": "LMSDS",
+      "name": "Brake and Clutch Fluid DOT 4 Malaysia EN 140001435555 EHS V2.0 08-OCT-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "JIS K 2233 Class 4",
+      "organisation": "JIS",
+      "spec": "K 2233 Class 4"
+    },
+    {
+      "name": "FMVSS 116 DOT 4",
+      "organisation": "FMVSS",
+      "spec": "116 DOT 4"
+    },
+    {
+      "name": "AS/NZS 1960 Class 2",
+      "organisation": "AS/NZS",
+      "spec": "1960 Class 2"
+    },
+    {
+      "name": "SAE J1704",
+      "organisation": "SAE",
+      "spec": "J1704"
+    },
+    {
+      "name": "ISO 4925-4",
+      "organisation": "ISO",
+      "spec": "4925-4"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Brake and Clutch Fluid DOT 4 is a heavy duty brake system and hydraulic clutch fluid for systems requiring a FMVSS No 116 DOT 4, ISO 4925 Class 4, or many other equivalent specifications in a borate ester (borate ester of polyglycol-ether) brake fluid.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

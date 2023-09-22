@@ -1,0 +1,120 @@
+{
+  "id": "001G8326",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S5 CVT X",
+  "description": "Synthetic Technology CVT Fluid",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Autres huiles de transmission",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bcb2d48d-ecb1-4774-8746-2bf999af2ff8.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 CVT X EN TDG V1.7 11-Jul-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/f5b0c2be-e73e-4e13-9fd4-3394d539fbff.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 CVT X France FR TDG V1.7 11-Aug-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552556.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CVT X France EN 140003182031 EHS V1.2 12-APR-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02552580.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CVT X France FR 140003182031 EHS V1.2 12-APR-2023",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G8326_002W22_EURO",
+      "name": "Bouteille 1 L Wishbone Plastic Helix Blue (12)",
+      "size": "1",
+      "uom": "L",
+      "pack": "Bouteille",
+      "materialCode": "550054194",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001G8326_002VNG_A246",
+      "name": "Sceau 20 L Plastic O/H w/lid Helix Blue (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550054192",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 CVT X est un fluide de performance supérieure, à base de technologies de synthése, multi-spécifications OEM, adapté à une utilisation dans les chaînes CVT et les courroies de poussée. Shell Spirax S5 CVT X fait appel à une technologie de formulation unique en son genre.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "26.3"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "6.2"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "199"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "831.7"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C",
+      "value": "208"
+    },
+    {
+      "property": "Brookfield Viscosity",
+      "method": "ASTM D2983",
+      "uom": "@-40°C",
+      "units": "cP",
+      "value": "4 620"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/550054194_Shell_Spirax_S5_CVT_X_1L_en.png",
+  "valueRecord": [],
+  "commerce": null
+}

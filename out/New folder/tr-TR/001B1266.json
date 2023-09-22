@@ -1,0 +1,66 @@
+{
+  "id": "001B1266",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Antifreeze Concentrate",
+  "description": "Antifreeze fluid",
+  "family": "Antifreeze",
+  "parentCategory": "",
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Antifreeze_Concentrate.pdf",
+      "type": "GTDS",
+      "name": "Antifreeze Concentrate English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02318883.PDF",
+      "type": "LMSDS",
+      "name": "Antifreeze Concentrate Turkey TR 140003791542 EHS V2.4 11-MAY-2021",
+      "language": "TR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02318664.PDF",
+      "type": "LMSDS",
+      "name": "Antifreeze Concentrate Turkey EN 140003791542 EHS V2.4 11-MAY-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "BS 6580",
+      "organisation": "BS",
+      "spec": "6580"
+    },
+    {
+      "name": "ASTM D3306",
+      "organisation": "ASTM",
+      "spec": "D3306"
+    },
+    {
+      "name": "AFNOR R15-601",
+      "organisation": "AFNOR",
+      "spec": "R15-601"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

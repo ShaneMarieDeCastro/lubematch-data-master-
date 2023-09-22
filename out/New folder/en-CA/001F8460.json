@@ -1,0 +1,193 @@
+{
+  "id": "001F8460",
+  "countryCode": "CA",
+  "locale": "en-CA",
+  "name": "Shell Omala S4 GXV 460",
+  "description": "Advanced Synthetic Industrial Gear Oils",
+  "family": "Omala",
+  "parentCategory": "",
+  "category": "Industrial Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "bearing",
+    "differential",
+    "enclosed gear",
+    "ep",
+    "extra long life",
+    "extreme pressure",
+    "final drive",
+    "flender foam test",
+    "gearbox",
+    "gears",
+    "heavy duty",
+    "industrial",
+    "long life",
+    "low startup temperatures",
+    "low temperature",
+    "micropitting",
+    "off highway",
+    "paints and sealants",
+    "reduction gears",
+    "roller spherical",
+    "seal compatibility",
+    "siemens ag",
+    "splash lubricated bearings",
+    "system efficiency",
+    "tandem drive",
+    "transmissions",
+    "wide temperature range"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "460",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/729371cc-6374-4642-b320-567171ebb685.pdf",
+      "type": "GTDS",
+      "name": "Omala S4 GXV 460 EN TDG V1.8 19-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290058.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 460 Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/a2861c07-c855-49d7-adf5-76ae8dc8064d.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GXV 460 Canada FR TDG V1.8 19-Apr-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290048.PDF",
+      "type": "LMSDS",
+      "name": "Omala S4 GXV 460 Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/45d65cd9-4aa5-4cf3-b4ee-3f3ae599a60c.pdf",
+      "type": "LTDS",
+      "name": "Omala S4 GXV 460 Canada EN TDG V1.8 19-Apr-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F8460_002VJ3_A1WJ",
+      "name": "Drum 55 Gal T/H RYTop (1)",
+      "size": "55",
+      "uom": "Gal",
+      "pack": "Drum",
+      "materialCode": "550047739",
+      "margin": "3.04666282985835",
+      "packShot": ""
+    },
+    {
+      "code": "001F8460_002XD6_A1WJ",
+      "name": "Pail 5 Gal Open head Plastic Helix Grey (1)",
+      "size": "5",
+      "uom": "Gal",
+      "pack": "Pail",
+      "materialCode": "550047770",
+      "margin": "3.15553625030581",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "US Steel 224",
+      "organisation": "US Steel",
+      "spec": "224"
+    },
+    {
+      "name": "DIN 51517-3 CLP",
+      "organisation": "DIN",
+      "spec": "51517-3 CLP"
+    },
+    {
+      "name": "ANSI/AGMA 9005-F16",
+      "organisation": "ANSI/AGMA",
+      "spec": "9005-F16"
+    },
+    {
+      "name": "GB 5903-2011 L-CKD",
+      "organisation": "GB",
+      "spec": "5903-2011 L-CKD"
+    },
+    {
+      "name": "ISO 12925-1 CKD",
+      "organisation": "ISO",
+      "spec": "12925-1 CKD"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Omala S4 GXV 460 is an advanced synthetic heavy duty industrial gear oil, approved by Siemens AG, offering outstanding lubrication performance under severe operating conditions, including reduced friction, long service life, high resistance to micro-pitting for optimal gear protection and superb compatibility with seals.",
+  "physicalCharacteristics": [
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "460"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "53"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ASTM D2270",
+      "uom": "",
+      "units": "",
+      "value": "179"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92",
+      "uom": "",
+      "units": "°C  minimum",
+      "value": "240"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C  ",
+      "value": "-42"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D4052",
+      "uom": "@15°C ",
+      "units": "kg/m³",
+      "value": "868"
+    },
+    {
+      "property": "Four Ball EP Weld load",
+      "method": "ASTM D2783",
+      "uom": "",
+      "units": "kg minimum",
+      "value": "250"
+    },
+    {
+      "property": "FZG Load Carrying Test",
+      "method": "A/8,3/90",
+      "uom": "",
+      "units": "failure load stage minimum",
+      "value": "14"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

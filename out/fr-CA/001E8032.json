@@ -1,0 +1,50 @@
+{
+  "id": "001E8032",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Grease SLOP SPC",
+  "description": "Grease SLOP SP Classified",
+  "family": "Gadus",
+  "parentCategory": null,
+  "category": "Autres graisses",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Entry",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/e729e754-0160-460b-ac8b-736b4d56e948.pdf",
+      "type": "GTDS",
+      "name": "Grease SLOP SPC EN TDG V1.1 16-Mar-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289780.PDF",
+      "type": "LMSDS",
+      "name": "Grease SLOP SPC Canada EN 140006579500 EHS V2.2 24-APR-2021",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02289779.PDF",
+      "type": "LMSDS",
+      "name": "Grease SLOP SPC Canada FR 140006579500 EHS V2.2 24-APR-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "If further information is required please contact the Owning Product Manager or Deputy Product Manager as indicated in the GPC",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": "001B1272",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "GlycoShell Longlife Concentrate",
+  "description": "Antifreeze fluid",
+  "family": "GlycoShell",
+  "parentCategory": null,
+  "category": "Coolants/Antifreeze - Concentrate",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Other",
+  "fluidSubType": "-",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140002255194_966.pdf",
+      "type": "GTDS",
+      "name": "English GlycoShell Long-Life Concentrate",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562490.PDF",
+      "type": "LMSDS",
+      "name": "GlycoShell Long-Life Concentrate United States EN 140002686046 EHS V3.1 18-JUN-2020",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "General Motors GM 6277",
+      "organisation": "General Motors",
+      "spec": "GM 6277"
+    },
+    {
+      "name": "Mercedes-Benz DBL 7700.02",
+      "organisation": "Mercedes-Benz",
+      "spec": "DBL 7700.02"
+    },
+    {
+      "name": "MAN 324 Type SNF",
+      "organisation": "MAN",
+      "spec": "324 Type SNF"
+    },
+    {
+      "name": "VAG TL 774-F",
+      "organisation": "VAG",
+      "spec": "TL 774-F"
+    },
+    {
+      "name": "MTU MTL 5048",
+      "organisation": "MTU",
+      "spec": "MTL 5048"
+    },
+    {
+      "name": "Ford WSS-M97B44-D",
+      "organisation": "Ford",
+      "spec": "WSS-M97B44-D"
+    },
+    {
+      "name": "Scania 0-89 1027 GT EN",
+      "organisation": "Scania",
+      "spec": "0-89 1027 GT EN"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

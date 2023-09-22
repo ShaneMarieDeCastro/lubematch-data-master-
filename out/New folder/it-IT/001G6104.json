@@ -1,0 +1,73 @@
+{
+  "id": "001G6104",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Spirax S6 ATF 134M",
+  "description": "Automatic transmission fluid for Mercedes Benz passenger car automatic transmissions",
+  "family": "Spirax",
+  "parentCategory": "Fluidi per trasmissioni",
+  "category": "Fluidi per trasmissioni automatiche",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Top",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/bfe51750-14c0-4479-b1be-e10b2d32fdb4.pdf",
+      "type": "GTDS",
+      "name": "Spirax S6 ATF 134M EN TDG V1.3 04-Nov-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02504205.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134M Italy EN 140007645406 EHS V1.1 10-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/babc3346-b996-4a6f-897d-e40d362b87f1.pdf",
+      "type": "LTDS",
+      "name": "Spirax S6 ATF 134M Italy IT TDG V1.3 05-May-2022",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02504138.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S6 ATF 134M Italy IT 140007645406 EHS V1.1 10-DEC-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001G6104_002VNF_A246",
+      "name": "Secchio 20 L O/H Plastic Helix Grey (1)",
+      "size": "20",
+      "uom": "libbre",
+      "pack": "Secchio",
+      "materialCode": "550059439",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "MB-Approval 236.14",
+      "organisation": "Mercedes-Benz",
+      "spec": "236.14"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S6 ATF 134M è un fluido premium per trasmissioni automatiche Mercedes-Benz a 5 e 7 marce e per trasmissioni NAG2V Sport.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

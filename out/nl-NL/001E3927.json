@@ -1,0 +1,83 @@
+{
+  "id": "001E3927",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Helix Ultra AP-L 5W-30",
+  "description": "Passenger car motor oil",
+  "family": "Helix",
+  "parentCategory": "Smeermiddelen voor automobielen",
+  "category": "Motoroliën - PCMO",
+  "applicationKeys": [
+    "cars",
+    "psa"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140007500203_201301221747.pdf",
+      "type": "GTDS",
+      "name": "Helix Ultra AP-L 5W-30 (C2, Fiat 95535 S1, PSA B71 2290) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_26680_key_140007129586_201204181439.pdf",
+      "type": "LTDS",
+      "name": "Helix Ultra AP-L 5W-30 (C2 Fiat 95535 S1 PSA B71 2290) Netherlands Dutch",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614393.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AP-L 5W-30 (C2 Fiat 95535 S1 PSA B71 2290) Netherlands NL 140002783873 EHS V2.4 11-JUL-2023",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614392.PDF",
+      "type": "LMSDS",
+      "name": "Helix Ultra AP-L 5W-30 (C2 Fiat 95535 S1 PSA B71 2290) Netherlands EN 140002783873 EHS V2.4 11-JUL-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Fiat 9.55535-S1",
+      "organisation": "Fiat",
+      "spec": "9.55535-S1"
+    },
+    {
+      "name": "PSA B71 2290",
+      "organisation": "PSA",
+      "spec": "B71 2290"
+    },
+    {
+      "name": "Iveco 18-1811 Sp-SC1 - Meets the requirements",
+      "organisation": "Iveco",
+      "spec": "18-1811 Sp-SC1 - Meets the requirements"
+    },
+    {
+      "name": "ACEA C2 - Meets engine test performance requirements",
+      "organisation": "ACEA",
+      "spec": "C2 - Meets engine test performance requirements"
+    },
+    {
+      "name": "ACEA C2",
+      "organisation": "ACEA",
+      "spec": "C2"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "With Shell Helix Ultra AP-L you know you are doing the right thing for your car.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

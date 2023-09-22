@@ -1,0 +1,86 @@
+{
+  "id": "001E2943",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Pennzoil 5W-30 Synthetic Blend Motor Oil",
+  "description": "Passenger car motor oil",
+  "family": "Pennzoil Branded Products",
+  "parentCategory": "",
+  "category": "Huiles moteur - Huile moteur d'automobile",
+  "applicationKeys": [
+    ""
+  ],
+  "position": "Premium",
+  "viscosityGrade": "5W-30",
+  "viscosityType": "SAE",
+  "fluidType": "Semi-synthetic",
+  "fluidSubType": "Blend",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_X_cbe_24855_key_140003971205_20110702170_2.pdf",
+      "type": "GTDS",
+      "name": "Pennzoil 5W-30 Synthetic Blend Motor Oil (SN/GF-5, dexos 1) English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290462.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 5W-30 Synthetic Blend Motor Oil (SN/GF-5 dexos 1) Canada FR 140006579500 EHS V1.3 24-APR-2021",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02290463.PDF",
+      "type": "LMSDS",
+      "name": "Pennzoil 5W-30 Synthetic Blend Motor Oil (SN/GF-5 dexos 1) Canada EN 140006579500 EHS V1.3 24-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API SN - Meets engine test performance requirements",
+      "organisation": "API",
+      "spec": "SN - Meets engine test performance requirements"
+    },
+    {
+      "name": "ILSAC GF-5",
+      "organisation": "ILSAC",
+      "spec": "GF-5"
+    },
+    {
+      "name": "General Motors dexos1",
+      "organisation": "General Motors",
+      "spec": "dexos1"
+    },
+    {
+      "name": "ILSAC GF-2",
+      "organisation": "ILSAC",
+      "spec": "GF-2"
+    },
+    {
+      "name": "API SN",
+      "organisation": "API",
+      "spec": "SN"
+    },
+    {
+      "name": "ILSAC GF-4",
+      "organisation": "ILSAC",
+      "spec": "GF-4"
+    },
+    {
+      "name": "ILSAC GF-3",
+      "organisation": "ILSAC",
+      "spec": "GF-3"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

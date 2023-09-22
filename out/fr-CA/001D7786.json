@@ -1,0 +1,205 @@
+{
+  "id": "001D7786",
+  "countryCode": "CA",
+  "locale": "fr-CA",
+  "name": "Shell Corena S4 R 46",
+  "description": "Advanced Synthetic Rotary  Air Compressor Oil",
+  "family": "Corena",
+  "parentCategory": null,
+  "category": "Compresseur et pompe à vide",
+  "applicationKeys": [
+    "abb turbochargers",
+    "air compressor",
+    "ball",
+    "bearing",
+    "bio gas",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "combined cycle",
+    "diesel",
+    "engine",
+    "gearbox",
+    "high temperature",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "journal",
+    "mobile",
+    "natural gas",
+    "oil flooded",
+    "oil injected",
+    "plain",
+    "pump gear",
+    "pump vane",
+    "rollers",
+    "rotary vane",
+    "screw",
+    "severe conditions",
+    "sliding vane",
+    "stationary",
+    "thrust",
+    "turbine"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "PAO",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/e05b1282-8509-4c84-ac55-9995f8ea334f.pdf",
+      "type": "GTDS",
+      "name": "Corena S4 R 46 EN TDG V2.6 11-Jun-2021",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02530749.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 46 Canada FR 140006579500 EHS V3.0 28-FEB-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02530748.PDF",
+      "type": "LMSDS",
+      "name": "Corena S4 R 46 Canada EN 140006579500 EHS V3.0 28-FEB-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en-CA/68bcf258-084d-486a-8943-b1844971b4d4.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 R 46 Canada EN TDG V2.6 11-Jun-2021",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr-CA/b1809247-c643-4f4f-8a22-292aa3292730.pdf",
+      "type": "LTDS",
+      "name": "Corena S4 R 46 Canada FR TDG V2.6 11-Jun-2021",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D7786_002VJ3_A1WJ",
+      "name": "",
+      "size": "55",
+      "uom": "gal",
+      "pack": "Baril",
+      "materialCode": "550026173",
+      "margin": "3.61569277637225",
+      "packShot": ""
+    },
+    {
+      "code": "001D7786_002XD6_A1WJ",
+      "name": "",
+      "size": "5",
+      "uom": "gal",
+      "pack": "Sceau",
+      "materialCode": "550026174",
+      "margin": "3.68482250480205",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ISO 6743-3 L-DAJ",
+      "organisation": "ISO",
+      "spec": "6743-3 L-DAJ"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Corena S4 R est principalement une huile de compresseur d'air synthétique de pointe conçue pour fournir la lubrification la plus performante des compresseurs rotatifs à palettes et à vis. Il utilise un système d'additifs avancé unique pour fournir une excellente protection et performance pour les compresseurs fonctionnant avec des intervalles de maintenance d'huile de 10,000 heures et jusqu'à 12,000 heures dans certaines conditions. Shell Corena S4 R convient également parfaitement aux applications où une huile synthétique à roulement et à circulation ou à huile R&O (ISO VG 32-68) est nécessaire.",
+  "physicalCharacteristics": [
+    {
+      "property": "ISO Viscosity Grade",
+      "method": "ISO 3448",
+      "uom": "",
+      "units": "",
+      "value": "46"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@40°C",
+      "units": "mm²/s",
+      "value": "46"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "ASTM D445",
+      "uom": "@100°C",
+      "units": "mm²/s",
+      "value": "7.5"
+    },
+    {
+      "property": "Viscosity Index",
+      "method": "ISO 2909",
+      "uom": "",
+      "units": "",
+      "value": "135"
+    },
+    {
+      "property": "Density",
+      "method": "ASTM D1298",
+      "uom": "@15°C",
+      "units": "kg/m³",
+      "value": "843"
+    },
+    {
+      "property": "Flash Point (COC)",
+      "method": "ASTM D92 ",
+      "uom": "",
+      "units": "°C",
+      "value": "230"
+    },
+    {
+      "property": "Pour Point",
+      "method": "ASTM D97",
+      "uom": "",
+      "units": "°C",
+      "value": "-48"
+    },
+    {
+      "property": "Air Release",
+      "method": "ASTM D3427",
+      "uom": "",
+      "units": "minutes",
+      "value": "2"
+    },
+    {
+      "property": "RPVOT",
+      "method": "ASTM D2272",
+      "uom": "",
+      "units": "minutes minimum",
+      "value": "2100"
+    },
+    {
+      "property": "Water Separability",
+      "method": "ASTM D1401",
+      "uom": "@54°C",
+      "units": "minutes",
+      "value": "10"
+    },
+    {
+      "property": "FZG Test",
+      "method": "CEC-L-07-A-95",
+      "uom": "",
+      "units": "LS Fail",
+      "value": "12"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/pennzoil/PZL Rotella Spirax Family.png",
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X000000InOZQA0&field=Attachment__Name__s",
+      "family": "Corena",
+      "savings": 34000,
+      "title": "Shell Corena S4 R 46"
+    }
+  ],
+  "commerce": null
+}

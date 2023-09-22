@@ -1,0 +1,71 @@
+{
+  "id": "001G4232",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Tellus S4 VX 32",
+  "description": "Special Application Hydraulic Fluid",
+  "family": "Tellus",
+  "parentCategory": "",
+  "category": "Fluides hydrauliques",
+  "applicationKeys": [
+    "antiwear",
+    "ashless antiwear",
+    "extra wide temperature range",
+    "extreme low temperature",
+    "high performance",
+    "hv",
+    "industrial",
+    "industrial hydraulics",
+    "low temperature",
+    "marine hydraulic",
+    "mobile",
+    "mobile equipment",
+    "precision",
+    "versatile",
+    "wide temperature range",
+    "zinc free"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "32",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Naphthenic Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3621522d-515b-4ecb-8d0d-18969e6e5d75.pdf",
+      "type": "GTDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) EN TDG V1.3 16-Dec-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487915.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) France FR 140003182031 EHS V2.0 20-OCT-2022",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02487918.PDF",
+      "type": "LMSDS",
+      "name": "Tellus S4 VX 32 (NTR outside America) France EN 140003182031 EHS V2.0 20-OCT-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO 11158 HV Fluid",
+      "organisation": "ISO",
+      "spec": "11158 HV Fluid"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Tellus S4 VX is an advanced hydraulic fluid technology designed for use in applications subjected to extremely low ambient temperatures such as arctic or exposed areas.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

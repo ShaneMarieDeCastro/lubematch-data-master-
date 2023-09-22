@@ -1,0 +1,65 @@
+{
+  "id": "001E2771",
+  "countryCode": "IE",
+  "locale": "en-IE",
+  "name": "Ondina X 420",
+  "description": "High Quality Medicinal White Oil",
+  "family": "Ondina",
+  "parentCategory": null,
+  "category": "Medicinal White Oils",
+  "applicationKeys": [
+    "bearing",
+    "circulation",
+    "circulation system",
+    "gas turbines",
+    "heat transfer",
+    "hydraulic system",
+    "hydraulics",
+    "offshore",
+    "pump gear",
+    "steam",
+    "turbine"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/95d83e15-77c2-4f5c-b0c9-d2543b6071cc.pdf",
+      "type": "GTDS",
+      "name": "Ondina X 420 EN TDG V2.4 08-Feb-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02631081.PDF",
+      "type": "LMSDS",
+      "name": "Ondina X 420 Ireland EN 140009869348 EHS V2.2 10-AUG-2023",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001E2771_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550035362",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Ondina X 420 is a hydrocarbon fluid based on Shell Gas-to-Liquid Technology. It is fully saturated with a high degree of iso paraffinic structures. Shell Ondina X 420 fulfills the stringent international pharmacopoeia purity requirements.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

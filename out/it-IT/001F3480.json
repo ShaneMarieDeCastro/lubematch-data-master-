@@ -1,0 +1,80 @@
+{
+  "id": "001F3480",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Diala S4 ZX-IG",
+  "description": "Premium inhibited gas absorbing electrical insulating oil",
+  "family": "Diala",
+  "parentCategory": "Altri lubrificanti industriali",
+  "category": "Oli elettrici",
+  "applicationKeys": [
+    "gas absorbing",
+    "inhibited",
+    "insulating"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/57731b6c-edec-4785-9ade-5d7ee76077fc.pdf",
+      "type": "GTDS",
+      "name": "Diala S4 ZX-IG EN TDG V3.9 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614817.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG Italy IT 140007645406 EHS V1.6 11-JUL-2023",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02614816.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG Italy EN 140007645406 EHS V1.6 11-JUL-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/it/6e95f33b-8bd7-4092-90ab-b2f8a09cd7c1.pdf",
+      "type": "LTDS",
+      "name": "Diala S4 ZX-IG Italy IT TDG V3.9 01-Aug-2022",
+      "language": "IT"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3480_002VSH_A1P5",
+      "name": "Fusto 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "libbre",
+      "pack": "Fusto",
+      "materialCode": "550042452",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "ASTM D3487 Type II",
+      "organisation": "ASTM",
+      "spec": "D3487 Type II"
+    },
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S4 ZX-IG supera i test sulla corrosione del rame sia standard che di recente emissione.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

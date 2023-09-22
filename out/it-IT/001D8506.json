@@ -1,0 +1,88 @@
+{
+  "id": "001D8506",
+  "countryCode": "IT",
+  "locale": "it-IT",
+  "name": "Shell Gadus S2 OGH 0/00",
+  "description": "High Performance Open Gear and Wirerope Grease",
+  "family": "Gadus",
+  "parentCategory": "Grassi",
+  "category": "Grassi per ingranaggi aperti",
+  "applicationKeys": [
+    "clay",
+    "ep",
+    "extreme pressure",
+    "high temperature",
+    "industrial",
+    "kiln gears",
+    "open gears",
+    "rotary cement kiln",
+    "rotary cement kiln gears",
+    "smectite",
+    "solid lubricant",
+    "wire ropes"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "0/00",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/c583389f-234b-4edc-8d66-d6e5dceb201f.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 OGH 0/00 EN TDG V1.2 04-Apr-2016",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02456497.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Italy IT 140007645406 EHS V1.3 26-SEP-2022",
+      "language": "IT"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/it/a5996863-e4f8-4432-8592-390e6d5d75a4.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 OGH 0/00 Italy IT TDG V1.2 02-Aug-2017",
+      "language": "IT"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02456396.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 OGH 0/00 Italy EN 140007645406 EHS V1.3 26-SEP-2022",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8506_002VH7_A246",
+      "name": "Fusto 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Fusto",
+      "materialCode": "550028076",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8506_002XD7_A246",
+      "name": "Secchio 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Secchio",
+      "materialCode": "550028047",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Il grasso Shell Gadus S2 OGH è formulato con un ispessente inorganico disperso in un olio base ad alta viscosità, contenente grafite.\n",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

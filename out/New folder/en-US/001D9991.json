@@ -1,0 +1,68 @@
+{
+  "id": "001D9991",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Spirax S5 CFD M 50",
+  "description": "Premium Performance Off-Highway Caterpillar Final Drive and Axle Oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Transmission Oils Other",
+  "applicationKeys": [
+    "axle",
+    "extreme temperatures",
+    "fdao",
+    "final drive",
+    "off highway",
+    "offroad",
+    "reduction gears",
+    "transmissions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "50",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S5_CFD_M_50_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S5 CFD M 50 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02562851.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S5 CFD M 50 United States EN 140002686046 EHS V4.3 10-JUL-2020",
+      "language": "EN"
+    },
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en-US/17b47d82-8185-4a70-9d54-65a78b5c4573.pdf",
+      "type": "LTDS",
+      "name": "Spirax S5 CFD M 50 United States EN TDG V2.2 24-Jun-2016",
+      "language": "EN"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "Caterpillar FDAO",
+      "organisation": "Caterpillar",
+      "spec": "FDAO"
+    },
+    {
+      "name": "Caterpillar FD-1",
+      "organisation": "Caterpillar",
+      "spec": "FD-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S5 CFD M 50 is a dedicated final drive and axle oil which offers significantly improved protection for gears and bearings in bevel gears, differentials, final drives and axles. It meets the Caterpillar FD-1 final drive axle oil (FDAO) specification. Spirax S5 CFD M 50 has been developed for continuous use in extreme ambient temperatures in off-road vehicles.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

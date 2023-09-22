@@ -1,0 +1,158 @@
+{
+  "id": "001D8244",
+  "countryCode": "FR",
+  "locale": "fr-FR",
+  "name": "Shell Spirax S3 TLV",
+  "description": "Premium, Low Viscosity SAE 5W-20, Tractor Transmission and Hydraulic Oil",
+  "family": "Spirax",
+  "parentCategory": "",
+  "category": "Autres huiles multifonctionnelles",
+  "applicationKeys": [
+    "automatic",
+    "axle",
+    "conventional gear drives",
+    "disc",
+    "final drive",
+    "front axle",
+    "gearbox",
+    "hydraulic system",
+    "hydraulics",
+    "hydrostatic",
+    "hydrostatic drives",
+    "industrial",
+    "low viscosity",
+    "manual unsynchronised",
+    "mobile",
+    "non shiftable",
+    "off highway",
+    "oil immersed brakes",
+    "powershift",
+    "powershift transmissions",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "reduction gears",
+    "servo",
+    "tractor",
+    "tractor hydraulics",
+    "transmissions",
+    "universal tractor transmission oil",
+    "utto",
+    "wet brake"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "5W-20",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/263ca496-bc67-45a1-9d4c-3f9fada9a201.pdf",
+      "type": "GTDS",
+      "name": "Spirax S3 TLV EN TDG V2.3 16-Mar-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578495.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 TLV France FR 140003182031 EHS V3.3 23-MAY-2023",
+      "language": "FR"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02578494.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S3 TLV France EN 140003182031 EHS V3.3 23-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/fr/a9b3adf5-1da8-4a01-9d25-e2a7d169780b.pdf",
+      "type": "LTDS",
+      "name": "Spirax S3 TLV France FR TDG V2.3 17-Mar-2020",
+      "language": "FR"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8244_002VNA_A246",
+      "name": "Sceau 20 L Plastic O/H Black (1)",
+      "size": "20",
+      "uom": "L",
+      "pack": "Sceau",
+      "materialCode": "550027820",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "Massey Ferguson M-1135",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1135"
+    },
+    {
+      "name": "API GL-4",
+      "organisation": "API",
+      "spec": "GL-4"
+    },
+    {
+      "name": "Case New Holland MS 1207",
+      "organisation": "Case New Holland",
+      "spec": "MS 1207"
+    },
+    {
+      "name": "John Deere JDM J20D",
+      "organisation": "John Deere",
+      "spec": "JDM J20D"
+    },
+    {
+      "name": "Case New Holland MS 1204",
+      "organisation": "Case New Holland",
+      "spec": "MS 1204"
+    },
+    {
+      "name": "Caterpillar TO-2",
+      "organisation": "Caterpillar",
+      "spec": "TO-2"
+    },
+    {
+      "name": "Massey Ferguson M-1141",
+      "organisation": "Massey Ferguson",
+      "spec": "M-1141"
+    },
+    {
+      "name": "Case New Holland MS 1206",
+      "organisation": "Case New Holland",
+      "spec": "MS 1206"
+    },
+    {
+      "name": "Case New Holland MS 1210",
+      "organisation": "Case New Holland",
+      "spec": "MS 1210"
+    },
+    {
+      "name": "Case New Holland MS 1209",
+      "organisation": "Case New Holland",
+      "spec": "MS 1209"
+    },
+    {
+      "name": "Caterpillar TO-2 - Suitable for use in applications which require",
+      "organisation": "Caterpillar",
+      "spec": "TO-2 - Suitable for use in applications which require"
+    },
+    {
+      "name": "ZF TE-ML 03F",
+      "organisation": "ZF",
+      "spec": "TE-ML 03F"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S3 TLV est une huile multifonctionnelle (UTTO) conçue pour être utilisée dans les transmissions combinées, les différentiels, les systèmes hydrauliques les freins à bain d'huile et les prises de forces des tracteurs agricoles et des machines de génie civil. Elle est formulée pour assurer une utilisation silenceuse des freins immergés combinée à un fonctionnement fiable et exempt problème dans les autres applications.   ",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/B2B-montage.png",
+  "valueRecord": [],
+  "commerce": null
+}

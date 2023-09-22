@@ -1,0 +1,114 @@
+{
+  "id": "001A9034",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Naturelle Fluid HF-E 46",
+  "description": "Biodegradable, fully synthetic hydraulic fluid",
+  "family": "Naturelle",
+  "parentCategory": "Hydraulische vloeistoffen",
+  "category": "Hydraulische vloeistoffen",
+  "applicationKeys": [
+    "ball",
+    "bearing",
+    "biodegradable",
+    "brakes",
+    "circulation",
+    "circulation system",
+    "fixed",
+    "gearbox",
+    "hydraulic control system",
+    "hydraulic system",
+    "hydraulics",
+    "industrial",
+    "mobile",
+    "offshore",
+    "plain",
+    "pump gear",
+    "pump piston",
+    "pump valve",
+    "pump vane",
+    "screw pump",
+    "servo",
+    "synthetic",
+    "turbine",
+    "variable",
+    "water"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Ester",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/3df28a58-cb9b-44ed-8c8d-4763d12e5d88.pdf",
+      "type": "GTDS",
+      "name": "Naturelle HF-E 46 EN TDG V5.2 20-Feb-2020",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02517104.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 46 Netherlands EN 140002783873 EHS V2.1 18-JAN-2023",
+      "language": "EN"
+    },
+    {
+      "href": "https://www.shell-livedocs.com/data/published/nl/35bbbc3c-6ba8-4be3-a0cb-ef2a55de4f9c.pdf",
+      "type": "LTDS",
+      "name": "Naturelle HF-E 46 Netherlands NL TDG V5.2 24-Feb-2020",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02517112.PDF",
+      "type": "LMSDS",
+      "name": "Naturelle HF-E 46 Netherlands NL 140002783873 EHS V2.1 18-JAN-2023",
+      "language": "NL"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "VDMA 24568",
+      "organisation": "VDMA",
+      "spec": "24568"
+    },
+    {
+      "name": "Swedish Standard SS 15 54 34 SP",
+      "organisation": "Swedish Standard",
+      "spec": "SS 15 54 34 SP"
+    },
+    {
+      "name": "ISO 12922 HFDU",
+      "organisation": "ISO",
+      "spec": "12922 HFDU"
+    },
+    {
+      "name": "ISO 15380 HEES",
+      "organisation": "ISO",
+      "spec": "15380 HEES"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Naturelle HF-E is een geavanceerde hydraulische vloeistof, zowel biologisch afbreekbaar en moeilijk ontvlambaar type HFDU voor gebruik in hydraulische systemen en hydraulische krachtoverbrengingen. Het heeft een hoge graad van biologische afbreekbaarheid en is vooral geschikt voor gebruik in ecologisch gevoelige en in industriële risicogebieden zoals staalfabrieken, mijnen en gieterijen. De samenstelling van biologische afbreekbare synthetische esters en asloze additieven,  zorgt dat Shell Naturelle Fluid HF-E een uitstekend smerend vermogen heeft en milieuvriendelijk is.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X0000005MZqQAM&field=Attachment__Name__s",
+      "family": "Naturelle",
+      "savings": 52156,
+      "title": "Shell Naturelle HF-E 46"
+    },
+    {
+      "href": "https://shellvaluerecords.secure.force.com/DVRDatabase/servlet/fileField?retURL=%2FDVRDatabase%2Fapex%2FSHL_DVRKnowledgeSearch&entityId=ka00X0000005NDgQAM&field=Attachment__Name__s",
+      "family": "Naturelle",
+      "savings": 52000,
+      "title": "Shell Naturelle HF-E 46"
+    }
+  ],
+  "commerce": null
+}

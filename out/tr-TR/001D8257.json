@@ -1,0 +1,70 @@
+{
+  "id": "001D8257",
+  "countryCode": "TR",
+  "locale": "tr-TR",
+  "name": "Shell Spirax S1 G 140",
+  "description": "High Quality API GL-1 Oil for Transmission and Lightly Loaded Gears",
+  "family": "Spirax",
+  "parentCategory": null,
+  "category": "Manual Transmission and Gear Oils",
+  "applicationKeys": [
+    "axle",
+    "differential",
+    "final drive",
+    "gearbox",
+    "industrial",
+    "light load",
+    "lightly loaded gear set",
+    "manual transmission",
+    "offroad",
+    "passenger car",
+    "spiral bevel axle",
+    "tandem drive",
+    "transmissions",
+    "worm axle",
+    "worm gears"
+  ],
+  "position": "Entry",
+  "viscosityGrade": "140",
+  "viscosityType": "SAE",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GPCDOC_GTDS_Shell_Spirax_S1_G_140_(en)_TDS.pdf",
+      "type": "GTDS",
+      "name": "Spirax S1 G 140 English",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510379.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 G 140 Turkey EN 140003791542 EHS V1.4 28-DEC-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02510380.PDF",
+      "type": "LMSDS",
+      "name": "Spirax S1 G 140 Turkey TR 140003791542 EHS V1.4 28-DEC-2022",
+      "language": "TR"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "API GL-1",
+      "organisation": "API",
+      "spec": "GL-1"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Spirax S1 G 140 is a high quality, straight mineral oil intended for certain automotive transmissions and equipment gear sets with light loading.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

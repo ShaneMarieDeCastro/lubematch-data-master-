@@ -1,0 +1,55 @@
+{
+  "id": "001B8316",
+  "countryCode": "US",
+  "locale": "en-US",
+  "name": "Shell Catenex T 121",
+  "description": "High quality paraffinic process oil",
+  "family": "-",
+  "parentCategory": null,
+  "category": "Process Oils-Paraf",
+  "applicationKeys": [
+    "paraffinic"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/0b172c53-fba9-457c-bc05-0e09e1580945.pdf",
+      "type": "GTDS",
+      "name": "Catenex T 121 EN TDG V1.4 04-Oct-2019",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02563898.PDF",
+      "type": "LMSDS",
+      "name": "Catenex T 121 United States EN 140002686046 EHS V5.0 16-APR-2021",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001B8316_001176_A03Q",
+      "name": "No Packaging (BULK)",
+      "size": "BULK",
+      "uom": "",
+      "pack": "No packaging",
+      "materialCode": "500000214",
+      "margin": "0.159931175558415",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Catenex T are highly refined hydrotreated paraffinic process oils, which are virtually colourless and sulphur free. These oils are highly saturated, free of aromatics and polar compounds. Catenex T Oils are odourless and are recommended for use in process oil applications where colour stability, low volatility and low sulphur levels are required. These highly refined oils are ideal for use as process oils in rubber, elastomer, plastic, adhesive and numerous other manufacturing processes.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

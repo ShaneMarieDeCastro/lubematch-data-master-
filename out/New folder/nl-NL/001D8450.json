@@ -1,0 +1,156 @@
+{
+  "id": "001D8450",
+  "countryCode": "NL",
+  "locale": "nl-NL",
+  "name": "Shell Gadus S2 V220 1",
+  "description": "High Performance Multipurpose Extreme Pressure Grease",
+  "family": "Gadus",
+  "parentCategory": "Smeervetten",
+  "category": "Smeervetten op basis van minerale olie met 'EP additieven",
+  "applicationKeys": [
+    "automotive",
+    "bearing",
+    "centralised lubrication",
+    "ep",
+    "extreme pressure",
+    "heavy duty",
+    "high performance",
+    "hinges",
+    "industrial",
+    "lithium",
+    "lithium based",
+    "marine",
+    "multipurpose",
+    "plain bearings",
+    "roller bearings",
+    "roller cylindrical",
+    "shock load",
+    "sliding surfaces",
+    "trucks",
+    "versatile",
+    "water resistance",
+    "water washout",
+    "wet conditions"
+  ],
+  "position": "Premium",
+  "viscosityGrade": "1",
+  "viscosityType": "NLGI",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/en/2e9eecb9-d9b9-4321-ac84-cd92f8bcf30b.pdf",
+      "type": "GTDS",
+      "name": "Gadus S2 V220 1 EN TDG V1.4 07-Feb-2018",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "http://www.shell-livedocs.com/data/published/nl/796e9958-cd0b-4556-a148-8f3cbd486e95.pdf",
+      "type": "LTDS",
+      "name": "Gadus S2 V220 1 Netherlands NL TDG V1.4 14-Feb-2018",
+      "language": "NL"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479550.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 1 Netherlands EN 140002783873 EHS V3.2 23-SEP-2022",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02479549.PDF",
+      "type": "LMSDS",
+      "name": "Gadus S2 V220 1 Netherlands NL 140002783873 EHS V3.2 23-SEP-2022",
+      "language": "NL"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001D8450_002VH7_A246",
+      "name": "Vat 180 kg O/H RYTop (1)",
+      "size": "180",
+      "uom": "kg",
+      "pack": "Vat",
+      "materialCode": "550028215",
+      "margin": "Not found",
+      "packShot": ""
+    },
+    {
+      "code": "001D8450_002XD7_A246",
+      "name": "Emmer 18 kg Open head Plastic Black (1)",
+      "size": "18",
+      "uom": "kg",
+      "pack": "Emmer",
+      "materialCode": "550028217",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [],
+  "localSpecs": [],
+  "marketing": "Shell Gadus S2 V220 vetten zijn ontwikkeld voor multifunctionele vetsmering van glij- en wentellagers, tandwieloverbrengingen en glijoppervlakken die men terug vindt in industriële toepassingen en de transportsector.",
+  "physicalCharacteristics": [
+    {
+      "property": "NLGI Consistency",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "1"
+    },
+    {
+      "property": "Soap Type",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Lithium"
+    },
+    {
+      "property": "Base Oil",
+      "method": "NULL",
+      "uom": "NULL",
+      "units": "NULL",
+      "value": "Mineral"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@40°C",
+      "units": "cSt",
+      "value": "220"
+    },
+    {
+      "property": "Kinematic Viscosity",
+      "method": "IP 71 / ASTM D445",
+      "uom": "@100°C",
+      "units": "cSt",
+      "value": "19"
+    },
+    {
+      "property": "Cone Penetration, Worked",
+      "method": "IP 50 / ASTM D217",
+      "uom": "@25°C",
+      "units": "0.1mm",
+      "value": "310-340"
+    },
+    {
+      "property": "Dropping Point",
+      "method": "IP 396",
+      "uom": "",
+      "units": "°C",
+      "value": "180"
+    },
+    {
+      "property": "Four Ball Weld Load",
+      "method": "ASTM D2596",
+      "uom": "",
+      "units": "Kg minimum",
+      "value": "315"
+    }
+  ],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": "https://s3.amazonaws.com/oats.packshots/shell_lubematch/shell/shell_gadus_packshots_s2_v220.png",
+  "valueRecord": [],
+  "commerce": null
+}

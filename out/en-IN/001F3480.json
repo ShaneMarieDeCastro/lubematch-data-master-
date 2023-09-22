@@ -1,0 +1,68 @@
+{
+  "id": "001F3480",
+  "countryCode": "IN",
+  "locale": "en-IN",
+  "name": "Diala S4 ZX-IG",
+  "description": "Premium inhibited gas absorbing electrical insulating oil",
+  "family": "Diala",
+  "parentCategory": null,
+  "category": "Electrical Oils",
+  "applicationKeys": [
+    "gas absorbing",
+    "inhibited",
+    "insulating"
+  ],
+  "position": "OEM Speciality",
+  "viscosityGrade": "Other (unspecified)",
+  "viscosityType": "-",
+  "fluidType": "Synthetic",
+  "fluidSubType": "Synthetic",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/57731b6c-edec-4785-9ade-5d7ee76077fc.pdf",
+      "type": "GTDS",
+      "name": "Diala S4 ZX-IG EN TDG V3.9 23-Jun-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02636855.PDF",
+      "type": "LMSDS",
+      "name": "Diala S4 ZX-IG India EN 140006501563 EHS V1.4 09-JAN-2018",
+      "language": "EN"
+    }
+  ],
+  "packs": [
+    {
+      "code": "001F3480_002VSH_A1P5",
+      "name": "Drum 209 L T/H RYtop (1)",
+      "size": "209",
+      "uom": "L",
+      "pack": "Drum",
+      "materialCode": "550042452",
+      "margin": "Not found",
+      "packShot": ""
+    }
+  ],
+  "globalSpecs": [
+    {
+      "name": "IEC 60296",
+      "organisation": "IEC",
+      "spec": "60296"
+    },
+    {
+      "name": "ASTM D3487 Type II",
+      "organisation": "ASTM",
+      "spec": "D3487 Type II"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Diala S4 ZX-IG meets both the established and new industry copper corrosion tests.",
+  "physicalCharacteristics": [],
+  "active": true,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}

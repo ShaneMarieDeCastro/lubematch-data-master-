@@ -1,0 +1,58 @@
+{
+  "id": "901L1353",
+  "countryCode": "DE",
+  "locale": "de-DE",
+  "name": "Shell Turbo Oil N 46",
+  "description": "Special Purpose Steam Turbine oil",
+  "family": "Turbo",
+  "parentCategory": "Turbinenöle",
+  "category": "Turbinenöle",
+  "applicationKeys": [
+    "gas turbines",
+    "steam",
+    "turbine"
+  ],
+  "position": "Mainstream",
+  "viscosityGrade": "46",
+  "viscosityType": "ISO",
+  "fluidType": "Mineral",
+  "fluidSubType": "Mineral",
+  "globalDocs": [
+    {
+      "href": "https://www.shell-livedocs.com/data/published/en/b1c769ca-ee72-4740-a6e2-f75f15408599.pdf",
+      "type": "GTDS",
+      "name": "Turbo N 46 (2020) EN TDG V1.2 05-Sep-2022",
+      "language": "EN"
+    }
+  ],
+  "localDocs": [
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581746.PDF",
+      "type": "LMSDS",
+      "name": "Turbo N 46 (2020) Germany EN 140001492039 EHS V1.3 25-MAY-2023",
+      "language": "EN"
+    },
+    {
+      "href": "www.epc.shell.com/docs/GSAP_msds_02581747.PDF",
+      "type": "LMSDS",
+      "name": "Turbo N 46 (2020) Germany DE 140001492039 EHS V1.3 25-MAY-2023",
+      "language": "DE"
+    }
+  ],
+  "packs": [],
+  "globalSpecs": [
+    {
+      "name": "ISO VG 46",
+      "organisation": "ISO",
+      "spec": "VG 46"
+    }
+  ],
+  "localSpecs": [],
+  "marketing": "Shell Turbo N was developed specifically for the lubrication of turbo-compressors and associated steam turbines in demanding ammonia and synthesis gas applications, with a common lubricant oil system. Shell Turbo N has been developed to offer oxidative performance whilst maintaining inertness to the aggressive process gas.",
+  "physicalCharacteristics": [],
+  "active": false,
+  "carbonNeutral": null,
+  "packShot": null,
+  "valueRecord": [],
+  "commerce": null
+}
